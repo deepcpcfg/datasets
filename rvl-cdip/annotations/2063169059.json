@@ -1,0 +1,73 @@
+{
+    "InvoiceNumber": "0581",
+    "LineItem": [
+        {
+            "ItemDescription": "Audited Premium",
+            "ItemTotal": "9,944,898",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Retrospective Premium",
+            "ItemTotal": "7,706,078",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Previously Billed Premium",
+            "ItemTotal": "7,717,330",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Gross Adjustment (2 - 3)",
+            "ItemTotal": "1L.252CR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dividend on Retro. Premium",
+            "ItemTotal": "744,967",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Previously Billed Dividend",
+            "ItemTotal": "725,787",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dividend Offset (5-6)",
+            "ItemTotal": "19,180CR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "K.Y Assess. Prev. Billed",
+            "ItemTotal": "28,973",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Revised RY Assess",
+            "ItemTotal": "28,161",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "KY Assess. Adjustment (9 - 8)",
+            "ItemTotal": "812CR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Balance Due Insured",
+            "ItemTotal": "31,244CR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

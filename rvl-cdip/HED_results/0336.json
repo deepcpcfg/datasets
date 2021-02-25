@@ -1,0 +1,165 @@
+[
+    {
+        "TotalAmount": [
+            "13,932,50",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "13.932.50",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Non-CafiM*ifleion*bl« Chargee",
+                            {
+                                "tp": 20.0,
+                                "fp": 9.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 29.0,
+                        "fp": 9.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "0,00",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Coranieeionjible Chargee",
+                            {
+                                "tp": 15.0,
+                                "fp": 9.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 9.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "0.00",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Camniafllon",
+                            {
+                                "tp": 6.0,
+                                "fp": 5.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 10.0,
+                        "fp": 5.0,
+                        "fn": 10.0
+                    }
+                ]
+            ],
+            {
+                "tp": 58.0,
+                "fp": 23.0,
+                "fn": 26.0
+            }
+        ],
+        "InvoiceNumber": [
+            "FR.11-018G21",
+            {
+                "tp": 0.0,
+                "fp": 12.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 66.0,
+        "fp": 36.0,
+        "fn": 27.0
+    }
+]

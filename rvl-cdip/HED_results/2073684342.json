@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "April 24, 1998",
+            {
+                "tp": 14.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Cost for interviewing 600 Field Less any prepayment",
+                            {
+                                "tp": 33.0,
+                                "fp": 18.0,
+                                "fn": 15.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 18.0,
+                        "fn": 25.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 20.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 21.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$25,000.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "respondents statewide April 20-23, 1998",
+                            {
+                                "tp": 5.0,
+                                "fp": 34.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 15.0,
+                        "fp": 34.0,
+                        "fn": 6.0
+                    }
+                ]
+            ],
+            {
+                "tp": 48.0,
+                "fp": 52.0,
+                "fn": 52.0
+            }
+        ],
+        "TotalAmount": [
+            "$25,000.00",
+            {
+                "tp": 0.0,
+                "fp": 10.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "C98018-1",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 70.0,
+        "fp": 62.0,
+        "fn": 52.0
+    }
+]

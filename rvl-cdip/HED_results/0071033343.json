@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "May 31. 1966",
+            {
+                "tp": 11.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "075.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Statement for the month of June, 1966: One-twelfth of Research Fund as per Research Agreement, Project 84, dated March 1, 1966",
+                            {
+                                "tp": 124.0,
+                                "fp": 2.0,
+                                "fn": 25.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 130.0,
+                        "fp": 2.0,
+                        "fn": 28.0
+                    }
+                ]
+            ],
+            {
+                "tp": 130.0,
+                "fp": 2.0,
+                "fn": 28.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 141.0,
+        "fp": 3.0,
+        "fn": 33.0
+    }
+]

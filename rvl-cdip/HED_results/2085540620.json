@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "12/21/01",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$373,796.00",
+            {
+                "tp": 4.0,
+                "fp": 7.0,
+                "fn": 5.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "amoking-induced DATES OF SERVICE",
+                            {
+                                "tp": 0.0,
+                                "fp": 32.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 32.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "5/ /O1 \"Smc^og^educed Reactive Oxygen Species TO Modirfafe Gai? Junction HenucAonnef Activity- 7/30/01 1st Quarter",
+                            {
+                                "tp": 34.0,
+                                "fp": 80.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 80.0,
+                        "fn": 16.0
+                    }
+                ]
+            ],
+            {
+                "tp": 34.0,
+                "fp": 112.0,
+                "fn": 16.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 46.0,
+        "fp": 119.0,
+        "fn": 22.0
+    }
+]

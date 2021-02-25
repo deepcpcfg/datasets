@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "7622",
+    "IssuedDate": "5/18/87",
+    "LineItem": [
+        {
+            "ItemDescription": "Inmunomo dulatory",
+            "ItemTotal": "3,850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Immimomo d ulatory",
+            "ItemTotal": "3,850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Immunomod ul a tory",
+            "ItemTotal": "3,850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Immunomodulatory",
+            "ItemTotal": "3,850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

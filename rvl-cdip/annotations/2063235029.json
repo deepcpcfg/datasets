@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "1/19/79",
+    "InvoiceNumber": "79-004",
+    "TotalAmount": "860,300",
+    "LineItem": [
+        {
+            "ItemDescription": "Worker's Compensation",
+            "ItemTotal": "N/A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "General Liability",
+            "ItemTotal": "563,500",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Automobile Liability",
+            "ItemTotal": "296,800",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

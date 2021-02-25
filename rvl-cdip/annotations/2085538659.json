@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "59276-1",
+    "IssuedDate": "October 19. 2001",
+    "TotalAmount": "12,667.55",
+    "LineItem": [
+        {
+            "ItemTotal": "$7,859.83",
+            "ItemDescription": "Salaries and Wages",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$43.23",
+            "ItemDescription": "Supplies and Expanses",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$656.19",
+            "ItemDescription": "Employee Benefits",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$4,108.33",
+            "ItemDescription": "Overhead @ 48%",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

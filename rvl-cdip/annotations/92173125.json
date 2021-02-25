@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "1,084.17",
+    "LineItem": [
+        {
+            "ItemDescription": "NATIONAL",
+            "ItemUnitCount": "17.23",
+            "ItemUnitValue": "63.00",
+            "ItemTotal": "922.67"
+        },
+        {
+            "ItemDescription": "1 COLOR",
+            "ItemTotal": "161.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

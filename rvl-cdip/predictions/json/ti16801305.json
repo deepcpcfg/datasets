@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "•6036",
+    "IssuedDate": "03/11/96",
+    "LineItem": [
+        {
+            "ItemDescription": "800 Number Operator Telephone Operators",
+            "ItemTotal": "$4B,252.62"
+        }
+    ],
+    "TotalAmount": "$48,252.82"
+}

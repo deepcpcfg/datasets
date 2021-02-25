@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "7/8/97",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "38",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "300.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "11,400.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Expert Testimony Development as detailed on attached Task Worksheel",
+                            {
+                                "tp": 66.0,
+                                "fp": 1.0,
+                                "fn": 47.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 83.0,
+                        "fp": 1.0,
+                        "fn": 47.0
+                    }
+                ]
+            ],
+            {
+                "tp": 83.0,
+                "fp": 1.0,
+                "fn": 47.0
+            }
+        ],
+        "TotalAmount": [
+            "$11,400.00",
+            {
+                "tp": 0.0,
+                "fp": 10.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "97462",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 94.0,
+        "fp": 11.0,
+        "fn": 47.0
+    }
+]

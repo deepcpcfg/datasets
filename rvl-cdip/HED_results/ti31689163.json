@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "2/28/9-4",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "386.10",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "STATE TAX REPORT CIGARETTE TAX DATA January ’94 1 /18/94 (799)",
+                            {
+                                "tp": 60.0,
+                                "fp": 2.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 66.0,
+                        "fp": 2.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "£32.14",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "POSTAGE USED-",
+                            {
+                                "tp": 12.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 17.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 83.0,
+                "fp": 4.0,
+                "fn": 8.0
+            }
+        ],
+        "InvoiceNumber": [
+            "26029",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ]
+    },
+    {
+        "tp": 96.0,
+        "fp": 4.0,
+        "fn": 15.0
+    }
+]

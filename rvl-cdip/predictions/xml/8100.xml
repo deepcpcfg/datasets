@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="155.0" fp="2.0" fn="25.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="398.0" t="1691.0" r="629.0" b="1733.0">December</box>
+      <box l="641.0" t="1690.0" r="708.0" b="1738.0">30,</box>
+      <box l="734.0" t="1690.0" r="837.0" b="1733.0">1996</box>
+    </IssuedDate>
+    <LineItem tp="138.0" fp="2.0" fn="20.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="441.0" t="2747.0" r="604.0" b="2788.0">1/25/96</box>
+          <box l="659.0" t="2747.0" r="825.0" b="2796.0">Prepare</box>
+          <box l="846.0" t="2748.0" r="930.0" b="2788.0">MA</box>
+          <box l="946.0" t="2756.0" r="1076.0" b="2797.0">report</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2216.0" t="2750.0" r="2313.0" b="2789.0">0.30</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2502.0" t="2750.0" r="2626.0" b="2791.0">37.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="442.0" t="2946.0" r="603.0" b="2988.0">12/3/96</box>
+          <box l="660.0" t="2946.0" r="771.0" b="2988.0">Meet</box>
+          <box l="790.0" t="2946.0" r="867.0" b="2988.0">and</box>
+          <box l="884.0" t="2946.0" r="1037.0" b="2988.0">Confer</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2217.0" t="2947.0" r="2312.0" b="2989.0">2.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2476.0" t="2949.0" r="2625.0" b="2992.0">250.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="3146.0" r="608.0" b="3187.0">2/4/96</box>
+          <box l="662.0" t="3146.0" r="916.0" b="3187.0">Conference</box>
+          <box l="934.0" t="3146.0" r="1030.0" b="3185.0">with</box>
+          <box l="1046.0" t="3145.0" r="1092.0" b="3185.0">R.</box>
+          <box l="1113.0" t="3146.0" r="1304.0" b="3187.0">Walbum</box>
+          <box l="1317.0" t="3155.0" r="1359.0" b="3185.0">re</box>
+          <box l="1376.0" t="3143.0" r="1584.0" b="3196.0">canceling</box>
+          <box l="1601.0" t="3143.0" r="1650.0" b="3188.0">of</box>
+          <box l="1662.0" t="3146.0" r="1772.0" b="3187.0">Meet</box>
+          <box l="1787.0" t="3145.0" r="1866.0" b="3188.0">and</box>
+          <box l="1883.0" t="3146.0" r="2033.0" b="3188.0">Confer</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2221.0" t="3146.0" r="2313.0" b="3189.0">0.10</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2513.0" t="3151.0" r="2626.0" b="3189.0">12.50</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

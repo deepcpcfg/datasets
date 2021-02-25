@@ -1,0 +1,54 @@
+{
+    "InvoiceNumber": "30235",
+    "IssuedDate": "January 2, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "GRADE",
+            "ItemUnitCount": "312",
+            "ItemTotal": "51.515.10"
+        },
+        {
+            "ItemDescription": "K23L",
+            "ItemTotal": "95.1C4.S0"
+        },
+        {
+            "ItemDescription": "IC45L.",
+            "ItemUnitCount": "584",
+            "ItemTotal": "96,425,70"
+        },
+        {
+            "ItemUnitValue": "240,500",
+            "ItemTotal": "42,929.25",
+            "ItemDescription": "R£"
+        },
+        {
+            "ItemDescription": "RC SCRAP",
+            "ItemUnitCount": "108",
+            "ItemUnitValue": "64,800",
+            "ItemTotal": "11,566.80"
+        },
+        {
+            "ItemDescription": "3K FINES",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "17.85",
+            "ItemTotal": "1,392.30"
+        },
+        {
+            "ItemDescription": "STRIP OOHTAIU&RS",
+            "ItemUnitCount": "<2271",
+            "ItemUnitValue": "5.75",
+            "ItemTotal": "13,053.25"
+        },
+        {
+            "ItemDescription": "STEM CONTAINS",
+            "ItemUnitValue": "2,70",
+            "ItemTotal": "2,073.60"
+        },
+        {
+            "ItemDescription": "SCRAP OUTAGE DONTAIKERS",
+            "ItemUnitValue": "2.70",
+            "ItemTotal": "526.70"
+        }
+    ],
+    "TotalAmount": "5448,929.32"
+}

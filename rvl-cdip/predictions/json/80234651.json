@@ -1,0 +1,24 @@
+{
+    "IssuedDate": "JANUARY 28, 1987",
+    "LineItem": [
+        {
+            "ItemDescription": "SENIOR 5.00"
+        },
+        {
+            "ItemDescription": "9"
+        },
+        {
+            "ItemDescription": "PROFESSIONAL",
+            "ItemTotal": "*533.65"
+        },
+        {
+            "ItemDescription": "MID-LEVEL PROFESSIONAL 14.50 HRS. a S6D.78 PROFESSIONAL",
+            "ItemTotal": "*881*31",
+            "ItemUnitValue": "$881.31"
+        },
+        {
+            "ItemDescription": "6.00",
+            "ItemTotal": "$207,96"
+        }
+    ]
+}

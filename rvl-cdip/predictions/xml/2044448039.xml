@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="76.0" fp="76.0" fn="2.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2364.0" t="1322.0" r="2468.0" b="1361.0">June</box>
+      <box l="2489.0" t="1322.0" r="2548.0" b="1367.0">10,</box>
+      <box l="2574.0" t="1321.0" r="2664.0" b="1360.0">1991</box>
+    </IssuedDate>
+    <InvoiceNumber tp="3.0" fp="2.0" fn="2.0">
+      <box l="688.0" t="1655.0" r="817.0" b="1694.0">1Q319</box>
+    </InvoiceNumber>
+    <LineItem tp="57.0" fp="73.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="362.0" t="2317.0" r="517.0" b="2362.0">Virginia</box>
+          <box l="537.0" t="2316.0" r="654.0" b="2353.0">Slims</box>
+          <box l="675.0" t="2318.0" r="804.0" b="2352.0">Si600</box>
+          <box l="908.0" t="2315.0" r="1097.0" b="2363.0">Dangoor)</box>
+          <box l="1121.0" t="2316.0" r="1258.0" b="2361.0">Family</box>
+          <box l="1279.0" t="2315.0" r="1392.0" b="2352.0">100's</box>
+          <box l="1413.0" t="2314.0" r="1575.0" b="2363.0">Flip-Top</box>
+          <box l="1600.0" t="2315.0" r="1676.0" b="2354.0">Box</box>
+          <box l="1697.0" t="2315.0" r="1854.0" b="2362.0">Design,</box>
+          <box l="1879.0" t="2315.0" r="2005.0" b="2356.0">Phase</box>
+          <box l="2026.0" t="2317.0" r="2085.0" b="2355.0">7A</box>
+          <box l="1126.0" t="2728.0" r="1482.0" b="2769.0">PROFESSIONAL</box>
+          <box l="1500.0" t="2728.0" r="1691.0" b="2770.0">SERVICE</box>
+          <box l="1716.0" t="2728.0" r="1795.0" b="2770.0">FEE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2338.0" t="2729.0" r="2388.0" b="2770.0">$0</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1079.0" t="2894.0" r="1208.0" b="2932.0">OPC's</box>
+          <box l="1229.0" t="2894.0" r="1342.0" b="2937.0">(OUT</box>
+          <box l="1354.0" t="2893.0" r="1417.0" b="2931.0">OF</box>
+          <box l="1438.0" t="2892.0" r="1617.0" b="2934.0">POCKET</box>
+          <box l="1634.0" t="2892.0" r="1797.0" b="2936.0">COSTS)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2285.0" t="2905.0" r="2393.0" b="2945.0">$162</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="1.0" fn="0.0">
+      <box l="2286.0" t="3059.0" r="2394.0" b="3098.0">$162</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,206 @@
+[
+    {
+        "IssuedDate": [
+            "8/3/2000",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "$389.70",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "200.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "400.OOT",
+                            {
+                                "tp": 4.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "3:30 pm 9:30 pm",
+                            {
+                                "tp": 14.0,
+                                "fp": 1.0,
+                                "fn": 23.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 4.0,
+                        "fn": 25.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "25.00T",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "25.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Edit Beat Breakouts R 15 DAT",
+                            {
+                                "tp": 8.0,
+                                "fp": 20.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 21.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "3",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "15.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "45.00T",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "TOKCDR74",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 2.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "-55.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "-110.00T",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Special Discount for Rich Guilmenoi",
+                            {
+                                "tp": 34.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 110.0,
+                "fp": 29.0,
+                "fn": 29.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2001817",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 130.0,
+        "fp": 31.0,
+        "fn": 31.0
+    }
+]

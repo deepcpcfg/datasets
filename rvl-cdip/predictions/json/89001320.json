@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "43238",
+    "IssuedDate": "11/24/86",
+    "LineItem": [
+        {
+            "ItemDescription": "Imuncnaodulatory Screening Test in Mice (compound Al56)",
+            "ItemTotal": "S3,0&3.00"
+        },
+        {
+            "ItemDescription": "iMMunomodulatory Screening Test in Mice (compound A81)",
+            "ItemTotal": "3,083.00"
+        },
+        {
+            "ItemDescription": "Imniimoisodulatory Screening Test in Mice (compound A90)",
+            "ItemTotal": "3,083.00"
+        },
+        {
+            "ItemDescription": "Iimimomodulatoxy Screening Test in Mice (compound B34)",
+            "ItemTotal": "3,083.00"
+        }
+    ]
+}

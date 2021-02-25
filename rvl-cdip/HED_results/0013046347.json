@@ -1,0 +1,575 @@
+[
+    {
+        "IssuedDate": [
+            "Dec. 10, 1990",
+            {
+                "tp": 12.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "779.20",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Duplicating Catering services (ingredients,",
+                            {
+                                "tp": 11.0,
+                                "fp": 32.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 17.0,
+                        "fp": 32.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "852.53",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "\"fire-safe*1 meetings)",
+                            {
+                                "tp": 22.0,
+                                "fp": 0.0,
+                                "fn": 31.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 0.0,
+                        "fn": 31.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "150.79",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Mail/messenger service",
+                            {
+                                "tp": 22.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "153.23",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Long distance telephone",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 29.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "288.82",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Telecommunications service",
+                            {
+                                "tp": 26.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "22.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Local transportation",
+                            {
+                                "tp": 20.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "617.36",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Computer research charges",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 31.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 11.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 14.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 11.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "39.07",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Lodging Meals Telephone",
+                            {
+                                "tp": 9.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 14.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 10.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "5,301.25",
+                            {
+                                "tp": 1.0,
+                                "fp": 7.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Cabs Miscellaneous",
+                            {
+                                "tp": 13.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 12.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 218.0,
+                "fp": 58.0,
+                "fn": 81.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 230.0,
+        "fp": 59.0,
+        "fn": 90.0
+    }
+]

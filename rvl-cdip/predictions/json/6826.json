@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "APRZ5/00",
+    "InvoiceNumber": "PflDa-007779",
+    "LineItem": [
+        {
+            "ItemDescription": "Non*Cotnmi ssionable Charges",
+            "ItemTotal": "500.00"
+        },
+        {
+            "ItemDescription": "Conuniaaioniible Charges",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Agency Conan!coion",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "500"
+}

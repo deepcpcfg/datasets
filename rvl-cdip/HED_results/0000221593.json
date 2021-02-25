@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "December 1983",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 3.0
+            }
+        ],
+        "TotalAmount": [
+            "$2,000.00",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$1,000.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "par. HB ad in Fall Fenton Hill BA/JFK Price List",
+                            {
+                                "tp": 42.0,
+                                "fp": 6.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 51.0,
+                        "fp": 6.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,000,00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "HB ad in Fenton HiU IDF/JFK Fall Price List",
+                            {
+                                "tp": 43.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 51.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 102.0,
+                "fp": 6.0,
+                "fn": 3.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 123.0,
+        "fp": 7.0,
+        "fn": 6.0
+    }
+]

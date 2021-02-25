@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "15031",
+    "IssuedDate": "02/09/96",
+    "LineItem": [
+        {
+            "ItemTotal": "20006",
+            "ItemDescription": "Program Management"
+        },
+        {
+            "ItemDescription": "Program:",
+            "ItemTotal": "S74.4l7.Jl"
+        }
+    ],
+    "TotalAmount": "$74,417,41"
+}

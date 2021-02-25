@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "May IB, 1994",
+            {
+                "tp": 10.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "$53,483.49",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$42,272.17",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "May assessment for CIAR",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "8,906.89",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "May supplemental assessment for Johns Hopkins, Dr. MaCano ski, Conf©unders Study",
+                            {
+                                "tp": 79.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 87.0,
+                        "fp": 1.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2.304,43",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Additional May supplemental assessment for Johns Hopkins, Dr. Matanoski, Confoundars Study",
+                            {
+                                "tp": 88.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 96.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ]
+            ],
+            {
+                "tp": 216.0,
+                "fp": 3.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 235.0,
+        "fp": 6.0,
+        "fn": 6.0
+    }
+]

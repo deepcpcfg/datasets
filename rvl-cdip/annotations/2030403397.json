@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "8882",
+    "IssuedDate": "March 11/91",
+    "LineItem": [
+        {
+            "ItemDescription": "Upper blade guide, interchangeable, complete Part #1122/15/16/17",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "7, 700.OC",
+            "ItemTotal": "7,700.00"
+        },
+        {
+            "ItemDescription": "Lower blade support guide, interchangeable complete Part #1122/20/21/22",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "5,980.0(",
+            "ItemTotal": "5,980.00"
+        },
+        {
+            "ItemDescription": "Roller with shaft, inner blade guide part #1122/24/25",
+            "ItemUnitCount": "20",
+            "ItemUnitValue": "26.00",
+            "ItemTotal": "520.00"
+        },
+        {
+            "ItemDescription": "Roller with shaft, upper blade guide part #1122/16/17",
+            "ItemUnitCount": "30",
+            "ItemUnitValue": "31.00",
+            "ItemTotal": "930.00"
+        },
+        {
+            "ItemDescription": "Roller with shaft, lower blade guide Part #1122/21/22",
+            "ItemUnitCount": "40",
+            "ItemUnitValue": "26.0)",
+            "ItemTotal": "1,040.00"
+        },
+        {
+            "ItemDescription": "Chuck valve, type 304/13 Part #1115/13",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "138.00",
+            "ItemTotal": "276.00"
+        }
+    ],
+    "TotalAmount": ""
+}

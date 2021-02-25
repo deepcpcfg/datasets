@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "809515",
+    "IssuedDate": "08-28-88",
+    "LineItem": [
+        {
+            "ItemDescription": "10442 0 401 A48 OR 131-137B",
+            "ItemTotal": "1 . 300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "10443 0 401 A58 OR 144-83",
+            "ItemTotal": "1 . 300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

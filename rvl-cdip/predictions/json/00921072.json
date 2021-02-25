@@ -1,0 +1,10 @@
+{
+    "IssuedDate": "June 27, 1983",
+    "InvoiceNumber": "1496-2",
+    "LineItem": [
+        {
+            "ItemDescription": "Smoke Condensate Collection for Project #1500 during May, 1983",
+            "ItemTotal": "$4,508.00"
+        }
+    ]
+}

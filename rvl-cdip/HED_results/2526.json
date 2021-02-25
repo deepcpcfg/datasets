@@ -1,0 +1,1108 @@
+[
+    {
+        "IssuedDate": [
+            "AUG12/02",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".09",
+                            {
+                                "tp": 2.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG OS 30 TIME INTEGRATN",
+                            {
+                                "tp": 9.0,
+                                "fp": 23.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 11.0,
+                        "fp": 28.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "-00",
+                            {
+                                "tp": 2.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG05 30 TIME INTEGRATN",
+                            {
+                                "tp": 21.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 14.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG 05 30 TIME INTEGRATN",
+                            {
+                                "tp": 22.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 26.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "daytime AUG05 30 TIME",
+                            {
+                                "tp": 21.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INTEGRATN",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG 05 30 TIME INTEGRATN",
+                            {
+                                "tp": 22.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 26.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG05 30 TIME INTEGRATN",
+                            {
+                                "tp": 21.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG 05 30 TIME INTEGRATN",
+                            {
+                                "tp": 18.0,
+                                "fp": 14.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 17.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG05 30 TIME INTEGRATN",
+                            {
+                                "tp": 21.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG 05 30 TIME",
+                            {
+                                "tp": 22.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 26.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ",00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG05 30 INTEGRATN TIME INTEGRATN",
+                            {
+                                "tp": 21.0,
+                                "fp": 20.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 23.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG 0 b 30 TIME",
+                            {
+                                "tp": 21.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INTEGRATN",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            ".00",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG05 30 TIME INTEGRATN",
+                            {
+                                "tp": 20.0,
+                                "fp": 11.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 14.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "66.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DAYTIME AUG 05 30 TIME",
+                            {
+                                "tp": 22.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            ".00",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INTEGRATN",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 348.0,
+                "fp": 150.0,
+                "fn": 137.0
+            }
+        ],
+        "InvoiceNumber": [
+            "N-28-0132",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 365.0,
+        "fp": 150.0,
+        "fn": 138.0
+    }
+]

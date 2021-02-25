@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "12386",
+    "IssuedDate": "May 15, 1995",
+    "TotalAmount": "8,250",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL SERVICE FEE’",
+            "ItemTotal": "$5,234",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OPC’s (OUT OF POCKET COSTS)",
+            "ItemTotal": "$1,016",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

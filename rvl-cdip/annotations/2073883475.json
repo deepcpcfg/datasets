@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "March 2, 1998",
+    "TotalAmount": "59,347.09",
+    "LineItem": [
+        {
+            "ItemDescription": "Past due: [Entire industry]",
+            "ItemTotal": "29,400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "[Brown & Williamson]",
+            "ItemTotal": "5,347.09",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

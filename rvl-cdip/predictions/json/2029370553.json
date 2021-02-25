@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "010143",
+    "IssuedDate": "Jul 17 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Guastalla Lucehini (PR Agents) invoices:",
+            "ItemTotal": "89,213.00)"
+        }
+    ],
+    "TotalAmount": "39,153.50"
+}

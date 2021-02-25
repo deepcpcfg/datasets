@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "CTR-0028-7",
+    "IssuedDate": "11 13 75",
+    "TotalAmount": "7,304.46",
+    "LineItem": [
+        {
+            "ItemDescription": "Fixed Fee",
+            "ItemTotal": "310.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "IssuedDate": "09-21-2000",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$50.00",
+            "ItemDescription": "jleta",
+            "ItemTotal": "90.00"
+        },
+        {
+            "ItemDescription": "0109 CC 3/4“ 1 o’min cs",
+            "ItemTotal": "30.00",
+            "ItemUnitValue": "30.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "messenger midtown",
+            "ItemTotal": "20.00",
+            "ItemUnitValue": "20.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "2 Lb domestic freight",
+            "ItemTotal": "16.50",
+            "ItemUnitValue": "16.50"
+        }
+    ]
+}

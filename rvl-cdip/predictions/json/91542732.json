@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "1139690",
+    "LineItem": [
+        {
+            "ItemDescription": "NAT VOID 1"
+        },
+        {
+            "ItemDescription": "4C",
+            "ItemTotal": "125,370.00"
+        }
+    ],
+    "IssuedDate": "04/12/85",
+    "TotalAmount": "106»564.50"
+}

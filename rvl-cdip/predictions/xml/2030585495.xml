@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="54.0" fp="67.0" fn="1.0">
+    <InvoiceNumber tp="10.0" fp="0.0" fn="0.0">
+      <box l="2056.0" t="528.0" r="2411.0" b="568.0">0808437014</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="1.0" fn="1.0">
+      <box l="1112.0" t="1287.0" r="1395.0" b="1330.0">07/31/87</box>
+    </IssuedDate>
+    <LineItem tp="28.0" fp="66.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1003.0" t="1383.0" r="1107.0" b="1420.0">6QN</box>
+          <box l="1151.0" t="1380.0" r="1286.0" b="1420.0">SELF</box>
+          <box l="1328.0" t="1380.0" r="1648.0" b="1422.0">PROPELLED</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="1418.0" r="961.0" b="1460.0">AERIAL</box>
+          <box l="1008.0" t="1417.0" r="1286.0" b="1463.0">PLATFORM</box>
+          <box l="1332.0" t="1421.0" r="1500.0" b="1464.0">W/180</box>
+          <box l="753.0" t="1464.0" r="1036.0" b="1506.0">ROTATING</box>
+          <box l="1078.0" t="1464.0" r="1357.0" b="1508.0">PLATFORM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2414.0" t="1561.0" r="2734.0" b="1606.0">64,662.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="1597.0" r="1003.0" b="1640.0">FREIGHT</box>
+          <box l="1041.0" t="1601.0" r="1145.0" b="1642.0">AND</box>
+          <box l="1183.0" t="1600.0" r="1471.0" b="1642.0">DELIVERY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2450.0" t="1606.0" r="2734.0" b="1647.0">2,200.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2411.0" t="2912.0" r="2728.0" b="2957.0">66,862.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

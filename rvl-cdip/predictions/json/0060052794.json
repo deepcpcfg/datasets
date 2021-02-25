@@ -1,0 +1,27 @@
+{
+    "IssuedDate": "02/14/92",
+    "LineItem": [
+        {
+            "ItemDescription": "CUSTOM REPORTING",
+            "ItemTotal": "70.00"
+        },
+        {
+            "ItemDescription": "DRAFT PROCESSING FEE",
+            "ItemUnitValue": "0.20",
+            "ItemTotal": "614.80"
+        },
+        {
+            "ItemDescription": "ADDITIONAL DATA CAPTURE",
+            "ItemUnitCount": "3,074",
+            "ItemUnitValue": "0.56",
+            "ItemTotal": "1,721.44"
+        },
+        {
+            "ItemDescription": "DRAFT BOOK DISTRIBUTION POSTAGE",
+            "ItemTotal": "0",
+            "ItemUnitValue": "1.50",
+            "ItemUnitCount": "0.00"
+        }
+    ],
+    "TotalAmount": "2,406-24"
+}

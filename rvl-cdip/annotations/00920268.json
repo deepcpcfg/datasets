@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1500-2",
+    "IssuedDate": "May 13. 1983",
+    "TotalAmount": "144,600.00",
+    "LineItem": [
+        {
+            "ItemDescription": "House Skin Painting Study with D1 and D10",
+            "ItemTotal": "$15,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

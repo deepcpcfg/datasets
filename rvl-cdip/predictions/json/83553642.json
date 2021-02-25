@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "89455",
+    "IssuedDate": "4/13/98",
+    "LineItem": [
+        {
+            "ItemDescription": "Copy of Deposition, of Walker Paul Merryman.",
+            "ItemTotal": "361",
+            "ItemUnitValue": "361.00"
+        },
+        {
+            "ItemDescription": "ASCII Disk No Charge",
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "0.00"
+        },
+        {
+            "ItemDescription": "Minuscript Word Index Exhibit Copying",
+            "ItemUnitCount": "832",
+            "ItemUnitValue": "0.25",
+            "ItemTotal": "208.00"
+        },
+        {
+            "ItemDescription": "Shipping Sc Handling",
+            "ItemTotal": "35.00",
+            "ItemUnitValue": "35.00"
+        }
+    ]
+}

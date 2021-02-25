@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "9159",
+    "IssuedDate": "10/30/92",
+    "LineItem": [
+        {
+            "ItemDescription": "CAMEL flOTH ANNIVERSARY PROGRAM"
+        },
+        {
+            "ItemDescription": "vevelopment of materials to support 80th Anniversary"
+        },
+        {
+            "ItemDescription": "80th Anniversary Logo",
+            "ItemTotal": "6,250.00"
+        },
+        {
+            "ItemDescription": "through revised comprehensive",
+            "ItemTotal": "21,750.00"
+        },
+        {
+            "ItemDescription": "revised premium development through mechanical art",
+            "ItemTotal": "29,475.00"
+        }
+    ],
+    "TotalAmount": "$57,475.00"
+}

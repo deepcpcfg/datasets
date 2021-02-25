@@ -1,0 +1,15 @@
+{
+    "TotalAmount": "INC.",
+    "IssuedDate": "November 1, 1982",
+    "InvoiceNumber": "1419-10",
+    "LineItem": [
+        {
+            "ItemDescription": "Mouse Skin Painting Study with",
+            "ItemTotal": "$15,000.0"
+        },
+        {
+            "ItemDescription": "Compounds 0-3 and 0-4 AWARD",
+            "ItemTotal": ".$178,000.00"
+        }
+    ]
+}

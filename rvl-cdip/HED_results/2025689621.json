@@ -1,0 +1,739 @@
+[
+    {
+        "IssuedDate": [
+            "25 Septemberh 1987",
+            {
+                "tp": 17.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "399",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "BBC B+ Microcomputer*",
+                            {
+                                "tp": 21.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "330",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Cumana Dual Diac Drive*",
+                            {
+                                "tp": 22.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 26.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "78",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Tatung Monochrome Monitor TH0O",
+                            {
+                                "tp": 29.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "I",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "438",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Epion Printer FXSO+",
+                            {
+                                "tp": 16.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 4.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "480",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Firmness Control! Pressure Transducer! Type FC040 (boxed)",
+                            {
+                                "tp": 51.0,
+                                "fp": 6.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 55.0,
+                        "fp": 6.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "120",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Flow Control Unit (TIL) Acco*torlea?",
+                            {
+                                "tp": 22.0,
+                                "fp": 14.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 26.0,
+                        "fp": 14.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Printer Cable",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 13.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "20",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Monitor Cable",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 16.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Maine Distribution Cable",
+                            {
+                                "tp": 24.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 22.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 26.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "10",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "50",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Flow Sensor* (Peripex) Flow Sensors (Polypropylene",
+                            {
+                                "tp": 27.0,
+                                "fp": 23.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 29.0,
+                        "fp": 25.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "4",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Polythene tubing",
+                            {
+                                "tp": 16.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 17.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "20",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Tool Kit (tin)",
+                            {
+                                "tp": 14.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 17.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Printer Paper (box)",
+                            {
+                                "tp": 19.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 20.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "20",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Computer Plinth",
+                            {
+                                "tp": 15.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "8",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "20",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Computer Flexible Di ace (blank)",
+                            {
+                                "tp": 29.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 3.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "10",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Cumana Flexible Diac (Formatter)*",
+                            {
+                                "tp": 31.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ]
+            ],
+            {
+                "tp": 403.0,
+                "fp": 56.0,
+                "fn": 58.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 420.0,
+        "fp": 57.0,
+        "fn": 63.0
+    }
+]

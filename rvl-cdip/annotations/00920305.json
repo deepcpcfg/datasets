@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1560-1",
+    "IssuedDate": "February 1, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "14 Day Single Dose Toxicity Study in Rats with B-77, B-109",
+            "ItemTotal": "8,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

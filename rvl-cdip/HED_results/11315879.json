@@ -1,0 +1,134 @@
+[
+    {
+        "IssuedDate": [
+            "JULY 9, 1979",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "800 COPIES OF 2 PAGE RELEASE, COLLATED ANO",
+                            {
+                                "tp": 0.0,
+                                "fp": 42.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 42.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "61/2X9 1/2",
+                            {
+                                "tp": 0.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 10.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "FOR MAILING WITH CTR",
+                            {
+                                "tp": 0.0,
+                                "fp": 20.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 20.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$112.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MONDAY JULY 2, 1979 NEW YORK OFFICE FOR MAILING EARLY, JULY 2, 1979 DELIVERED JULY 5, 1979.",
+                            {
+                                "tp": 22.0,
+                                "fp": 69.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 29.0,
+                        "fp": 69.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 29.0,
+                "fp": 141.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "6355",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 45.0,
+        "fp": 141.0,
+        "fn": 6.0
+    }
+]

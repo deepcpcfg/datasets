@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "November 1, 1985",
+    "InvoiceNumber": "8261",
+    "LineItem": [
+        {
+            "ItemDescription": "with co-counsel and staff of the Attorney General’s office and the New York State Department of Taxation and Finance, review of prior pleadings, attention to the motion to intervene, and all related legal research, tele¬ phone communications, correspondence and advice and counsel to October 31, 1985..",
+            "ItemTotal": "852.00"
+        },
+        {
+            "ItemDescription": "Photocopies.-... 21.00"
+        },
+        {
+            "ItemDescription": "Express Mail..",
+            "ItemTotal": "67.50"
+        }
+    ],
+    "TotalAmount": "919.50"
+}

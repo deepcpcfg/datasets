@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="106.0" fp="12.0" fn="37.0">
+    <InvoiceNumber tp="1.0" fp="2.0" fn="8.0">
+      <box l="2221.0" t="99.0" r="2351.0" b="175.0">029</box>
+    </InvoiceNumber>
+    <IssuedDate tp="16.0" fp="0.0" fn="2.0">
+      <box l="2203.0" t="1263.0" r="2362.0" b="1304.0">March</box>
+      <box l="2407.0" t="1259.0" r="2549.0" b="1314.0">17th,</box>
+      <box l="2602.0" t="1258.0" r="2724.0" b="1302.0">1976</box>
+    </IssuedDate>
+    <LineItem tp="89.0" fp="10.0" fn="23.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="461.0" t="2126.0" r="611.0" b="2168.0">1.OOD</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="811.0" t="2127.0" r="1131.0" b="2178.0">cigarettes</box>
+          <box l="1166.0" t="2120.0" r="1420.0" b="2165.0">Modified</box>
+          <box l="1462.0" t="2120.0" r="1648.0" b="2163.0">filter</box>
+          <box l="1687.0" t="2118.0" r="1938.0" b="2161.0">flavorln</box>
+          <box l="1951.0" t="2126.0" r="1974.0" b="2171.0">9</box>
+          <box l="812.0" t="2197.0" r="869.0" b="2226.0">aa</box>
+          <box l="906.0" t="2197.0" r="998.0" b="2238.0">par</box>
+          <box l="1040.0" t="2194.0" r="1161.0" b="2237.0">your</box>
+          <box l="1198.0" t="2183.0" r="1356.0" b="2224.0">telex</box>
+          <box l="1395.0" t="2181.0" r="1454.0" b="2224.0">of</box>
+          <box l="1491.0" t="2181.0" r="1745.0" b="2223.0">December</box>
+          <box l="1782.0" t="2177.0" r="1839.0" b="2222.0">8tt</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="461.0" t="2282.0" r="610.0" b="2325.0">1.DD0</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1169.0" t="2278.0" r="1386.0" b="2320.0">Current</box>
+          <box l="1427.0" t="2268.0" r="1747.0" b="2330.0">production</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

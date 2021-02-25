@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2655",
+    "IssuedDate": "05-10-2000",
+    "TotalAmount": "650.00",
+    "LineItem": [
+        {
+            "ItemUnitValue": "18,00",
+            "ItemTotal": "450.00",
+            "ItemUnitCount": "25",
+            "ItemDescription": "vhs 10 min"
+        },
+        {
+            "ItemUnitValue": "20.00",
+            "ItemTotal": "200.00",
+            "ItemUnitCount": "10",
+            "ItemDescription": "3/4' 10 mln es OF EACH"
+        }
+    ]
+}

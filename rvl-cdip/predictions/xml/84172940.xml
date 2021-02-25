@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="109.0" fp="0.0" fn="47.0">
+    <IssuedDate tp="15.0" fp="0.0" fn="0.0">
+      <box l="1838.0" t="1340.0" r="2082.0" b="1385.0">October</box>
+      <box l="2128.0" t="1342.0" r="2182.0" b="1395.0">6,</box>
+      <box l="2232.0" t="1342.0" r="2364.0" b="1386.0">1978</box>
+    </IssuedDate>
+    <LineItem tp="94.0" fp="0.0" fn="47.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="941.0" t="2374.0" r="1223.0" b="2417.0">rendered</box>
+          <box l="1269.0" t="2373.0" r="1330.0" b="2418.0">in</box>
+          <box l="1373.0" t="2374.0" r="1722.0" b="2418.0">connection</box>
+          <box l="1764.0" t="2373.0" r="1901.0" b="2419.0">with</box>
+          <box l="1947.0" t="2377.0" r="1971.0" b="2417.0">8</box>
+          <box l="2018.0" t="2379.0" r="2259.0" b="2421.0">focused</box>
+          <box l="945.0" t="2445.0" r="1115.0" b="2487.0">group</box>
+          <box l="1162.0" t="2432.0" r="1532.0" b="2479.0">interviews:</box>
+          <box l="1627.0" t="2437.0" r="2293.0" b="2489.0">Boston/Syracuse/Old</box>
+          <box l="945.0" t="2496.0" r="1078.0" b="2537.0">Gold</box>
+          <box l="1124.0" t="2494.0" r="1362.0" b="2539.0">Filters</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2590.0" t="2562.0" r="2786.0" b="2605.0">260.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

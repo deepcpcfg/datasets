@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="75.0" fp="48.0" fn="65.0">
+    <IssuedDate tp="15.0" fp="7.0" fn="2.0">
+      <box l="1778.0" t="605.0" r="1882.0" b="644.0">DAIE</box>
+      <box l="2104.0" t="591.0" r="2332.0" b="628.0">NOTEMBER</box>
+      <box l="2366.0" t="592.0" r="2437.0" b="636.0">301</box>
+      <box l="2475.0" t="593.0" r="2582.0" b="632.0">1977</box>
+    </IssuedDate>
+    <LineItem tp="53.0" fp="41.0" fn="51.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="581.0" t="1506.0" r="893.0" b="1546.0">MECHANICALS</box>
+          <box l="581.0" t="1617.0" r="868.0" b="1658.0">1IT0DCSING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2094.0" t="1508.0" r="2256.0" b="1550.0">300.00</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="2294.0" t="1625.0" r="2302.0" b="1642.0">1</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="580.0" t="1737.0" r="864.0" b="1774.0">SILHOUETTE</box>
+          <box l="893.0" t="1739.0" r="951.0" b="1772.0">OP</box>
+          <box l="980.0" t="1738.0" r="1175.0" b="1773.0">LETTERS</box>
+          <box l="578.0" t="1849.0" r="826.0" b="1888.0">PRINTING:</box>
+          <box l="897.0" t="1851.0" r="1004.0" b="1889.0">1500</box>
+          <box l="1039.0" t="1852.0" r="1258.0" b="1889.0">REPRINTS</box>
+          <box l="892.0" t="1910.0" r="1004.0" b="1946.0">EACH</box>
+          <box l="1030.0" t="1910.0" r="1092.0" b="1944.0">OF</box>
+          <box l="1122.0" t="1911.0" r="1262.0" b="1948.0">THREE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2089.0" t="1738.0" r="2254.0" b="1778.0">120.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="0.0" fn="0.0">
+      <box l="2624.0" t="2837.0" r="2815.0" b="2875.0">7226.27</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

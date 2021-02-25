@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "April 1, 1994",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$51,048.02",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 25.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 35.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$44,446.13",
+                            {
+                                "tp": 3.0,
+                                "fp": 7.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "April assessment for CIAR April supplemental assessment for Johns Hopkins, Dr. Mat&noskl, Confounders Study",
+                            {
+                                "tp": 81.0,
+                                "fp": 26.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 84.0,
+                        "fp": 33.0,
+                        "fn": 5.0
+                    }
+                ]
+            ],
+            {
+                "tp": 84.0,
+                "fp": 33.0,
+                "fn": 40.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 106.0,
+        "fp": 34.0,
+        "fn": 40.0
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "HOURS LABOR",
+            "ItemUnitCount": "38.00",
+            "ItemTotal": "4,560.00"
+        },
+        {
+            "ItemDescription": "12/01/91 12/31/91 7.00 DAYS $400.00/HR.",
+            "ItemTotal": "2/800.00"
+        },
+        {
+            "ItemDescription": "2,01"
+        },
+        {
+            "ItemDescription": "Shipment 04-Oct-91",
+            "ItemTotal": "2.02"
+        },
+        {
+            "ItemDescription": "UPS Shipmen” 06-Dec—91 17.00 UPS Shipment 13-Dec-91 9.75",
+            "ItemTotal": "30.78"
+        },
+        {
+            "ItemDescription": "15% Handling Fee",
+            "ItemTotal": "4.62"
+        }
+    ],
+    "TotalAmount": "7,395.40"
+}

@@ -1,0 +1,30 @@
+{
+    "InvoiceNumber": "9800-6911",
+    "LineItem": [
+        {
+            "ItemDescription": "000 NurrCier Fax",
+            "ItemUnitValue": "6.900.CO",
+            "ItemTotal": "6.900.00"
+        },
+        {
+            "ItemDescription": "Contacts Tutak:",
+            "ItemTotal": "6,900.00",
+            "ItemUnitValue": "6,900.00"
+        },
+        {
+            "ItemDescription": "Management",
+            "ItemTotal": "21.600",
+            "ItemUnitCount": "00"
+        },
+        {
+            "ItemDescription": "800 Number Operator",
+            "ItemUnitValue": "23.760",
+            "ItemTotal": "71.500.00"
+        },
+        {
+            "ItemDescription": "Telephone Operators Total:",
+            "ItemTotal": "93,100,00"
+        }
+    ],
+    "TotalAmount": "100,000.00"
+}

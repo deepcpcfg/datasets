@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="24.0" fn="17.0">
+    <IssuedDate tp="0.0" fp="7.0" fn="0.0">
+      <box l="2326.0" t="104.0" r="2537.0" b="150.0">5/28/02</box>
+    </IssuedDate>
+    <InvoiceNumber tp="0.0" fp="6.0" fn="0.0">
+      <box l="2505.0" t="186.0" r="2717.0" b="232.0">015316</box>
+    </InvoiceNumber>
+    <LineItem tp="58.0" fp="10.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="443.0" t="1462.0" r="581.0" b="1512.0">Digital</box>
+          <box l="610.0" t="1461.0" r="851.0" b="1501.0">Production</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2733.0" t="1469.0" r="2898.0" b="1510.0">250.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="443.0" t="1536.0" r="643.0" b="1584.0">Handling</box>
+          <box l="725.0" t="1535.0" r="906.0" b="1585.0">Packing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2765.0" t="1540.0" r="2898.0" b="1582.0">30,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="443.0" t="1607.0" r="647.0" b="1647.0">Printouts</box>
+          <box l="440.0" t="1678.0" r="647.0" b="1728.0">Shipping</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2765.0" t="1615.0" r="2898.0" b="1656.0">30.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2704.0" t="1897.0" r="2899.0" b="1939.0">$485.67</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

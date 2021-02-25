@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "25443",
+    "IssuedDate": "1 /31 /94",
+    "TotalAmount": "1916.91",
+    "LineItem": [
+        {
+            "ItemDescription": "FILL 111 ORDERS: METER AND SHIP AS SPECIFIED. ASSEMBLE KITS; USE FOR ORDER FUL¬ FILLMENT. VOLUME: 1.247",
+            "ItemTotal": "1462.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MATERIALS",
+            "ItemTotal": "20.01",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE USED",
+            "ItemTotal": "436.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

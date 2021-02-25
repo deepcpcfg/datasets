@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "#1-18",
+    "IssuedDate": "January 15, 1968",
+    "LineItem": [
+        {
+            "ItemDescription": "Attitude Attribute Study",
+            "ItemTotal": "8.959-90"
+        },
+        {
+            "ItemDescription": "Supervisory Expense",
+            "ItemTotal": "1.545-99"
+        },
+        {
+            "ItemDescription": "Air-expressage list attached Telephone charges",
+            "ItemTotal": "_16,10"
+        }
+    ],
+    "TotalAmount": "$10,328.55/"
+}

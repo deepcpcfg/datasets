@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "607",
+    "IssuedDate": "12-22'86",
+    "LineItem": [
+        {
+            "ItemDescription": "3'",
+            "ItemTotal": "303,319.19"
+        },
+        {
+            "ItemDescription": "BILLED",
+            "ItemUnitCount": "31",
+            "ItemTotal": "13.318.06"
+        }
+    ]
+}

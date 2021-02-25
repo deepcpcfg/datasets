@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="100.0" fp="24.0" fn="49.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2516.0" t="453.0" r="2628.0" b="495.0">2056</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2313.0" t="571.0" r="2508.0" b="618.0">2/10/87</box>
+    </IssuedDate>
+    <LineItem tp="89.0" fp="24.0" fn="43.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="445.0" t="1440.0" r="524.0" b="1483.0">FOR</box>
+          <box l="555.0" t="1439.0" r="641.0" b="1485.0">THE</box>
+          <box l="674.0" t="1439.0" r="816.0" b="1483.0">MONTH</box>
+          <box l="850.0" t="1438.0" r="904.0" b="1481.0">Or</box>
+          <box l="941.0" t="1437.0" r="1171.0" b="1482.0">DECEMBER</box>
+          <box l="1204.0" t="1436.0" r="1316.0" b="1481.0">1986</box>
+          <box l="1380.0" t="1434.0" r="1667.0" b="1480.0">PROVIDENCE</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="204.0" t="1499.0" r="374.0" b="1544.0">SUNDAY</box>
+          <box l="409.0" t="1498.0" r="641.0" b="1542.0">MAGAZINE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2260.0" t="1486.0" r="2522.0" b="1539.0">$9,448.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="150.0" t="1612.0" r="259.0" b="1658.0">LESS</box>
+          <box l="296.0" t="1615.0" r="580.0" b="1659.0">PREVIOUSLY</box>
+          <box l="617.0" t="1614.0" r="789.0" b="1657.0">BILLED</box>
+          <box l="821.0" t="1614.0" r="876.0" b="1656.0">ON</box>
+          <box l="914.0" t="1613.0" r="1109.0" b="1655.0">INVOICE</box>
+          <box l="1146.0" t="1612.0" r="1318.0" b="1657.0">#12138</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2289.0" t="1608.0" r="2524.0" b="1657.0">8,503.20</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

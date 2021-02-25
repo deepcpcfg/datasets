@@ -1,0 +1,39 @@
+{
+    "IssuedDate": "February F967",
+    "LineItem": [
+        {
+            "ItemDescription": "Laboratory",
+            "ItemTotal": "262.60"
+        },
+        {
+            "ItemDescription": "Animal Feed and Bedding",
+            "ItemTotal": "276.39"
+        },
+        {
+            "ItemDescription": "Pharmacologist (Emil Biochemist R. Smith,",
+            "ItemTotal": "80.75"
+        },
+        {
+            "ItemDescription": "(Harris Pathologist Rosenkrantz, Ph.D.)",
+            "ItemTotal": "27.83"
+        },
+        {
+            "ItemDescription": "(Marcus M. Mason,",
+            "ItemTotal": "177.95"
+        },
+        {
+            "ItemDescription": "Technician pharmacology",
+            "ItemTotal": "794.36"
+        },
+        {
+            "ItemDescription": "Technician biochemistry",
+            "ItemUnitValue": "24.71",
+            "ItemTotal": "1,105.60"
+        },
+        {
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemTotal": "1,105.60"
+        }
+    ],
+    "TotalAmount": "$5,786.10"
+}

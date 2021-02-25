@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "j-\"Ji1",
+    "IssuedDate": "July 28, 197J",
+    "LineItem": [
+        {
+            "ItemDescription": "Request copy of program",
+            "ItemTotal": "8.50"
+        }
+    ],
+    "TotalAmount": "$10.95"
+}

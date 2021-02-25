@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "8 05739",
+    "IssuedDate": "December 2 0, 1982",
+    "TotalAmount": "16, 303. 11",
+    "LineItem": [
+        {
+            "ItemDescription": "Product sampling",
+            "ItemUnitValue": "$18,303.11",
+            "ItemTotal": "$18,303.11",
+            "ItemUnitCount": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "1,555.09",
+    "LineItem": [
+        {
+            "ItemTotal": "1,555.99",
+            "ItemDescription": "BALANCE FORWARD",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,555.09CR",
+            "ItemDescription": "PAYMENT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

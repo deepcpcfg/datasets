@@ -1,0 +1,198 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "6i000",
+                            {
+                                "tp": 1.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "277.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CAMB FF 100b PROMO",
+                            {
+                                "tp": 18.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 10.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "12",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "camb Lights iaua :promd",
+                            {
+                                "tp": 17.0,
+                                "fp": 6.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 6.0,
+                        "fn": 12.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "000",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "277.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CAMB LIGHTS KINGS PROMO CAMB ULTRA LTS 1003 PROMO.",
+                            {
+                                "tp": 0.0,
+                                "fp": 50.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 59.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "000",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "277.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CAMB MEN LTS 10 Os PROMO",
+                            {
+                                "tp": 22.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 11.0,
+                        "fn": 6.0
+                    }
+                ]
+            ],
+            {
+                "tp": 60.0,
+                "fp": 86.0,
+                "fn": 24.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 60.0,
+        "fp": 86.0,
+        "fn": 31.0
+    }
+]

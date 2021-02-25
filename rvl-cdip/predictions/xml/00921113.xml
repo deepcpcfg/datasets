@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="47.0" fp="29.0" fn="52.0">
+    <IssuedDate tp="16.0" fp="1.0" fn="1.0">
+      <box l="483.0" t="1072.0" r="729.0" b="1118.0">December</box>
+      <box l="769.0" t="1071.0" r="849.0" b="1124.0">13,</box>
+      <box l="894.0" t="1071.0" r="1011.0" b="1119.0">1931</box>
+    </IssuedDate>
+    <LineItem tp="31.0" fp="28.0" fn="49.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="487.0" t="2145.0" r="763.0" b="2195.0">INDUCTION</box>
+          <box l="795.0" t="2145.0" r="859.0" b="2195.0">OF</box>
+          <box l="891.0" t="2145.0" r="1109.0" b="2197.0">HEPATIC</box>
+          <box l="1141.0" t="2147.0" r="1455.0" b="2197.0">MICROSOMAL</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="483.0" t="2209.0" r="699.0" b="2259.0">ENZYMES</box>
+          <box l="733.0" t="2211.0" r="795.0" b="2259.0">ON</box>
+          <box l="829.0" t="2211.0" r="1109.0" b="2261.0">MATERIALS</box>
+          <box l="1145.0" t="2211.0" r="1263.0" b="2269.0">AZO,</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="482.0" t="2280.0" r="573.0" b="2321.0">and</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

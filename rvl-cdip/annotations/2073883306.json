@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "3 54868",
+    "IssuedDate": "June 30, 1996",
+    "TotalAmount": "1,652.55",
+    "LineItem": [
+        {
+            "ItemDescription": "Total Lodging",
+            "ItemTotal": "910.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Ground Transportation",
+            "ItemTotal": "193.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals",
+            "ItemTotal": "130.44",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Overnight Courier",
+            "ItemTotal": "34.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "269,11",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Messenger Service",
+            "ItemTotal": "7.95",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photocopy",
+            "ItemTotal": "44.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Facsimile",
+            "ItemTotal": "62.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

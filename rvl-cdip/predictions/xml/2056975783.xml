@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="232.0" fp="21.0" fn="28.0">
+    <IssuedDate tp="16.0" fp="5.0" fn="0.0">
+      <box l="2273.0" t="670.0" r="2400.0" b="710.0">DATE</box>
+      <box l="2468.0" t="684.0" r="2682.0" b="721.0">October</box>
+      <box l="2726.0" t="680.0" r="2802.0" b="725.0">31,</box>
+      <box l="2856.0" t="680.0" r="2968.0" b="721.0">1988</box>
+    </IssuedDate>
+    <LineItem tp="208.0" fp="15.0" fn="28.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="467.0" t="1563.0" r="846.0" b="1601.0">Waterbiaster</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2405.0" t="1563.0" r="2555.0" b="1602.0">48.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2856.0" t="1562.0" r="3031.0" b="1603.0">'&gt;80.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="470.0" t="1626.0" r="779.0" b="1671.0">Supervisor</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2405.0" t="1626.0" r="2555.0" b="1663.0">21.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2851.0" t="1626.0" r="3031.0" b="1663.0">210.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1691.0" r="746.0" b="1738.0">Operators</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2410.0" t="1688.0" r="2555.0" b="1730.0">19.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2789.0" t="1688.0" r="3031.0" b="1734.0">1,j60.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1879.0" r="841.0" b="1917.0">Waterbiaster</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2401.0" t="1876.0" r="2555.0" b="1917.0">48.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2848.0" t="1876.0" r="3031.0" b="1917.0">360.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="470.0" t="1942.0" r="779.0" b="1988.0">Supervisor</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2405.0" t="1939.0" r="2555.0" b="1980.0">21.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2851.0" t="1942.0" r="3031.0" b="1980.0">157.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="2005.0" r="746.0" b="2051.0">Operators</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2410.0" t="2002.0" r="2555.0" b="2042.0">19.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2789.0" t="2004.0" r="3031.0" b="2046.0">1,170.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="87.0" t="2192.0" r="175.0" b="2231.0">4.5</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="463.0" t="2192.0" r="841.0" b="2230.0">Waterblaster</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2404.0" t="2189.0" r="2555.0" b="2230.0">48.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2851.0" t="2191.0" r="3031.0" b="2230.0">216.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="87.0" t="2255.0" r="175.0" b="2293.0">4.5</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="469.0" t="2255.0" r="779.0" b="2303.0">Supervisor</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2405.0" t="2252.0" r="2555.0" b="2292.0">21.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2881.0" t="2251.0" r="3031.0" b="2292.0">94.30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="87.0" t="2317.0" r="175.0" b="2358.0">4.5</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="466.0" t="2321.0" r="746.0" b="2367.0">Operators</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2405.0" t="2317.0" r="2555.0" b="2356.0">19.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2847.0" t="2317.0" r="3026.0" b="2356.0">614.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="463.0" t="2505.0" r="559.0" b="2542.0">Man</box>
+          <box l="591.0" t="2505.0" r="715.0" b="2542.0">Lift</box>
+          <box l="817.0" t="2505.0" r="904.0" b="2544.0">20%</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2847.0" t="2505.0" r="3031.0" b="2544.0">864.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2751.0" t="2567.0" r="3026.0" b="2613.0">$5,726.25</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

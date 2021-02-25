@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "April 24, 1984",
+            {
+                "tp": 14.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "4,500.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Range-Finding Study in Rats (Phase I II) with A-92, A-146 and B-167 @$1,500.00/cpd",
+                            {
+                                "tp": 50.0,
+                                "fp": 32.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 58.0,
+                        "fp": 32.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 58.0,
+                "fp": 32.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1588-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 78.0,
+        "fp": 32.0,
+        "fn": 4.0
+    }
+]

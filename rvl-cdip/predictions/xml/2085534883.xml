@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="35.0" fp="87.0" fn="22.0">
+    <InvoiceNumber tp="5.0" fp="1.0" fn="2.0">
+      <box l="2509.0" t="812.0" r="2708.0" b="858.0">592804</box>
+    </InvoiceNumber>
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="2417.0" t="880.0" r="2609.0" b="920.0">October</box>
+      <box l="2622.0" t="884.0" r="2680.0" b="921.0">22.</box>
+      <box l="2701.0" t="886.0" r="2792.0" b="925.0">2001</box>
+    </IssuedDate>
+    <LineItem tp="14.0" fp="76.0" fn="20.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="537.0" t="1496.0" r="570.0" b="1533.0">PI</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1346.0" t="1435.0" r="1604.0" b="1471.0">Microvessel</box>
+          <box l="1621.0" t="1435.0" r="1978.0" b="1471.0">caBon-Chloride</box>
+          <box l="1991.0" t="1438.0" r="2257.0" b="1481.0">Cokansporf</box>
+          <box l="2272.0" t="1438.0" r="2308.0" b="1476.0">in</box>
+          <box l="2325.0" t="1438.0" r="2516.0" b="1476.0">Cerebral</box>
+          <box l="2534.0" t="1438.0" r="2737.0" b="1476.0">Ischemia</box>
+          <box l="1392.0" t="1496.0" r="1426.0" b="1530.0">E.</box>
+          <box l="1442.0" t="1496.0" r="1658.0" b="1533.0">O'Donnell</box>
+          <box l="1338.0" t="1555.0" r="1492.0" b="1592.0">Human</box>
+          <box l="1510.0" t="1555.0" r="1745.0" b="1601.0">Physiology</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="10.0" fn="0.0">
+      <box l="1975.0" t="2384.0" r="2251.0" b="2435.0">$49,710.15</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

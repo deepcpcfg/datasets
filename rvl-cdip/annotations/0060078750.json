@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "19298",
+    "IssuedDate": "07/11/99",
+    "TotalAmount": "36,211.86",
+    "LineItem": [
+        {
+            "ItemTotal": "$34,647.15",
+            "ItemUnitCount": "155",
+            "ItemDescription": "STRIKE IT RICHER & STRIKE IT SMOOTH DESIGN'S",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,544.71",
+            "ItemUnitCount": "7",
+            "ItemDescription": "OVERRUN",
+            "ItemUnitValue": ""
+        }
+    ]
+}

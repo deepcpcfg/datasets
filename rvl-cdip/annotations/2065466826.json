@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "9501002968",
+    "IssuedDate": "4/14/95",
+    "TotalAmount": "2,940.00",
+    "LineItem": [
+        {
+            "ItemUnitValue": "147.00",
+            "ItemTotal": "147.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        },
+        {
+            "ItemUnitValue": "147.00",
+            "ItemTotal": "882.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        },
+        {
+            "ItemUnitValue": "$147.00",
+            "ItemTotal": "$147.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        },
+        {
+            "ItemUnitValue": "147.00",
+            "ItemTotal": "$882.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        },
+        {
+            "ItemUnitValue": "147.00",
+            "ItemTotal": "$147.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        }
+    ]
+}

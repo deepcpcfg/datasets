@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "December 20, 1990",
+    "InvoiceNumber": "12—0172",
+    "LineItem": [
+        {
+            "ItemDescription": "Source ATB89A1/Carlton Add-A-Card Control (83.75 hours $40.00/hour) Source ATB89AZ/Carlton Add-A-Card Michigan",
+            "ItemTotal": "3,350.00"
+        },
+        {
+            "ItemDescription": "(79*25 hours $40.00/hour) Source ATB89A3/Carlton Add-A-Card",
+            "ItemTotal": "3,170.00"
+        },
+        {
+            "ItemDescription": "Dallas/FC. Worth (53.75 hours $40.00/hour)",
+            "ItemTotal": "2,150.00"
+        },
+        {
+            "ItemDescription": "Source ATB89A4/MC3 PM 94S Promotions (74.25 hours $40.00/houx)",
+            "ItemTotal": "2*970.00"
+        },
+        {
+            "ItemDescription": "Chipping Charges",
+            "ItemTotal": "100.69"
+        },
+        {
+            "ItemDescription": "Copies Travel Entertainment Charges/Lisa Scott",
+            "ItemTotal": "106.28"
+        }
+    ],
+    "TotalAmount": "$37,225.97"
+}

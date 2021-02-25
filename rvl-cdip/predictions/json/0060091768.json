@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "September 28. 1992",
+    "InvoiceNumber": "#09-0252",
+    "LineItem": [
+        {
+            "ItemDescription": "Art/Mechanicai Type",
+            "ItemTotal": "$34521.96"
+        },
+        {
+            "ItemDescription": "List Pdf Stats Copies Faxes Messenger Fresghr",
+            "ItemTotal": "97.00"
+        },
+        {
+            "ItemDescription": "Traver (includes press checks)",
+            "ItemTotal": "292.75"
+        }
+    ]
+}

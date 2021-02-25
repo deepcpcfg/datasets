@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "049412",
+    "IssuedDate": "1/25/95",
+    "TotalAmount": "11,083.92",
+    "LineItem": [
+        {
+            "ItemTotal": "2,841.56",
+            "ItemDescription": "RETOUCHING- ELECTRONIC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,845.50",
+            "ItemDescription": "LAYOUT - GOWS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,21913",
+            "ItemDescription": "ILLUSTRATION",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "177.73",
+            "ItemDescription": "OTHER (SF-EGIFY)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+[
+    {
+        "IssuedDate": [
+            "December 19, 2000",
+            {
+                "tp": 17.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "8,720.34",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "10,369.50",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "For Legal Services Rendered through November 30,",
+                            {
+                                "tp": 48.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 57.0,
+                        "fp": 0.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2,073*90",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Less; Discount",
+                            {
+                                "tp": 14.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 21.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "11.15",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Local Transportation",
+                            {
+                                "tp": 20.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 14.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "424.74",
+                            {
+                                "tp": 3.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Publications Telephone westlaw Research",
+                            {
+                                "tp": 16.0,
+                                "fp": 23.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 26.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 122.0,
+                "fp": 27.0,
+                "fn": 25.0
+            }
+        ],
+        "InvoiceNumber": [
+            "844502",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 153.0,
+        "fp": 27.0,
+        "fn": 25.0
+    }
+]

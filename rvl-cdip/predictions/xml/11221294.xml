@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="4.0" fp="11.0" fn="91.0">
+    <LineItem tp="4.0" fp="5.0" fn="76.0">
+      <lineItem>
+        <ItemTotal>
+          <box l="650.0" t="666.0" r="767.0" b="714.0">59th</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="584.0" t="729.0" r="725.0" b="778.0">lark,</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="0.0" fp="6.0" fn="0.0">
+      <box l="2282.0" t="529.0" r="2463.0" b="567.0">£220-1</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

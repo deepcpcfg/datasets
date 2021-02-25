@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "September 28, 1984",
+            {
+                "tp": 18.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "37,550.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "150,200.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "90-Day Subchronic Toxicity Study in Rats with D-13, D-23 and 0-25.",
+                            {
+                                "tp": 3.0,
+                                "fp": 63.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 13.0,
+                        "fp": 63.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 19.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 31.0
+                    }
+                ]
+            ],
+            {
+                "tp": 13.0,
+                "fp": 63.0,
+                "fn": 35.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 40.0,
+        "fp": 63.0,
+        "fn": 41.0
+    }
+]

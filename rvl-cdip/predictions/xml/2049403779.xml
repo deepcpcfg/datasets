@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="7.0" fp="5.0" fn="12.0">
+    <LineItem tp="7.0" fp="5.0" fn="12.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="597.0" t="2425.0" r="783.0" b="2466.0">WIPTC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1322.0" t="2673.0" r="1575.0" b="2719.0">$25,000</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="67.0" fp="29.0" fn="68.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="750.0" t="771.0" r="840.0" b="817.0">May</box>
+      <box l="858.0" t="771.0" r="921.0" b="812.0">26.</box>
+      <box l="950.0" t="771.0" r="1050.0" b="809.0">1992</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="1.0" fn="0.0">
+      <box l="953.0" t="1431.0" r="1204.0" b="1477.0">#050226</box>
+    </InvoiceNumber>
+    <LineItem tp="43.0" fp="25.0" fn="68.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="741.0" t="1871.0" r="975.0" b="1913.0">Production</box>
+          <box l="738.0" t="1946.0" r="1001.0" b="1997.0">Typography</box>
+          <box l="741.0" t="2017.0" r="1016.0" b="2059.0">Mechanicals</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2446.0" t="1872.0" r="2665.0" b="1917.0">$6,372.30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="741.0" t="2091.0" r="850.0" b="2130.0">Misc.</box>
+          <box l="872.0" t="2089.0" r="1175.0" b="2138.0">(Coptes.stats)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2514.0" t="2091.0" r="2664.0" b="2130.0">752.33</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="3.0" fn="0.0">
+      <box l="2418.0" t="2455.0" r="2660.0" b="2501.0">$19,00694</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

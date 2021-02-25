@@ -1,0 +1,37 @@
+{
+    "TotalAmount": "900.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Audit service fee:",
+            "ItemTotal": "$1030.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mileage: ",
+            "ItemTotal": "$31.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Merchandise returned:",
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$15.95",
+            "ItemDescription": "Expenses: ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "-$177.70",
+            "ItemDescription": "Credit to reduce to agreed upon budget",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

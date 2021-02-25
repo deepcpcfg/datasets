@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "029",
+    "IssuedDate": "March 17th, 1976",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1.OOD",
+            "ItemDescription": "cigarettes Modified filter flavorln 9 aa par your telex of December 8tt"
+        },
+        {
+            "ItemUnitCount": "1.DD0",
+            "ItemDescription": "Current production"
+        }
+    ]
+}

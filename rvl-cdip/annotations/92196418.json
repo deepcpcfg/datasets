@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "00050",
+    "IssuedDate": "9-03-92",
+    "TotalAmount": "20,441.23",
+    "LineItem": [
+        {
+            "ItemDescription": "CHICAGO TRIBUNE",
+            "ItemTotal": "14,076,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "NEW YORK DAILY MEWS",
+            "ItemTotal": "6,365.23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "65-0104",
+    "IssuedDate": "2/3/87",
+    "TotalAmount": "197,274.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Implementation of Phase I for month of December 19B6: Columbia Construction (your POf 86-1939)",
+            "ItemTotal": "$142,807.1",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Aiken Construction (your PDF 86-1939)",
+            "ItemTotal": "54.467",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

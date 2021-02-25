@@ -1,0 +1,657 @@
+[
+    {
+        "IssuedDate": [
+            "03/ 13/96",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$350,082.10",
+            {
+                "tp": 10.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$15,222.10",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pins (Qty 600.000 6 per kK]",
+                            {
+                                "tp": 24.0,
+                                "fp": 3.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 3.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$29,366.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Window decals (Qty: 300,000)",
+                            {
+                                "tp": 26.0,
+                                "fp": 2.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 36.0,
+                        "fp": 2.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "546.750.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Counter displays (Qty: 200,000 2 per kit)",
+                            {
+                                "tp": 38.0,
+                                "fp": 3.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 46.0,
+                        "fp": 5.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$124,832.50",
+                            {
+                                "tp": 11.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Calendars (Qty: 100.000}",
+                            {
+                                "tp": 23.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$20,521.25",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Calendar Slickers (Qty- 750,000}",
+                            {
+                                "tp": 32.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 42.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$19,040.50",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Training videos (Qty: 100.000)",
+                            {
+                                "tp": 29.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 39.0,
+                        "fp": 1.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$26,461.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Training audios (Qty: 100,900)",
+                            {
+                                "tp": 28.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 38.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$2,184,00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Exira video sleeves (Qty: 100.000)",
+                            {
+                                "tp": 31.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 39.0,
+                        "fp": 4.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$163.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Training workbooks (Qty; 600,COO 6 per tai}",
+                            {
+                                "tp": 41.0,
+                                "fp": 2.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 2.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$12,617.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Tear Dads (Qty 600.COO 6 per kit]",
+                            {
+                                "tp": 26.0,
+                                "fp": 7.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 8.0,
+                        "fn": 10.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$3,807.75",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Breakroom Pesters (Qty: ICO,000)",
+                            {
+                                "tp": 27.0,
+                                "fp": 5.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 36.0,
+                        "fp": 5.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$30,563.25",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Kit Boxes preprinted (Qty: 100,0001",
+                            {
+                                "tp": 35.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 45.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$174.75",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Re-order forms (Qty: 100,000)",
+                            {
+                                "tp": 28.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 1.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$3,630.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Re-order magnets (Qty: 100.300)",
+                            {
+                                "tp": 27.0,
+                                "fp": 4.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 36.0,
+                        "fp": 4.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 15.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 25.0
+                    }
+                ]
+            ],
+            {
+                "tp": 543.0,
+                "fp": 38.0,
+                "fn": 71.0
+            }
+        ],
+        "InvoiceNumber": [
+            "16055",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 566.0,
+        "fp": 40.0,
+        "fn": 71.0
+    }
+]

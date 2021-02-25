@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "99999999",
+    "TotalAmount": "1874.49",
+    "LineItem": [
+        {
+            "ItemTotal": "-778.20",
+            "ItemDescription": "LESS COMP CIGTS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "-778.20",
+            "ItemDescription": "LESS COMP CIGTS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "-389.10",
+            "ItemDescription": "LESS COMP CIGTS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

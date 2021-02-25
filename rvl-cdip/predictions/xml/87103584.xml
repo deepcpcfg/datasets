@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="144.0" fp="11.0" fn="14.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2748.0" t="364.0" r="2952.0" b="409.0">1888051</box>
+    </InvoiceNumber>
+    <IssuedDate tp="4.0" fp="2.0" fn="3.0">
+      <box l="2466.0" t="963.0" r="2647.0" b="1022.0">0364^8</box>
+    </IssuedDate>
+    <LineItem tp="133.0" fp="1.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1036.0" t="1561.0" r="1339.0" b="1600.0">MACROPHAGE</box>
+          <box l="1373.0" t="1566.0" r="1584.0" b="1604.0">PROJECT</box>
+          <box l="1680.0" t="1564.0" r="2003.0" b="1608.0">"EVALUATION</box>
+          <box l="2035.0" t="1570.0" r="2094.0" b="1610.0">OF</box>
+          <box l="2127.0" t="1570.0" r="2217.0" b="1611.0">TWO</box>
+          <box l="2246.0" t="1573.0" r="2458.0" b="1613.0">GENETIC</box>
+          <box l="1036.0" t="1624.0" r="1338.0" b="1663.0">TOXICOLOGY</box>
+          <box l="1368.0" t="1629.0" r="1552.0" b="1666.0">ASSAYS</box>
+          <box l="1585.0" t="1629.0" r="1676.0" b="1666.0">FOR</box>
+          <box l="1702.0" t="1631.0" r="1854.0" b="1669.0">THEIR</box>
+          <box l="1884.0" t="1632.0" r="1973.0" b="1670.0">USE</box>
+          <box l="2006.0" t="1632.0" r="2063.0" b="1670.0">IN</box>
+          <box l="2097.0" t="1634.0" r="2398.0" b="1673.0">MONITORING</box>
+          <box l="1036.0" t="1684.0" r="1243.0" b="1724.0">RODENTS</box>
+          <box l="1281.0" t="1687.0" r="1492.0" b="1725.0">EXPOSED</box>
+          <box l="1523.0" t="1690.0" r="1585.0" b="1728.0">TO</box>
+          <box l="1614.0" t="1690.0" r="1884.0" b="1731.0">CIGARETTE</box>
+          <box l="1914.0" t="1690.0" r="2088.0" b="1732.0">SMOKE’</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2554.0" t="1572.0" r="2766.0" b="1614.0">4100.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="8.0" fn="0.0">
+      <box l="250.0" t="2779.0" r="484.0" b="2827.0">4,100.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

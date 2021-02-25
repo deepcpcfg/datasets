@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "7559",
+    "LineItem": [
+        {
+            "ItemTotal": "$24,000.00",
+            "ItemDescription": "Design engineering i development of new Virginia Slims Butane Piezzo Lighter",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

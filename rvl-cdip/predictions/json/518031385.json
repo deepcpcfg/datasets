@@ -1,0 +1,41 @@
+{
+    "InvoiceNumber": "59-2",
+    "IssuedDate": "07/14",
+    "LineItem": [
+        {
+            "ItemDescription": "12M CAHEL FILTER B1G1F-I1",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671■4000"
+        },
+        {
+            "ItemDescription": "12M CAMEL FILTER BX B1G1F-I1",
+            "ItemUnitCount": "48",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "12M CAMEL LIGHT B1G1F-I1",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "12M CAMEL LT BOX BIGIF-I1",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "12M CAMEL SPEC LT BOX B1G1F",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "12M CAM SPEC LT BX 100 B1G1F",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "LESS",
+            "ItemTotal": "207.29-"
+        }
+    ],
+    "TotalAmount": "4,062.01"
+}

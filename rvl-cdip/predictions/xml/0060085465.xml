@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="25.0" fn="123.0">
+    <LineItem tp="61.0" fp="24.0" fn="120.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="351.0" t="1945.0" r="632.0" b="1993.0">COMPUTER</box>
+          <box l="671.0" t="1962.0" r="1054.0" b="2020.0">PROGRAMMING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1981.0" t="1975.0" r="2044.0" b="2016.0">00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2155.0" t="1984.0" r="2356.0" b="2034.0">$1o.0o</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="344.0" t="2057.0" r="585.0" b="2108.0">CRhRLSS</box>
+          <box l="626.0" t="2072.0" r="681.0" b="2114.0">M.</box>
+          <box l="734.0" t="2079.0" r="905.0" b="2126.0">SLBDD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1907.0" t="2029.0" r="2041.0" b="2075.0">0-50</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2151.0" t="2043.0" r="2353.0" b="2095.0">S20.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="327.0" t="2289.0" r="611.0" b="2341.0">COMPUTER</box>
+          <box l="647.0" t="2307.0" r="1033.0" b="2365.0">PROGRAMMING</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1855.0" t="2259.0" r="2021.0" b="2359.0">2l'9O</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2132.0" t="2335.0" r="2336.0" b="2381.0">$i5.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="1.0" fn="3.0">
+      <box l="2435.0" t="2585.0" r="2569.0" b="2629.0">$896</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

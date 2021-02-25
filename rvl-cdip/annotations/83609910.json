@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "178502",
+    "IssuedDate": "June 17, 1997",
+    "TotalAmount": "917.00",
+    "LineItem": [
+        {
+            "ItemDescription": "To disbursements in payment of Associates’ charges for review, monitoring, filing brief and reporting on the above matter (June, 1993 to present)",
+            "ItemTotal": "$400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "To our services in connection with review of Applicant’s answer to our opposition, instructing the filing of a brief in reply and reporting to you (June, 1993 to present)",
+            "ItemTotal": "$475.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "To our disbursement for facsimile charges ",
+            "ItemTotal": "$42.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

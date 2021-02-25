@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "April 2, 1997",
+    "TotalAmount": "1997",
+    "LineItem": [
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "59"
+        },
+        {
+            "ItemDescription": "Faxes Copies Postage",
+            "ItemTotal": "37.89"
+        },
+        {
+            "ItemDescription": "Business Meals Entertainment",
+            "ItemTotal": "1,287.96"
+        },
+        {
+            "ItemDescription": "Gas",
+            "ItemTotal": "50.84"
+        }
+    ]
+}

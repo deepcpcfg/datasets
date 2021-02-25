@@ -1,0 +1,247 @@
+[
+    {
+        "IssuedDate": [
+            "□att Jul 23. 1991",
+            {
+                "tp": 10.0,
+                "fp": 7.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "8,00",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "1,000.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Trane Air Conditioning Clinic, Jwie M, 1 day",
+                            {
+                                "tp": 41.0,
+                                "fp": 3.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 4.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2,900.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Clean Air Society of Australia and New Zealand Brisbane, July 7-8, 2 days (airfare/aceannodatIon)",
+                            {
+                                "tp": 94.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 102.0,
+                        "fp": 3.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1.000.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Australian Society for Environmental Medicine Brisbane, July 12-13, 1 day (alrfare/aeccnmodat Ion)",
+                            {
+                                "tp": 95.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 102.0,
+                        "fp": 4.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 38.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 48.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,000.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 2.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "l£S Conference, Sydney, July 21, 1 day [ES Conference, Melbourne, July 28, 2 days",
+                            {
+                                "tp": 41.0,
+                                "fp": 40.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 47.0,
+                        "fp": 42.0,
+                        "fn": 5.0
+                    }
+                ]
+            ],
+            {
+                "tp": 299.0,
+                "fp": 53.0,
+                "fn": 70.0
+            }
+        ],
+        "InvoiceNumber": [
+            "010238",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 319.0,
+        "fp": 60.0,
+        "fn": 76.0
+    }
+]

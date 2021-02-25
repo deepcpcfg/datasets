@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "November 18, 1998",
+    "TotalAmount": "1250,00",
+    "LineItem": [
+        {
+            "ItemDescription": "Retrieving articles and books 10/14",
+            "ItemUnitCount": "2",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Reviewing articles and hooks 10/21 & 10/22",
+            "ItemUnitCount": "3",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Writing brief 10/23 & 10/24",
+            "ItemUnitCount": "2",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,411 @@
+[
+    {
+        "IssuedDate": [
+            "1966",
+            {
+                "tp": 0.0,
+                "fp": 4.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$588,01",
+            {
+                "tp": 5.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "20.50",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "50 Charles River CD Mice",
+                            {
+                                "tp": 24.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 5.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "53.39",
+                            {
+                                "tp": 3.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Laboratory Supplies",
+                            {
+                                "tp": 19.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "95,19",
+                            {
+                                "tp": 4.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Direct Labor Pharmacologist Emil Smith, Ph.D.)",
+                            {
+                                "tp": 32.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 36.0,
+                        "fp": 15.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "73.28",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Biochemist (Harris Rosenkranbz:, Ph.D.)",
+                            {
+                                "tp": 37.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 42.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "10.79",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pathologist (Marcus M,Mason,",
+                            {
+                                "tp": 27.0,
+                                "fp": 1.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 1.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "45.30",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Technician pharmacology",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 0.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "235.8]",
+                            {
+                                "tp": 2.0,
+                                "fp": 4.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Technician biochemistry",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 4.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "525.01",
+                            {
+                                "tp": 3.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Overhead (100% of Direct Labor)",
+                            {
+                                "tp": 31.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 3.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 14.0
+                    }
+                ]
+            ],
+            {
+                "tp": 243.0,
+                "fp": 32.0,
+                "fn": 50.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 248.0,
+        "fp": 38.0,
+        "fn": 51.0
+    }
+]

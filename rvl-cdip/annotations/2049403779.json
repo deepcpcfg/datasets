@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "1st payment ",
+            "ItemTotal": "$25,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

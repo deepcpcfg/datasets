@@ -1,0 +1,34 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "TYPEStl IING",
+            "ItemTotal": "5576.61"
+        },
+        {
+            "ItemDescription": "MECHANICALS",
+            "ItemTotal": "1376"
+        },
+        {
+            "ItemDescription": "PHOTOSTATS",
+            "ItemTotal": "188.24"
+        },
+        {
+            "ItemDescription": "KEYLINE/ASSEMBLY",
+            "ItemTotal": "2030.64"
+        },
+        {
+            "ItemDescription": "PRINTING",
+            "ItemTotal": "123866.04"
+        },
+        {
+            "ItemDescription": "COMPUTER",
+            "ItemTotal": "1140.00"
+        },
+        {
+            "ItemDescription": "ENGRAVING SHIPPING",
+            "ItemTotal": "14535.00"
+        }
+    ],
+    "InvoiceNumber": "D-06-01112",
+    "TotalAmount": "160197.29"
+}

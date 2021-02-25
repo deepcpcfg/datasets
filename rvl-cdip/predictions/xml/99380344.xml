@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="68.0" fp="45.0" fn="70.0">
+    <LineItem tp="59.0" fp="44.0" fn="70.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="415.0" t="1636.0" r="546.0" b="1682.0">Digital</box>
+          <box l="569.0" t="1633.0" r="802.0" b="1670.0">Production</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2566.0" t="1633.0" r="2716.0" b="1670.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="415.0" t="1703.0" r="655.0" b="1740.0">Downloads</box>
+          <box l="415.0" t="1767.0" r="689.0" b="1804.0">Mechanicals</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2562.0" t="1699.0" r="2716.0" b="1737.0">200,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="415.0" t="1836.0" r="614.0" b="1878.0">Mounting</box>
+          <box l="414.0" t="1901.0" r="605.0" b="1936.0">Printouts</box>
+          <box l="643.0" t="1833.0" r="780.0" b="1870.0">Studio</box>
+          <box l="414.0" t="1965.0" r="664.0" b="2008.0">Retouching</box>
+          <box l="413.0" t="2032.0" r="620.0" b="2066.0">Revisions</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2561.0" t="1833.0" r="2715.0" b="1870.0">220,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2459.0" t="2283.0" r="2713.0" b="2324.0">$13,137.76</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

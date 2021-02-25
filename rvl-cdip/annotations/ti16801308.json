@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "9800-6911",
+    "IssuedDate": "02/08/96",
+    "TotalAmount": "100,000.00",
+    "LineItem": [
+        {
+            "ItemTotal": "6.900. 00",
+            "ItemDescription": "800 Number - Fax",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Management",
+            "ItemTotal": "21.600 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "71.500.00",
+            "ItemDescription": "800 Number -Operator",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

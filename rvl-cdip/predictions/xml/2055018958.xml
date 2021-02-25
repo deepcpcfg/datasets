@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="36.0" fp="27.0" fn="11.0">
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2054.0" t="767.0" r="2287.0" b="812.0">3/14/95</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2651.0" t="783.0" r="2817.0" b="820.0">503258</box>
+    </InvoiceNumber>
+    <LineItem tp="23.0" fp="27.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="734.0" t="1634.0" r="1005.0" b="1676.0">NICOTINE</box>
+          <box l="1046.0" t="1636.0" r="1284.0" b="1676.0">CONTENT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1984.0" t="1638.0" r="2012.0" b="1676.0">3</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2300.0" t="1638.0" r="2463.0" b="1677.0">17.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2751.0" t="1639.0" r="2916.0" b="1678.0">51.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="417.0" t="1808.0" r="729.0" b="1850.0">REQUESTED</box>
+          <box l="771.0" t="1809.0" r="829.0" b="1846.0">BY</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2301.0" t="1696.0" r="2463.0" b="1734.0">60.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2714.0" t="1696.0" r="2916.0" b="1734.0">180.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "August 20, 1981",
+    "InvoiceNumber": "5-0",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of Report Testing of Compound in the Beagle Dog\"",
+            "ItemTotal": "$2,700.00"
+        },
+        {
+            "ItemDescription": "Final \"Cardiovascular A-11 at compound."
+        }
+    ],
+    "TotalAmount": "$2,700.00"
+}

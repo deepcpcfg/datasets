@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="107.0" fp="40.0" fn="28.0">
+    <IssuedDate tp="15.0" fp="1.0" fn="0.0">
+      <box l="491.0" t="874.0" r="707.0" b="927.0">January</box>
+      <box l="745.0" t="873.0" r="831.0" b="926.0">23,</box>
+      <box l="873.0" t="872.0" r="990.0" b="918.0">1984</box>
+    </IssuedDate>
+    <LineItem tp="89.0" fp="36.0" fn="19.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="491.0" t="1966.0" r="641.0" b="2012.0">Smoke</box>
+          <box l="678.0" t="1965.0" r="991.0" b="2012.0">Condensate</box>
+          <box l="1025.0" t="1963.0" r="1337.0" b="2013.0">Collection</box>
+          <box l="1371.0" t="1966.0" r="1495.0" b="2012.0">with</box>
+          <box l="1533.0" t="1965.0" r="1623.0" b="2012.0">0-7</box>
+          <box l="1658.0" t="1965.0" r="1749.0" b="2011.0">and</box>
+          <box l="1787.0" t="1965.0" r="1907.0" b="2014.0">0-14</box>
+          <box l="553.0" t="2028.0" r="962.0" b="2085.0">&gt;2,500/10,000</box>
+          <box l="995.0" t="2030.0" r="1303.0" b="2088.0">cigarettes</box>
+          <box l="1346.0" t="2032.0" r="1528.0" b="2078.0">smoked</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2454.0" t="1966.0" r="2703.0" b="2020.0">5,235.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="963.0" t="2157.0" r="1274.0" b="2218.0">Cigarettes</box>
+          <box l="1313.0" t="2162.0" r="1496.0" b="2207.0">Smoked</box>
+          <box l="1534.0" t="2161.0" r="1746.0" b="2219.0">Through</box>
+          <box l="1788.0" t="2160.0" r="2034.0" b="2220.0">12/31/83</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1726.0" t="2289.0" r="1909.0" b="2343.0">10,290</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="3.0" fn="3.0">
+      <box l="1726.0" t="2352.0" r="1910.0" b="2408.0">10,650</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "MARI7/00",
+    "InvoiceNumber": "PP.03-00714",
+    "LineItem": [
+        {
+            "ItemDescription": "Nou-CoffliiiiBsioTiAble",
+            "ItemTotal": "1,039.67"
+        },
+        {
+            "ItemDescription": "charger.",
+            "ItemTotal": "0-00"
+        },
+        {
+            "ItemDescription": "Agency Cwnuincion",
+            "ItemTotal": "0."
+        },
+        {
+            "ItemDescription": "003789",
+            "ItemTotal": "3000.00"
+        }
+    ]
+}

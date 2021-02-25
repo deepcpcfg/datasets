@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "12th July 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Fees",
+            "ItemTotal": "9,350.00"
+        },
+        {
+            "ItemDescription": "Expenses",
+            "ItemTotal": "3,280.78"
+        },
+        {
+            "ItemDescription": "Office Expenses",
+            "ItemTotal": "2,696.73"
+        }
+    ],
+    "TotalAmount": "£29,044.06"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="287.0" t="1189.0" r="315.0" b="1234.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="466.0" t="1193.0" r="587.0" b="1235.0">FOOR</box>
+          <box l="616.0" t="1193.0" r="836.0" b="1235.0">CTAMWL</box>
+          <box l="858.0" t="1191.0" r="1044.0" b="1235.0">8AFETT</box>
+          <box l="1070.0" t="1191.0" r="1194.0" b="1235.0">FWT</box>
+          <box l="1259.0" t="1199.0" r="1340.0" b="1232.0">Oil</box>
+          <box l="1224.0" t="1184.0" r="1495.0" b="1240.0">MODOTI^U</box>
+          <box l="1524.0" t="1188.0" r="1644.0" b="1233.0">IZPT</box>
+          <box l="1675.0" t="1187.0" r="1857.0" b="1238.0">MDjl</box>
+          <box l="1886.0" t="1187.0" r="2036.0" b="1232.0">RIMT</box>
+          <box l="2066.0" t="1181.0" r="2211.0" b="1237.0">BAID)</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2336.0" t="156.0" r="2431.0" b="200.0">mr</box>
+      <box l="2460.0" t="151.0" r="2543.0" b="201.0">23,</box>
+      <box l="2578.0" t="149.0" r="2698.0" b="193.0">im</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

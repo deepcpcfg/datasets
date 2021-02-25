@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "October 3, 1983",
+            {
+                "tp": 14.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "26,500.00",
+            {
+                "tp": 6.0,
+                "fp": 3.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "6,625.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Teratogenic and Perinatal/Postnatal Study in the Rat with D-16 and B-112",
+                            {
+                                "tp": 72.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 79.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 79.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1532-3",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 105.0,
+        "fp": 5.0,
+        "fn": 4.0
+    }
+]

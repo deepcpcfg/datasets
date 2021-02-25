@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "June 20, 1986",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "116,64",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "12.96",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "51.84",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "4 pairs Beta Boots size 9 at",
+                            {
+                                "tp": 28.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 5.0,
+                        "fn": 14.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "12.96",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "38.88",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "3 pairs Beta Boots size 10 at",
+                            {
+                                "tp": 29.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 5.0,
+                        "fn": 14.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "12.96",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2S.92",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "2 pairs Beta Boots size 12 at",
+                            {
+                                "tp": 29.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 5.0,
+                        "fn": 14.0
+                    }
+                ]
+            ],
+            {
+                "tp": 101.0,
+                "fp": 15.0,
+                "fn": 42.0
+            }
+        ],
+        "InvoiceNumber": [
+            "33157",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 124.0,
+        "fp": 16.0,
+        "fn": 43.0
+    }
+]

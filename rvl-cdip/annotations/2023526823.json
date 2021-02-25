@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "371,133.20",
+    "IssuedDate": "January 27, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "Previous balance (January Assessment)",
+            "ItemTotal": "$185,566.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "February Assessment for MAR",
+            "ItemTotal": "185,566,60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

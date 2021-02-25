@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "1616",
+    "IssuedDate": "11/29/88",
+    "LineItem": [
+        {
+            "ItemDescription": "product Montclair. Tested"
+        },
+        {
+            "ItemDescription": "for a new cigarette"
+        },
+        {
+            "ItemDescription": "smokers via",
+            "ItemTotal": "$16,500"
+        },
+        {
+            "ItemDescription": "Photography"
+        }
+    ],
+    "TotalAmount": "$17,800"
+}

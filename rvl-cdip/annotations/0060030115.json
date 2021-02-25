@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "02-0133 ",
+    "IssuedDate": "February 19, 1993",
+    "TotalAmount": "125.69",
+    "LineItem": [
+        {
+            "ItemTotal": "S313.22",
+            "ItemDescription": "’Data Entry - Redemption Coupons (7,606 pcs. © S41.1&M)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "29.41",
+            "ItemDescription": "•Data Entry - Redemption Coupons (11/92 (94 pcs. © $29.4l/rnin. ciig.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2941",
+            "ItemDescription": "'Data Entry - Redemption Coupons 12/92 (5 pcs. © $29.41/min. chg.) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "176.48",
+            "ItemDescription": "'Programming for Data Entr",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,094.75",
+            "ItemDescription": "Management fee covering back-end processing ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "80.00",
+            "ItemDescription": "Wise, (postage, freight, copies, etc.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

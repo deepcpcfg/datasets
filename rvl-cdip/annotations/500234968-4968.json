@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "12-705 ",
+    "IssuedDate": "12/31/70",
+    "TotalAmount": "1,397.23",
+    "LineItem": [
+        {
+            "ItemTotal": "1,200,00",
+            "ItemDescription": "Coat of conducting Monadic Clgiretto Product Test",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "180,00",
+            "ItemDescription": "Supervisory  Expense ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "17.23",
+            "ItemDescription": "Shipping",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

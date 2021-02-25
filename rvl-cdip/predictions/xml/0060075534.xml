@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="82.0" fp="4.0" fn="14.0">
+    <LineItem tp="74.0" fp="2.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="666.0" t="2720.0" r="1058.0" b="2780.0">Videotaping</box>
+          <box l="1071.0" t="2718.0" r="1191.0" b="2768.0">and</box>
+          <box l="1213.0" t="2721.0" r="1620.0" b="2780.0">presentation</box>
+          <box l="1638.0" t="2718.0" r="1863.0" b="2778.0">editing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2315.0" t="2729.0" r="2653.0" b="2781.0">$2,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="668.0" t="2820.0" r="788.0" b="2873.0">(10)</box>
+          <box l="809.0" t="2819.0" r="963.0" b="2880.0">Tape</box>
+          <box l="988.0" t="2815.0" r="1172.0" b="2867.0">Stock</box>
+          <box l="1193.0" t="2814.0" r="1318.0" b="2879.0">Fuji</box>
+          <box l="1340.0" t="2815.0" r="1451.0" b="2865.0">H18</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2315.0" t="2813.0" r="2591.0" b="2867.0">$300.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="2.0" fn="0.0">
+      <box l="2186.0" t="3577.0" r="2572.0" b="3644.0">[$2,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

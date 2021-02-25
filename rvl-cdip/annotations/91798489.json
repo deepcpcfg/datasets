@@ -1,0 +1,55 @@
+{
+    "IssuedDate": "May 22, 1989",
+    "TotalAmount": "56,160",
+    "LineItem": [
+        {
+            "ItemDescription": "1) Postage for 40,000 pieces",
+            "ItemTotal": "6,680.",
+            "ItemUnitValue": ".167",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "13,440.",
+            "ItemDescription": "2) Envelopes (10 1/2 x 11 1/2) 160,000",
+            "ItemUnitValue": "084",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "15,680.",
+            "ItemDescription": "3) Prep 65 sign (generic) Prop 65 sign (tobaoco) 160,000",
+            "ItemUnitValue": ".049",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "10,560.",
+            "ItemDescription": "4) Fact Sheets @ 160,000",
+            "ItemUnitValue": ".066",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "600.",
+            "ItemDescription": "5) Return Envelcpes 8 40,000",
+            "ItemUnitValue": ".015",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "1,400.",
+            "ItemDescription": "6) Mailhouse fee @ 40,000 pieces",
+            "ItemUnitValue": ".147",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "5,600.",
+            "ItemDescription": "7) Labels 160,000",
+            "ItemUnitValue": ".035",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "2.200,",
+            "ItemDescription": "8) Brochure for bocks 40,000",
+            "ItemUnitValue": ".055",
+            "ItemUnitCount": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="68.0" fp="96.0" fn="45.0">
+    <IssuedDate tp="0.0" fp="13.0" fn="0.0">
+      <box l="2623.0" t="1446.0" r="2670.0" b="1483.0">10</box>
+      <box l="2706.0" t="1444.0" r="2778.0" b="1486.0">'03</box>
+      <box l="2806.0" t="1444.0" r="2811.0" b="1489.0">1</box>
+      <box l="2836.0" t="1440.0" r="2889.0" b="1481.0">86</box>
+      <box l="2958.0" t="1448.0" r="2981.0" b="1478.0">7</box>
+    </IssuedDate>
+    <LineItem tp="68.0" fp="83.0" fn="35.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="582.0" t="1717.0" r="606.0" b="1754.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="728.0" t="1715.0" r="798.0" b="1761.0">|CT</box>
+          <box l="914.0" t="1711.0" r="1044.0" b="1760.0">10496</box>
+          <box l="1123.0" t="1709.0" r="1186.0" b="1754.0">I6H</box>
+          <box l="1325.0" t="1716.0" r="1735.0" b="1764.0">Harley-flavldson</box>
+          <box l="1764.0" t="1718.0" r="1789.0" b="1755.0">K</box>
+          <box l="1819.0" t="1717.0" r="1839.0" b="1754.0">S</box>
+          <box l="1877.0" t="1715.0" r="1981.0" b="1754.0">Flit</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2206.0" t="1712.0" r="2368.0" b="1757.0">6.0800</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2594.0" t="1713.0" r="2724.0" b="1762.0">13.76</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="583.0" t="1775.0" r="606.0" b="1812.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="745.0" t="1773.0" r="798.0" b="1814.0">CT</box>
+          <box l="915.0" t="1768.0" r="1045.0" b="1818.0">10496</box>
+          <box l="1133.0" t="1769.0" r="1187.0" b="1812.0">6M</box>
+          <box l="1328.0" t="1771.0" r="1486.0" b="1819.0">Harley</box>
+          <box l="1516.0" t="1777.0" r="1545.0" b="1810.0">K</box>
+          <box l="1570.0" t="1776.0" r="1594.0" b="1810.0">S</box>
+          <box l="1628.0" t="1770.0" r="1732.0" b="1812.0">Flit</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2241.0" t="1769.0" r="2369.0" b="1811.0">.8800</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="583.0" t="1830.0" r="608.0" b="1867.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="746.0" t="1830.0" r="798.0" b="1868.0">CT</box>
+          <box l="916.0" t="1823.0" r="1045.0" b="1872.0">10496</box>
+          <box l="1130.0" t="1824.0" r="1187.0" b="1866.0">6m</box>
+          <box l="1324.0" t="1829.0" r="1542.0" b="1867.0">Davidson</box>
+          <box l="1571.0" t="1832.0" r="1596.0" b="1867.0">K</box>
+          <box l="1629.0" t="1829.0" r="1649.0" b="1865.0">S</box>
+          <box l="1683.0" t="1828.0" r="1787.0" b="1865.0">Flit</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2204.0" t="1823.0" r="2366.0" b="1867.0">6.8800</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="584.0" t="1886.0" r="606.0" b="1921.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="746.0" t="1884.0" r="799.0" b="1922.0">CT</box>
+          <box l="913.0" t="1878.0" r="1043.0" b="1926.0">10496</box>
+          <box l="1131.0" t="1878.0" r="1188.0" b="1928.0">6m</box>
+          <box l="1325.0" t="1885.0" r="1400.0" b="1921.0">H-D</box>
+          <box l="1435.0" t="1887.0" r="1459.0" b="1920.0">K</box>
+          <box l="1489.0" t="1885.0" r="1510.0" b="1919.0">S</box>
+          <box l="1547.0" t="1884.0" r="1650.0" b="1921.0">Flit</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2205.0" t="1877.0" r="2367.0" b="1920.0">6.8800</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

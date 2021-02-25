@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Audit service fee:",
+            "ItemTotal": "$1030.25"
+        },
+        {
+            "ItemDescription": "Mileage: Merchandise returned:",
+            "ItemTotal": "$0.00"
+        },
+        {
+            "ItemDescription": "Expensesi",
+            "ItemTotal": "$15.95"
+        }
+    ],
+    "InvoiceNumber": "#872943"
+}

@@ -1,0 +1,57 @@
+{
+    "IssuedDate": "May 31, 2001",
+    "InvoiceNumber": "207685",
+    "LineItem": [
+        {
+            "ItemDescription": "For Professional Services Rendered:",
+            "ItemTotal": "$42,702.75"
+        },
+        {
+            "ItemDescription": "Contest Coordination/Judging",
+            "ItemTotal": "37,729.75"
+        },
+        {
+            "ItemDescription": "Announcement Media Relatione",
+            "ItemTotal": "4,973.00"
+        },
+        {
+            "ItemDescription": "Hugh Williams",
+            "ItemTotal": "91.55"
+        },
+        {
+            "ItemDescription": "Hugh Williams Total Travel And Subsistence",
+            "ItemTotal": ".34"
+        },
+        {
+            "ItemDescription": "Burrelle1e information",
+            "ItemTotal": "349.30"
+        },
+        {
+            "ItemDescription": "Total Courier Clipping",
+            "ItemTotal": "34.9.30"
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "10.87"
+        },
+        {
+            "ItemDescription": "Overnight Courier",
+            "ItemTotal": "35-35"
+        },
+        {
+            "ItemDescription": "Press Releasee Associated Release Service",
+            "ItemTotal": "370.00"
+        },
+        {
+            "ItemDescription": "Associated Release Service",
+            "ItemTotal": "200.00"
+        },
+        {
+            "ItemDescription": "Associated Release Service",
+            "ItemTotal": "346.00"
+        },
+        {
+            "ItemDescription": "Printers"
+        }
+    ]
+}

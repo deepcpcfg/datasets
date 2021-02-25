@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="34.0" fn="2.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2528.0" t="897.0" r="2650.0" b="936.0">2247</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2366.0" t="1028.0" r="2586.0" b="1068.0">12-1-71</box>
+    </IssuedDate>
+    <LineItem tp="45.0" fp="33.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="498.0" t="1867.0" r="597.0" b="1907.0">Two</box>
+          <box l="757.0" t="1866.0" r="1047.0" b="1914.0">Borgwaldt</box>
+          <box l="1077.0" t="1865.0" r="1302.0" b="1915.0">Smoking</box>
+          <box l="1336.0" t="1864.0" r="1590.0" b="1904.0">Machines</box>
+          <box l="661.0" t="1938.0" r="760.0" b="1971.0">RJR</box>
+          <box l="790.0" t="1937.0" r="877.0" b="1973.0">No.</box>
+          <box l="923.0" t="1933.0" r="1139.0" b="1970.0">0777745</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2782.0" t="1928.0" r="3065.0" b="1976.0">$3,199.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="661.0" t="2001.0" r="760.0" b="2038.0">RJR</box>
+          <box l="790.0" t="2000.0" r="877.0" b="2038.0">No.</box>
+          <box l="923.0" t="1999.0" r="1140.0" b="2037.0">0777746</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2819.0" t="1994.0" r="3065.0" b="2043.0">3,200.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2783.0" t="2060.0" r="3065.0" b="2106.0">$6,399.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

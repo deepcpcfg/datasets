@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "0078",
+    "LineItem": [
+        {
+            "ItemDescription": "HBI"
+        }
+    ],
+    "IssuedDate": "Sep 13, 1991",
+    "TotalAmount": "45,000.00"
+}

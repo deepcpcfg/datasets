@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "002586",
+    "IssuedDate": "03/08/93",
+    "LineItem": [
+        {
+            "ItemDescription": "DIRECT MAIL/NAME ENTRY CHARGES",
+            "ItemTotal": "5,494.00"
+        },
+        {
+            "ItemDescription": "PALLET STORAGE CHARGE",
+            "ItemTotal": "21.00"
+        },
+        {
+            "ItemDescription": "PALLET HANDLING FEE",
+            "ItemTotal": "170.00"
+        }
+    ],
+    "TotalAmount": "5,885.00"
+}

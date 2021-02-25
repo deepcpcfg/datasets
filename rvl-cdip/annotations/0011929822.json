@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "August 14, 1987",
+    "TotalAmount": "10,029.35",
+    "LineItem": [
+        {
+            "ItemDescription": "Per Capita Disbursement",
+            "ItemTotal": "2,994.15",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Market Share",
+            "ItemTotal": "7.035.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "02-0294",
+    "IssuedDate": "February 26, 1992",
+    "TotalAmount": "26,393.27",
+    "LineItem": [
+        {
+            "ItemDescription": "Development",
+            "ItemTotal": "$10,460,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Line Art",
+            "ItemTotal": "1,268*91",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Initial Execution",
+            "ItemTotal": "13,170*41",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

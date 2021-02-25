@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "365",
+    "IssuedDate": "7/5/02",
+    "TotalAmount": "300.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Website Hosting - Jify",
+            "ItemTotal": "200 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Website Reporting - June",
+            "ItemTotal": "100.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

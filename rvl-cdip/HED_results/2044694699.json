@@ -1,0 +1,141 @@
+[
+    {
+        "IssuedDate": [
+            "Date 12-26-87",
+            {
+                "tp": 8.0,
+                "fp": 5.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "56.814.00",
+            {
+                "tp": 7.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$6,585",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "professional service fees to DATE U.S.",
+                            {
+                                "tp": 8.0,
+                                "fp": 30.0,
+                                "fn": 25.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 30.0,
+                        "fn": 33.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "PREVIOUSLY",
+                            {
+                                "tp": 0.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 10.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$229,00",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "OUT-OF-POCKET EXPENSES TO DATE U.S",
+                            {
+                                "tp": 30.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 36.0,
+                        "fp": 5.0,
+                        "fn": 6.0
+                    }
+                ]
+            ],
+            {
+                "tp": 50.0,
+                "fp": 45.0,
+                "fn": 39.0
+            }
+        ],
+        "InvoiceNumber": [
+            "120044",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 71.0,
+        "fp": 52.0,
+        "fn": 40.0
+    }
+]

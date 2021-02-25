@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "333293",
+    "IssuedDate": "05/12/93",
+    "TotalAmount": "2,851.75",
+    "LineItem": [
+        {
+            "ItemTotal": "3,355.00",
+            "ItemDescription": "AD SIZE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "503.25",
+            "ItemDescription": "AGENCY COMMISSION",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "990S5516",
+    "LineItem": [
+        {
+            "ItemUnitCount": "22",
+            "ItemDescription": "1 OZ. MAIL PIECES",
+            "ItemTotal": "34.10"
+        },
+        {
+            "ItemDescription": "2 OZ. MAIL PIECES",
+            "ItemUnitValue": "124.00",
+            "ItemTotal": "124.00"
+        }
+    ],
+    "TotalAmount": "358.10"
+}

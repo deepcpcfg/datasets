@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1030553",
+    "IssuedDate": "MAY 27,1991",
+    "TotalAmount": "16,016.40",
+    "LineItem": [
+        {
+            "ItemTotal": "1,104.00",
+            "ItemDescription": "JUN»Q3t1991 jet 4 COLOR ORDER NUMBER LM6177 STH COLOR PREM NEWPORT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "17,544.00",
+            "ItemDescription": "I PAGE JUN.03,1991 JET 4 COLOR ORDER NUMBER LM6177 BLEED NEWPORT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,631",
+            "ItemDescription": "COMMISSION FROM ABOVE TTEM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

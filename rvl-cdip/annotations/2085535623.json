@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1-Sep",
+    "IssuedDate": "w/oa/oi",
+    "TotalAmount": "52,550.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Prqect Title: \"Establishing a Link Between Pollen allergens and the Rising Incidence of Asthma Billing for June 4, 2001 through Sept. 30, 2001",
+            "ItemTotal": "52,550.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

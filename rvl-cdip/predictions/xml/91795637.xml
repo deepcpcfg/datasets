@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="305.0" fp="58.0" fn="92.0">
+    <IssuedDate tp="7.0" fp="1.0" fn="1.0">
+      <box l="2155.0" t="814.0" r="2437.0" b="859.0">11/30/64</box>
+    </IssuedDate>
+    <InvoiceNumber tp="3.0" fp="0.0" fn="0.0">
+      <box l="2633.0" t="876.0" r="2737.0" b="917.0">343</box>
+    </InvoiceNumber>
+    <LineItem tp="295.0" fp="57.0" fn="91.0">
+      <lineItem>
+        <ItemTotal>
+          <box l="179.0" t="2235.0" r="229.0" b="2276.0">1.</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="724.0" t="2233.0" r="791.0" b="2278.0">Up</box>
+          <box l="841.0" t="2232.0" r="899.0" b="2274.0">to</box>
+          <box l="729.0" t="2286.0" r="1012.0" b="2332.0">&lt;100,001</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="949.0" t="2232.0" r="1232.0" b="2278.0">&lt;100,000</box>
+          <box l="1062.0" t="2287.0" r="1123.0" b="2328.0">to</box>
+          <box l="1169.0" t="2287.0" r="1455.0" b="2333.0">&lt;250,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2643.0" t="2289.0" r="2746.0" b="2329.0">390</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="2344.0" r="1012.0" b="2390.0">♦250,001</box>
+          <box l="1066.0" t="2349.0" r="1123.0" b="2386.0">to</box>
+          <box l="1169.0" t="2345.0" r="1453.0" b="2391.0">&lt;500,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2606.0" t="2348.0" r="2744.0" b="2389.0">♦600</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="2411.0" r="1012.0" b="2454.0">&lt;500,001</box>
+          <box l="1066.0" t="2411.0" r="1123.0" b="2449.0">to</box>
+          <box l="1169.0" t="2409.0" r="1527.0" b="2454.0">&lt;1,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2643.0" t="2411.0" r="2709.0" b="2449.0">99</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="2470.0" r="1085.0" b="2515.0">&lt;1,000,001</box>
+          <box l="1139.0" t="2474.0" r="1198.0" b="2511.0">to</box>
+          <box l="1244.0" t="2470.0" r="1603.0" b="2516.0">&lt;2,500,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2647.0" t="2473.0" r="2783.0" b="2511.0">1400</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="2532.0" r="1086.0" b="2578.0">&lt;2,500,001</box>
+          <box l="1138.0" t="2533.0" r="1198.0" b="2570.0">to</box>
+          <box l="1243.0" t="2530.0" r="1603.0" b="2578.0">&lt;5,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2647.0" t="2532.0" r="2783.0" b="2572.0">2000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2595.0" r="1085.0" b="2641.0">&lt;5,000,001</box>
+          <box l="1139.0" t="2595.0" r="1198.0" b="2636.0">to</box>
+          <box l="1243.0" t="2595.0" r="1639.0" b="2641.0">&lt;10,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2647.0" t="2595.0" r="2783.0" b="2636.0">3200</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2657.0" r="1123.0" b="2703.0">♦10,000,001</box>
+          <box l="1177.0" t="2658.0" r="1235.0" b="2695.0">to</box>
+          <box l="1281.0" t="2655.0" r="1677.0" b="2701.0">&lt;20,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2646.0" t="2657.0" r="2783.0" b="2695.0">4800</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2718.0" r="1123.0" b="2764.0">♦20,000,DOI</box>
+          <box l="1177.0" t="2719.0" r="1235.0" b="2758.0">to</box>
+          <box l="1282.0" t="2716.0" r="1677.0" b="2762.0">&lt;30,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2646.0" t="2719.0" r="2783.0" b="2758.0">6000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2782.0" r="1125.0" b="2828.0">&lt;30,000,001</box>
+          <box l="1177.0" t="2782.0" r="1234.0" b="2820.0">to</box>
+          <box l="1284.0" t="2780.0" r="1676.0" b="2827.0">&lt;40,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2646.0" t="2782.0" r="2783.0" b="2820.0">7200</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2840.0" r="1126.0" b="2886.0">&lt;40,000,001</box>
+          <box l="1177.0" t="2841.0" r="1236.0" b="2882.0">to</box>
+          <box l="1284.0" t="2838.0" r="1677.0" b="2886.0">♦60,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2646.0" t="2840.0" r="2783.0" b="2882.0">9350</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2900.0" r="1126.0" b="2949.0">&lt;60,000,001</box>
+          <box l="1177.0" t="2903.0" r="1235.0" b="2941.0">to</box>
+          <box l="1284.0" t="2901.0" r="1679.0" b="2945.0">&lt;80,000,000</box>
+          <box l="732.0" t="2962.0" r="1125.0" b="3007.0">&lt;60,000,001</box>
+          <box l="1177.0" t="2963.0" r="1235.0" b="3003.0">to</box>
+          <box l="1284.0" t="2962.0" r="1713.0" b="3008.0">&lt;100,000,000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2608.0" t="2964.0" r="2820.0" b="3003.0">&lt;10900</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "JANUARY 28, 1987",
+    "TotalAmount": "1,1622.92",
+    "LineItem": [
+        {
+            "ItemDescription": "SENIOR PROFESSIONAL 5.00 HRS* 9 $106.73",
+            "ItemTotal": "$ 533.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$881.31",
+            "ItemDescription": "MID-LEVEL PROFESSIONAL 19.50 HRS. 3 $60.78",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$207.96",
+            "ItemDescription": "PROFESSIONAL 6,00 HRS* 3 $34,66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

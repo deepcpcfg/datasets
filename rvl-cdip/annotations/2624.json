@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PRO9-022528",
+    "IssuedDate": "SEP16/02",
+    "TotalAmount": "1,165.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Commissionable Charges",
+            "ItemTotal": "1,165.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "D.OO",
+            "ItemDescription": "Comissionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Commission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

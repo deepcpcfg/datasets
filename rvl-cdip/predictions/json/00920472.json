@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "March 19, 1982",
+    "InvoiceNumber": "4-J",
+    "LineItem": [
+        {
+            "ItemDescription": "Costs accumulated in",
+            "ItemTotal": "$8,123,00"
+        },
+        {
+            "ItemDescription": "February, 1982 Direct Labor (232 hrs.)",
+            "ItemTotal": "2,045.00"
+        },
+        {
+            "ItemDescription": "Direct Materials",
+            "ItemTotal": "717.00"
+        }
+    ]
+}

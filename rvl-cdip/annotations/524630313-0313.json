@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "11045",
+    "IssuedDate": "01701/98",
+    "TotalAmount": "565,356.36",
+    "LineItem": [
+        {
+            "ItemDescription": "R-9 CAMEL/WINSTON/SALEM BUYDOWN FOR MAY 1998",
+            "ItemTotal": "565,356.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

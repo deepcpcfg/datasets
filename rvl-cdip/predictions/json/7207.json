@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "JAN25/00",
+    "InvoiceNumber": "PRO1-005935",
+    "LineItem": [
+        {
+            "ItemDescription": "NoD-COffBniaijoPable Charges",
+            "ItemTotal": "5.000.00"
+        },
+        {
+            "ItemDescription": "Cowii sal enable Charges",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "CoquiIbbIon",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "6,000.00"
+}

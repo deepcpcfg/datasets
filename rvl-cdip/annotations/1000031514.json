@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "411-9/1780 ",
+    "IssuedDate": "May 2, 1980",
+    "TotalAmount": "550",
+    "LineItem": [
+        {
+            "ItemDescription": "Production of work paper on byssinosis and smoking",
+            "ItemTotal": "550",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

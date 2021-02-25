@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="146.0" fp="2.0" fn="0.0">
+    <InvoiceNumber tp="0.0" fp="2.0" fn="0.0">
+      <box l="1731.0" t="523.0" r="1845.0" b="589.0">of</box>
+    </InvoiceNumber>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="991.0" t="1487.0" r="1266.0" b="1545.0">September</box>
+      <box l="1296.0" t="1489.0" r="1329.0" b="1538.0">1,</box>
+      <box l="1362.0" t="1485.0" r="1471.0" b="1532.0">1994</box>
+    </IssuedDate>
+    <LineItem tp="119.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="451.0" t="2051.0" r="709.0" b="2111.0">Corporate</box>
+          <box l="731.0" t="2051.0" r="1034.0" b="2111.0">sponsorship</box>
+          <box l="1056.0" t="2049.0" r="1106.0" b="2095.0">of</box>
+          <box l="1127.0" t="2050.0" r="1205.0" b="2096.0">7th</box>
+          <box l="1227.0" t="2050.0" r="1418.0" b="2097.0">Annual</box>
+          <box l="1439.0" t="2049.0" r="1722.0" b="2109.0">Leadership</box>
+          <box l="510.0" t="2122.0" r="722.0" b="2168.0">Institute</box>
+          <box l="747.0" t="2121.0" r="817.0" b="2167.0">for</box>
+          <box l="839.0" t="2122.0" r="1026.0" b="2180.0">Mayors</box>
+          <box l="1051.0" t="2117.0" r="1268.0" b="2180.0">(LIM94)</box>
+          <box l="1293.0" t="2135.0" r="1355.0" b="2165.0">on</box>
+          <box l="1378.0" t="2119.0" r="1642.0" b="2165.0">December</box>
+          <box l="1663.0" t="2118.0" r="1783.0" b="2169.0">9-13,</box>
+          <box l="1818.0" t="2117.0" r="1926.0" b="2165.0">1994</box>
+          <box l="629.0" t="2190.0" r="675.0" b="2236.0">in</box>
+          <box l="700.0" t="2191.0" r="882.0" b="2238.0">Florida</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2510.0" t="2043.0" r="2773.0" b="2098.0">$10,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="10.0" fp="0.0" fn="0.0">
+      <box l="2507.0" t="2671.0" r="2771.0" b="2729.0">$10,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,14 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Issue Tro, 3,000 copies",
+            "ItemTotal": "460-00"
+        },
+        {
+            "ItemDescription": "Issue Three, 3,000 copies",
+            "ItemTotal": "460.00"
+        }
+    ],
+    "IssuedDate": "May 8, 1991",
+    "TotalAmount": "920.00"
+}

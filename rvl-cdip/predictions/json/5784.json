@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "63419",
+    "IssuedDate": "4-07-63",
+    "LineItem": [
+        {
+            "ItemDescription": "PHILADELPHIA INOUI REW 490 FROM 7Z1O PG V 016 SL12 3/13/86",
+            "ItemUnitValue": "16.061,I",
+            "ItemTotal": "13.6S1.94CT"
+        },
+        {
+            "ItemDescription": "TO 7/10 Pt V 0 12 SL12",
+            "ItemTotal": "1A.036.3J"
+        }
+    ]
+}

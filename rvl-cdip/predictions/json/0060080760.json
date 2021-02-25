@@ -1,0 +1,27 @@
+{
+    "IssuedDate": "January 27. 1993",
+    "InvoiceNumber": "401-0273",
+    "LineItem": [
+        {
+            "ItemDescription": "Data Entry ’Look Book' Requests (4,384 pcs. $470.",
+            "ItemTotal": "$2,063.11"
+        },
+        {
+            "ItemDescription": "Output labvets for fulfillment",
+            "ItemTotal": "58.82"
+        },
+        {
+            "ItemDescription": "Programming (or data entry Management Fee covering supervision of gala eniry and reporting",
+            "ItemTotal": "346.48"
+        },
+        {
+            "ItemDescription": "A. Kaminsky (19,75 hrs.)",
+            "ItemTotal": "1.659.CO"
+        },
+        {
+            "ItemDescription": "Mfec. (copies, freight,",
+            "ItemTotal": "317.44"
+        }
+    ],
+    "TotalAmount": "$4,544.39"
+}

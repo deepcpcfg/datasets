@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "86082",
+    "IssuedDate": "Feb. 26, 1974",
+    "LineItem": [
+        {
+            "ItemDescription": "Reprints",
+            "ItemUnitValue": "57*00"
+        },
+        {
+            "ItemDescription": "Page costs",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "30*00",
+            "ItemTotal": "90*00"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "TotalAmount": "7366.18",
+    "LineItem": [
+        {
+            "ItemDescription": "Air fares",
+            "ItemTotal": "4118.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Surface",
+            "ItemTotal": "208.86",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hotels",
+            "ItemTotal": "345.03",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals",
+            "ItemTotal": "119.97",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Misc",
+            "ItemTotal": "24.12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Secretarial ass",
+            "ItemTotal": "300.—",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Consultation fee 9 days a 250",
+            "ItemTotal": "2250.—",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

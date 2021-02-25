@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1 D",
+    "IssuedDate": "July 23, 1981 ",
+    "TotalAmount": "6048.00",
+    "LineItem": [
+        {
+            "ItemDescription": "April",
+            "ItemUnitCount": "66",
+            "ItemUnitValue": "27.00",
+            "ItemTotal": "1782.00"
+        },
+        {
+            "ItemDescription": "May",
+            "ItemUnitCount": "92",
+            "ItemUnitValue": "27.00",
+            "ItemTotal": "2484.00"
+        },
+        {
+            "ItemDescription": "June",
+            "ItemUnitCount": "66",
+            "ItemUnitValue": "27.00",
+            "ItemTotal": "1782.00"
+        }
+    ]
+}

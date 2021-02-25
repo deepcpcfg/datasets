@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "26-DEC-B5",
+    "LineItem": [
+        {
+            "ItemTotal": "10022",
+            "ItemDescription": "SCIENTIFIC EQUIPMENT"
+        },
+        {
+            "ItemDescription": "INLAND FREIGHT",
+            "ItemTotal": "119,00",
+            "ItemUnitValue": "119*00"
+        }
+    ],
+    "InvoiceNumber": "0045821"
+}

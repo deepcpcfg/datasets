@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "3227",
+    "IssuedDate": "31 AUG 69",
+    "TotalAmount": "6,700.04",
+    "LineItem": [
+        {
+            "ItemDescription": "PAYROLL",
+            "ItemTotal": "2,501.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "BENEFITS",
+            "ItemTotal": "-0-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TRAVEL",
+            "ItemTotal": "-0-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CHEMICALS AND LAB SUPPLIES",
+            "ItemTotal": "724.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "BYU EQUIPMENT LEASE",
+            "ItemTotal": "1,685.83",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "BYU LABORATORY USE FEE",
+            "ItemTotal": "-0-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "INDIRECT COSTS",
+            "ItemTotal": "709.66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FEE 5% OF DIRECT COSTS",
+            "ItemTotal": "161.29",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FINANCE CHARGE",
+            "ItemTotal": "917.52",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,888 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "5100.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "5100.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "ROON-BOARD-SEMI",
+                            {
+                                "tp": 15.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 7.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "1465.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "ICU-SURGICAL",
+                            {
+                                "tp": 12.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 7.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "664.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PHARMACY",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 8.0,
+                        "fp": 6.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "297.65",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "297.65",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "IV SOLUTION'S",
+                            {
+                                "tp": 12.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 7.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "67.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "67.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "IV THERAPY",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 15.0,
+                        "fp": 5.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2039-05",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MED-SUR SUPPLIES",
+                            {
+                                "tp": 16.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 23.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "45.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "45.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LABORATORY OR (LAS)",
+                            {
+                                "tp": 19.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 5.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "677.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "<177.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LAB-CHEMISTRY",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 8.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "222.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "222.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LAB-IMMUNOLOGY",
+                            {
+                                "tp": 14.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 20.0,
+                        "fp": 6.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "318.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LAB-HEMATOLOGY",
+                            {
+                                "tp": 0.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 20.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "322,00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "322.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LAB-BACT-MICRO",
+                            {
+                                "tp": 0.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 26.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "354.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PATHOLOGY LAB",
+                            {
+                                "tp": 0.0,
+                                "fp": 13.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 19.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "316.50",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "Jib.",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DX X-RAY",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 18.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "65.50",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "65.50",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DX X-RAY-CHEST",
+                            {
+                                "tp": 14.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 5.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 11.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 18.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "756-00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "756.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "OR SERVICES ANESTHESIA",
+                            {
+                                "tp": 10.0,
+                                "fp": 12.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 16.0,
+                        "fp": 18.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "2200-00",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2200.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "RESPIRATORY SVC",
+                            {
+                                "tp": 15.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 21.0,
+                        "fp": 8.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "311-00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "311.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SPEECH PATHOL",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 6.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "193-OC",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "193-00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SPEECH PATH-EVAL",
+                            {
+                                "tp": 16.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 6.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "66.50",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "6b.",
+                            {
+                                "tp": 2.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CARDIOLOGY",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 6.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "392.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "\"*82.00",
+                            {
+                                "tp": 4.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "RECOVERY ROOM",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 17.0,
+                        "fp": 9.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "39.53",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "139.50",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "OTHER DX SVS",
+                            {
+                                "tp": 0.0,
+                                "fp": 12.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 23.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 286.0,
+                "fp": 215.0,
+                "fn": 40.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 286.0,
+        "fp": 215.0,
+        "fn": 56.0
+    }
+]

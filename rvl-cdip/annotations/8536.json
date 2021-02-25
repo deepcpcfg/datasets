@@ -1,0 +1,139 @@
+{
+    "IssuedDate": "00/02/03",
+    "TotalAmount": "2,469.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$924.00",
+            "ItemUnitCount": "21",
+            "ItemDescription": "SCO 4 a 7 + 6",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "30-0-4 BD 0 0 + 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "2M-5SG 0 0 ■F 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "500 * 0 * 0 + 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "300-400 0 0 0 ",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "2C0-2SS 0 * 0 t 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$1,005.00",
+            "ItemUnitCount": "201",
+            "ItemDescription": "72 * 67 4 62",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$288.00",
+            "ItemUnitCount": "72",
+            "ItemDescription": "24 • 24 4 24",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$252.00",
+            "ItemUnitCount": "84",
+            "ItemDescription": "32 ♦ 28 + 24",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 4- 0 4- 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 X 0 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 4. 0 \"t 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 * 0 X 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 - 0 4. 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 + 0 T 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 + 0 - 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 + 0 * 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 0 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 0 - 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 0 - 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 -I. 0 - 0",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "0 0-0",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

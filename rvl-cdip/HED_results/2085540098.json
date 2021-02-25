@@ -1,0 +1,183 @@
+[
+    {
+        "IssuedDate": [
+            "August 23. 2001",
+            {
+                "tp": 15.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "21,996.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "21,996.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "5d 5/01 First Quarter",
+                            {
+                                "tp": 0.0,
+                                "fp": 21.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 30.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "21,996.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "21,996.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Second Quarter",
+                            {
+                                "tp": 14.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 10.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "21,996.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Third Quarter",
+                            {
+                                "tp": 0.0,
+                                "fp": 13.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 22.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "21,996",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Fourth Quarter 22.5%",
+                            {
+                                "tp": 0.0,
+                                "fp": 20.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 26.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "9,776.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Upon Delivery of Second Progress Report",
+                            {
+                                "tp": 0.0,
+                                "fp": 39.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 47.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 22.0,
+                "fp": 135.0,
+                "fn": 9.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ]
+    },
+    {
+        "tp": 46.0,
+        "fp": 135.0,
+        "fn": 16.0
+    }
+]

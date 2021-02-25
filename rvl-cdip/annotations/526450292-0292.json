@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "April 10,2001",
+    "TotalAmount": "200.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Meeting, I hour personal conference April 10,2001 ",
+            "ItemTotal": "200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

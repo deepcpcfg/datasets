@@ -1,0 +1,461 @@
+[
+    {
+        "IssuedDate": [
+            "May21, 1971",
+            {
+                "tp": 11.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "30",
+            {
+                "tp": 1.0,
+                "fp": 1.0,
+                "fn": 6.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Addressing your",
+                            {
+                                "tp": 0.0,
+                                "fp": 15.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 15.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Research envelope to A, CD, Total Office Based Prim ry U. S. PUD, R, total office and secondary, in U.S. TS, care in U.S.",
+                            {
+                                "tp": 121.0,
+                                "fp": 0.0,
+                                "fn": 93.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 121.0,
+                        "fp": 0.0,
+                        "fn": 109.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "19910",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "361.37",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "GE, Tobacco PH, PATH, specialty, in based, primary total patient",
+                            {
+                                "tp": 0.0,
+                                "fp": 64.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 75.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "328",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "35.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Addressing above envelopes to Medical School libraries",
+                            {
+                                "tp": 54.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 62.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "364.28",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Di re Enclosing cbor book \"Report of the Scientific",
+                            {
+                                "tp": 40.0,
+                                "fp": 11.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 46.0,
+                        "fp": 11.0,
+                        "fn": 19.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "156.84",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Sort and mail",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 0.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "119.46,",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "AMA fee",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 0.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "951.36",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Postage advanced",
+                            {
+                                "tp": 16.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "30.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Bulk fee",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 13.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "35.50",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Truckin g",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 13.0,
+                        "fp": 1.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 12.0
+                    }
+                ]
+            ],
+            {
+                "tp": 310.0,
+                "fp": 102.0,
+                "fn": 158.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2379",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 326.0,
+        "fp": 103.0,
+        "fn": 165.0
+    }
+]

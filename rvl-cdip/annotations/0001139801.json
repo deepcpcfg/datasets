@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "P-H-09Z7",
+    "IssuedDate": "NOV 07/79",
+    "LineItem": [
+        {
+            "ItemTotal": "1240.00",
+            "ItemDescription": "1320 ART ORDER HO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "413.00",
+            "ItemDescription": "32676 ART ORDER NO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "950.00",
+            "ItemDescription": "32677 ART ORDER NO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "580.00",
+            "ItemDescription": "33044 ART ORDER NO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "825.00",
+            "ItemDescription": "9917 ART ORDER NO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "75,00",
+            "ItemDescription": "33038 ART ORDER NO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

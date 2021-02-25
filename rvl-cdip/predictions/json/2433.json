@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "843153",
+    "IssuedDate": "December 20, 2000",
+    "LineItem": [
+        {
+            "ItemDescription": "For Legal Services Rendered through November 30, 2000",
+            "ItemTotal": "39,539.00"
+        },
+        {
+            "ItemDescription": "Less: Discount",
+            "ItemTotal": "7,907.BO"
+        },
+        {
+            "ItemDescription": "Cash Receipts Postings",
+            "ItemTotal": "“252,44"
+        },
+        {
+            "ItemDescription": "Courier Duplicating Local Transportation Telephone",
+            "ItemTotal": "302.29"
+        },
+        {
+            "ItemDescription": "Temporary Services",
+            "ItemTotal": "1B3.SO"
+        },
+        {
+            "ItemDescription": "Weatlaw Research",
+            "ItemTotal": "758.83"
+        }
+    ],
+    "TotalAmount": "32,390.03"
+}

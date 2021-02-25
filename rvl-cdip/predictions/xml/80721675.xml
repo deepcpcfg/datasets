@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="132.0" fp="84.0" fn="146.0">
+    <IssuedDate tp="16.0" fp="1.0" fn="1.0">
+      <box l="634.0" t="850.0" r="855.0" b="901.0">February</box>
+      <box l="888.0" t="851.0" r="963.0" b="896.0">23,</box>
+      <box l="1005.0" t="851.0" r="1109.0" b="892.0">1979</box>
+    </IssuedDate>
+    <LineItem tp="112.0" fp="83.0" fn="145.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1051.0" t="2284.0" r="1583.0" b="2338.0">Art/Production/Type</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2276.0" t="2284.0" r="2354.0" b="2326.0">1.5</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="938.0" t="2343.0" r="980.0" b="2384.0">b.</box>
+          <box l="1051.0" t="2342.0" r="1579.0" b="2394.0">Printing/Brochures,</box>
+          <box l="1620.0" t="2343.0" r="1925.0" b="2392.0">Stationery,</box>
+          <box l="1959.0" t="2342.0" r="2153.0" b="2384.0">Tickets</box>
+          <box l="938.0" t="2409.0" r="980.0" b="2442.0">c.</box>
+          <box l="1052.0" t="2402.0" r="1130.0" b="2442.0">Ken</box>
+          <box l="1163.0" t="2401.0" r="1301.0" b="2451.0">Young</box>
+          <box l="1338.0" t="2397.0" r="1442.0" b="2451.0">(2nd</box>
+          <box l="1476.0" t="2397.0" r="1696.0" b="2451.0">payment)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2246.0" t="2342.0" r="2354.0" b="2384.0">20.0</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="2275.0" t="2401.0" r="2355.0" b="2441.0">5.0</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="938.0" t="2458.0" r="985.0" b="2501.0">d.</box>
+          <box l="1051.0" t="2459.0" r="1355.0" b="2505.0">Production,</box>
+          <box l="1392.0" t="2459.0" r="1753.0" b="2505.0">Distribution,</box>
+          <box l="1787.0" t="2455.0" r="1983.0" b="2509.0">Mailing</box>
+          <box l="938.0" t="2527.0" r="983.0" b="2559.0">e.</box>
+          <box l="1051.0" t="2513.0" r="1216.0" b="2558.0">Office</box>
+          <box l="1251.0" t="2517.0" r="1501.0" b="2567.0">Equipment</box>
+          <box l="938.0" t="2572.0" r="984.0" b="2614.0">f.</box>
+          <box l="1051.0" t="2576.0" r="1301.0" b="2625.0">Secretary</box>
+          <box l="1334.0" t="2573.0" r="1501.0" b="2626.0">Salary</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2275.0" t="2455.0" r="2354.0" b="2500.0">2.0</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2275.0" t="2572.0" r="2358.0" b="2613.0">2.0</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1051.0" t="2631.0" r="1221.0" b="2675.0">Pro-Am</box>
+          <box l="1251.0" t="2631.0" r="1386.0" b="2675.0">Gifts</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2276.0" t="2630.0" r="2358.0" b="2673.0">5.0</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="4.0" fp="0.0" fn="0.0">
+      <box l="2251.0" t="2976.0" r="2359.0" b="3016.0">40.0</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

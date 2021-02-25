@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "044550",
+    "IssuedDate": "08/31/87",
+    "TotalAmount": "2,124.78",
+    "LineItem": [
+        {
+            "ItemDescription": "TOTAL PAGE 1",
+            "ItemTotal": "$2,124.78",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

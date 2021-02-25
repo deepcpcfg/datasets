@@ -1,0 +1,91 @@
+{
+    "InvoiceNumber": "MRG-101-89 ",
+    "IssuedDate": "Feb. 23, J 989",
+    "LineItem": [
+        {
+            "ItemDescription": "General Counsel to MRG and Coalition Members ML time (2.0 hours)",
+            "ItemTotal": "180.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "180.00",
+            "ItemDescription": "Client Meetings 2/14 ML (1.0 hours), KL (1.5 hours",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "90.00",
+            "ItemDescription": "Coordinate printing of letterhead stationery JW (1.5 hours)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "67,50",
+            "ItemDescription": "Printing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "47.10",
+            "ItemDescription": "Printing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "180,00",
+            "ItemDescription": "Release #1: Coalition Announcement. ML time. (2.0 hours)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "75.00",
+            "ItemDescription": "lerical/stuffing/etc (3.0 hours)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "26.00",
+            "ItemDescription": "Printing 130x2x.l0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "Courier",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "135.00",
+            "ItemDescription": "Release #2: Cigarette Sales Tax to Cost Ohio Merchants $313 in Lost Sales\" ML time (1.5 hours)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "25,00",
+            "ItemDescription": "Inputting to Mac (1.0 hour)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "28.50",
+            "ItemDescription": "Printing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "29.00",
+            "ItemDescription": "Postage 116x5.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "36.00",
+            "ItemDescription": "Courier",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

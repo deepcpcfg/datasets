@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "7622",
+    "IssuedDate": "11/23/88",
+    "TotalAmount": "13,520.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Ki mlr Study, LD50 Study, and repeat LD50 Study - Compound A183",
+            "ItemTotal": "7,120.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LD50 Study and repeat LD50 Study ",
+            "ItemTotal": "6,400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

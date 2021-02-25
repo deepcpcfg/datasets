@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "4194",
+    "IssuedDate": "Oct 4, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Airfare (Gray Robertson)",
+            "ItemTotal": "416.00"
+        },
+        {
+            "ItemDescription": "Taxi charges Technician vehicle cost",
+            "ItemTotal": "54.00"
+        },
+        {
+            "ItemDescription": "(512 miles (l $0.25/mile)",
+            "ItemTotal": "128.00"
+        },
+        {
+            "ItemDescription": "Hotels.",
+            "ItemTotal": "52.78"
+        }
+    ],
+    "TotalAmount": "4,751.08"
+}

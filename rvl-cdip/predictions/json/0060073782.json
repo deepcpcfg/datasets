@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "November 30. 1992",
+    "InvoiceNumber": "1-0240",
+    "LineItem": [
+        {
+            "ItemDescription": "September Database Update Maintenance Database Update Maintenance",
+            "ItemTotal": "$43,896.10"
+        },
+        {
+            "ItemDescription": "Select specified Virginia Slims/PaJI Mall records output into gailey format",
+            "ItemTotal": "882.38"
+        },
+        {
+            "ItemDescription": "Rerun to select additional Virginia Slims",
+            "ItemTotal": "882.38"
+        },
+        {
+            "ItemDescription": "Select format Carlton records output into galley",
+            "ItemTotal": "382.38"
+        },
+        {
+            "ItemDescription": "Rerun to detect additional Carlton records",
+            "ItemTotal": "882.38"
+        },
+        {
+            "ItemDescription": "Misc. (Freight, postage, copies,",
+            "ItemTotal": "118.50"
+        }
+    ],
+    "TotalAmount": "$47544.12"
+}

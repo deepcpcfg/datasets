@@ -1,0 +1,21 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "535>30"
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "105.53"
+        },
+        {
+            "ItemDescription": "Travel Postage Miscellaneous",
+            "ItemTotal": "40.96"
+        },
+        {
+            "ItemDescription": "Services: Dr. Herbert Arkin",
+            "ItemTotal": "2,^00.00"
+        }
+    ],
+    "TotalAmount": "3j550.35"
+}

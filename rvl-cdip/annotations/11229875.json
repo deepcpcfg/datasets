@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "T 468",
+    "IssuedDate": "11/18/70",
+    "TotalAmount": "20,644.00",
+    "LineItem": [
+        {
+            "ItemDescription": "First Quarterly Billing in Advance in accordance with agreement dated October 1, 1970",
+            "ItemTotal": "20,644,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "January 31, 2001",
+    "InvoiceNumber": "198722",
+    "LineItem": [
+        {
+            "ItemDescription": " Professional Services Rendered",
+            "ItemTotal": "$12,143.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

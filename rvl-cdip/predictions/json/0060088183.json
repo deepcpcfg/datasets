@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "July 26, 1990",
+    "InvoiceNumber": "07-0137",
+    "LineItem": [
+        {
+            "ItemDescription": "Typography State;",
+            "ItemTotal": "$450.94",
+            "ItemUnitCount": "13.50"
+        },
+        {
+            "ItemDescription": "^Messenger",
+            "ItemUnitCount": "22.50",
+            "ItemTotal": "$486.94"
+        }
+    ],
+    "TotalAmount": "$524.09"
+}

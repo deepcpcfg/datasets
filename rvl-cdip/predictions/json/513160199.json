@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "January 21, 1985",
+    "InvoiceNumber": "0514-01",
+    "LineItem": [
+        {
+            "ItemDescription": "Art Direction",
+            "ItemTotal": "1,755.00"
+        },
+        {
+            "ItemDescription": "Editorial Production",
+            "ItemTotal": "390.00"
+        }
+    ]
+}

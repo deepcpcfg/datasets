@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "00102460",
+    "IssuedDate": "09/29/89",
+    "TotalAmount": "17,875.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "5",
+            "ItemDescription": "MOTOROLA 8000 FG PORTABLE CELLULAR TELEPHONE WITH VEHICLE ADAPTER KIT",
+            "ItemUnitValue": "2,275.00",
+            "ItemTotal": "11,375.00"
+        },
+        {
+            "ItemUnitCount": "10",
+            "ItemDescription": "PANASONIC CQ-E 850 C.D. PLAYER W/PANASONIC 1209 WATT STEREO AMP AND CARRY CASE",
+            "ItemUnitValue": "650.00",
+            "ItemTotal": "6,500.00"
+        }
+    ]
+}

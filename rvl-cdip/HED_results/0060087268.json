@@ -1,0 +1,305 @@
+[
+    {
+        "IssuedDate": [
+            "January 27, 1993",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$24,634.05",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "310.116.96",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Data Entry ‘Tar Wars Bounceback Requests’ (21.498 pcs. S47O.6O/M)",
+                            {
+                                "tp": 64.0,
+                                "fp": 1.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 73.0,
+                        "fp": 2.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "9,084.42",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Redemption coupon Data Entry (193,039 pcs. S47.O6/M)",
+                            {
+                                "tp": 52.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 60.0,
+                        "fp": 0.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "352.95",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Programming for data Entry",
+                            {
+                                "tp": 26.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "294,",
+                            {
+                                "tp": 2.0,
+                                "fp": 2.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "NixiejPromo Ccd e Reports",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 27.0,
+                        "fp": 2.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,762.85",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Management Fea covering supervision of data entry and reporting D. Smote n (27.25 hrs.)",
+                            {
+                                "tp": 63.0,
+                                "fp": 24.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 71.0,
+                        "fp": 24.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "L. Warnecke",
+                            {
+                                "tp": 0.0,
+                                "fp": 11.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 11.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "796.97",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Mfec. (copies, faxds, freight, etc.)",
+                            {
+                                "tp": 36.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 42.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 305.0,
+                "fp": 39.0,
+                "fn": 13.0
+            }
+        ],
+        "InvoiceNumber": [
+            "#01-0274",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 337.0,
+        "fp": 41.0,
+        "fn": 13.0
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "InvoiceNumber": "123318",
+    "LineItem": [
+        {
+            "ItemDescription": "Creative Director",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "325",
+            "ItemTotal": "1,950.00"
+        },
+        {
+            "ItemDescription": "Associate Design Director",
+            "ItemUnitCount": "23",
+            "ItemUnitValue": "225",
+            "ItemTotal": "5,175.00"
+        },
+        {
+            "ItemDescription": "Group Production Director",
+            "ItemUnitCount": "17.5",
+            "ItemUnitValue": "200",
+            "ItemTotal": "3,500.00"
+        },
+        {
+            "ItemDescription": "Senior Production Manager",
+            "ItemUnitCount": "87",
+            "ItemUnitValue": "150",
+            "ItemTotal": "13,050.00"
+        },
+        {
+            "ItemDescription": "Intern",
+            "ItemUnitValue": "50",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "Color Digital Prints Computer Images",
+            "ItemTotal": "675.00"
+        },
+        {
+            "ItemDescription": "Computer Assessment Landor Technology",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "Katz Digital Computer Images",
+            "ItemTotal": "1,214.14"
+        },
+        {
+            "ItemDescription": "Petty Cash Transportation",
+            "ItemTotal": "25.00"
+        }
+    ],
+    "TotalAmount": "$25,750,00"
+}

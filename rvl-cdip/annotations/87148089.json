@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "4/5/88",
+    "TotalAmount": "16,600.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Immunomodulatory Screening Test in Mice and Phase I Range Finding Study-Compound B215",
+            "ItemTotal": "$ 5,350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Compound 8118",
+            "ItemTotal": "5,350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Immunomodulatory Screening Test in Mice, Phase I and Phase II Range Finding Studies-Compound B216",
+            "ItemTotal": "5,900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

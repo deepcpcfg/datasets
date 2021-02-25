@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="112.0" fp="17.0" fn="12.0">
+    <IssuedDate tp="0.0" fp="12.0" fn="0.0">
+      <box l="1844.0" t="1039.0" r="2201.0" b="1089.0">_16fck.March</box>
+    </IssuedDate>
+    <LineItem tp="112.0" fp="5.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="430.0" t="1695.0" r="563.0" b="1733.0">Fees</box>
+          <box l="585.0" t="1697.0" r="701.0" b="1744.0">paid</box>
+          <box l="726.0" t="1702.0" r="768.0" b="1734.0">to</box>
+          <box l="800.0" t="1695.0" r="834.0" b="1733.0">T</box>
+          <box l="859.0" t="1695.0" r="900.0" b="1733.0">N</box>
+          <box l="922.0" t="1699.0" r="959.0" b="1735.0">O</box>
+          <box l="984.0" t="1699.0" r="1064.0" b="1736.0">for</box>
+          <box l="1093.0" t="1701.0" r="1168.0" b="1736.0">the</box>
+          <box l="1194.0" t="1700.0" r="1326.0" b="1736.0">audit</box>
+          <box l="1348.0" t="1702.0" r="1401.0" b="1736.0">of</box>
+          <box l="1422.0" t="1710.0" r="1510.0" b="1738.0">our</box>
+          <box l="431.0" t="1750.0" r="740.0" b="1801.0">Laboratory</box>
+          <box l="765.0" t="1755.0" r="818.0" b="1791.0">in</box>
+          <box l="843.0" t="1756.0" r="1126.0" b="1793.0">connection</box>
+          <box l="1152.0" t="1756.0" r="1261.0" b="1792.0">with</box>
+          <box l="1289.0" t="1755.0" r="1364.0" b="1791.0">the</box>
+          <box l="1393.0" t="1758.0" r="1661.0" b="1808.0">marketing</box>
+          <box l="427.0" t="1807.0" r="477.0" b="1845.0">o£</box>
+          <box l="506.0" t="1808.0" r="530.0" b="1829.0">h</box>
+          <box l="556.0" t="1807.0" r="876.0" b="1845.0">BARCLAY"</box>
+          <box l="899.0" t="1811.0" r="951.0" b="1845.0">in</box>
+          <box l="974.0" t="1810.0" r="1215.0" b="1851.0">Benelux.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2266.0" t="1816.0" r="2511.0" b="1855.0">21.000.-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

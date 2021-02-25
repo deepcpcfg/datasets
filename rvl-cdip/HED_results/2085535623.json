@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "10/08/01",
+            {
+                "tp": 2.0,
+                "fp": 6.0,
+                "fn": 5.0
+            }
+        ],
+        "TotalAmount": [
+            "52.550.00",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "52,550.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Prqect Title: \"Establishing a Link Between Pollen allergens and the Rising Incidence of Asthma Billing for June 4, 2001 through Sept. 30, 2001",
+                            {
+                                "tp": 142.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 151.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 151.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1-Sep",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 166.0,
+        "fp": 7.0,
+        "fn": 6.0
+    }
+]

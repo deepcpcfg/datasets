@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "02-0230 ",
+    "IssuedDate": "February 24, 1993",
+    "TotalAmount": "2,160.22",
+    "LineItem": [
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "$224.29",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "456.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanic^",
+            "ItemTotal": "1.340.87",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photostats",
+            "ItemTotal": "11.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel*",
+            "ItemTotal": "5.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "046507",
+    "IssuedDate": "4/30/86",
+    "TotalAmount": "115,754.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Billing in accordance with Contract terns",
+            "ItemTotal": "$107,879.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

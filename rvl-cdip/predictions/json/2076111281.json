@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "700227-01",
+    "IssuedDate": "Fev 27,1997",
+    "LineItem": [
+        {
+            "ItemDescription": "Marlbolo Box Marlbolo Light",
+            "ItemUnitCount": "12"
+        }
+    ],
+    "TotalAmount": "14,400"
+}

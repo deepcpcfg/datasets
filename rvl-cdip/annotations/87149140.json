@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2289187",
+    "IssuedDate": "03/31/89",
+    "LineItem": [
+        {
+            "ItemDescription": "UNSCHEDULED DNA SYNTHESIS/RAT",
+            "ItemUnitCount": "01.000",
+            "ItemUnitValue": "5,450.00",
+            "ItemTotal": "5,450.00"
+        },
+        {
+            "ItemDescription": "SHIPPING CHARGES",
+            "ItemUnitCount": "01.000",
+            "ItemUnitValue": "100.00",
+            "ItemTotal": "100.00"
+        }
+    ],
+    "TotalAmount": ""
+}

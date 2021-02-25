@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="79.0" fp="22.0" fn="5.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2158.0" t="996.0" r="2337.0" b="1041.0">28356</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2158.0" t="1059.0" r="2404.0" b="1103.0">9/15/94</box>
+    </IssuedDate>
+    <LineItem tp="60.0" fp="22.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="320.0" t="1655.0" r="433.0" b="1696.0">FILL</box>
+          <box l="462.0" t="1655.0" r="566.0" b="1696.0">276</box>
+          <box l="591.0" t="1655.0" r="820.0" b="1705.0">ORDERS;</box>
+          <box l="846.0" t="1655.0" r="1020.0" b="1696.0">METER</box>
+          <box l="1045.0" t="1656.0" r="1151.0" b="1696.0">AND</box>
+          <box l="1175.0" t="1655.0" r="1296.0" b="1696.0">SHIP</box>
+          <box l="316.0" t="1717.0" r="379.0" b="1759.0">A5</box>
+          <box l="405.0" t="1717.0" r="942.0" b="1759.0">SPECIFIED-</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2551.0" t="1720.0" r="2780.0" b="1763.0">1737.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="320.0" t="1901.0" r="549.0" b="1945.0">POSTAGE</box>
+          <box l="320.0" t="1780.0" r="1372.0" b="1821.0">MATERIALS-</box>
+          <box l="575.0" t="1901.0" r="1342.0" b="1945.0">USED-</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2584.0" t="1905.0" r="2772.0" b="1951.0">620.81</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="0.0" fn="0.0">
+      <box l="2592.0" t="3642.0" r="2825.0" b="3685.0">2429.16</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "No._M500955",
+    "IssuedDate": "1995__",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES FOR PROFESSIONAL SERVICES:",
+            "ItemTotal": "247,906.00"
+        },
+        {
+            "ItemDescription": "CHARGES:",
+            "ItemTotal": "179,943.77"
+        }
+    ],
+    "TotalAmount": "1,231,648.10"
+}

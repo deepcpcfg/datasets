@@ -1,0 +1,85 @@
+{
+    "InvoiceNumber": "72020",
+    "IssuedDate": "08/01/02",
+    "TotalAmount": "767.14",
+    "LineItem": [
+        {
+            "ItemUnitCount": "4.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00",
+            "ItemDescription": "T*DUPLICftTE(S)-1 SPOT*"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29,00",
+            "ItemDescription": "V DUPLICATED)-1 SPOT"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "100.00",
+            "ItemDescription": "10:00 BETACAM SP CASSETTES]"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00",
+            "ItemDescription": "r‘DUPLlCATE[S)-1 SPOr"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29.00",
+            "ItemDescription": "1* DUPLICATES) -1 SPOT"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "100.00",
+            "ItemDescription": "10:00 BETACAM SP CASSETTE(S)"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00",
+            "ItemDescription": "r*DUPLICATE(S] -1 SPOT*"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29.00",
+            "ItemDescription": "t“DUPLICATE(S)-1 SPOT"
+        },
+        {
+            "ItemUnitCount": "2,00",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "100.00",
+            "ItemDescription": "10 00 BETACAM SP CASSETTE[SJ"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00",
+            "ItemDescription": "VDUPLICATEfSblSPOr"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29.00",
+            "ItemDescription": "V’DUPLICATE(S) -1 SPOT"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemTotal": "roo.oo",
+            "ItemDescription": "10:00 BETACAMSP CASSETTES)",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemTotal": "n.oo.",
+            "ItemDescription": "DELIVERED VIA TWIN 3RD PARTY",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "6,852.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Collector's Choice Vista Series LESS HANDING ALLOWANCE",
+            "ItemTotal": "116.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Collector's Choice Skyline Series LESS HANDING ALLOWANC",
+            "ItemTotal": "116.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Collector's Choioe Medley Series LESS BANDING ALLOWANCE",
+            "ItemTotal": "116.20",
+            "ItemUnitCount": "12|000",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

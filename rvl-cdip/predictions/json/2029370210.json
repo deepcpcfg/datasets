@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "M00114",
+    "IssuedDate": "Dec 12, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Issue #1 8 pages",
+            "ItemTotal": "385.00"
+        },
+        {
+            "ItemDescription": "Issue *2 12 pages",
+            "ItemTotal": "480.00"
+        },
+        {
+            "ItemDescription": "Issue #3 12 pages",
+            "ItemTotal": "480.00"
+        },
+        {
+            "ItemDescription": "Issue #4 12 pages",
+            "ItemTotal": "480.00"
+        },
+        {
+            "ItemDescription": "Issue #5 12 pages",
+            "ItemTotal": "480.00"
+        },
+        {
+            "ItemDescription": "Issue #6 15 pages",
+            "ItemTotal": "570.00"
+        }
+    ],
+    "TotalAmount": "2,875.00"
+}

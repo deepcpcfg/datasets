@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "10 14",
+            {
+                "tp": 2.0,
+                "fp": 3.0,
+                "fn": 9.0
+            }
+        ],
+        "TotalAmount": [
+            "20*567.30",
+            {
+                "tp": 7.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "1*104.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "JET",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 63.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 10.0,
+                        "fp": 1.0,
+                        "fn": 63.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "22*698.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "4 COLOR ORDER NUMBER LH8733 5TH COLOR PREH NEWPORT 1 PAGE OCT.21*1991 JET 4TH COVER 4 COLOR ORDER NUMBER LN0733",
+                            {
+                                "tp": 45.0,
+                                "fp": 66.0,
+                                "fn": 18.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 51.0,
+                        "fp": 69.0,
+                        "fn": 21.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3*434.70C",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "FROM ABOVE ITEM",
+                            {
+                                "tp": 15.0,
+                                "fp": 0.0,
+                                "fn": 11.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 2.0,
+                        "fn": 11.0
+                    }
+                ]
+            ],
+            {
+                "tp": 83.0,
+                "fp": 72.0,
+                "fn": 95.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1039206",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 98.0,
+        "fp": 78.0,
+        "fn": 107.0
+    }
+]

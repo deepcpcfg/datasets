@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="80.0" fp="27.0" fn="72.0">
+    <InvoiceNumber tp="2.0" fp="5.0" fn="8.0">
+      <box l="2457.0" t="979.0" r="2677.0" b="1018.0">0174701</box>
+    </InvoiceNumber>
+    <LineItem tp="78.0" fp="22.0" fn="51.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="1588.0" r="730.0" b="1632.0">Drug</box>
+          <box l="767.0" t="1584.0" r="1092.0" b="1622.0">Metabolism</box>
+          <box l="1193.0" t="1583.0" r="1546.0" b="1632.0">Disposition</box>
+          <box l="608.0" t="1639.0" r="766.0" b="1677.0">Title</box>
+          <box l="867.0" t="1640.0" r="1124.0" b="1678.0">NICOTINE</box>
+          <box l="1163.0" t="1642.0" r="1221.0" b="1676.0">IN</box>
+          <box l="1259.0" t="1640.0" r="1384.0" b="1675.0">HAIR</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="350.0" t="1753.0" r="438.0" b="1788.0">100</box>
+          <box l="609.0" t="1750.0" r="861.0" b="1787.0">REPRINTS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2557.0" t="1747.0" r="2744.0" b="1784.0">229.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="608.0" t="1806.0" r="863.0" b="1843.0">SHIPPING</box>
+          <box l="609.0" t="1916.0" r="864.0" b="1951.0">ADVANCED</box>
+          <box l="906.0" t="1915.0" r="1127.0" b="1952.0">PAYMENT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2532.0" t="1912.0" r="2744.0" b="1948.0">-229.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

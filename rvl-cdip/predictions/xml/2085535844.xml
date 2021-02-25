@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="89.0" fp="14.0" fn="35.0">
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="2459.0" t="691.0" r="2722.0" b="738.0">SP-00980</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="2459.0" t="951.0" r="2698.0" b="993.0">09/28/2001</box>
+    </IssuedDate>
+    <LineItem tp="64.0" fp="12.0" fn="33.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="254.0" t="1968.0" r="412.0" b="2010.0">Salaries</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2105.0" t="1968.0" r="2321.0" b="2017.0">10,020.15</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2522.0" t="1968.0" r="2762.0" b="2013.0">S10.020.15</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="254.0" t="2043.0" r="379.0" b="2087.0">Fringe</box>
+          <box l="254.0" t="2115.0" r="425.0" b="2159.0">Supplies</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2129.0" t="2042.0" r="2316.0" b="2084.0">2.404.83</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2551.0" t="2042.0" r="2763.0" b="2088.0">52,404.83</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="254.0" t="2184.0" r="445.0" b="2223.0">Overhead</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2550.0" t="2184.0" r="2763.0" b="2231.0">39,788.29</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="2.0" fn="2.0">
+      <box l="2104.0" t="2305.0" r="2317.0" b="2351.0">19.596.38</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

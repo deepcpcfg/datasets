@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="306.0" fp="91.0" fn="64.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2037.0" t="555.0" r="2162.0" b="591.0">June</box>
+      <box l="2204.0" t="557.0" r="2283.0" b="596.0">15,</box>
+      <box l="2333.0" t="555.0" r="2454.0" b="591.0">2002</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2362.0" t="1234.0" r="2550.0" b="1270.0">227081</box>
+    </InvoiceNumber>
+    <LineItem tp="279.0" fp="89.0" fn="63.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="512.0" t="1970.0" r="729.0" b="2018.0">Special</box>
+          <box l="770.0" t="1970.0" r="1058.0" b="2009.0">Materials</box>
+          <box l="1101.0" t="1971.0" r="1191.0" b="2009.0">For</box>
+          <box l="1226.0" t="1971.0" r="1413.0" b="2009.0">Client</box>
+          <box l="609.0" t="2037.0" r="733.0" b="2071.0">East</box>
+          <box l="771.0" t="2034.0" r="963.0" b="2071.0">Carter</box>
+          <box l="996.0" t="2034.0" r="1159.0" b="2071.0">Youth</box>
+          <box l="1192.0" t="2034.0" r="1446.0" b="2071.0">Services</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1875.0" t="2034.0" r="2125.0" b="2077.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="608.0" t="2092.0" r="833.0" b="2130.0">Indiana</box>
+          <box l="870.0" t="2098.0" r="1030.0" b="2131.0">FCCLA</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1875.0" t="2098.0" r="2125.0" b="2138.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="2159.0" r="796.0" b="2192.0">Greece</box>
+          <box l="837.0" t="2155.0" r="1055.0" b="2192.0">Central</box>
+          <box l="1096.0" t="2155.0" r="1284.0" b="2193.0">School</box>
+          <box l="1321.0" t="2155.0" r="1576.0" b="2192.0">District</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1875.0" t="2159.0" r="2125.0" b="2201.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="2217.0" r="800.0" b="2263.0">Volney</box>
+          <box l="834.0" t="2222.0" r="1025.0" b="2264.0">Rogers</box>
+          <box l="1063.0" t="2217.0" r="1254.0" b="2255.0">Junior</box>
+          <box l="1288.0" t="2217.0" r="1417.0" b="2263.0">High</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1875.0" t="2222.0" r="2025.0" b="2263.0">5,000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2071.0" t="2222.0" r="2125.0" b="2255.0">00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="2280.0" r="896.0" b="2317.0">Cleveland</box>
+          <box l="934.0" t="2280.0" r="1121.0" b="2317.0">Clinic</box>
+          <box l="604.0" t="2342.0" r="895.0" b="2380.0">Volunteer</box>
+          <box l="933.0" t="2341.0" r="1185.0" b="2380.0">Services</box>
+          <box l="1224.0" t="2342.0" r="1283.0" b="2380.0">of</box>
+          <box l="1318.0" t="2342.0" r="1542.0" b="2380.0">Manatee</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1872.0" t="2283.0" r="2125.0" b="2323.0">5,000-00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1873.0" t="2343.0" r="2125.0" b="2384.0">5,000-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="604.0" t="2405.0" r="766.0" b="2442.0">North</box>
+          <box l="805.0" t="2405.0" r="995.0" b="2442.0">Putnam</box>
+          <box l="1029.0" t="2405.0" r="1156.0" b="2451.0">High</box>
+          <box l="1191.0" t="2405.0" r="1379.0" b="2442.0">School</box>
+          <box l="605.0" t="2463.0" r="991.0" b="2513.0">WSCI/Project</box>
+          <box l="1030.0" t="2467.0" r="1125.0" b="2502.0">Dun</box>
+          <box l="1159.0" t="2472.0" r="1284.0" b="2502.0">Baar</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1872.0" t="2405.0" r="2125.0" b="2447.0">5,000.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1875.0" t="2467.0" r="2124.0" b="2509.0">5,OoO.90</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="604.0" t="2526.0" r="830.0" b="2573.0">Healthy</box>
+          <box l="867.0" t="2526.0" r="1120.0" b="2563.0">Families</box>
+          <box l="1159.0" t="2527.0" r="1380.0" b="2572.0">Chicago</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1872.0" t="2530.0" r="2121.0" b="2571.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="2588.0" r="829.0" b="2626.0">Barbara</box>
+          <box l="865.0" t="2588.0" r="1151.0" b="2626.0">Hernandez</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1872.0" t="2589.0" r="2121.0" b="2630.0">1,800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="604.0" t="2655.0" r="796.0" b="2688.0">Monroe</box>
+          <box l="834.0" t="2654.0" r="1025.0" b="2697.0">County</box>
+          <box l="1059.0" t="2650.0" r="1188.0" b="2697.0">High</box>
+          <box l="1221.0" t="2651.0" r="1409.0" b="2688.0">school</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1872.0" t="2654.0" r="2124.0" b="2692.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="2.0" fn="1.0">
+      <box l="2617.0" t="2898.0" r="2927.0" b="2941.0">$51,600-00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

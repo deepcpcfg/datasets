@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="1906.0" t="841.0" r="2075.0" b="885.0">March</box>
+      <box l="2116.0" t="841.0" r="2205.0" b="890.0">24,</box>
+      <box l="2255.0" t="841.0" r="2381.0" b="882.0">1982</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="437.0" t="1941.0" r="840.0" b="1987.0">Installation</box>
+          <box l="882.0" t="1943.0" r="1112.0" b="1997.0">charges</box>
+          <box l="1158.0" t="1944.0" r="1253.0" b="1989.0">for</box>
+          <box l="1291.0" t="1951.0" r="1358.0" b="1991.0">HB</box>
+          <box l="1399.0" t="1945.0" r="1633.0" b="1999.0">airport</box>
+          <box l="1675.0" t="1946.0" r="1807.0" b="2000.0">sign</box>
+          <box l="431.0" t="2015.0" r="565.0" b="2065.0">Duty</box>
+          <box l="607.0" t="2016.0" r="736.0" b="2057.0">Free</box>
+          <box l="777.0" t="2013.0" r="911.0" b="2067.0">Shop</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1845.0" t="1951.0" r="1911.0" b="1989.0">at</box>
+          <box l="1950.0" t="1955.0" r="2115.0" b="2001.0">Logan</box>
+          <box l="2150.0" t="1949.0" r="2391.0" b="2003.0">Airport</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2292.0" t="2020.0" r="2494.0" b="2062.0">$52.50</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

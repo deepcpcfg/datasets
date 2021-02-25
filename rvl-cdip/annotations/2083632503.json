@@ -1,0 +1,31 @@
+{
+    "TotalAmount": "273.40",
+    "InvoiceNumber": "B228575",
+    "IssuedDate": "04/09/99",
+    "LineItem": [
+        {
+            "ItemDescription": "1 COMP FM 8.5x11",
+            "ItemUnitValue": "28.55",
+            "ItemTotal": "28.55",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "46,00",
+            "ItemTotal": "46.00",
+            "ItemDescription": "TRANSFER, 1 COLOR ORIGINAL, 8.5 x 11",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "56.00",
+            "ItemTotal": "168.00",
+            "ItemDescription": "TRANSFER. 1 COLOR ORIGINAL. 8.5 x 11",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "10.00",
+            "ItemTotal": "10.00",
+            "ItemDescription": "PICK UP / DELIVERY CHARGE",
+            "ItemUnitCount": "1"
+        }
+    ]
+}

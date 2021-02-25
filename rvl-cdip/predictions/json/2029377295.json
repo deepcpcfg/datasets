@@ -1,0 +1,24 @@
+{
+    "InvoiceNumber": "MO0016",
+    "IssuedDate": "January 9, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Price to have BOM A insert 11,705 copies of the"
+        },
+        {
+            "ItemDescription": "Note: price is for"
+        },
+        {
+            "ItemDescription": "7,500 Australian C$1 Australian $0.8 ISA) Government Equipment News (GEN)"
+        },
+        {
+            "ItemDescription": "January/February version",
+            "ItemTotal": "6,000.00"
+        },
+        {
+            "ItemDescription": "Price to insert 14,500 copies in GEN. 2,600 Australian Australian $0.8 USA)",
+            "ItemTotal": "2,080.00"
+        }
+    ],
+    "TotalAmount": "8,080.00"
+}

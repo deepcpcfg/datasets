@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "September 26, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "for August 1995",
+            "ItemTotal": "$10,539.50"
+        },
+        {
+            "ItemDescription": "20% Discount",
+            "ItemTotal": "-2,127.70"
+        },
+        {
+            "ItemDescription": "Total Discounted Fees",
+            "ItemTotal": "8,510.30"
+        },
+        {
+            "ItemDescription": "Disbursements for August 1995",
+            "ItemTotal": "27■00"
+        }
+    ],
+    "TotalAmount": "8,537.80"
+}

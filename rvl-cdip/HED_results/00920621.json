@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "October 14, 1982",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$3,500,00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "EVALUATION OF IWOiOSUPPRES¬ SION IN B6C3F1 MICE WITH Compounds B-126 B-123, Bl25, and",
+                            {
+                                "tp": 76.0,
+                                "fp": 9.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 85.0,
+                        "fp": 9.0,
+                        "fn": 10.0
+                    }
+                ]
+            ],
+            {
+                "tp": 85.0,
+                "fp": 9.0,
+                "fn": 10.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 101.0,
+        "fp": 9.0,
+        "fn": 16.0
+    }
+]

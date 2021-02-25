@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "5/28/02",
+    "InvoiceNumber": "015316",
+    "LineItem": [
+        {
+            "ItemDescription": "Digital Production",
+            "ItemTotal": "250.00"
+        },
+        {
+            "ItemDescription": "Handling Packing",
+            "ItemTotal": "30,00"
+        },
+        {
+            "ItemDescription": "Printouts Shipping",
+            "ItemTotal": "30.00"
+        }
+    ],
+    "TotalAmount": "$485.67"
+}

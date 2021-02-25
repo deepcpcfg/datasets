@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2MS910",
+    "IssuedDate": "09/30/88",
+    "TotalAmount": "100,733.50",
+    "LineItem": [
+        {
+            "ItemDescription": "1 FADE 4C 13X",
+            "ItemTotal": "118,510.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AGENCY DISCOUNT",
+            "ItemTotal": "17,776.50-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

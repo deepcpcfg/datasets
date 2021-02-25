@@ -1,0 +1,16 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Slid** (Boa 1-14)",
+            "ItemUnitCount": "1476",
+            "ItemUnitValue": "1900.55",
+            "ItemTotal": "37.00"
+        },
+        {
+            "ItemDescription": "^rn-it Ads",
+            "ItemUnitValue": "52.95",
+            "ItemTotal": "$51,511.45"
+        }
+    ],
+    "TotalAmount": "$113,288.821"
+}

@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "50960",
+    "IssuedDate": "8/31/89",
+    "LineItem": [
+        {
+            "ItemDescription": "contract"
+        }
+    ],
+    "TotalAmount": "$156,000.00"
+}

@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "April 1, 1996",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$43,316.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "April assessment for CIAR",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "(462.00)",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Less monthly adjustment for Dunn research project (1996 contract)",
+                            {
+                                "tp": 65.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 72.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 106.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 119.0,
+        "fp": 2.0,
+        "fn": 2.0
+    }
+]

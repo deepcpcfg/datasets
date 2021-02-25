@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="111.0" fp="6.0" fn="4.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="732.0" t="776.0" r="823.0" b="824.0">May</box>
+      <box l="840.0" t="775.0" r="902.0" b="820.0">26,</box>
+      <box l="932.0" t="777.0" r="1036.0" b="818.0">1993</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="1.0" fn="0.0">
+      <box l="938.0" t="1499.0" r="1192.0" b="1546.0">#05-0214</box>
+    </InvoiceNumber>
+    <LineItem tp="83.0" fp="4.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="725.0" t="2010.0" r="949.0" b="2050.0">DataPulse</box>
+          <box l="966.0" t="2011.0" r="1132.0" b="2051.0">Smoker</box>
+          <box l="1153.0" t="2013.0" r="1466.0" b="2060.0">Resource/May</box>
+          <box l="1483.0" t="2016.0" r="1548.0" b="2055.0">’93</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2413.0" t="2020.0" r="2657.0" b="2061.0">$40,963.47</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="2081.0" r="930.0" b="2131.0">Magnetic</box>
+          <box l="950.0" t="2086.0" r="1042.0" b="2130.0">tape</box>
+          <box l="1063.0" t="2085.0" r="1216.0" b="2134.0">charge</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2535.0" t="2093.0" r="2652.0" b="2135.0">29.41</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="2153.0" r="877.0" b="2201.0">Freight</box>
+          <box l="893.0" t="2154.0" r="1046.0" b="2204.0">charge</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2536.0" t="2165.0" r="2656.0" b="2206.0">35.10</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2413.0" t="2309.0" r="2658.0" b="2357.0">$49,027.98</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

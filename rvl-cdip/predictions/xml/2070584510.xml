@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2530.0" t="510.0" r="2641.0" b="554.0">AC-1</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="484.0" t="1582.0" r="709.0" b="1638.0">Signage:</box>
+          <box l="776.0" t="1584.0" r="984.0" b="1629.0">Atlanta</box>
+          <box l="1013.0" t="1580.0" r="1266.0" b="1637.0">Coliseum,</box>
+          <box l="1309.0" t="1584.0" r="1409.0" b="1629.0">Inc.</box>
+          <box l="1451.0" t="1596.0" r="1542.0" b="1640.0">per</box>
+          <box l="1571.0" t="1591.0" r="1796.0" b="1630.0">contract</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2412.0" t="988.0" r="2622.0" b="1034.0">October.</box>
+      <box l="2649.0" t="991.0" r="2847.0" b="1039.0">2,^1978</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2680.0" t="1760.0" r="2963.0" b="1817.0">$25,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "001-3050155",
+    "IssuedDate": "05/01/1993",
+    "LineItem": [
+        {
+            "ItemDescription": "ONE PAINTED BULLETIN",
+            "ItemTotal": "2, 400. 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SOUTH SIDE 1494 WEST DF PORTLAND WEST FACE",
+            "ItemTotal": "00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

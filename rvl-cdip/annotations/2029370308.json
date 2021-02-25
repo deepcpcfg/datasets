@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "400 2",
+    "IssuedDate": "May 311 1991",
+    "TotalAmount": "51,800.00",
+    "LineItem": [
+        {
+            "ItemDescription": "VOCs - 28 0 $1,200 per building",
+            "ItemTotal": "$ 33,600.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Airborne asbestos - 28 @ $650 per building",
+            "ItemTotal": "$ 18,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

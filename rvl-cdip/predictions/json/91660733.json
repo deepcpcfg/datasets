@@ -1,0 +1,10 @@
+{
+    "IssuedDate": "10/01/64",
+    "InvoiceNumber": "000445",
+    "LineItem": [
+        {
+            "ItemDescription": "Accounting",
+            "ItemTotal": "00000"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "330931",
+    "IssuedDate": "27 Dec 1989",
+    "TotalAmount": "36,666.00",
+    "LineItem": [
+        {
+            "ItemDescription": "BUDGET",
+            "ItemTotal": "30,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PROFESSIONAL FEE TO DATE",
+            "ItemTotal": "$36,260.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS AMOUNT PREVIOUSLY BILLED",
+            "ItemTotal": "$.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OUT-OF-POCKET EXPENSES TO DATE",
+            "ItemTotal": "$406.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

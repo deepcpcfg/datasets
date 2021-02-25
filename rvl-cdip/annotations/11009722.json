@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "5 068 03",
+    "IssuedDate": "DECEMBER 6, 1971",
+    "TotalAmount": "820.22",
+    "LineItem": [
+        {
+            "ItemDescription": "inc/sxM/tac",
+            "ItemTotal": "US$193.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "bal/nyc/bal",
+            "ItemTotal": "46.22",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "nyc/sxm/nyc",
+            "ItemTotal": "193.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

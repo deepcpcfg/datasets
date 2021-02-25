@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "0808437014",
+    "IssuedDate": "07/31/37",
+    "TotalAmount": "66,862.00",
+    "LineItem": [
+        {
+            "ItemDescription": "FREIGHT AND DELIVERY",
+            "ItemTotal": "2,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

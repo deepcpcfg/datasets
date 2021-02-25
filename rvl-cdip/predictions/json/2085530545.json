@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "July Sih. 2001",
+    "LineItem": [
+        {
+            "ItemDescription": "External research agreement",
+            "ItemUnitCount": "35",
+            "ItemTotal": "007,75"
+        },
+        {
+            "ItemDescription": "Plus: Irrdirects"
+        }
+    ],
+    "TotalAmount": "902,76"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1733",
+    "IssuedDate": "December 11,",
+    "TotalAmount": "17,650.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Per Brown & Williamson Tobacco Contract # RT-81-5000 Raleigh - Trust Stoppers Program 1981 Partial Billing January 1, 1981 - January 31, 1901",
+            "ItemTotal": "$17,850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

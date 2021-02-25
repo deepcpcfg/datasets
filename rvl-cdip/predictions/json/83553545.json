@@ -1,0 +1,35 @@
+{
+    "InvoiceNumber": "33",
+    "IssuedDate": "September 2,1997",
+    "LineItem": [
+        {
+            "ItemDescription": "Taxi to hotel",
+            "ItemTotal": "33.00"
+        },
+        {
+            "ItemDescription": "Research Review",
+            "ItemUnitCount": "4.0",
+            "ItemTotal": "1400.00"
+        },
+        {
+            "ItemDescription": "Room charges",
+            "ItemTotal": "475,73"
+        },
+        {
+            "ItemDescription": "Shuttle to SeaTac",
+            "ItemTotal": "7.50"
+        },
+        {
+            "ItemDescription": "Parking",
+            "ItemTotal": "26.00"
+        },
+        {
+            "ItemDescription": "1129.10 Travel Expenses for Expert Consultant",
+            "ItemTotal": "1,942.23"
+        },
+        {
+            "ItemDescription": "Expert Consultant",
+            "ItemTotal": "2,310.00"
+        }
+    ]
+}

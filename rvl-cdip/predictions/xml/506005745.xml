@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="103.0" fp="11.0" fn="67.0">
+    <InvoiceNumber tp="5.0" fp="4.0" fn="2.0">
+      <box l="2783.0" t="407.0" r="3245.0" b="483.0">*65iD104_</box>
+    </InvoiceNumber>
+    <LineItem tp="90.0" fp="5.0" fn="57.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1251.0" t="1881.0" r="1504.0" b="1929.0">Columbia</box>
+          <box l="1542.0" t="1880.0" r="1926.0" b="1932.0">Construction</box>
+          <box l="1967.0" t="1875.0" r="2120.0" b="1939.0">(your</box>
+          <box l="2155.0" t="1880.0" r="2246.0" b="1930.0">POf</box>
+          <box l="2281.0" t="1876.0" r="2530.0" b="1938.0">86-1939)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2955.0" t="1877.0" r="3255.0" b="1937.0">$142,807.1</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1251.0" t="2008.0" r="1408.0" b="2057.0">Aiken</box>
+          <box l="1445.0" t="2008.0" r="1830.0" b="2058.0">Construction</box>
+          <box l="1871.0" t="2004.0" r="2020.0" b="2066.0">(your</box>
+          <box l="2059.0" t="2009.0" r="2150.0" b="2058.0">POf</box>
+          <box l="2184.0" t="2005.0" r="2434.0" b="2064.0">86-1939)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="3017.0" t="2007.0" r="3255.0" b="2065.0">54,467.1</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="2.0" fn="2.0">
+      <box l="2955.0" t="2131.0" r="3255.0" b="2193.0">$197,274.1</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

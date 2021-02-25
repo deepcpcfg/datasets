@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "19,874.07",
+    "LineItem": [
+        {
+            "ItemDescription": "Consultant fee",
+            "ItemTotal": "$2,700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel expenses incurred",
+            "ItemTotal": "$17,174.07",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

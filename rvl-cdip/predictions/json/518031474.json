@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "12M CAMEL FILTER/COLLECTORS 12M CAMEL LIGHT/COLLECTORS",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "12M CAMEL FIL BX/COLLECTORS",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671.4000"
+        },
+        {
+            "ItemDescription": "12M CAMEL LTS BX/COLLECTORS",
+            "ItemUnitCount": "36",
+            "ItemTotal": "671.4000"
+        }
+    ],
+    "TotalAmount": "9,094.11",
+    "IssuedDate": "03/02/94"
+}

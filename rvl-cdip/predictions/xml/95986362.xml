@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="32.0" fp="36.0" fn="135.0">
+    <InvoiceNumber tp="0.0" fp="6.0" fn="0.0">
+      <box l="2572.0" t="458.0" r="2689.0" b="487.0">JJWJSM</box>
+    </InvoiceNumber>
+    <IssuedDate tp="9.0" fp="0.0" fn="0.0">
+      <box l="2576.0" t="584.0" r="2809.0" b="650.0">10/08/961</box>
+    </IssuedDate>
+    <LineItem tp="23.0" fp="30.0" fn="129.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="270.0" t="3017.0" r="454.0" b="3048.0">NUMBER</box>
+          <box l="463.0" t="3017.0" r="520.0" b="3047.0">OF</box>
+          <box l="530.0" t="3017.0" r="916.0" b="3051.0">PACKAGE/CARTON</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2608.0" t="1729.0" r="2792.0" b="1779.0">5276.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="417.0" t="3056.0" r="558.0" b="3088.0">FLOOR</box>
+          <box l="571.0" t="3055.0" r="767.0" b="3088.0">DISPLAYS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2358.0" t="3051.0" r="2517.0" b="3091.0">25.00'=-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

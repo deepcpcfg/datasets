@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2337",
+    "IssuedDate": "November 17, 1970",
+    "TotalAmount": "132.49",
+    "LineItem": [
+        {
+            "ItemDescription": "Printed 800 copies 2-page release, collated and stapled, folded 2 folds for #10 envelope. Addressed #10 envelopes to lists - CTR 1,3,4, 5 and 12 and lists z-1 thru and including Z-7. Inserted release, metered and mailed First Class Mail and Air Mail.",
+            "ItemTotal": "77.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

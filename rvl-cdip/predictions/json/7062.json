@@ -1,0 +1,33 @@
+{
+    "InvoiceNumber": "#0125",
+    "IssuedDate": "01-01-77",
+    "LineItem": [
+        {
+            "ItemDescription": "Audited Premium",
+            "ItemTotal": "3612852"
+        },
+        {
+            "ItemDescription": "Retrospective Premium",
+            "ItemTotal": "4266873"
+        },
+        {
+            "ItemDescription": "Previously Billed Premium",
+            "ItemTotal": "4264827"
+        },
+        {
+            "ItemDescription": "Gross Adjustment"
+        },
+        {
+            "ItemDescription": "5. Dividend on Retro. Premium",
+            "ItemTotal": "432925"
+        },
+        {
+            "ItemDescription": "Previously Billed Dividend",
+            "ItemTotal": "432618"
+        },
+        {
+            "ItemDescription": "7. Dividend Offset",
+            "ItemTotal": "1739"
+        }
+    ]
+}

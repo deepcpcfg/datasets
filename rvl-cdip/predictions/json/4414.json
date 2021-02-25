@@ -1,0 +1,39 @@
+{
+    "IssuedDate": "November 8, 2000",
+    "LineItem": [
+        {
+            "ItemDescription": "(El01) Copying Charges (El02) Outside Printing",
+            "ItemTotal": "24.00"
+        },
+        {
+            "ItemDescription": "Outside Copying Charges Westside Reprograpliics S, Long/Litigation Copies RMI Depo and Exhib.",
+            "ItemTotal": "5,463.46"
+        },
+        {
+            "ItemDescription": "Copies for Plaintiff, Jury and Judge 8/08/00 Outside Copying Charges Imagotek 8/30/00 61065",
+            "ItemTotal": "2,984.97"
+        },
+        {
+            "ItemDescription": "with Matter #42) 40% Share"
+        },
+        {
+            "ItemDescription": "(E105) Long Distance Telephone (E124) Other Catch AU",
+            "ItemTotal": "6.51"
+        },
+        {
+            "ItemDescription": "Temporary Services Bowne Business Solutions July",
+            "ItemTotal": "1,143.75"
+        },
+        {
+            "ItemDescription": "2000: Tony Cantero 20 Hrs; Manuel Jaco 24.10 Hrs. Temporary Services Bowne Business Solutions",
+            "ItemTotal": "137.50"
+        },
+        {
+            "ItemDescription": "8/2000: Tony Cantero 5.5 Hrs. Equipment Rental Bowne Business Solutions 8/2000",
+            "ItemTotal": "622.43"
+        },
+        {
+            "ItemDescription": "90E"
+        }
+    ]
+}

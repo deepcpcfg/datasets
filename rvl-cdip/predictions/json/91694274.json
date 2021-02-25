@@ -1,0 +1,17 @@
+{
+    "InvoiceNumber": "17565",
+    "LineItem": [
+        {
+            "ItemDescription": "341445001 FOP NAT FR 2X0700 314613401 NEWPORT",
+            "ItemUnitCount": "14.00-",
+            "ItemTotal": "3,155.04"
+        },
+        {
+            "ItemDescription": "SPOT COLOR 4GY CONN I5SION",
+            "ItemTotal": "765.00",
+            "ItemUnitValue": "68.0"
+        }
+    ],
+    "TotalAmount": "3,332.03",
+    "IssuedDate": "06/03/90"
+}

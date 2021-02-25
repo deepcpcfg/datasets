@@ -1,0 +1,50 @@
+{
+    "IssuedDate": "April 15, 2002",
+    "InvoiceNumber": "223658",
+    "LineItem": [
+        {
+            "ItemDescription": "2takel0.com",
+            "ItemTotal": "2,574.00"
+        },
+        {
+            "ItemDescription": "TeenHip Awards Program",
+            "ItemTotal": "122.50"
+        },
+        {
+            "ItemDescription": "Buttou.tnow.com Web Bite",
+            "ItemTotal": "4,732.00"
+        },
+        {
+            "ItemDescription": "NYC Media Tour All Stare Challenge",
+            "ItemTotal": "4,277.50"
+        },
+        {
+            "ItemDescription": "Conference Participation",
+            "ItemTotal": "737.00"
+        },
+        {
+            "ItemDescription": "Parenting Tools",
+            "ItemTotal": "360.00"
+        },
+        {
+            "ItemDescription": "Mat SMT Administration Columns",
+            "ItemTotal": "5,314.00"
+        },
+        {
+            "ItemDescription": "Liza Michaels",
+            "ItemTotal": "26.10"
+        },
+        {
+            "ItemDescription": "Diner's Club",
+            "ItemTotal": "225.00"
+        },
+        {
+            "ItemDescription": "Diner'b Club",
+            "ItemTotal": "340.54"
+        },
+        {
+            "ItemDescription": "Liza Michaels",
+            "ItemTotal": "548.10"
+        }
+    ]
+}

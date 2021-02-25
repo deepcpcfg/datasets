@@ -1,0 +1,206 @@
+[
+    {
+        "IssuedDate": [
+            "11/24/86",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "S3,0&3.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Imuncnaodulatory Screening Test in Mice (compound Al56)",
+                            {
+                                "tp": 37.0,
+                                "fp": 18.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 44.0,
+                        "fp": 20.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,083.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "iMMunomodulatory Screening Test in Mice (compound A81)",
+                            {
+                                "tp": 35.0,
+                                "fp": 19.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 43.0,
+                        "fp": 19.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,083.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Imniimoisodulatory Screening Test in Mice (compound A90)",
+                            {
+                                "tp": 37.0,
+                                "fp": 19.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 45.0,
+                        "fp": 19.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,083.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Iimimomodulatoxy Screening Test in Mice (compound B34)",
+                            {
+                                "tp": 34.0,
+                                "fp": 20.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 42.0,
+                        "fp": 20.0,
+                        "fn": 6.0
+                    }
+                ]
+            ],
+            {
+                "tp": 174.0,
+                "fp": 78.0,
+                "fn": 21.0
+            }
+        ],
+        "InvoiceNumber": [
+            "43238",
+            {
+                "tp": 1.0,
+                "fp": 4.0,
+                "fn": 3.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ]
+    },
+    {
+        "tp": 183.0,
+        "fp": 82.0,
+        "fn": 33.0
+    }
+]

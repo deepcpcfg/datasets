@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="95.0" fp="6.0" fn="37.0">
+    <InvoiceNumber tp="0.0" fp="5.0" fn="0.0">
+      <box l="2398.0" t="488.0" r="2568.0" b="580.0">41930</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="8.0">
+      <box l="2075.0" t="1238.0" r="2121.0" b="1280.0">1,</box>
+      <box l="2167.0" t="1237.0" r="2279.0" b="1275.0">1990</box>
+    </IssuedDate>
+    <LineItem tp="78.0" fp="0.0" fn="29.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="938.0" t="2272.0" r="1205.0" b="2317.0">September</box>
+          <box l="1238.0" t="2276.0" r="1534.0" b="2309.0">Assessment</box>
+          <box l="1572.0" t="2273.0" r="1650.0" b="2310.0">for</box>
+          <box l="1684.0" t="2276.0" r="1801.0" b="2311.0">CIAR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2133.0" t="2272.0" r="2458.0" b="2321.0">$158,043.66</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="938.0" t="2442.0" r="1142.0" b="2478.0">October</box>
+          <box l="1176.0" t="2446.0" r="1472.0" b="2480.0">Assessment</box>
+          <box l="1510.0" t="2442.0" r="1592.0" b="2480.0">for</box>
+          <box l="1625.0" t="2447.0" r="1741.0" b="2480.0">CIAR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2134.0" t="2442.0" r="2459.0" b="2486.0">$158.043.66</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="10.0" fp="1.0" fn="0.0">
+      <box l="2134.0" t="2555.0" r="2458.0" b="2601.0">$316,087.32</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

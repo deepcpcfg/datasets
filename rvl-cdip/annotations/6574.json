@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "580625",
+    "IssuedDate": "October 24, 1997",
+    "TotalAmount": "370.22",
+    "LineItem": [
+        {
+            "ItemDescription": "Total For Disbursements and Service Charges",
+            "ItemTotal": "370.22",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

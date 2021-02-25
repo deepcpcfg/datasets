@@ -1,0 +1,43 @@
+{
+    "TotalAmount": "896.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$225.00",
+            "ItemUnitCount": "7.50",
+            "ItemUnitValue": "$30.00",
+            "ItemDescription": "CALLS HOURS"
+        },
+        {
+            "ItemTotal": "$15.00",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "$15.00",
+            "ItemDescription": "DATA ENTRY"
+        },
+        {
+            "ItemTotal": "$10.00",
+            "ItemUnitCount": "0.50",
+            "ItemUnitValue": "$20.00",
+            "ItemDescription": "COMPUTER PROGRAMMING"
+        },
+        {
+            "ItemTotal": "$607.50",
+            "ItemUnitCount": "20.25",
+            "ItemUnitValue": "$30.00",
+            "ItemDescription": "CALLS HOURS"
+        },
+        {
+            "ItemTotal": "$28.50",
+            "ItemUnitCount": "1.90",
+            "ItemUnitValue": "$15.00",
+            "ItemDescription": "DATA ENTRY"
+        },
+        {
+            "ItemTotal": "$10.00",
+            "ItemUnitCount": "0.50",
+            "ItemUnitValue": "$20.00",
+            "ItemDescription": "COMPUTER PROGRAMMING"
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

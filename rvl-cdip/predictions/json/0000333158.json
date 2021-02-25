@@ -1,0 +1,30 @@
+{
+    "IssuedDate": "December 10, 1966",
+    "LineItem": [
+        {
+            "ItemDescription": "VTR (50 Minutes)",
+            "ItemTotal": "$160.00"
+        },
+        {
+            "ItemDescription": "VTR Production",
+            "ItemTotal": "hoc.oo"
+        },
+        {
+            "ItemDescription": "Master film print",
+            "ItemTotal": "600.00"
+        },
+        {
+            "ItemDescription": "Release prints",
+            "ItemTotal": "775.00"
+        },
+        {
+            "ItemDescription": "Film Editing, Production",
+            "ItemTotal": "750.00"
+        },
+        {
+            "ItemDescription": "Audio Tap** Soundtrack",
+            "ItemTotal": "10.00"
+        }
+    ],
+    "TotalAmount": "<2,895.00"
+}

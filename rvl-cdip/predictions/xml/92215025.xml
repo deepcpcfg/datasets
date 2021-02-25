@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="30.0" fn="41.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2561.0" t="1224.0" r="2765.0" b="1266.0">324961</box>
+    </InvoiceNumber>
+    <LineItem tp="72.0" fp="30.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="589.0" t="1518.0" r="898.0" b="1558.0">POSITION:</box>
+          <box l="1028.0" t="1520.0" r="1086.0" b="1556.0">IN</box>
+          <box l="1341.0" t="1582.0" r="1407.0" b="1617.0">AD</box>
+          <box l="1450.0" t="1580.0" r="1582.0" b="1618.0">SIZE</box>
+          <box l="1917.0" t="1580.0" r="2121.0" b="1618.0">INSERT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2343.0" t="1580.0" r="2408.0" b="1615.0">40</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2740.0" t="1576.0" r="3051.0" b="1619.0">12,550.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1342.0" t="1637.0" r="1546.0" b="1676.0">AGENCY</box>
+          <box l="1590.0" t="1637.0" r="1941.0" b="1677.0">COMMISSION</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2777.0" t="1633.0" r="3051.0" b="1677.0">1,882.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1483.0" t="1986.0" r="1724.0" b="2024.0">BINDING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2884.0" t="1984.0" r="3054.0" b="2022.0">50.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1483.0" t="2044.0" r="1763.0" b="2086.0">SLOWDOWN</box>
+          <box l="1479.0" t="2094.0" r="1938.0" b="2140.0">HlSCELLANEOUS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2885.0" t="2041.0" r="3055.0" b="2079.0">50.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

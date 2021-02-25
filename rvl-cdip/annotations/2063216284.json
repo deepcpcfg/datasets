@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "JUL 1 1973",
+    "LineItem": [
+        {
+            "ItemDescription": "AEI -621-004066-033",
+            "ItemTotal": " 2973.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AC1-621-004066-033",
+            "ItemTotal": "488.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

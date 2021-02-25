@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "August 16, 2001",
+    "TotalAmount": "104,487.50",
+    "LineItem": [
+        {
+            "ItemDescription": "Attended & participated in",
+            "ItemUnitValue": "$800",
+            "ItemTotal": "5,200.00",
+            "ItemUnitCount": "6 .5"
+        },
+        {
+            "ItemDescription": "PREPARATION",
+            "ItemUnitCount": "152,75",
+            "ItemUnitValue": "$650",
+            "ItemTotal": "99,287 50"
+        }
+    ],
+    "InvoiceNumber": ""
+}

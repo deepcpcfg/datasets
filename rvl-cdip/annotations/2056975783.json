@@ -1,0 +1,67 @@
+{
+    "IssuedDate": "October 31, 1988",
+    "TotalAmount": "5,726.25",
+    "LineItem": [
+        {
+            "ItemDescription": "Waterbiaster",
+            "ItemUnitCount": "10",
+            "ItemUnitValue": "48.00",
+            "ItemTotal": "480.00"
+        },
+        {
+            "ItemDescription": "Supervisor",
+            "ItemUnitCount": "10",
+            "ItemUnitValue": "21.00",
+            "ItemTotal": "210.00"
+        },
+        {
+            "ItemDescription": "Operators",
+            "ItemUnitCount": "10",
+            "ItemUnitValue": "19*50",
+            "ItemTotal": "1,360.00"
+        },
+        {
+            "ItemDescription": "Wacerblascer",
+            "ItemUnitCount": "7.5",
+            "ItemUnitValue": "48,00",
+            "ItemTotal": "360.00"
+        },
+        {
+            "ItemDescription": "Supervisor",
+            "ItemUnitCount": "7,5",
+            "ItemUnitValue": "21,00",
+            "ItemTotal": "157.50"
+        },
+        {
+            "ItemDescription": "Operators",
+            "ItemUnitValue": "19,50",
+            "ItemTotal": "1,170.30",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Waterblaster",
+            "ItemUnitCount": "4*5",
+            "ItemUnitValue": "48,00",
+            "ItemTotal": "216.30"
+        },
+        {
+            "ItemDescription": "Supervisor",
+            "ItemUnitCount": "4.5",
+            "ItemUnitValue": "21.00",
+            "ItemTotal": "94.50"
+        },
+        {
+            "ItemDescription": "Operators",
+            "ItemUnitCount": "4.5",
+            "ItemUnitValue": "19.50",
+            "ItemTotal": "614.25"
+        },
+        {
+            "ItemDescription": "Man Lift + 20%",
+            "ItemTotal": "864.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

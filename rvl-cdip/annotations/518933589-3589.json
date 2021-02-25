@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "014-0020",
+    "IssuedDate": "01/14/97",
+    "TotalAmount": "24,128.79",
+    "LineItem": [
+        {
+            "ItemDescription": "CAMIL FILTCR BOX 01G1F",
+            "ItemTotal": "53,505.00",
+            "ItemUnitValue": "356 7000",
+            "ItemUnitCount": "150"
+        },
+        {
+            "ItemDescription": "CAMEL LT BOX B1G1F",
+            "ItemTotal": "53.505.00",
+            "ItemUnitValue": "356.7000",
+            "ItemUnitCount": "150"
+        }
+    ]
+}

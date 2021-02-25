@@ -1,0 +1,575 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "22,209.90",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "149,344.71",
+                            {
+                                "tp": 2.0,
+                                "fp": 8.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Direct Labor",
+                            {
+                                "tp": 12.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 17.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "187.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "642.60",
+                            {
+                                "tp": 2.0,
+                                "fp": 4.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Prem. Cost for Overtime",
+                            {
+                                "tp": 22.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 11.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "5,603.15",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "38,985.38",
+                            {
+                                "tp": 2.0,
+                                "fp": 7.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Bldg. Utilities",
+                            {
+                                "tp": 13.0,
+                                "fp": 2.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 15.0,
+                        "fp": 17.0,
+                        "fn": 11.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "10,442.25",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "67,721.93",
+                            {
+                                "tp": 3.0,
+                                "fp": 6.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Tech. Mgnt. Cost",
+                            {
+                                "tp": 16.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 15.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "0.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Travel",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 6.0,
+                        "fp": 4.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "7,660.03",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "55,518.56",
+                            {
+                                "tp": 2.0,
+                                "fp": 7.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Org. Fadiity/Equip. Costs",
+                            {
+                                "tp": 22.0,
+                                "fp": 3.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 18.0,
+                        "fn": 10.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "7,119.89",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "38,328.38",
+                            {
+                                "tp": 3.0,
+                                "fp": 6.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Other Direct Costs",
+                            {
+                                "tp": 18.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 21.0,
+                        "fp": 14.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 18.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "3,138.61",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "216.86",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Materials Other Hanford Contractor Services",
+                            {
+                                "tp": 33.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 39.0,
+                        "fp": 18.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 25.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 29.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "0.00",
+                            {
+                                "tp": 2.0,
+                                "fp": 2.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Gen. Admin. Cost",
+                            {
+                                "tp": 16.0,
+                                "fp": 0.0,
+                                "fn": 21.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 2.0,
+                        "fn": 28.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "2,350.60",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "16,365.60",
+                            {
+                                "tp": 6.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Battelle Bldgs.",
+                            {
+                                "tp": 15.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 21.0,
+                        "fp": 11.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "9.18",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "231.49",
+                            {
+                                "tp": 1.0,
+                                "fp": 5.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DOE Bldgs.",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 11.0,
+                        "fp": 9.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 212.0,
+                "fp": 136.0,
+                "fn": 128.0
+            }
+        ],
+        "InvoiceNumber": [
+            "0889095",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ]
+    },
+    {
+        "tp": 219.0,
+        "fp": 136.0,
+        "fn": 145.0
+    }
+]

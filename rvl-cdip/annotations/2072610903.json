@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1247",
+    "IssuedDate": "June 18,1990",
+    "TotalAmount": "4,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "MARLBORO LIFESTYLES - QUANVERT",
+            "ItemTotal": "$4,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

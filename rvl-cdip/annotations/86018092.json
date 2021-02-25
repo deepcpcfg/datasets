@@ -1,0 +1,91 @@
+{
+    "InvoiceNumber": "0689096",
+    "IssuedDate": "06-09-89",
+    "TotalAmount": "107,290.02 ",
+    "LineItem": [
+        {
+            "ItemDescription": "Direct Labor",
+            "ItemTotal": "$ 25,172.83 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Prem. Cost for Overtime",
+            "ItemTotal": "125.19",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Bldg. & Utilities",
+            "ItemTotal": "6,329.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Tech. Mgmt. Cost",
+            "ItemTotal": "11,681.67",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Org. Facility/Equip. Costs",
+            "ItemTotal": "7*083.64",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Other Direct Costs",
+            "ItemTotal": "7,524.99",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Materials",
+            "ItemTotal": "6,592,28",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Other Hanford Contractor Services",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Subcontracts/Consultants",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Gen. & Admin. Cost (4SX of Subtotal)",
+            "ItemTotal": "26,063.63",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Cost of Facility Capital Battelle Bldgs.",
+            "ItemTotal": "2,685.23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DOE Bldgs",
+            "ItemTotal": "36.08",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee",
+            "ItemTotal": "13,995.15",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

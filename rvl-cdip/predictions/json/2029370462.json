@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "4021",
+    "IssuedDate": "Jin 14, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Eight days consulting at $1,000 per day",
+            "ItemTotal": "8,000.00"
+        },
+        {
+            "ItemDescription": "Air fares* S. Turner",
+            "ItemTotal": "894.00"
+        },
+        {
+            "ItemDescription": "Hotels",
+            "ItemTotal": ".40.38"
+        },
+        {
+            "ItemDescription": "Wise, tips",
+            "ItemTotal": "20.00"
+        }
+    ],
+    "TotalAmount": "13,199.77"
+}

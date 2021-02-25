@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "1/19/79",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "860,300",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "3,673,00",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "3,673,000",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Worker1a Compensation",
+                            {
+                                "tp": 19.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 19.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,046,500",
+                            {
+                                "tp": 5.0,
+                                "fp": 4.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "General Liability",
+                            {
+                                "tp": 17.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 4.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "296,800",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Automobile Liability",
+                            {
+                                "tp": 20.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 27.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 68.0,
+                "fp": 23.0,
+                "fn": 7.0
+            }
+        ],
+        "InvoiceNumber": [
+            "9-0",
+            {
+                "tp": 3.0,
+                "fp": 0.0,
+                "fn": 3.0
+            }
+        ]
+    },
+    {
+        "tp": 85.0,
+        "fp": 23.0,
+        "fn": 10.0
+    }
+]

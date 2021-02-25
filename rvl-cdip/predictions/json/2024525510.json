@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "58",
+    "IssuedDate": "May 6, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "Price for books Shipping",
+            "ItemTotal": "150.00"
+        }
+    ],
+    "TotalAmount": "153.30"
+}

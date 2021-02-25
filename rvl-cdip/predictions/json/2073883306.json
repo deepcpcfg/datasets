@@ -1,0 +1,23 @@
+{
+    "IssuedDate": "June 30, 1936",
+    "InvoiceNumber": "35436B",
+    "LineItem": [
+        {
+            "ItemDescription": "S. Lombardo NY 5/13-5/15/96",
+            "ItemTotal": "910.00"
+        },
+        {
+            "ItemDescription": "Ground Transportation",
+            "ItemTotal": "193.00"
+        },
+        {
+            "ItemDescription": "Overnight Courier",
+            "ItemTotal": "34.90"
+        },
+        {
+            "ItemDescription": "Telephone Messenger Service Photocopy",
+            "ItemTotal": "7.95"
+        }
+    ],
+    "TotalAmount": "$1,652.55"
+}

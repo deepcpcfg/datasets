@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "June 10, 1991",
+    "InvoiceNumber": "1Q319",
+    "LineItem": [
+        {
+            "ItemDescription": "Virginia Slims Si600 Dangoor) Family 100's Flip-Top Box Design, Phase 7A PROFESSIONAL SERVICE FEE",
+            "ItemTotal": "$0"
+        },
+        {
+            "ItemDescription": "OPC's (OUT OF POCKET COSTS)",
+            "ItemTotal": "$162"
+        }
+    ],
+    "TotalAmount": "$162"
+}

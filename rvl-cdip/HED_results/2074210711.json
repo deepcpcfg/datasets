@@ -1,0 +1,452 @@
+[
+    {
+        "TotalAmount": [
+            "5129,394.03",
+            {
+                "tp": 10.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$12693.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$12,693.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Image Archive Server",
+                            {
+                                "tp": 20.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 40.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$19995.04}",
+                            {
+                                "tp": 8.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$19,995.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Link Server Software",
+                            {
+                                "tp": 20.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 39.0,
+                        "fp": 2.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$7000.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$7,000.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Digital Link Photo Editor Software",
+                            {
+                                "tp": 33.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 49.0,
+                        "fp": 3.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$3750.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$3,750.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Digital Link image Archivist w/ ISO Author Software",
+                            {
+                                "tp": 51.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 69.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$12287.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$13,287.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "External 5-8ay, SCSI-Connected, 12GB-RAID",
+                            {
+                                "tp": 41.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 59.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "516302.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$33,804.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pioneer DRM 500 CD Jukebox",
+                            {
+                                "tp": 26.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 44.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$4995.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "54.995.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Digital Link Storage Manager Software",
+                            {
+                                "tp": 37.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 53.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$9995.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "§9,995.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Digital Link Image Database (Eight-seat)",
+                            {
+                                "tp": 39.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 56.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$6737-00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "56,737.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Digital Link Workstation",
+                            {
+                                "tp": 24.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 40.0,
+                        "fp": 2.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$7000.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$7,000.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Digital Link Photo Editor Software",
+                            {
+                                "tp": 34.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 52.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 501.0,
+                "fp": 15.0,
+                "fn": 22.0
+            }
+        ],
+        "InvoiceNumber": [
+            "639",
+            {
+                "tp": 0.0,
+                "fp": 3.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 511.0,
+        "fp": 19.0,
+        "fn": 30.0
+    }
+]

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="184.0" fp="68.0" fn="85.0">
+    <LineItem tp="175.0" fp="67.0" fn="71.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="150.0" t="1442.0" r="483.0" b="1484.0">-SALT(MORE</box>
+          <box l="530.0" t="1443.0" r="625.0" b="1476.0">SUN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2993.0" t="1435.0" r="3267.0" b="1471.0">5*244.97</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="424.0" t="1552.0" r="591.0" b="1587.0">GLOBE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2993.0" t="1544.0" r="3267.0" b="1580.0">8*217.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="461.0" t="1603.0" r="695.0" b="1644.0">TRIBUNE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2963.0" t="1598.0" r="3267.0" b="1634.0">12.766.56</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="162.0" t="1660.0" r="420.0" b="1695.0">‘DETROIT</box>
+          <box l="458.0" t="1663.0" r="587.0" b="1694.0">FREE</box>
+          <box l="630.0" t="1662.0" r="795.0" b="1693.0">PRESS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="975.0" t="1661.0" r="1074.0" b="1694.0">210</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2992.0" t="1656.0" r="3266.0" b="1689.0">8.538.98</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="162.0" t="1713.0" r="413.0" b="1770.0">Ja^TRaiT</box>
+          <box l="455.0" t="1718.0" r="587.0" b="1751.0">NEWS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1291.0" t="1719.0" r="1308.0" b="1748.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2963.0" t="1713.0" r="3266.0" b="1746.0">12*344.45</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="317.0" t="1756.0" r="554.0" b="1808.0">AkG^LES</box>
+          <box l="595.0" t="1773.0" r="795.0" b="1808.0">HERALD</box>
+          <box l="838.0" t="1773.0" r="1074.0" b="1809.0">EXAM324</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2992.0" t="1764.0" r="3266.0" b="1804.0">5*357.22</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="162.0" t="1813.0" r="554.0" b="1870.0">K£qr-^ANGELES</box>
+          <box l="595.0" t="1831.0" r="762.0" b="1861.0">DAILY</box>
+          <box l="804.0" t="1830.0" r="937.0" b="1860.0">NEWS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2509.0" t="1825.0" r="2780.0" b="1859.0">3,059.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2992.0" t="1821.0" r="3266.0" b="1859.0">2,600.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="329.0" t="1885.0" r="446.0" b="1926.0">rq«K</box>
+          <box l="492.0" t="1885.0" r="624.0" b="1918.0">NEWS</box>
+          <box l="666.0" t="1885.0" r="833.0" b="1918.0">CCS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="974.0" t="1885.0" r="1074.0" b="1918.0">420</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="3066.0" t="1877.0" r="3264.0" b="1910.0">932.37</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="562.0" t="1943.0" r="590.0" b="1971.0">A</box>
+          <box l="636.0" t="1939.0" r="899.0" b="1980.0">INQUIRER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2963.0" t="1935.0" r="3265.0" b="1969.0">14.007.66</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="162.0" t="1971.0" r="523.0" b="2037.0">'WAi.Hi'NGTON</box>
+          <box l="558.0" t="1995.0" r="691.0" b="2028.0">POST</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2963.0" t="1990.0" r="3264.0" b="2025.0">10*316.03</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="1.0">
+      <box l="2930.0" t="2102.0" r="3267.0" b="2135.0">108*965.70</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

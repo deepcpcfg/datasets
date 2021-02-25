@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "G7/1O/93",
+            {
+                "tp": 6.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "ONE FURNISHED CARD FOUR COLOR PAGE: 035 REG-MULTI EDITION ROlt R02f R07, ROB, RL2. R17, RIB",
+                            {
+                                "tp": 27.0,
+                                "fp": 64.0,
+                                "fn": 49.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 27.0,
+                        "fp": 64.0,
+                        "fn": 67.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "12,220.00-",
+                            {
+                                "tp": 5.0,
+                                "fp": 5.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "R19» R25 NEGOTIATED",
+                            {
+                                "tp": 10.0,
+                                "fp": 9.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 15.0,
+                        "fp": 14.0,
+                        "fn": 19.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 17.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 35.0
+                    }
+                ]
+            ],
+            {
+                "tp": 42.0,
+                "fp": 78.0,
+                "fn": 121.0
+            }
+        ],
+        "TotalAmount": [
+            "17,748.00",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "171",
+            {
+                "tp": 3.0,
+                "fp": 0.0,
+                "fn": 3.0
+            }
+        ]
+    },
+    {
+        "tp": 51.0,
+        "fp": 89.0,
+        "fn": 126.0
+    }
+]

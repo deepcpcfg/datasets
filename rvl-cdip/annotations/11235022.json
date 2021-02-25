@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "11. 449",
+    "IssuedDate": "76 NOV 19 ",
+    "TotalAmount": "23,258.00",
+    "LineItem": [
+        {
+            "ItemDescription": "STUDIES OF SMOKING MACHINE CHARACTERISTICS",
+            "ItemTotal": "23,258.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "February21 1994",
+    "TotalAmount": "913.00",
+    "LineItem": [
+        {
+            "ItemDescription": "TRUE SNAPSHOT REPORT (DI/18151) December 1993 ",
+            "ItemTotal": "$517.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TRUE ALL GEOS (DI/18157) December 1993",
+            "ItemTotal": "$396.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

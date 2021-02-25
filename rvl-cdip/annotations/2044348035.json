@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "332676",
+    "IssuedDate": "22 Jun 1990",
+    "TotalAmount": "839.00",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL FEE TO DATE",
+            "ItemTotal": "$3,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS AMOUNT PREVIOUSLY BILLED",
+            "ItemTotal": "$3,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TOTAL PROFESSIONAL FEE DUE",
+            "ItemTotal": "$.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OUT-OF-POCKET EXPENSES TO DATE",
+            "ItemTotal": "$1,019.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS AMOUNT PREVIOUSLY BILLED",
+            "ItemTotal": "$180.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TOTAL OUT-OF-POCKET EXPENSES DUE",
+            "ItemTotal": "$839.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

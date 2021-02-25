@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "20 January, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "FEE",
+            "ItemTotal": "$1,000,00"
+        },
+        {
+            "ItemDescription": "Iris Prints",
+            "ItemTotal": "$252.00"
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "$32.50"
+        }
+    ]
+}

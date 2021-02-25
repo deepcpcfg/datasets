@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "May 2, 1980",
+            {
+                "tp": 11.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "550",
+            {
+                "tp": 3.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "550",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Production of work paper on byssinosis and smoking",
+                            {
+                                "tp": 50.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 53.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 53.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "411-9/1780",
+            {
+                "tp": 10.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 77.0,
+        "fp": 0.0,
+        "fn": 1.0
+    }
+]

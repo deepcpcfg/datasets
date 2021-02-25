@@ -1,0 +1,125 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$100.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Technical review of New York",
+                            {
+                                "tp": 0.0,
+                                "fp": 28.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 35.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "University Medical",
+                            {
+                                "tp": 0.0,
+                                "fp": 18.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 18.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Proposal for Renewal of Contract N01 CP 33241 on \"Tumor-Promoting",
+                            {
+                                "tp": 64.0,
+                                "fp": 1.0,
+                                "fn": 111.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 64.0,
+                        "fp": 1.0,
+                        "fn": 118.0
+                    }
+                ]
+            ],
+            {
+                "tp": 64.0,
+                "fp": 54.0,
+                "fn": 118.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 64.0,
+        "fp": 54.0,
+        "fn": 118.0
+    }
+]

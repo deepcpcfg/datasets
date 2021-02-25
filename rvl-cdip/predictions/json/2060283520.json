@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "101714",
+    "LineItem": [
+        {
+            "ItemDescription": "MONTHLY AND"
+        },
+        {
+            "ItemDescription": "COUPON TRACING REPORT ON MARKETS"
+        },
+        {
+            "ItemDescription": "VALUE"
+        }
+    ],
+    "IssuedDate": "AUGUST 11, 1989",
+    "TotalAmount": "$3,500.00"
+}

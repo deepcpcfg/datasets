@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="55.0" fp="59.0" fn="30.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="1992.0" t="727.0" r="2113.0" b="760.0">June</box>
+      <box l="2151.0" t="727.0" r="2226.0" b="765.0">30,</box>
+      <box l="2276.0" t="727.0" r="2388.0" b="760.0">1998</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2310.0" t="1378.0" r="2489.0" b="1414.0">354861</box>
+    </InvoiceNumber>
+    <LineItem tp="36.0" fp="59.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="332.0" t="1792.0" r="569.0" b="1834.0">Expenses</box>
+          <box l="607.0" t="1791.0" r="878.0" b="1826.0">Processed</box>
+          <box l="915.0" t="1799.0" r="973.0" b="1825.0">to</box>
+          <box l="1008.0" t="1795.0" r="1153.0" b="1825.0">Date:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2657.0" t="1789.0" r="2868.0" b="1831.0">$362.89</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="544.0" t="1909.0" r="723.0" b="1942.0">Ground</box>
+          <box l="757.0" t="1908.0" r="1195.0" b="1954.0">Transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2345.0" t="1910.0" r="2493.0" b="1943.0">25.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="545.0" t="2025.0" r="819.0" b="2067.0">Telephone</box>
+          <box l="548.0" t="2142.0" r="820.0" b="2188.0">Photocopy</box>
+          <box l="548.0" t="2259.0" r="820.0" b="2296.0">Facsimile</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2316.0" t="2143.0" r="2495.0" b="2177.0">232.25</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

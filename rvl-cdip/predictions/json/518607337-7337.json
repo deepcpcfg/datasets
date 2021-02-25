@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "3195004",
+    "IssuedDate": "July 20, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "FOR: N.Y. Slate Fair Promotion Driver Appearances",
+            "ItemTotal": "$12,500.00"
+        }
+    ]
+}

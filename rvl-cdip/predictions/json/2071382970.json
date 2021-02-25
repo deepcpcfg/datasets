@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "January 31, 1994",
+    "InvoiceNumber": "#3741",
+    "LineItem": [
+        {
+            "ItemDescription": "Total research fees",
+            "ItemTotal": "21,800.00"
+        }
+    ],
+    "TotalAmount": "(10,900.00)"
+}

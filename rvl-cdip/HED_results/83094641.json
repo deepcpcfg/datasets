@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "PO",
+            {
+                "tp": 0.0,
+                "fp": 2.0,
+                "fn": 7.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$3,000.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "EXCLUSIVE RAMPLING AND PROiJOTION RIGHTS AT THE LAUSH® SUPERFEST 1990, LANSING, ILL FAIRGROUNDS JULY 18“22 LABOR AT $100 PER DAY PEE SAMPLER SUPERVISION AT $125 PER DAY, PLUS FREIGHT, VAN RENTAL IF REQUIRED, El SC. t OUT-OF POCKET.",
+                            {
+                                "tp": 224.0,
+                                "fp": 7.0,
+                                "fn": 11.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 233.0,
+                        "fp": 7.0,
+                        "fn": 11.0
+                    }
+                ]
+            ],
+            {
+                "tp": 233.0,
+                "fp": 7.0,
+                "fn": 11.0
+            }
+        ],
+        "InvoiceNumber": [
+            "9150",
+            {
+                "tp": 0.0,
+                "fp": 4.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 233.0,
+        "fp": 13.0,
+        "fn": 18.0
+    }
+]

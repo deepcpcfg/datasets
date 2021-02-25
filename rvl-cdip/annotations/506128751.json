@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "85-0610-2",
+    "IssuedDate": "7/``19/85",
+    "LineItem": [
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "RJR P. 0. No. 85-35668",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "4",
+            "ItemDescription": "R. J. R. P. 0. Nos. 85-31516 & 85-35577",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Hydrated Alumina - SAMPLES",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "6",
+            "ItemDescription": "R.J.R. P. 0. No. 85-29030 8 Samples from Hudson Falls, NY",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemTotal": "143",
+            "ItemDescription": "hydrated Alumina (Samples per Dr. Chandr; Banerjee)",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemTotal": "328",
+            "ItemDescription": "HM/PALLETS ACTIVE CARBON Shipped to: Union Carbide corp. Parma, Ohio Date: 6/28/85",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemTotal": "115",
+            "ItemDescription": "Material shipped to Germany (per Max Baker) (5/31/85)",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemTotal": "115",
+            "ItemDescription": "Material shipped to Germany (per Max Baker) (6/4/85)",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "R.J.R. P. 0. No. 85-32661",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

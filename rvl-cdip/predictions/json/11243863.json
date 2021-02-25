@@ -1,0 +1,9 @@
+{
+    "InvoiceNumber": "CTR-10028-9",
+    "LineItem": [
+        {
+            "ItemDescription": "Fixed Fee",
+            "ItemTotal": "^2;13T.1»3"
+        }
+    ]
+}

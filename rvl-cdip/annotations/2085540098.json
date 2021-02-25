@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2-59597",
+    "IssuedDate": "August 23. 2001",
+    "TotalAmount": "21,996.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Second Quarter @ 22.5%",
+            "ItemTotal": "21,996,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

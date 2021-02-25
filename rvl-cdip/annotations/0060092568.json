@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "05-0214",
+    "IssuedDate": "May 26, 1993",
+    "TotalAmount": "49,027.98",
+    "LineItem": [
+        {
+            "ItemTotal": "$48,983.47",
+            "ItemDescription": "DataPulse Smoker Resourca’May ’93",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "29.41",
+            "ItemDescription": "Magnetic tape charge",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "35.10",
+            "ItemDescription": "Freight charge",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

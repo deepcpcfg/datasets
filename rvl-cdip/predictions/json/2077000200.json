@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "M47Q745",
+    "IssuedDate": "1995,",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES FOR PROFESSIONAL SERVICES:",
+            "ItemTotal": "261,811.50"
+        },
+        {
+            "ItemDescription": "CHARGES:",
+            "ItemTotal": "116,255.14"
+        }
+    ]
+}

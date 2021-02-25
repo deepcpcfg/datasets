@@ -1,0 +1,36 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "CAMEL FILTER BOX B0G4F",
+            "ItemUnitCount": "12,000",
+            "ItemUnitValue": "371.7000",
+            "ItemTotal": "743.40"
+        },
+        {
+            "ItemDescription": "CAMEL LIGHT BOX MG4F",
+            "ItemUnitCount": "12,000",
+            "ItemUnitValue": "371.7000",
+            "ItemTotal": "743.40"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "594,72-"
+        },
+        {
+            "ItemDescription": "STD",
+            "ItemTotal": "B92.08"
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "19.32-"
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "B43.77"
+        },
+        {
+            "ItemDescription": "EFT",
+            "ItemTotal": "208.80-"
+        }
+    ]
+}

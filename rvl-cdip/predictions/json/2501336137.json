@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "31st March 1986",
+    "LineItem": [
+        {
+            "ItemDescription": "Patent",
+            "ItemTotal": "£345.30"
+        },
+        {
+            "ItemDescription": "CANADA",
+            "ItemTotal": "£325.75"
+        },
+        {
+            "ItemDescription": "FINLAND",
+            "ItemTotal": "E293.80"
+        },
+        {
+            "ItemDescription": "JAPAN",
+            "ItemTotal": "£342.35"
+        },
+        {
+            "ItemDescription": "Official Fees for obtaining four certified copies of the basic European Application",
+            "ItemTotal": "£40.25"
+        }
+    ]
+}

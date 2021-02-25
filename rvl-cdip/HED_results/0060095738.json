@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "May 4, 1989",
+            {
+                "tp": 11.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "11,000.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "16,500.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Consultation Fee: One third total cost of project",
+                            {
+                                "tp": 49.0,
+                                "fp": 0.0,
+                                "fn": 44.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 58.0,
+                        "fp": 0.0,
+                        "fn": 46.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "due",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 3.0,
+                        "fn": 15.0
+                    }
+                ]
+            ],
+            {
+                "tp": 58.0,
+                "fp": 3.0,
+                "fn": 61.0
+            }
+        ],
+        "InvoiceNumber": [
+            "#10789",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 83.0,
+        "fp": 4.0,
+        "fn": 61.0
+    }
+]

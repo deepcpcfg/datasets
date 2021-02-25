@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "01-0272",
+    "IssuedDate": "January 27, 1993",
+    "TotalAmount": "4,904.11",
+    "LineItem": [
+        {
+            "ItemTotal": "$140.79",
+            "ItemDescription": "•Redemption Coupons keyed (3,419 pcs. © S41.18/M)/",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "58.82",
+            "ItemDescription": "'Misty Bag Requests 10/92 (99 pcs. @ $58.82/min.chg.) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "50.82",
+            "ItemDescription": "’Misty bag Requests 9/92 (90 pc&. © $58.82/min.chg.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,066.66",
+            "ItemDescription": "'Misty Bag Requests (6.423 pcs. <5 S47Q60/M)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,197.00",
+            "ItemDescription": "Management Fee covering supervision of data entry and reporting",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "310,20",
+            "ItemDescription": "'Mlsc. (copies, freight, iaxes, etc.) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

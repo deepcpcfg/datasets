@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "85-0610-2",
+    "IssuedDate": "7/19/85",
+    "TotalAmount": "300",
+    "LineItem": [
+        {
+            "ItemDescription": "boxes RJR P. 0. No. 85-35668 (7/3/85)",
+            "ItemTotal": "25"
+        },
+        {
+            "ItemDescription": "4 boxes R. J. R. P. 0. Nos. 85-31516 6 85-35577",
+            "ItemTotal": "25"
+        },
+        {
+            "ItemDescription": "1 drum Hydrated Alumina SAMPLES (7/12/85)",
+            "ItemTotal": "25"
+        },
+        {
+            "ItemDescription": "boxes R.J.R. P. 0. No. 85-29030 8 Samples (7/17/85)",
+            "ItemTotal": "25"
+        },
+        {
+            "ItemDescription": "from Hudson Falls, NY 1 drum wydrated Alumina (Samples per Dr. Chandr;",
+            "ItemTotal": "143"
+        },
+        {
+            "ItemDescription": "2 HM/PALLETS ACTIVE CARBON"
+        },
+        {
+            "ItemDescription": "1 box Material shipped to Germany (per Hax Baker) (5/31/85)",
+            "ItemTotal": "115"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "box Material shipped to Germany (per Max Baker) (6/4/85)",
+            "ItemTotal": "115"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "box R.J.R. P. O. No. 85-32661"
+        }
+    ]
+}

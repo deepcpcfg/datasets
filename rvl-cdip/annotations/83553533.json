@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "3712016",
+    "IssuedDate": "12/12/97",
+    "TotalAmount": "3,326.49",
+    "LineItem": [
+        {
+            "ItemDescription": "Labor",
+            "ItemTotal": "$2,890.23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "$143.34",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Other",
+            "ItemTotal": "$202.92",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

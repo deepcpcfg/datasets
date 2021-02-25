@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "August 1, 198H-",
+    "InvoiceNumber": "1560-3",
+    "LineItem": [
+        {
+            "ItemDescription": "14-Day Subacure Toxicity in Rats with B-127",
+            "ItemUnitCount": "5",
+            "ItemTotal": "2,050.00"
+        }
+    ]
+}

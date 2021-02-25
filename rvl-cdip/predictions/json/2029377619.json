@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "—M00098",
+    "IssuedDate": "2A- Oct 31, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Fees",
+            "ItemTotal": "385.500"
+        },
+        {
+            "ItemDescription": "advance",
+            "ItemTotal": "7,765.80"
+        }
+    ],
+    "TotalAmount": "26,008.66"
+}

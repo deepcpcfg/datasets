@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "09/30",
+    "LineItem": [
+        {
+            "ItemDescription": "WINSTON SELECT B5G5F",
+            "ItemUnitCount": "12,000",
+            "ItemTotal": "647.4000",
+            "ItemUnitValue": "647.40"
+        },
+        {
+            "ItemDescription": "WINSTON SELECT BX B5G5F",
+            "ItemUnitCount": "12,000",
+            "ItemTotal": "647.4000",
+            "ItemUnitValue": "647.40"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUC! T",
+            "ItemTotal": "647.40-"
+        },
+        {
+            "ItemDescription": "LESS 3-25* DISCOUNT",
+            "ItemTotal": "21.04-"
+        },
+        {
+            "ItemDescription": "EFT",
+            "ItemUnitValue": "24.17",
+            "ItemTotal": "626.36"
+        }
+    ],
+    "TotalAmount": "437.40"
+}

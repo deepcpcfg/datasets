@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "July 3, 1971",
+    "LineItem": [
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "535-3°",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "105.53",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "220.22",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postage",
+            "ItemTotal": "40.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Miscellaneous",
+            "ItemTotal": "148.34",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Services: Dr. Herbert Arkin",
+            "ItemTotal": "2,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

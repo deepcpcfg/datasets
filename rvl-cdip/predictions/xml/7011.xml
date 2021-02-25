@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="60.0" fp="34.0" fn="49.0">
+    <IssuedDate tp="7.0" fp="1.0" fn="1.0">
+      <box l="629.0" t="673.0" r="816.0" b="710.0">MARI7/00</box>
+    </IssuedDate>
+    <InvoiceNumber tp="9.0" fp="2.0" fn="2.0">
+      <box l="2324.0" t="672.0" r="2549.0" b="699.0">PP.03-00714</box>
+    </InvoiceNumber>
+    <LineItem tp="44.0" fp="31.0" fn="38.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="317.0" t="1206.0" r="744.0" b="1238.0">Nou-CoffliiiiBsioTiAble</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2389.0" t="1206.0" r="2573.0" b="1234.0">1,039.67</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="677.0" t="1297.0" r="839.0" b="1331.0">charger.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2484.0" t="1293.0" r="2573.0" b="1322.0">0-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="318.0" t="1388.0" r="460.0" b="1421.0">Agency</box>
+          <box l="485.0" t="1384.0" r="719.0" b="1411.0">Cwnuincion</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2483.0" t="1381.0" r="2518.0" b="1407.0">0.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="433.0" t="2492.0" r="570.0" b="2518.0">003789</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="862.0" t="2449.0" r="1020.0" b="2474.0">3000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

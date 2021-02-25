@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3617",
+    "IssuedDate": "4/24/95",
+    "TotalAmount": "97.93",
+    "LineItem": [
+        {
+            "ItemDescription": "Color Xeroxes of Slimswear Collection for Sales Promotion’s use - Itemized bill attached.",
+            "ItemUnitCount": "8",
+            "ItemTotal": "$90.93",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "4-153-7",
+    "IssuedDate": "4/30/87",
+    "TotalAmount": "16,695. 77",
+    "LineItem": [
+        {
+            "ItemTotal": "17. 95",
+            "ItemDescription": "Messenger Express",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "25. 00",
+            "ItemDescription": "Federal Express",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "12. 32",
+            "ItemDescription": "Reproduction",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "94. 50",
+            "ItemDescription": "Vox Cam Associates: Slide to tape",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "312. 06",
+            "ItemDescription": "Interface: European Version Dubs Gray Robert son",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5.50",
+            "ItemDescription": "Trave 1s",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

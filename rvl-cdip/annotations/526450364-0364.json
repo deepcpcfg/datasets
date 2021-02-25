@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "97462",
+    "IssuedDate": "7/8/97",
+    "LineItem": [
+        {
+            "ItemTotal": "11,400.00",
+            "ItemUnitValue": "300.00",
+            "ItemUnitCount": "38",
+            "ItemDescription": "For Services Rendered: 6/1/97 through 6/30/97 Expert Testimony Development as detailed on attached Task Worksheet"
+        }
+    ],
+    "TotalAmount": ""
+}

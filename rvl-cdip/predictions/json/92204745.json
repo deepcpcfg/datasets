@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "171",
+    "LineItem": [
+        {
+            "ItemDescription": "ONE FURNISHED CARD FOUR COLOR PAGE: 035 REG-MULTI EDITION ROlt R02f R07, ROB, RL2. R17, RIB"
+        },
+        {
+            "ItemDescription": "R19» R25 NEGOTIATED",
+            "ItemTotal": "12,220.00-"
+        }
+    ],
+    "IssuedDate": "G7/1O/93",
+    "TotalAmount": "17,748.00"
+}

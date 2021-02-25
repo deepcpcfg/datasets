@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="73.0" fp="32.0" fn="72.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2493.0" t="1514.0" r="2722.0" b="1553.0">1039016</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="1.0" fn="2.0">
+      <box l="2149.0" t="1679.0" r="2271.0" b="1720.0">SEP.</box>
+      <box l="2317.0" t="1679.0" r="2516.0" b="1722.0">2,1991</box>
+    </IssuedDate>
+    <LineItem tp="47.0" fp="31.0" fn="70.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1170.0" t="2151.0" r="1547.0" b="2196.0">SEP,09t1991</box>
+          <box l="1590.0" t="2152.0" r="1686.0" b="2193.0">JET</box>
+          <box l="998.0" t="2205.0" r="1165.0" b="2242.0">ORDER</box>
+          <box l="1208.0" t="2205.0" r="1408.0" b="2246.0">NUMBER</box>
+          <box l="1449.0" t="2206.0" r="1652.0" b="2246.0">LM8534</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2637.0" t="2148.0" r="2835.0" b="2190.0">104.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="860.0" t="2375.0" r="886.0" b="2417.0">1</box>
+          <box l="932.0" t="2376.0" r="1061.0" b="2416.0">PAGE</box>
+          <box l="1173.0" t="2377.0" r="1548.0" b="2418.0">SEP*09,1991</box>
+          <box l="1591.0" t="2378.0" r="1685.0" b="2416.0">JET</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2535.0" t="2372.0" r="2836.0" b="2414.0">17,544-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1452.0" t="2439.0" r="1655.0" b="2478.0">LM8534</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2541.0" t="3186.0" r="2845.0" b="3226.0">16,016.40</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

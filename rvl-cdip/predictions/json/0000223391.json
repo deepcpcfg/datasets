@@ -1,0 +1,12 @@
+{
+    "IssuedDate": "March 24, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "Installation charges for HB airport sign Duty Free Shop"
+        },
+        {
+            "ItemDescription": "at Logan Airport",
+            "ItemTotal": "$52.50"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "0476",
+    "IssuedDate": "5/2J/91",
+    "LineItem": [
+        {
+            "ItemDescription": "S/N 79694 on April 15; 1991",
+            "ItemTotal": "250.00"
+        },
+        {
+            "ItemDescription": "Furnish deliver test weights for Load Test Trucks",
+            "ItemTotal": "445.00"
+        },
+        {
+            "ItemDescription": "Examination and Load Test of spreader beam",
+            "ItemTotal": "200.00"
+        },
+        {
+            "ItemDescription": "1 only Rigger 5 Hr. <3 $42.00 per Hr.",
+            "ItemTotal": "210.00"
+        }
+    ],
+    "TotalAmount": "U05.00"
+}

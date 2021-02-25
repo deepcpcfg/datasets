@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "June 16. 1998",
+    "LineItem": [
+        {
+            "ItemDescription": "W] Merchants",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "WI Assoc of Distributees",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "W] Assoc Truck Stops",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "WI Grocers Assoc",
+            "ItemTotal": "30.00"
+        }
+    ],
+    "TotalAmount": "$120.00"
+}

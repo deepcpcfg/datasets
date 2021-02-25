@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1042^84",
+    "IssuedDate": "N0V.22,1993",
+    "TotalAmount": "16,523.00",
+    "LineItem": [
+        {
+            "ItemTotal": "18,140.00",
+            "ItemDescription": "1 PACE NOV.29,1993 JET 4TH COVER",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2721.00CR",
+            "ItemDescription": "COMMISSION FROH ABOVE ITEM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,104.00",
+            "ItemDescription": "NOV.29,1993 JET 4TH COVER",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

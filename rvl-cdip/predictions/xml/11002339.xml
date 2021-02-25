@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="248.0" fp="38.0" fn="51.0">
+    <IssuedDate tp="0.0" fp="4.0" fn="0.0">
+      <box l="2181.0" t="1434.0" r="2290.0" b="1475.0">1966</box>
+    </IssuedDate>
+    <LineItem tp="243.0" fp="32.0" fn="50.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1170.0" t="1626.0" r="1232.0" b="1666.0">50</box>
+          <box l="1253.0" t="1621.0" r="1439.0" b="1665.0">Charles</box>
+          <box l="1465.0" t="1625.0" r="1589.0" b="1663.0">River</box>
+          <box l="1611.0" t="1621.0" r="1689.0" b="1663.0">CD</box>
+          <box l="1711.0" t="1621.0" r="1839.0" b="1663.0">Mice</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2003.0" t="1617.0" r="2155.0" b="1662.0">20.50</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="845.0" t="1717.0" r="1110.0" b="1771.0">Laboratory</box>
+          <box l="1136.0" t="1713.0" r="1340.0" b="1770.0">Supplies</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2677.0" t="1767.0" r="2826.0" b="1809.0">53.39</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="641.0" t="1901.0" r="800.0" b="1942.0">Direct</box>
+          <box l="825.0" t="1896.0" r="958.0" b="1942.0">Labor</box>
+          <box l="845.0" t="1984.0" r="1245.0" b="2037.0">Pharmacologist</box>
+          <box l="1253.0" t="1984.0" r="1348.0" b="2026.0">Emil</box>
+          <box l="1378.0" t="1984.0" r="1527.0" b="2034.0">Smith,</box>
+          <box l="1565.0" t="1980.0" r="1739.0" b="2033.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2289.0" t="1980.0" r="2430.0" b="2021.0">95,19</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="845.0" t="2042.0" r="1111.0" b="2083.0">Biochemist</box>
+          <box l="1136.0" t="2042.0" r="1302.0" b="2092.0">(Harris</box>
+          <box l="1328.0" t="2042.0" r="1639.0" b="2087.0">Rosenkranbz:,</box>
+          <box l="1674.0" t="2038.0" r="1848.0" b="2088.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2285.0" t="2041.0" r="2430.0" b="2076.0">73.28</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="845.0" t="2100.0" r="1123.0" b="2155.0">Pathologist</box>
+          <box l="1149.0" t="2097.0" r="1344.0" b="2155.0">(Marcus</box>
+          <box l="1365.0" t="2100.0" r="1619.0" b="2150.0">M,Mason,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2294.0" t="2097.0" r="2430.0" b="2138.0">10.79</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="845.0" t="2163.0" r="1120.0" b="2206.0">Technician</box>
+          <box l="1224.0" t="2160.0" r="1569.0" b="2217.0">pharmacology</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2285.0" t="2162.0" r="2430.0" b="2201.0">45.30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="845.0" t="2226.0" r="1120.0" b="2267.0">Technician</box>
+          <box l="1215.0" t="2222.0" r="1528.0" b="2276.0">biochemistry</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2652.0" t="2280.0" r="2819.0" b="2321.0">235.8]</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="641.0" t="2413.0" r="887.0" b="2455.0">Overhead</box>
+          <box l="916.0" t="2411.0" r="1074.0" b="2464.0">(100%</box>
+          <box l="1095.0" t="2413.0" r="1144.0" b="2455.0">of</box>
+          <box l="1170.0" t="2413.0" r="1324.0" b="2455.0">Direct</box>
+          <box l="1349.0" t="2406.0" r="1503.0" b="2463.0">Labor)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2651.0" t="2498.0" r="2822.0" b="2539.0">525.01</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="2.0" fn="1.0">
+      <box l="2609.0" t="2723.0" r="2822.0" b="2772.0">$588,01</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

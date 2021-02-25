@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "12213",
+    "IssuedDate": "December 30, 1996",
+    "TotalAmount": "161.82",
+    "LineItem": [
+        {
+            "ItemDescription": "For Services Rendered Through December 30, 1996",
+            "ItemTotal": "161.82",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

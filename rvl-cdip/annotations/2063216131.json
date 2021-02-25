@@ -1,0 +1,37 @@
+{
+    "TotalAmount": "30331.00 ",
+    "LineItem": [
+        {
+            "ItemDescription": "LG1 -621 -0004066-023",
+            "ItemTotal": "2225.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AEl-621-004066-033",
+            "ItemTotal": "111.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "WC1-621-004066-013",
+            "ItemTotal": "6120.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LG1-621-004066-023",
+            "ItemTotal": "2650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AE1- 621-004066-033",
+            "ItemTotal": "940.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

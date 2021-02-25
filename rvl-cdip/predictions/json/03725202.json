@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Duplicating Travel",
+            "ItemTotal": "329.90"
+        },
+        {
+            "ItemDescription": "Long distance telephone",
+            "ItemTotal": "149.50"
+        },
+        {
+            "ItemDescription": "Postage Miscellaneous",
+            "ItemTotal": "181.00"
+        },
+        {
+            "ItemDescription": "Copies of District Court documents",
+            "ItemTotal": ".00"
+        }
+    ]
+}

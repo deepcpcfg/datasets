@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "178502",
+    "IssuedDate": "June 17, 1997",
+    "LineItem": [
+        {
+            "ItemDescription": "To disbursements in payment of Associates’ charges for review, monitoring, filing brief and reporting on the above matter (June, 1993 to present) To our services in connection with review of Applicant’s answer to our opposition, instructing the filing of a brief in reply and reporting",
+            "ItemTotal": "$400.00"
+        }
+    ]
+}

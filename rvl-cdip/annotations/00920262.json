@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1500-4",
+    "IssuedDate": "July 5, 1983",
+    "TotalAmount": "114,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "MOUSE SKIN PAINTING STUDY WITH 0-1 ANO 0-10",
+            "ItemTotal": "$15,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="74.0" fp="5.0" fn="9.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="4.0">
+      <box l="2838.0" t="218.0" r="2951.0" b="260.0">6-51</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="3.0" fn="0.0">
+      <box l="2779.0" t="780.0" r="2859.0" b="841.0">30,</box>
+    </IssuedDate>
+    <LineItem tp="70.0" fp="2.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="410.0" t="1365.0" r="468.0" b="1411.0">To</box>
+          <box l="505.0" t="1362.0" r="680.0" b="1421.0">charge</box>
+          <box l="713.0" t="1380.0" r="830.0" b="1425.0">your</box>
+          <box l="868.0" t="1373.0" r="1076.0" b="1411.0">account</box>
+          <box l="1113.0" t="1365.0" r="1180.0" b="1412.0">For</box>
+          <box l="1214.0" t="1366.0" r="1306.0" b="1412.0">2nd</box>
+          <box l="1348.0" t="1367.0" r="1555.0" b="1414.0">Quarter</box>
+          <box l="1598.0" t="1366.0" r="1712.0" b="1414.0">1980</box>
+          <box l="408.0" t="1437.0" r="711.0" b="1496.0">Advertising</box>
+          <box l="754.0" t="1435.0" r="1001.0" b="1485.0">Research,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2862.0" t="1439.0" r="3084.0" b="1498.0">$97,497</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

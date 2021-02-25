@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "15426",
+    "IssuedDate": "12-31-97",
+    "TotalAmount": "10005 .00",
+    "LineItem": [
+        {
+            "ItemTotal": "960.00",
+            "ItemDescription": "ACCOUNT EXECUTIVE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2700.00",
+            "ItemDescription": "CREATIVE DIRECTOR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2635.00",
+            "ItemDescription": "ART DIRECTOR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3710.00",
+            "ItemDescription": "COMPUTER ARTIST",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

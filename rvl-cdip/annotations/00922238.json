@@ -1,0 +1,37 @@
+{
+    "TotalAmount": "704.42",
+    "LineItem": [
+        {
+            "ItemDescription": "Materials",
+            "ItemTotal": "$506.66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Services",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shipping & Communications",
+            "ItemTotal": "40.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Omasa Oil - Prov 12 .00",
+            "ItemTotal": "65.63",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee 15.00",
+            "ItemTotal": "9 1.88",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

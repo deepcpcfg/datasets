@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "April 25. 1983",
+            {
+                "tp": 14.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$7,650.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Induction of Hepatic Micro¬ somal Enzymes with A-44.",
+                            {
+                                "tp": 51.0,
+                                "fp": 1.0,
+                                "fn": 17.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 60.0,
+                        "fp": 1.0,
+                        "fn": 17.0
+                    }
+                ]
+            ],
+            {
+                "tp": 60.0,
+                "fp": 1.0,
+                "fn": 17.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1503-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 80.0,
+        "fp": 1.0,
+        "fn": 17.0
+    }
+]

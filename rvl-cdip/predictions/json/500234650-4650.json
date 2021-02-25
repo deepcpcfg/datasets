@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "6/25/74",
+    "LineItem": [
+        {
+            "ItemDescription": "14x1ft",
+            "ItemTotal": "6,250.00"
+        },
+        {
+            "ItemDescription": "Supervisory Expense",
+            "ItemTotal": "937*50"
+        }
+    ],
+    "TotalAmount": "$7,167.50"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1000",
+    "IssuedDate": "9 December 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "HBI-Australia fees: C92/JR 9 December 1993 Invoice # 1000 To costs associated with an HBIIAQ study of Cairns airport including a full review of plans and specifications of the International and Domestic terminals together with the Operations Centre and inclusive of all travel and accommodation costs.",
+            "ItemTotal": "14.400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

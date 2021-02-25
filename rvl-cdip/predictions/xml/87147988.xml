@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="144.0" fp="6.0" fn="10.0">
+    <IssuedDate tp="6.0" fp="5.0" fn="0.0">
+      <box l="317.0" t="1380.0" r="400.0" b="1407.0">DATE</box>
+      <box l="383.0" t="1491.0" r="553.0" b="1538.0">5/2/88</box>
+    </IssuedDate>
+    <LineItem tp="129.0" fp="0.0" fn="10.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="593.0" t="1850.0" r="704.0" b="1888.0">LD50</box>
+          <box l="739.0" t="1851.0" r="879.0" b="1897.0">Study</box>
+          <box l="976.0" t="1849.0" r="1203.0" b="1898.0">Compound</box>
+          <box l="1238.0" t="1846.0" r="1321.0" b="1888.0">A98</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1830.0" t="1845.0" r="2062.0" b="1892.0">3,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="592.0" t="1913.0" r="704.0" b="1950.0">LD50</box>
+          <box l="739.0" t="1911.0" r="880.0" b="1957.0">Study</box>
+          <box l="976.0" t="1912.0" r="1203.0" b="1957.0">Compound</box>
+          <box l="1233.0" t="1909.0" r="1351.0" b="1946.0">A201</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1829.0" t="1905.0" r="2062.0" b="1953.0">3,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="592.0" t="1974.0" r="730.0" b="2009.0">Limit</box>
+          <box l="768.0" t="1972.0" r="908.0" b="2018.0">Study</box>
+          <box l="1005.0" t="1971.0" r="1236.0" b="2020.0">Compound</box>
+          <box l="1267.0" t="1971.0" r="1382.0" b="2009.0">A193</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1832.0" t="1967.0" r="2062.0" b="2012.0">1,800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="591.0" t="2034.0" r="729.0" b="2067.0">Limit</box>
+          <box l="768.0" t="2031.0" r="908.0" b="2076.0">Study</box>
+          <box l="1004.0" t="2029.0" r="1232.0" b="2075.0">Compound</box>
+          <box l="1266.0" t="2027.0" r="1378.0" b="2067.0">A189</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1832.0" t="2025.0" r="2061.0" b="2074.0">1,800.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2457.0" t="2525.0" r="2749.0" b="2576.0">$10,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

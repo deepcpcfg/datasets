@@ -1,0 +1,288 @@
+[
+    {
+        "IssuedDate": [
+            "1993",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ],
+        "TotalAmount": [
+            "$6,639.12",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$1,764.75",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Select specified records from ATCo, database Minimum charge lor Database passing",
+                            {
+                                "tp": 80.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 89.0,
+                        "fp": 0.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,051.87",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Household level Merge/Purge",
+                            {
+                                "tp": 26.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 2.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "441.19",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pass file to Nth/Split/Crea(e Control celis/Assign Source Codes Programming Project Management 3 days 882.3B",
+                            {
+                                "tp": 60.0,
+                                "fp": 48.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 66.0,
+                        "fp": 48.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2.647.12",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "per day",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 52.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 15.0,
+                        "fp": 0.0,
+                        "fn": 52.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "880.69",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "NCOA Processing 374.285 records 2/M Shipping",
+                            {
+                                "tp": 35.0,
+                                "fp": 9.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 41.0,
+                        "fp": 9.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 13.0
+                    }
+                ]
+            ],
+            {
+                "tp": 244.0,
+                "fp": 59.0,
+                "fn": 79.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 256.0,
+        "fp": 60.0,
+        "fn": 94.0
+    }
+]

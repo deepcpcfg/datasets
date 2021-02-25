@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1031",
+    "IssuedDate": "April 25, 1994",
+    "TotalAmount": "16.470.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Pittsburgh",
+            "ItemTotal": "$16.220.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Summary Tables",
+            "ItemTotal": "250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

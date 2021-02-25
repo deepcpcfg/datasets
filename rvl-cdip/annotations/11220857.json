@@ -1,0 +1,73 @@
+{
+    "InvoiceNumber": "6",
+    "IssuedDate": "2 June 1972",
+    "TotalAmount": "12,261.70",
+    "LineItem": [
+        {
+            "ItemTotal": "1,327.27",
+            "ItemDescription": "Laboratory Supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "53.00",
+            "ItemDescription": "Animals",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "395.00",
+            "ItemDescription": "Equlpment-Packard Calculator Model HP35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,995.00",
+            "ItemDescription": "Vartan Integrator System Model 477",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Project Manager (H. Recenkrantx, Ph.D.)",
+            "ItemTotal": "253.44",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,284.61",
+            "ItemDescription": "Analytical Chemist (M. Hagoplan, Ph.D.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "632.75",
+            "ItemDescription": "Analytical Chemist (D. Prasad, Ph.D.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,012.56",
+            "ItemDescription": "Laboratory Technicians",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Overhead (100% of (2) above)",
+            "ItemTotal": "3,183.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "G&A (12% of (4) above)",
+            "ItemTotal": "1,216.44",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "906.27",
+            "ItemDescription": "Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

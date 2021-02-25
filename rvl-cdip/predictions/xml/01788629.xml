@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="116.0" fp="64.0" fn="25.0">
+    <TotalAmount tp="1.0" fp="1.0" fn="6.0">
+      <box l="975.0" t="619.0" r="1025.0" b="653.0">54</box>
+    </TotalAmount>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2358.0" t="1105.0" r="2474.0" b="1146.0">1014</box>
+    </InvoiceNumber>
+    <IssuedDate tp="13.0" fp="1.0" fn="0.0">
+      <box l="2242.0" t="1207.0" r="2437.0" b="1256.0">August</box>
+      <box l="2459.0" t="1209.0" r="2508.0" b="1255.0">4,</box>
+      <box l="2550.0" t="1205.0" r="2671.0" b="1249.0">1975</box>
+    </IssuedDate>
+    <LineItem tp="98.0" fp="62.0" fn="19.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="637.0" t="1755.0" r="749.0" b="1793.0">Two</box>
+          <box l="779.0" t="1757.0" r="937.0" b="1796.0">Diack</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="963.0" t="1755.0" r="1207.0" b="1795.0">focussed</box>
+          <box l="1238.0" t="1768.0" r="1392.0" b="1807.0">group</box>
+          <box l="1421.0" t="1761.0" r="1658.0" b="1796.0">sessions</box>
+          <box l="997.0" t="1889.0" r="1238.0" b="1927.0">smokers</box>
+          <box l="1268.0" t="1892.0" r="1314.0" b="1928.0">in</box>
+          <box l="1344.0" t="1889.0" r="1700.0" b="1940.0">Indianapolis,</box>
+          <box l="1746.0" t="1889.0" r="1845.0" b="1930.0">Ind.</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="634.0" t="2018.0" r="751.0" b="2067.0">July</box>
+          <box l="780.0" t="2017.0" r="843.0" b="2061.0">31,</box>
+          <box l="889.0" t="2016.0" r="997.0" b="2057.0">1975</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2030.0" t="2017.0" r="2246.0" b="2061.0">1600.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="635.0" t="2146.0" r="931.0" b="2187.0">Moderator</box>
+          <box l="960.0" t="2161.0" r="1052.0" b="2198.0">per</box>
+          <box l="1081.0" t="2148.0" r="1218.0" b="2187.0">diem</box>
+          <box l="1244.0" t="2146.0" r="1506.0" b="2195.0">(7/30/75)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2056.0" t="2150.0" r="2166.0" b="2191.0">200.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="742.0" t="2413.0" r="878.0" b="2450.0">Over</box>
+          <box l="908.0" t="2415.0" r="1183.0" b="2464.0">screening</box>
+          <box l="1209.0" t="2414.0" r="1317.0" b="2451.0">fees</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2088.0" t="2416.0" r="2165.0" b="2457.0">60.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="738.0" t="2544.0" r="1029.0" b="2582.0">Additional</box>
+          <box l="1055.0" t="2556.0" r="1213.0" b="2597.0">co-op</box>
+          <box l="1239.0" t="2547.0" r="1351.0" b="2585.0">fees</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2088.0" t="2554.0" r="2164.0" b="2592.0">70.</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

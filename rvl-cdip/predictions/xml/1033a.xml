@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="90.0" fp="155.0" fn="31.0">
+    <IssuedDate tp="15.0" fp="2.0" fn="1.0">
+      <box l="1392.0" t="1142.0" r="1633.0" b="1183.0">October</box>
+      <box l="1671.0" t="1146.0" r="1736.0" b="1184.0">20</box>
+      <box l="1749.0" t="1171.0" r="1762.0" b="1192.0">r</box>
+      <box l="1812.0" t="1146.0" r="1942.0" b="1184.0">1988</box>
+    </IssuedDate>
+    <LineItem tp="69.0" fp="153.0" fn="30.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="342.0" t="1897.0" r="478.0" b="1938.0">Golf</box>
+          <box l="517.0" t="1901.0" r="650.0" b="1938.0">fees</box>
+          <box l="688.0" t="1901.0" r="758.0" b="1938.0">to</box>
+          <box l="792.0" t="1901.0" r="933.0" b="1951.0">play</box>
+          <box l="971.0" t="1896.0" r="1041.0" b="1938.0">in</box>
+          <box l="1076.0" t="1901.0" r="1179.0" b="1938.0">the</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1636.0" t="1901.0" r="1807.0" b="1951.0">Candy</box>
+          <box l="1846.0" t="1896.0" r="2154.0" b="1942.0">Political</box>
+          <box l="2192.0" t="1901.0" r="2405.0" b="1942.0">Action</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="342.0" t="1955.0" r="720.0" b="1996.0">Committee's</box>
+          <box l="758.0" t="1955.0" r="933.0" b="1996.0">Third</box>
+          <box l="967.0" t="1959.0" r="1176.0" b="1996.0">Annual</box>
+          <box l="1217.0" t="1959.0" r="1355.0" b="2000.0">Golf</box>
+          <box l="1392.0" t="1959.0" r="1737.0" b="2000.0">Tournament</box>
+          <box l="1775.0" t="1959.0" r="1911.0" b="2001.0">that</box>
+          <box l="1947.0" t="1957.0" r="2083.0" b="2001.0">will</box>
+          <box l="2126.0" t="1959.0" r="2191.0" b="2001.0">be</box>
+          <box l="2230.0" t="1959.0" r="2371.0" b="2001.0">held</box>
+          <box l="2408.0" t="1958.0" r="2616.0" b="2009.0">during</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="341.0" t="2013.0" r="441.0" b="2055.0">the</box>
+          <box l="514.0" t="2134.0" r="616.0" b="2172.0">Bob</box>
+          <box l="483.0" t="2013.0" r="825.0" b="2055.0">convention</box>
+          <box l="651.0" t="2134.0" r="754.0" b="2172.0">Ave</box>
+          <box l="866.0" t="2026.0" r="933.0" b="2055.0">on</box>
+          <box l="970.0" t="2017.0" r="1250.0" b="2055.0">November</box>
+          <box l="1289.0" t="2020.0" r="1347.0" b="2065.0">5,</box>
+          <box l="1395.0" t="2017.0" r="1526.0" b="2055.0">1988</box>
+          <box l="1567.0" t="2017.0" r="1691.0" b="2055.0">for:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2305.0" t="2137.0" r="2508.0" b="2176.0">150.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="513.0" t="2192.0" r="616.0" b="2230.0">Lou</box>
+          <box l="654.0" t="2192.0" r="887.0" b="2234.0">Gordon*</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2305.0" t="2192.0" r="2508.0" b="2231.0">150.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="516.0" t="2247.0" r="654.0" b="2288.0">Dick</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2304.0" t="2251.0" r="2505.0" b="2288.0">150.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="513.0" t="2303.0" r="616.0" b="2347.0">Jim</box>
+          <box l="654.0" t="2309.0" r="887.0" b="2348.0">McCann.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2304.0" t="2309.0" r="2508.0" b="2348.0">150.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="513.0" t="2426.0" r="687.0" b="2463.0">Frank</box>
+          <box l="725.0" t="2422.0" r="1004.0" b="2477.0">Henigman</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="0.0">
+      <box l="2304.0" t="2601.0" r="2509.0" b="2642.0">900.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

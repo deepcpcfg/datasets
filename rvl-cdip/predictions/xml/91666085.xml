@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="79.0" fp="65.0" fn="56.0">
+    <InvoiceNumber tp="6.0" fp="1.0" fn="2.0">
+      <box l="2426.0" t="1324.0" r="2650.0" b="1367.0">1040116</box>
+    </InvoiceNumber>
+    <IssuedDate tp="9.0" fp="2.0" fn="2.0">
+      <box l="2096.0" t="1490.0" r="2187.0" b="1529.0">RAY</box>
+      <box l="2226.0" t="1487.0" r="2447.0" b="1533.0">18*1992</box>
+    </IssuedDate>
+    <LineItem tp="57.0" fp="60.0" fn="50.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1167.0" t="1934.0" r="1263.0" b="1976.0">MAY</box>
+          <box l="1301.0" t="1938.0" r="1525.0" b="1979.0">25,1992</box>
+          <box l="1565.0" t="1938.0" r="1654.0" b="1977.0">JET</box>
+          <box l="742.0" t="1987.0" r="770.0" b="2026.0">4</box>
+          <box l="805.0" t="1985.0" r="967.0" b="2026.0">COLOR</box>
+          <box l="1005.0" t="1985.0" r="1162.0" b="2026.0">ORDER</box>
+          <box l="1201.0" t="1988.0" r="1393.0" b="2026.0">NUMBER</box>
+          <box l="1433.0" t="1988.0" r="1625.0" b="2026.0">LH7975</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2005.0" t="1746.0" r="2084.0" b="1787.0">UT1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2488.0" t="1943.0" r="2741.0" b="1984.0">11104.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1071.0" t="2041.0" r="1196.0" b="2079.0">PREM</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="876.0" t="2150.0" r="895.0" b="2188.0">1</box>
+          <box l="938.0" t="2148.0" r="1063.0" b="2188.0">PAGE</box>
+          <box l="1167.0" t="2151.0" r="1262.0" b="2188.0">MAY</box>
+          <box l="1301.0" t="2151.0" r="1521.0" b="2191.0">25*1992</box>
+          <box l="1564.0" t="2151.0" r="1654.0" b="2188.0">JET</box>
+          <box l="742.0" t="2206.0" r="770.0" b="2246.0">4</box>
+          <box l="805.0" t="2205.0" r="966.0" b="2246.0">COLOR</box>
+          <box l="1005.0" t="2205.0" r="1162.0" b="2243.0">ORDER</box>
+          <box l="1201.0" t="2205.0" r="1392.0" b="2247.0">HUMBER</box>
+          <box l="1434.0" t="2205.0" r="1621.0" b="2246.0">LN7975</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2454.0" t="2155.0" r="2741.0" b="2197.0">16«140-00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="2.0" fn="2.0">
+      <box l="2456.0" t="2923.0" r="2741.0" b="2962.0">14.623.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "15737",
+    "IssuedDate": "January 31,",
+    "LineItem": [
+        {
+            "ItemDescription": "Development, Fees, Art thru Mechanical, comp.",
+            "ItemTotal": "11,535.00"
+        }
+    ]
+}

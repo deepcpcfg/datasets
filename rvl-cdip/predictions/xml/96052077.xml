@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="207.0" fp="60.0" fn="436.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="2380.0" t="513.0" r="2476.0" b="542.0">MAY</box>
+      <box l="2488.0" t="513.0" r="2537.0" b="545.0">26,</box>
+      <box l="2552.0" t="513.0" r="2629.0" b="541.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="186.0" fp="59.0" fn="436.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="103.0" t="1482.0" r="370.0" b="1530.0">(SCHEDULE</box>
+          <box l="401.0" t="1483.0" r="600.0" b="1521.0">NUMBER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2812.0" t="1484.0" r="2897.0" b="1520.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="405.0" t="1546.0" r="466.0" b="1587.0">OF</box>
+          <box l="483.0" t="1550.0" r="596.0" b="1588.0">FULL</box>
+          <box l="659.0" t="1550.0" r="738.0" b="1587.0">300</box>
+          <box l="780.0" t="1550.0" r="858.0" b="1587.0">4Q9</box>
+          <box l="392.0" t="1613.0" r="604.0" b="1654.0">SHELVES</box>
+          <box l="659.0" t="1617.0" r="858.0" b="1654.0">200-299</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2809.0" t="1617.0" r="2897.0" b="1654.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="120.0" t="1734.0" r="370.0" b="1775.0">schedule</box>
+          <box l="400.0" t="1734.0" r="600.0" b="1776.0">NUMBER</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2167.0" t="1738.0" r="2221.0" b="1775.0">33</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="404.0" t="1801.0" r="466.0" b="1838.0">OF</box>
+          <box l="483.0" t="1804.0" r="595.0" b="1842.0">FULL</box>
+          <box l="659.0" t="1805.0" r="858.0" b="1841.0">300-499</box>
+          <box l="395.0" t="1867.0" r="604.0" b="1905.0">SHELVES</box>
+          <box l="659.0" t="1871.0" r="737.0" b="1905.0">200</box>
+          <box l="780.0" t="1871.0" r="858.0" b="1905.0">299</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1782.0" t="1870.0" r="1846.0" b="1920.0">_0</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2809.0" t="1805.0" r="2897.0" b="1841.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="258.0" t="1988.0" r="458.0" b="2026.0">NUMBER</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2142.0" t="1992.0" r="2221.0" b="2029.0">354</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2417.0" t="1988.0" r="2533.0" b="2030.0">$5.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2725.0" t="1991.0" r="2897.0" b="2033.0">1,770.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="326.0" t="2055.0" r="387.0" b="2088.0">OF</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2171.0" t="2055.0" r="2216.0" b="2092.0">18</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2784.0" t="2055.0" r="2898.0" b="2093.0">7200</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="217.0" t="2117.0" r="492.0" b="2158.0">ADDITIONAL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2809.0" t="2125.0" r="2896.0" b="2159.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="287.0" t="2183.0" r="428.0" b="2223.0">ROWS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2809.0" t="2188.0" r="2912.0" b="2225.0">0.001</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="438.0" t="2484.0" r="500.0" b="2522.0">OF</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2388.0" t="2484.0" r="2533.0" b="2523.0">S44.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2809.0" t="2487.0" r="2896.0" b="2522.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="201.0" t="2547.0" r="385.0" b="2586.0">STORES</box>
+          <box l="400.0" t="2547.0" r="515.0" b="2588.0">WITH</box>
+          <box l="659.0" t="2551.0" r="737.0" b="2587.0">300</box>
+          <box l="780.0" t="2551.0" r="858.0" b="2587.0">499</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2809.0" t="2551.0" r="2896.0" b="2587.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="256.0" t="2613.0" r="458.0" b="2651.0">16ROWS</box>
+          <box l="258.0" t="2734.0" r="454.0" b="2772.0">NUMBER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2809.0" t="2617.0" r="2912.0" b="2654.0">0.001</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="325.0" t="2801.0" r="386.0" b="2838.0">OF</box>
+          <box l="217.0" t="2867.0" r="491.0" b="2905.0">ADDITIONAL</box>
+          <box l="287.0" t="2934.0" r="425.0" b="2971.0">ROWS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1822.0" t="3172.0" r="1837.0" b="3205.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2388.0" t="3222.0" r="2529.0" b="3263.0">$35.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2780.0" t="3170.0" r="2892.0" b="3205.0">20.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2716.0" t="3489.0" r="2909.0" b="3540.0">4,716.-501</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

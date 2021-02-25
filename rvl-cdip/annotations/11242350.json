@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "0045821",
+    "IssuedDate": "26-DEC-B5",
+    "TotalAmount": "119.00",
+    "LineItem": [
+        {
+            "ItemDescription": "30210 INLAND FREIGHT",
+            "ItemTotal": "119.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

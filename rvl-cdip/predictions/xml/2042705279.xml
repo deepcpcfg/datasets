@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="65.0" fp="2.0" fn="10.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2922.0" t="322.0" r="3188.0" b="362.0">R-09195</box>
+    </InvoiceNumber>
+    <LineItem tp="50.0" fp="2.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="445.0" t="1544.0" r="800.0" b="1584.0">R-172—001</box>
+          <box l="891.0" t="1542.0" r="1319.0" b="1584.0">PREPRIETARY</box>
+          <box l="1365.0" t="1542.0" r="1718.0" b="1588.0">QUESTIONS</box>
+          <box l="1765.0" t="1541.0" r="2039.0" b="1583.0">OCTOBER</box>
+          <box l="2090.0" t="1539.0" r="2235.0" b="1580.0">1990</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="3042.0" t="1534.0" r="3351.0" b="1587.0">7,270,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="3042.0" t="1663.0" r="3351.0" b="1713.0">7,270.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

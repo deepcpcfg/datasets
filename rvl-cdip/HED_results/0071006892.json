@@ -1,0 +1,158 @@
+[
+    {
+        "IssuedDate": [
+            "11/29/88",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$17,800",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "product Montclair. Tested",
+                            {
+                                "tp": 0.0,
+                                "fp": 25.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 25.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "for a new cigarette",
+                            {
+                                "tp": 0.0,
+                                "fp": 19.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 19.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$16,500",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "smokers via",
+                            {
+                                "tp": 2.0,
+                                "fp": 9.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 9.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Photography",
+                            {
+                                "tp": 11.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 11.0,
+                        "fp": 0.0,
+                        "fn": 5.0
+                    }
+                ]
+            ],
+            {
+                "tp": 20.0,
+                "fp": 53.0,
+                "fn": 13.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1616",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 38.0,
+        "fp": 54.0,
+        "fn": 13.0
+    }
+]

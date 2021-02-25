@@ -1,0 +1,34 @@
+{
+    "IssuedDate": "24 September, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "FEE",
+            "ItemTotal": "$7,000.00"
+        },
+        {
+            "ItemDescription": "Iris Prints",
+            "ItemTotal": "$180.00"
+        },
+        {
+            "ItemDescription": "QMS Output",
+            "ItemTotal": "$120.00"
+        },
+        {
+            "ItemDescription": "Electronic Typesetting",
+            "ItemTotal": "$80.00"
+        },
+        {
+            "ItemDescription": "An and Computer Supplies",
+            "ItemTotal": "$47.00"
+        },
+        {
+            "ItemDescription": "Ground Messenger",
+            "ItemTotal": "$28.50"
+        },
+        {
+            "ItemDescription": "Facsimile, modem, telephone, b/w output",
+            "ItemTotal": "$12.00"
+        }
+    ],
+    "TotalAmount": "$7,467.50"
+}

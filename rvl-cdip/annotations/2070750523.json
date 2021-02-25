@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "AM94019-",
+    "IssuedDate": "04/27/94",
+    "TotalAmount": "1,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Annual Meeting ",
+            "ItemTotal": "1,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "M00098",
+    "IssuedDate": "Oct 31, 1991",
+    "TotalAmount": "26,008.66",
+    "LineItem": [
+        {
+            "ItemDescription": "638,500 BF 35 BF = SI",
+            "ItemTotal": "$ 18,242.86",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "271,803 BF & 35 St = $1",
+            "ItemTotal": "$ 7,765.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

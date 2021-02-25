@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "08049",
+    "IssuedDate": "April 19, 1990",
+    "TotalAmount": "11,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "1990 Royals’ scorecard, back cover, 1/2 page, color: net due Royals Advertising",
+            "ItemTotal": "11 ,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

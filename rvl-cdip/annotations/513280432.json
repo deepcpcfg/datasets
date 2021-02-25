@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2648",
+    "IssuedDate": "DEC 14 92",
+    "TotalAmount": "495.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Mechanical",
+            "ItemTotal": "495.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

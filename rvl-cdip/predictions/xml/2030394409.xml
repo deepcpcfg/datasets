@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="79.0" fp="19.0" fn="5.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2189.0" t="814.0" r="2334.0" b="851.0">SEPT</box>
+      <box l="2380.0" t="811.0" r="2475.0" b="860.0">14,</box>
+      <box l="2529.0" t="811.0" r="2667.0" b="853.0">1992</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2530.0" t="877.0" r="2742.0" b="919.0">920905</box>
+    </InvoiceNumber>
+    <LineItem tp="52.0" fp="18.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="441.0" t="2077.0" r="733.0" b="2116.0">CONTRACT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1188.0" t="2076.0" r="1508.0" b="2126.0">$8,500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="438.0" t="2203.0" r="583.0" b="2240.0">WORK</box>
+          <box l="628.0" t="2203.0" r="694.0" b="2240.0">IN</box>
+          <box l="741.0" t="2204.0" r="1028.0" b="2242.0">PROGRESS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2261.0" t="2210.0" r="2549.0" b="2256.0">7,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="440.0" t="2392.0" r="582.0" b="2432.0">LESS</box>
+          <box l="624.0" t="2392.0" r="915.0" b="2433.0">PREVIOUS</box>
+          <box l="961.0" t="2395.0" r="1211.0" b="2435.0">BILLING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2258.0" t="2398.0" r="2548.0" b="2453.0">4,580,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2752.0" t="2592.0" r="3072.0" b="2641.0">$2,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

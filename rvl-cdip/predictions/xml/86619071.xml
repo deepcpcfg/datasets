@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="119.0" fp="2.0" fn="2.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2188.0" t="1525.0" r="2310.0" b="1580.0">April</box>
+      <box l="2335.0" t="1525.0" r="2368.0" b="1575.0">1,</box>
+      <box l="2393.0" t="1523.0" r="2501.0" b="1568.0">1996</box>
+    </IssuedDate>
+    <LineItem tp="106.0" fp="2.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="454.0" t="2618.0" r="573.0" b="2676.0">April</box>
+          <box l="594.0" t="2628.0" r="848.0" b="2664.0">assessment</box>
+          <box l="865.0" t="2618.0" r="932.0" b="2661.0">for</box>
+          <box l="945.0" t="2619.0" r="1082.0" b="2661.0">CIAR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2194.0" t="2613.0" r="2454.0" b="2663.0">$43,316.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="454.0" t="2693.0" r="561.0" b="2732.0">Less</box>
+          <box l="574.0" t="2689.0" r="769.0" b="2743.0">monthly</box>
+          <box l="786.0" t="2689.0" r="1036.0" b="2743.0">adjustment</box>
+          <box l="1053.0" t="2686.0" r="1119.0" b="2732.0">for</box>
+          <box l="1133.0" t="2687.0" r="1262.0" b="2728.0">Dunn</box>
+          <box l="1280.0" t="2684.0" r="1470.0" b="2729.0">research</box>
+          <box l="1488.0" t="2683.0" r="1648.0" b="2741.0">project</box>
+          <box l="1665.0" t="2684.0" r="1794.0" b="2737.0">(1996</box>
+          <box l="1815.0" t="2683.0" r="2018.0" b="2737.0">contract)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2269.0" t="2681.0" r="2465.0" b="2735.0">(462.00)</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

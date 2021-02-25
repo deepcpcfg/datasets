@@ -1,0 +1,36 @@
+{
+    "InvoiceNumber": "56046",
+    "IssuedDate": "4/42/46",
+    "LineItem": [
+        {
+            "ItemDescription": "CAMEL P*0*"
+        },
+        {
+            "ItemDescription": "PICKED UP FLATS ANO CHANGED HARKING BOX",
+            "ItemTotal": "7b*00"
+        },
+        {
+            "ItemDescription": "4 1HPCRTANT"
+        },
+        {
+            "ItemDescription": "PRESS PREP",
+            "ItemTotal": "450*00"
+        },
+        {
+            "ItemDescription": "RUNOFF SO PROGS 5 50 PROOFS",
+            "ItemTotal": "750*00"
+        },
+        {
+            "ItemDescription": "100 QUANTITY PROOFS",
+            "ItemTotal": "12*00"
+        },
+        {
+            "ItemDescription": "1 SET OF FILft (TO INSIDE",
+            "ItemTotal": "155*00"
+        },
+        {
+            "ItemDescription": "SPORTS ILL"
+        }
+    ],
+    "TotalAmount": "1>742*00"
+}

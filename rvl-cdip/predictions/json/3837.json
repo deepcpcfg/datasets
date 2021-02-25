@@ -1,0 +1,21 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Ongoing Variable Expenses",
+            "ItemTotal": "154,615.00"
+        },
+        {
+            "ItemDescription": "Additional AWS Gftos",
+            "ItemTotal": "10,833.00"
+        },
+        {
+            "ItemDescription": "Frozen Database",
+            "ItemTotal": "1.500.00"
+        },
+        {
+            "ItemDescription": "Ongoing",
+            "ItemTotal": "$200,559.00"
+        }
+    ],
+    "TotalAmount": "$171.037.00"
+}

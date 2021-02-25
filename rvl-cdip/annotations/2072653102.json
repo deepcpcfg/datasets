@@ -1,0 +1,31 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "ROYALE K$ LIGHTS COST. UPC 11141—98508",
+            "ItemTotal": "3,471.00",
+            "ItemUnitCount": "156",
+            "ItemUnitValue": "22.25"
+        },
+        {
+            "ItemDescription": "RQYALE KS LIGHTS MEN CUST. UPC 11141-98509",
+            "ItemTotal": "2,136.00",
+            "ItemUnitCount": "96",
+            "ItemUnitValue": "22.25"
+        },
+        {
+            "ItemDescription": "ROYALE 1005 LIGHTS CUST. UPC 11141-98510",
+            "ItemTotal": "3,666.00",
+            "ItemUnitCount": "156 ",
+            "ItemUnitValue": "23.50"
+        },
+        {
+            "ItemDescription": "ROYALE 100S LIGHTS HEN CUST. UPC 11141-98511",
+            "ItemTotal": "1,974.00",
+            "ItemUnitValue": "23.50",
+            "ItemUnitCount": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

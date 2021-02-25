@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "41930",
+    "IssuedDate": "1, 1990",
+    "LineItem": [
+        {
+            "ItemDescription": "September Assessment for CIAR",
+            "ItemTotal": "$158,043.66"
+        },
+        {
+            "ItemDescription": "October Assessment for CIAR",
+            "ItemTotal": "$158.043.66"
+        }
+    ],
+    "TotalAmount": "$316,087.32"
+}

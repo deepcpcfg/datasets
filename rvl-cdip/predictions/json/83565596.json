@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "13893",
+    "IssuedDate": "1/23/98",
+    "LineItem": [
+        {
+            "ItemDescription": "One Condensed Copy",
+            "ItemTotal": "216.00"
+        },
+        {
+            "ItemDescription": "Exhibit Copies",
+            "ItemTotal": "3.30"
+        },
+        {
+            "ItemDescription": "Copy of Video Tapes Shipping",
+            "ItemTotal": "7S.00"
+        }
+    ]
+}

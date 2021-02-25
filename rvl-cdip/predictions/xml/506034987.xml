@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="88.0" fp="51.0" fn="27.0">
+    <IssuedDate tp="18.0" fp="0.0" fn="0.0">
+      <box l="2216.0" t="657.0" r="2504.0" b="710.0">September</box>
+      <box l="2542.0" t="653.0" r="2629.0" b="702.0">29,</box>
+      <box l="2675.0" t="652.0" r="2796.0" b="694.0">1987</box>
+    </IssuedDate>
+    <LineItem tp="61.0" fp="51.0" fn="20.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="361.0" t="1652.0" r="592.0" b="1707.0">Monthly</box>
+          <box l="623.0" t="1653.0" r="881.0" b="1695.0">Retainer</box>
+          <box l="921.0" t="1653.0" r="1010.0" b="1694.0">for</box>
+          <box l="1043.0" t="1654.0" r="1334.0" b="1708.0">September</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2670.0" t="1652.0" r="2919.0" b="1702.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="364.0" t="1777.0" r="522.0" b="1820.0">Staff</box>
+          <box l="556.0" t="1778.0" r="814.0" b="1819.0">Services</box>
+          <box l="852.0" t="1778.0" r="943.0" b="1819.0">for</box>
+          <box l="978.0" t="1783.0" r="1170.0" b="1832.0">August</box>
+          <box l="1269.0" t="1780.0" r="1555.0" b="1832.0">September</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1855.0" t="1776.0" r="2143.0" b="1826.0">34,696.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="587.0" t="2032.0" r="780.0" b="2073.0">Travel</box>
+          <box l="588.0" t="2099.0" r="879.0" b="2149.0">Messenger</box>
+          <box l="884.0" t="2033.0" r="1138.0" b="2085.0">Expenses</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1534.0" t="2030.0" r="1685.0" b="2073.0">11.88</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2634.0" t="2466.0" r="2917.0" b="2516.0">39,715.63</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

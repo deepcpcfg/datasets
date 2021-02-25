@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "10-31-91",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "3,019",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Billing for retainage held on Line #5 Stem Feeder in Blending at Park 500.",
+                            {
+                                "tp": 74.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 79.0,
+                        "fp": 0.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 79.0,
+                "fp": 0.0,
+                "fn": 3.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 5.0
+            }
+        ]
+    },
+    {
+        "tp": 87.0,
+        "fp": 0.0,
+        "fn": 8.0
+    }
+]

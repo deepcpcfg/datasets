@@ -1,0 +1,24 @@
+{
+    "InvoiceNumber": "091294-02",
+    "LineItem": [
+        {
+            "ItemDescription": "50 Comp, Prem, Orch. tickets 00",
+            "ItemTotal": "0"
+        },
+        {
+            "ItemDescription": "36 Prem Orch tickets $32 (40 less 20% disc.)",
+            "ItemTotal": "1,152"
+        },
+        {
+            "ItemUnitCount": "78",
+            "ItemDescription": "Prem. Mezz, tickets $32 (40 less 20% disc.)",
+            "ItemTotal": "2,496"
+        },
+        {
+            "ItemUnitCount": "18",
+            "ItemDescription": "Pref Orch tickets $28 (35 less 20% disc.)",
+            "ItemTotal": "504"
+        }
+    ],
+    "TotalAmount": "4,152.00"
+}

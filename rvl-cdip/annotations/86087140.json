@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "P0242596",
+    "IssuedDate": "12/16/99",
+    "TotalAmount": "25.98",
+    "LineItem": [
+        {
+            "ItemDescription": "VHS Dub 1/2\"",
+            "ItemUnitCount": "1",
+            "ItemTotal": "24.00",
+            "ItemUnitValue": ""
+        }
+    ]
+}

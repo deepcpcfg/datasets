@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="74.0" fp="36.0" fn="23.0">
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="1700.0" t="1101.0" r="1950.0" b="1146.0">P98027-4</box>
+    </InvoiceNumber>
+    <IssuedDate tp="9.0" fp="2.0" fn="3.0">
+      <box l="1409.0" t="1171.0" r="1534.0" b="1215.0">June</box>
+      <box l="1562.0" t="1171.0" r="1592.0" b="1214.0">t</box>
+      <box l="1622.0" t="1171.0" r="1742.0" b="1216.0">1999</box>
+    </IssuedDate>
+    <LineItem tp="49.0" fp="29.0" fn="20.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="437.0" t="2230.0" r="558.0" b="2276.0">Cost</box>
+          <box l="571.0" t="2230.0" r="641.0" b="2276.0">for</box>
+          <box l="659.0" t="2230.0" r="687.0" b="2276.0">7</box>
+          <box l="709.0" t="2230.0" r="960.0" b="2285.0">questions</box>
+          <box l="983.0" t="2242.0" r="1041.0" b="2276.0">on</box>
+          <box l="1060.0" t="2230.0" r="1175.0" b="2276.0">AVP</box>
+          <box l="1201.0" t="2230.0" r="1296.0" b="2276.0">Natl</box>
+          <box l="1317.0" t="2230.0" r="1892.0" b="2276.0">Monitor-—</box>
+          <box l="971.0" t="2367.0" r="1092.0" b="2416.0">Field</box>
+          <box l="1113.0" t="2367.0" r="1276.0" b="2416.0">Dates:</box>
+          <box l="1301.0" t="2371.0" r="1421.0" b="2416.0">June</box>
+          <box l="1446.0" t="2367.0" r="1687.0" b="2416.0">1-7.1998</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2455.0" t="2230.0" r="2713.0" b="2282.0">$9,900.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="5.0" fn="0.0">
+      <box l="667.0" t="2652.0" r="2704.0" b="2701.0">due-$9,900.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

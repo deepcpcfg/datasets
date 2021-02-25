@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="101.0" fp="42.0" fn="69.0">
+    <InvoiceNumber tp="4.0" fp="1.0" fn="0.0">
+      <box l="1664.0" t="664.0" r="1868.0" b="726.0">#1-18</box>
+    </InvoiceNumber>
+    <IssuedDate tp="15.0" fp="1.0" fn="0.0">
+      <box l="2386.0" t="673.0" r="2628.0" b="733.0">January</box>
+      <box l="2672.0" t="671.0" r="2768.0" b="733.0">15,</box>
+      <box l="2818.0" t="662.0" r="2961.0" b="729.0">1968</box>
+    </IssuedDate>
+    <LineItem tp="82.0" fp="29.0" fn="69.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="128.0" t="1668.0" r="412.0" b="1718.0">Attitude</box>
+          <box l="528.0" t="1665.0" r="848.0" b="1714.0">Attribute</box>
+          <box l="891.0" t="1662.0" r="1065.0" b="1720.0">Study</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2705.0" t="1639.0" r="2993.0" b="1711.0">8.959-90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="127.0" t="1802.0" r="519.0" b="1860.0">Supervisory</box>
+          <box l="565.0" t="1798.0" r="811.0" b="1856.0">Expense</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2707.0" t="1777.0" r="2993.0" b="1839.0">1.545-99</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="127.0" t="1934.0" r="627.0" b="1991.0">Air-expressage</box>
+          <box l="745.0" t="1927.0" r="882.0" b="1973.0">list</box>
+          <box l="923.0" t="1920.0" r="1207.0" b="1970.0">attached</box>
+          <box l="131.0" t="2060.0" r="447.0" b="2118.0">Telephone</box>
+          <box l="493.0" t="2057.0" r="737.0" b="2115.0">charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2629.0" t="2025.0" r="2991.0" b="2099.0">_16,10</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="11.0" fn="0.0">
+      <box l="2633.0" t="2119.0" r="3073.0" b="2227.0">$10,328.55/</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

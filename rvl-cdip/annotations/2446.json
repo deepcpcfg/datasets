@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "1735",
+    "IssuedDate": "September 30,1998",
+    "TotalAmount": "12,40314",
+    "LineItem": [
+        {
+            "ItemDescription": "W. Ed Whitelaw",
+            "ItemUnitCount": "40,00",
+            "ItemUnitValue": "250.00",
+            "ItemTotal": "$10,000,00"
+        },
+        {
+            "ItemDescription": "Edward MacMuilan",
+            "ItemUnitCount": "10.75",
+            "ItemUnitValue": "90.00",
+            "ItemTotal": "$967,50"
+        },
+        {
+            "ItemDescription": "Anne Flfiekl",
+            "ItemUnitCount": "18.50",
+            "ItemUnitValue": "55.00",
+            "ItemTotal": "$1,017.50"
+        },
+        {
+            "ItemDescription": "Becky Grossman",
+            "ItemUnitCount": "2.25",
+            "ItemUnitValue": "30.00",
+            "ItemTotal": "$67.50"
+        },
+        {
+            "ItemDescription": "Associates",
+            "ItemTotal": "40.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals",
+            "ItemTotal": "9.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printing",
+            "ItemTotal": "24048",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postage",
+            "ItemTotal": "17,80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "42.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

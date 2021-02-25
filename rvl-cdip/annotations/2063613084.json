@@ -1,0 +1,31 @@
+{
+    "TotalAmount": "5049.23",
+    "LineItem": [
+        {
+            "ItemTotal": "$1495.61",
+            "ItemDescription": "Air travel Toronto/AtlanteVToronto (Apr 15/17)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$453.72",
+            "ItemDescription": "Hotel Accommodation (April 16,17,1998)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$3,000.00",
+            "ItemDescription": "Meeting preparation, travel and meeting attendance 2 days @ $1500.00/day ($US200/hour)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$100.00",
+            "ItemDescription": "Incidentals 2 days@ $50.00/day",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

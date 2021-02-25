@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="115.0" fp="32.0" fn="46.0">
+    <LineItem tp="109.0" fp="32.0" fn="36.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="533.0" t="1663.0" r="561.0" b="1701.0">4</box>
+          <box l="587.0" t="1659.0" r="762.0" b="1702.0">Booths</box>
+          <box l="792.0" t="1655.0" r="912.0" b="1716.0">(222,</box>
+          <box l="954.0" t="1659.0" r="1062.0" b="1713.0">223,</box>
+          <box l="1100.0" t="1655.0" r="1204.0" b="1709.0">224T</box>
+          <box l="1243.0" t="1651.0" r="1351.0" b="1700.0">225)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1818.0" t="1651.0" r="2089.0" b="1709.0">$4,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="534.0" t="1722.0" r="560.0" b="1763.0">4</box>
+          <box l="587.0" t="1721.0" r="736.0" b="1763.0">Black</box>
+          <box l="821.0" t="1721.0" r="960.0" b="1763.0">white</box>
+          <box l="984.0" t="1730.0" r="1134.0" b="1772.0">pages</box>
+          <box l="1158.0" t="1717.0" r="1209.0" b="1759.0">of</box>
+          <box l="1233.0" t="1717.0" r="1556.0" b="1760.0">Cnardinator</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1855.0" t="1717.0" r="2092.0" b="1770.0">1,360.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="534.0" t="1789.0" r="566.0" b="1829.0">A</box>
+          <box l="575.0" t="1788.0" r="592.0" b="1827.0">I</box>
+          <box l="596.0" t="1787.0" r="613.0" b="1827.0">f</box>
+          <box l="617.0" t="1787.0" r="787.0" b="1830.0">iliated</box>
+          <box l="809.0" t="1788.0" r="887.0" b="1826.0">Me</box>
+          <box l="896.0" t="1787.0" r="971.0" b="1826.0">mb</box>
+          <box l="979.0" t="1783.0" r="1095.0" b="1826.0">ersh</box>
+          <box l="1104.0" t="1784.0" r="1149.0" b="1837.0">ip</box>
+          <box l="591.0" t="1846.0" r="796.0" b="1900.0">(volume</box>
+          <box l="822.0" t="1859.0" r="938.0" b="1891.0">over</box>
+          <box l="967.0" t="1846.0" r="1054.0" b="1888.0">500</box>
+          <box l="1080.0" t="1838.0" r="1292.0" b="1891.0">million)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1851.0" t="1842.0" r="2093.0" b="1897.0">2/530.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="3.0">
+      <box l="2222.0" t="1966.0" r="2401.0" b="2010.0">860.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

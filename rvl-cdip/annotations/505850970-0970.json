@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "712540",
+    "IssuedDate": "05-31-87",
+    "TotalAmount": "1,010",
+    "LineItem": [
+        {
+            "ItemDescription": "SLIDES #113-133",
+            "ItemTotal": "560",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SLIDES #113-133",
+            "ItemTotal": "450",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="218.0" fp="6.0" fn="77.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2718.0" t="458.0" r="2818.0" b="494.0">1099</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="1.0" fn="2.0">
+      <box l="858.0" t="705.0" r="1000.0" b="742.0">March</box>
+      <box l="1021.0" t="705.0" r="1178.0" b="747.0">4,1993</box>
+    </IssuedDate>
+    <LineItem tp="196.0" fp="2.0" fn="73.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="470.0" t="1842.0" r="537.0" b="1884.0">4lh</box>
+          <box l="562.0" t="1842.0" r="763.0" b="1892.0">Payment</box>
+          <box l="783.0" t="1842.0" r="845.0" b="1884.0">for</box>
+          <box l="866.0" t="1843.0" r="1082.0" b="1884.0">Research</box>
+          <box l="1103.0" t="1842.0" r="1274.0" b="1884.0">Entitled</box>
+          <box l="1295.0" t="1842.0" r="1619.0" b="1892.0">"Comparative</box>
+          <box l="1636.0" t="1842.0" r="1877.0" b="1883.0">Evaluation</box>
+          <box l="1898.0" t="1842.0" r="1940.0" b="1883.0">of</box>
+          <box l="470.0" t="1901.0" r="790.0" b="1946.0">Displacement</box>
+          <box l="808.0" t="1901.0" r="1054.0" b="1942.0">Ventilation</box>
+          <box l="1128.0" t="1901.0" r="1432.0" b="1942.0">Conventional</box>
+          <box l="1453.0" t="1901.0" r="1552.0" b="1939.0">VAV</box>
+          <box l="1574.0" t="1904.0" r="1773.0" b="1946.0">Systems</box>
+          <box l="1794.0" t="1901.0" r="1856.0" b="1938.0">for</box>
+          <box l="475.0" t="1955.0" r="620.0" b="1996.0">Indoor</box>
+          <box l="641.0" t="1955.0" r="712.0" b="1997.0">Air</box>
+          <box l="729.0" t="1955.0" r="891.0" b="2009.0">Quality</box>
+          <box l="912.0" t="1958.0" r="1115.0" b="2000.0">Control."</box>
+          <box l="1135.0" t="1955.0" r="1340.0" b="2009.0">("2H5/93</box>
+          <box l="1364.0" t="1959.0" r="1573.0" b="2006.0">Progress</box>
+          <box l="1595.0" t="1959.0" r="1761.0" b="2006.0">Report'</box>
+          <box l="470.0" t="2017.0" r="670.0" b="2055.0">Contract</box>
+          <box l="691.0" t="2017.0" r="762.0" b="2055.0">No.</box>
+          <box l="784.0" t="2017.0" r="1062.0" b="2063.0">"Agreement</box>
+          <box l="1082.0" t="2017.0" r="1127.0" b="2055.0">2"</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="208.0" t="3467.0" r="250.0" b="3500.0">30</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="3.0" fn="2.0">
+      <box l="2786.0" t="3467.0" r="3021.0" b="3513.0">$29,249.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,21 @@
+{
+    "InvoiceNumber": "1030553",
+    "IssuedDate": "HAY 27*1991",
+    "LineItem": [
+        {
+            "ItemDescription": "JET",
+            "ItemTotal": "1*104.00"
+        },
+        {
+            "ItemDescription": "LM6177"
+        },
+        {
+            "ItemDescription": "PREM"
+        },
+        {
+            "ItemDescription": "I",
+            "ItemTotal": "17,544.00"
+        }
+    ],
+    "TotalAmount": "16*016.40"
+}

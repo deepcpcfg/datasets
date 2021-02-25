@@ -1,0 +1,493 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "4",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "68.31",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "68.31",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PIPET 5ML SERO WIDE TIP",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 1.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "8.40",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "100.80",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "GLS FIBR FILT PPR 2.4CM",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 0.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "10.66",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "127.92",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "GLS FIBR FILT PPR 3.2CM",
+                            {
+                                "tp": 23.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 0.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "10",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "4.66",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "46.60",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "FILTER PPR WH 1 12.5CM",
+                            {
+                                "tp": 22.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 0.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "4",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "9.59",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "9.59",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "BUFFER COLRD BLUE PH 10 SPEED NUMBER /094",
+                            {
+                                "tp": 25.0,
+                                "fp": 16.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 17.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "4.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "9.68",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "9.68",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "BUFFER COLRD RED PH SPEED NUMBER /092",
+                            {
+                                "tp": 21.0,
+                                "fp": 16.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 29.0,
+                        "fp": 20.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "27.46",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SODIUM SALICYLATE CERTIFD",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 30.0,
+                        "fp": 0.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "13.30",
+                            {
+                                "tp": 1.0,
+                                "fp": 4.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "6.65",
+                            {
+                                "tp": 1.0,
+                                "fp": 3.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SPEED NUMBER /139 PHENYLARSINE OXIDE .00664",
+                            {
+                                "tp": 25.0,
+                                "fp": 18.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 27.0,
+                        "fp": 25.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "21.30",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "42.60",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SPEED NUMBER /095 PHOSPHATE P STD 1000PPM 5",
+                            {
+                                "tp": 25.0,
+                                "fp": 18.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 18.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "14.80",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "29.60",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "BACKORDER QTY 2 PHOSPHATE STD 500PPM BACKORDER QTY 2 500M",
+                            {
+                                "tp": 23.0,
+                                "fp": 34.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 35.0,
+                        "fn": 3.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "125",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "8.00",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "16.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PHOSPHATE P STD 50PPM BACKORDER QTY 2",
+                            {
+                                "tp": 23.0,
+                                "fp": 14.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 17.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 354.0,
+                "fp": 133.0,
+                "fn": 38.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 354.0,
+        "fp": 133.0,
+        "fn": 46.0
+    }
+]

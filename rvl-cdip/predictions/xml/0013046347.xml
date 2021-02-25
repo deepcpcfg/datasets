@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="230.0" fp="59.0" fn="90.0">
+    <IssuedDate tp="12.0" fp="1.0" fn="1.0">
+      <box l="2572.0" t="901.0" r="2705.0" b="940.0">Dec.</box>
+      <box l="2759.0" t="901.0" r="2855.0" b="945.0">10,</box>
+      <box l="2910.0" t="901.0" r="3051.0" b="941.0">1990</box>
+    </IssuedDate>
+    <LineItem tp="218.0" fp="58.0" fn="81.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="541.0" t="2097.0" r="944.0" b="2151.0">Duplicating</box>
+          <box l="541.0" t="2222.0" r="833.0" b="2276.0">Catering</box>
+          <box l="879.0" t="2222.0" r="1164.0" b="2264.0">services</box>
+          <box l="1215.0" t="2222.0" r="1669.0" b="2277.0">(ingredients,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2794.0" t="2101.0" r="3014.0" b="2142.0">779.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="620.0" t="2284.0" r="1012.0" b="2326.0">"fire-safe*1</box>
+          <box l="1058.0" t="2284.0" r="1377.0" b="2338.0">meetings)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2797.0" t="2288.0" r="3014.0" b="2330.0">852.53</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="538.0" t="2405.0" r="1053.0" b="2459.0">Mail/messenger</box>
+          <box l="1099.0" t="2408.0" r="1348.0" b="2451.0">service</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2797.0" t="2411.0" r="3014.0" b="2454.0">150.79</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="541.0" t="2533.0" r="683.0" b="2584.0">Long</box>
+          <box l="729.0" t="2530.0" r="1016.0" b="2575.0">distance</box>
+          <box l="1066.0" t="2533.0" r="1384.0" b="2585.0">telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2797.0" t="2534.0" r="3014.0" b="2577.0">153.23</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="541.0" t="2655.0" r="1200.0" b="2700.0">Telecommunications</box>
+          <box l="1245.0" t="2655.0" r="1494.0" b="2701.0">service</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2798.0" t="2659.0" r="3018.0" b="2702.0">288.82</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="541.0" t="2780.0" r="719.0" b="2822.0">Local</box>
+          <box l="767.0" t="2780.0" r="1274.0" b="2834.0">transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2839.0" t="2785.0" r="3018.0" b="2826.0">22.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="541.0" t="2905.0" r="832.0" b="2956.0">Computer</box>
+          <box l="883.0" t="2905.0" r="1165.0" b="2947.0">research</box>
+          <box l="1207.0" t="2906.0" r="1456.0" b="2959.0">charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2798.0" t="2909.0" r="3018.0" b="2952.0">617.36</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="616.0" t="3152.0" r="870.0" b="3205.0">Lodging</box>
+          <box l="613.0" t="3214.0" r="794.0" b="3259.0">Meals</box>
+          <box l="615.0" t="3279.0" r="941.0" b="3334.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1798.0" t="3283.0" r="1969.0" b="3326.0">39.07</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="614.0" t="3343.0" r="757.0" b="3384.0">Cabs</box>
+          <box l="613.0" t="3402.0" r="1089.0" b="3451.0">Miscellaneous</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2726.0" t="3410.0" r="3018.0" b="3459.0">5,301.25</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

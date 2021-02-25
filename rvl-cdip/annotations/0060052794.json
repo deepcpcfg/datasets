@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "216047",
+    "IssuedDate": "02/14/92",
+    "TotalAmount": "2,406.24",
+    "LineItem": [
+        {
+            "ItemDescription": "CUSTOM",
+            "ItemTotal": "70.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DRAFT",
+            "ItemTotal": "614.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADDITIONAL",
+            "ItemTotal": "1,721-44",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DRAFT",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

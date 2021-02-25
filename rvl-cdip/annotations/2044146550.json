@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "October 24 1985",
+    "TotalAmount": "72,800.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Estimated advance needs lor payment of initia_ 40,000 telephone calls @ 81,60 Per Call",
+            "ItemTotal": "64,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Estimated advance needs for payment of initial 40,000 Mailings - First Class Postage 5 229 ea",
+            "ItemTotal": "8,800.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

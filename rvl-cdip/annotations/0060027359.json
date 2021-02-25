@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "December 27,1993",
+    "InvoiceNumber": "12-0531",
+    "TotalAmount": "5,631.80",
+    "LineItem": [
+        {
+            "ItemDescription": "Design",
+            "ItemTotal": "$838.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Comprehensive",
+            "ItemTotal": "1.459.58",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "427.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "385.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Machantcal",
+            "ItemTotal": "2,202.84",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

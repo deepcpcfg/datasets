@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "PE07-00ia7S",
+    "IssuedDate": "JULOe/99",
+    "LineItem": [
+        {
+            "ItemDescription": "SERVICE FEE FOR THE MONTH OF JULY 1999",
+            "ItemTotal": "$111,900.00"
+        }
+    ],
+    "TotalAmount": "$113,900.00"
+}

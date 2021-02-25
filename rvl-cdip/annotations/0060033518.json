@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "003650",
+    "IssuedDate": "06/07/94",
+    "TotalAmount": "97,265.67",
+    "LineItem": [
+        {
+            "ItemDescription": "RETAIL COUPON PROCESSING @ $23.75/M",
+            "ItemTotal": "89,400.27",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,560.40",
+            "ItemDescription": "ACTUAL POSTAGE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,315.00",
+            "ItemDescription": "MONTHLY REPORT CHARGE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

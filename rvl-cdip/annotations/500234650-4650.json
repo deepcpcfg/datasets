@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "6-185",
+    "IssuedDate": "6/25/74",
+    "TotalAmount": "7,187.50",
+    "LineItem": [
+        {
+            "ItemDescription": "Coi$t of conducting Doral M-fetch It Ytorkn Portfolio & Attitude Shift",
+            "ItemTotal": "6,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Supervisory Expense",
+            "ItemTotal": "937.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

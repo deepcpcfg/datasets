@@ -1,0 +1,93 @@
+{
+    "IssuedDate": "12/14/98",
+    "LineItem": [
+        {
+            "ItemUnitCount": "600,000",
+            "ItemDescription": "NEWPORT BOX",
+            "ItemUnitValue": "$33.10",
+            "ItemTotal": "$19,860.00"
+        },
+        {
+            "ItemUnitCount": "150,000",
+            "ItemDescription": "NEWPORT KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "4,965.00"
+        },
+        {
+            "ItemUnitCount": "30,000",
+            "ItemDescription": "NEWPORT LIGHT KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "993.00"
+        },
+        {
+            "ItemUnitCount": "30,000",
+            "ItemDescription": "NEWPORT 100",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "1,027.50"
+        },
+        {
+            "ItemUnitCount": "6,000",
+            "ItemDescription": "NEWPORT IDO BOX",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "205.50"
+        },
+        {
+            "ItemUnitCount": "30,000",
+            "ItemDescription": "TRUE FILTER KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "993.00"
+        },
+        {
+            "ItemDescription": "TRUE FILTER 100",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "616.50"
+        },
+        {
+            "ItemUnitCount": "6,000",
+            "ItemDescription": "TRUE MENTHOL KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "198.60"
+        },
+        {
+            "ItemUnitCount": "24,000",
+            "ItemDescription": "TRUE MENTHOL 100",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "822.00"
+        },
+        {
+            "ItemUnitCount": "48,000",
+            "ItemDescription": "KENT KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "1,588.80"
+        },
+        {
+            "ItemDescription": "KENT 100",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "822.00"
+        },
+        {
+            "ItemUnitCount": "24,000",
+            "ItemDescription": "KENT III KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "794.40"
+        },
+        {
+            "ItemDescription": "KENT III 100",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "1,027.50"
+        },
+        {
+            "ItemUnitCount": "12,000",
+            "ItemDescription": "KENT GOLDEN LIGHT KS",
+            "ItemUnitValue": "33.10",
+            "ItemTotal": "397.20"
+        },
+        {
+            "ItemUnitCount": "24,000",
+            "ItemDescription": "KENT GOLDEN LIGHT 100",
+            "ItemUnitValue": "34.25",
+            "ItemTotal": "822.00"
+        }
+    ],
+    "InvoiceNumber": "#458"
+}

@@ -1,0 +1,114 @@
+{
+    "InvoiceNumber": "189139",
+    "LineItem": [
+        {
+            "ItemDescription": "Phone Long Dist",
+            "ItemTotal": "12.03"
+        },
+        {
+            "ItemDescription": "Phone Long Dist",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Deville",
+            "ItemTotal": "55.84"
+        },
+        {
+            "ItemDescription": "Deville Dnr Beverage",
+            "ItemTotal": "20.50"
+        },
+        {
+            "ItemDescription": "Room",
+            "ItemTotal": "320.00"
+        },
+        {
+            "ItemDescription": "Phone Long Di st",
+            "ItemTotal": "8.40"
+        },
+        {
+            "ItemDescription": "Phone Long Dist",
+            "ItemTotal": "7.49"
+        },
+        {
+            "ItemDescription": "Phone Long Dist",
+            "ItemTotal": "7.48"
+        },
+        {
+            "ItemDescription": "Phone Long Dist",
+            "ItemTotal": "7.46"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Room",
+            "ItemTotal": "320.00"
+        },
+        {
+            "ItemDescription": "Tax",
+            "ItemTotal": "54.40"
+        },
+        {
+            "ItemDescription": "Lobby Lounge",
+            "ItemTotal": "4.00"
+        },
+        {
+            "ItemDescription": "Lobby Beverage",
+            "ItemTotal": "25.00"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Deville",
+            "ItemTotal": "24.57"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Private Bar Beverage",
+            "ItemTotal": "6.25"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Phone Long Dist",
+            "ItemTotal": "4.93"
+        },
+        {
+            "ItemDescription": "Phone Local",
+            "ItemTotal": "0.54"
+        },
+        {
+            "ItemDescription": "Courier-FED EX",
+            "ItemTotal": "23.20"
+        },
+        {
+            "ItemDescription": "Valet Parking",
+            "ItemTotal": "7.00"
+        },
+        {
+            "ItemDescription": "Room",
+            "ItemTotal": "320.00"
+        },
+        {
+            "ItemDescription": "Limo-GHLS",
+            "ItemTotal": "85.00"
+        }
+    ],
+    "TotalAmount": "1426.60"
+}

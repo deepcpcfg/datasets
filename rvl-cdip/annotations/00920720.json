@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1450-1",
+    "IssuedDate": "July 23, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of Final Report Cardiovascular Testing of Compounds B-107, B’l18 and B-23, at $3,700.00 per compound",
+            "ItemTotal": "$11,100.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

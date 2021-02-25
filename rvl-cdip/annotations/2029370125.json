@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "M00024",
+    "IssuedDate": "March 21, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "To the cost of air freighting 33,000 issues of the second edition of the HBI Magazine to Australia. Two skids weighing 3,284 lte were shipped by Emery Worldwide on January 25, 1991; Emery invoice 4309869818, value 811,712.70 refers. We paid this invoice with check 11007 dated February 19, 1991. Cast of shipment ",
+            "ItemTotal": "11,712.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

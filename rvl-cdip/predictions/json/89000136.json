@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "49448",
+    "IssuedDate": "2/6/89",
+    "LineItem": [
+        {
+            "ItemDescription": "Range-Finding Study Compound A98",
+            "ItemTotal": "5,350.00"
+        },
+        {
+            "ItemDescription": "Compound Bl 70",
+            "ItemTotal": "5,350.00"
+        },
+        {
+            "ItemDescription": "Compound Al 47",
+            "ItemTotal": "5,350.00"
+        }
+    ]
+}

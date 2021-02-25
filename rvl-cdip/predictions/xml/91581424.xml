@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="2255.0" t="495.0" r="2555.0" b="545.0">11/30/46</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="690.0" t="863.0" r="875.0" b="905.0">KEDIA</box>
+          <box l="576.0" t="921.0" r="876.0" b="966.0">DAVIDSON</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="488.0" t="1365.0" r="520.0" b="1387.0">*0</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="587.0" t="1467.0" r="646.0" b="1493.0">OR</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="922.0" t="863.0" r="1218.0" b="905.0">SERVICES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2560.0" t="1305.0" r="2859.0" b="1354.0">3,901-36</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="3057.0" t="1305.0" r="3276.0" b="1346.0">164.24</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

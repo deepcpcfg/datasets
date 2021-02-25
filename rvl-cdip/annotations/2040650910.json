@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "904",
+    "IssuedDate": "September 22, 1978",
+    "TotalAmount": "15,400.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Advertising space in 1978 World Series Program",
+            "ItemTotal": "$16,470.59",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Production charge for bleed",
+            "ItemTotal": "1,400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "15493",
+    "IssuedDate": "December 31",
+    "LineItem": [
+        {
+            "ItemDescription": "Development, Fees, Art thru Mechanical Production",
+            "ItemTotal": "$11,600.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

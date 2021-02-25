@@ -1,0 +1,149 @@
+[
+    {
+        "IssuedDate": [
+            "6'25:74",
+            {
+                "tp": 0.0,
+                "fp": 7.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$10,810.06",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "voucher represents relfaburaeable costs for",
+                            {
+                                "tp": 41.0,
+                                "fp": 2.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 41.0,
+                        "fp": 2.0,
+                        "fn": 16.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "9>655.06",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "(period Kay 18, 1976 thru June 14,",
+                            {
+                                "tp": 0.0,
+                                "fp": 34.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 42.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,155-00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "'Fixed Fee",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 16.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 57.0,
+                "fp": 46.0,
+                "fn": 17.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2220-61",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 5.0
+            }
+        ]
+    },
+    {
+        "tp": 73.0,
+        "fp": 54.0,
+        "fn": 22.0
+    }
+]

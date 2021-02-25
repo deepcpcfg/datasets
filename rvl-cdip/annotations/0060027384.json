@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "08-0052",
+    "IssuedDate": "August 10. 1993",
+    "TotalAmount": "28,982.67",
+    "LineItem": [
+        {
+            "ItemDescription": "Design",
+            "ItemTotal": "$7,312.32",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Ocmprenensives",
+            "ItemTotal": "13.285.77",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "800.54",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "1.625.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": "4,318.51",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

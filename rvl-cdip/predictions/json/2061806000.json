@@ -1,0 +1,20 @@
+{
+    "IssuedDate": "October 29, 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Sixty-nine full color front cover design for Virginia Slim.",
+            "ItemTotal": "$23,800.00"
+        },
+        {
+            "ItemDescription": "-Commissionable items: Iris print, Audio Supplies.",
+            "ItemTotal": "$817.52"
+        },
+        {
+            "ItemDescription": "Production"
+        },
+        {
+            "ItemDescription": "Research Materials. -Non-commission able items:",
+            "ItemTotal": "$220.03"
+        }
+    ]
+}

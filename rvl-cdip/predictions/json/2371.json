@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "843153",
+    "IssuedDate": "December 20, 2000",
+    "LineItem": [
+        {
+            "ItemDescription": "Cash Receipts Postings",
+            "ItemTotal": "-252.44"
+        },
+        {
+            "ItemDescription": "Courier Duplicating Local Transportation Telephone",
+            "ItemTotal": "302.28"
+        },
+        {
+            "ItemDescription": "Temporary Services",
+            "ItemTotal": "183.50"
+        },
+        {
+            "ItemDescription": "Westlaw Research",
+            "ItemTotal": "431.23"
+        },
+        {
+            "ItemDescription": "30,",
+            "ItemTotal": "39,539.00"
+        }
+    ],
+    "TotalAmount": "32,390.03"
+}

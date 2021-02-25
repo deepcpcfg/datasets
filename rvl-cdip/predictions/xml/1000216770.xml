@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2729.0" t="1251.0" r="2809.0" b="1313.0">97</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="1267.0" t="1600.0" r="1508.0" b="1662.0">1^000.00</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="1157.0" t="1794.0" r="1395.0" b="1834.0">Development</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="2521.0" t="1657.0" r="2767.0" b="1704.0">1,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="315.0" fp="183.0" fn="84.0">
+    <InvoiceNumber tp="3.0" fp="1.0" fn="1.0">
+      <box l="1951.0" t="984.0" r="2087.0" b="1021.0">2884</box>
+    </InvoiceNumber>
+    <IssuedDate tp="1.0" fp="6.0" fn="8.0">
+      <box l="857.0" t="1582.0" r="1101.0" b="1627.0">4/21/B9</box>
+    </IssuedDate>
+    <LineItem tp="311.0" fp="176.0" fn="69.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="184.0" t="1992.0" r="350.0" b="2034.0">FEES1</box>
+          <box l="546.0" t="1993.0" r="792.0" b="2035.0">SERVICE</box>
+          <box l="835.0" t="1991.0" r="921.0" b="2032.0">(71</box>
+          <box l="1039.0" t="1990.0" r="1138.0" b="2029.0">.37</box>
+          <box l="1248.0" t="1991.0" r="1451.0" b="2029.0">26.27)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2444.0" t="1989.0" r="2619.0" b="2031.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="546.0" t="2052.0" r="792.0" b="2093.0">MINIMUM</box>
+          <box l="822.0" t="2049.0" r="1066.0" b="2092.0">MONTHLY</box>
+          <box l="1105.0" t="2049.0" r="1350.0" b="2090.0">SERVICE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2410.0" t="2048.0" r="2619.0" b="2090.0">♦50.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="546.0" t="2114.0" r="721.0" b="2156.0">CHECK</box>
+          <box l="763.0" t="2112.0" r="1101.0" b="2153.0">PROCESSING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2444.0" t="2110.0" r="2619.0" b="2148.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="546.0" t="2173.0" r="792.0" b="2215.0">MAILER!</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2439.0" t="2169.0" r="2619.0" b="2211.0">•0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="547.0" t="2232.0" r="928.0" b="2272.0">PO0TAGE-UPS</box>
+          <box l="964.0" t="2232.0" r="1030.0" b="2269.0">3ft</box>
+          <box l="1067.0" t="2232.0" r="1209.0" b="2269.0">RATE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2440.0" t="2232.0" r="2619.0" b="2269.0">•0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="551.0" t="2289.0" r="687.0" b="2327.0">ZONE</box>
+          <box l="726.0" t="2289.0" r="759.0" b="2327.0">2</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1814.0" t="2288.0" r="1880.0" b="2326.0">28</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2094.0" t="2285.0" r="2268.0" b="2326.0">•1.56</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2410.0" t="2286.0" r="2618.0" b="2328.0">•43.68</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2343.0" r="691.0" b="2385.0">ZONE</box>
+          <box l="726.0" t="2344.0" r="762.0" b="2383.0">3</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1851.0" t="2342.0" r="1880.0" b="2384.0">4</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2097.0" t="2342.0" r="2269.0" b="2385.0">•1.79</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2444.0" t="2343.0" r="2618.0" b="2385.0">•7-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="551.0" t="2402.0" r="690.0" b="2440.0">ZONE</box>
+          <box l="726.0" t="2403.0" r="762.0" b="2441.0">4</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1850.0" t="2402.0" r="1880.0" b="2442.0">B</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2097.0" t="2402.0" r="2269.0" b="2443.0">♦2.13</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2409.0" t="2403.0" r="2618.0" b="2443.0">•17.04</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2457.0" r="689.0" b="2499.0">ZONE</box>
+          <box l="729.0" t="2457.0" r="762.0" b="2499.0">S</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1822.0" t="2459.0" r="1883.0" b="2497.0">18</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2093.0" t="2456.0" r="2264.0" b="2499.0">•2.31</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2409.0" t="2457.0" r="2618.0" b="2497.0">•41.58</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="551.0" t="2515.0" r="688.0" b="2556.0">ZONE</box>
+          <box l="725.0" t="2515.0" r="761.0" b="2556.0">6</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2097.0" t="2513.0" r="2268.0" b="2552.0">•2.55</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2442.0" t="2511.0" r="2618.0" b="2552.0">♦2.55</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2574.0" r="689.0" b="2614.0">ZONE</box>
+          <box l="729.0" t="2574.0" r="761.0" b="2614.0">7</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1850.0" t="2571.0" r="1879.0" b="2611.0">3</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2097.0" t="2570.0" r="2269.0" b="2611.0">•2.80</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2443.0" t="2569.0" r="2621.0" b="2611.0">♦8.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="551.0" t="2632.0" r="687.0" b="2673.0">ZONE</box>
+          <box l="725.0" t="2632.0" r="761.0" b="2673.0">8</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1847.0" t="2630.0" r="1879.0" b="2667.0">9</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2097.0" t="2627.0" r="2268.0" b="2668.0">♦3.05</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2409.0" t="2619.0" r="2618.0" b="2669.0">•27.45</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2693.0" r="657.0" b="2731.0">N/3</box>
+          <box l="691.0" t="2690.0" r="861.0" b="2731.0">CHECK</box>
+          <box l="904.0" t="2687.0" r="1236.0" b="2728.0">(ATTACHED)</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1855.0" t="2688.0" r="1875.0" b="2726.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2096.0" t="2686.0" r="2269.0" b="2727.0">•9.99</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2446.0" t="2686.0" r="2617.0" b="2728.0">♦9.99</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2748.0" r="688.0" b="2785.0">BANK</box>
+          <box l="725.0" t="2745.0" r="928.0" b="2786.0">CHARGE</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1854.0" t="2747.0" r="1875.0" b="2785.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2096.0" t="2747.0" r="2267.0" b="2786.0">♦1.50</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2484.0" t="2748.0" r="2617.0" b="2786.0">1.50</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2868.0" r="689.0" b="2906.0">DUPE</box>
+          <box l="725.0" t="2867.0" r="1103.0" b="2907.0">ELIMINATION</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1849.0" t="2868.0" r="1882.0" b="2908.0">0</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2445.0" t="2866.0" r="2617.0" b="2908.0">•0.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2928.0" r="690.0" b="2968.0">DUPE</box>
+          <box l="728.0" t="2928.0" r="1103.0" b="2969.0">ELIMINATION</box>
+          <box l="1140.0" t="2928.0" r="1387.0" b="2966.0">MINIMUM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2446.0" t="2928.0" r="2617.0" b="2968.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2985.0" r="928.0" b="3026.0">UNQUALIFIED</box>
+          <box l="965.0" t="2985.0" r="1245.0" b="3024.0">REQUEST©</box>
+          <box l="1282.0" t="2985.0" r="1528.0" b="3025.0">SERVICE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1849.0" t="2985.0" r="1880.0" b="3022.0">0</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2445.0" t="2986.0" r="2617.0" b="3023.0">•0.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="3040.0" r="931.0" b="3079.0">UNQUALIFIED</box>
+          <box l="965.0" t="3040.0" r="1245.0" b="3079.0">REQUESTS</box>
+          <box l="1283.0" t="3041.0" r="1528.0" b="3079.0">POSTAGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2446.0" t="3040.0" r="2617.0" b="3081.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="553.0" t="3098.0" r="828.0" b="3136.0">DE-DUPED</box>
+          <box l="862.0" t="3095.0" r="1136.0" b="3137.0">REQUESTS</box>
+          <box l="1175.0" t="3095.0" r="1421.0" b="3137.0">SERVICE</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1849.0" t="3096.0" r="1882.0" b="3134.0">0</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2445.0" t="3096.0" r="2617.0" b="3136.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="557.0" t="3156.0" r="828.0" b="3194.0">DE-DUPED</box>
+          <box l="865.0" t="3154.0" r="1136.0" b="3194.0">REQUESTS</box>
+          <box l="1176.0" t="3154.0" r="1422.0" b="3195.0">POSTAGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2445.0" t="3156.0" r="2616.0" b="3193.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="553.0" t="3281.0" r="793.0" b="3319.0">SERVICE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2442.0" t="3278.0" r="2616.0" b="3315.0">♦0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

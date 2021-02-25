@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="236.0" fp="86.0" fn="97.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2417.0" t="1334.0" r="2522.0" b="1371.0">0581</box>
+    </InvoiceNumber>
+    <LineItem tp="232.0" fp="78.0" fn="97.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="417.0" t="2110.0" r="604.0" b="2151.0">Audited</box>
+          <box l="638.0" t="2113.0" r="830.0" b="2148.0">Premiixn</box>
+          <box l="417.0" t="2223.0" r="775.0" b="2267.0">Retrospective</box>
+          <box l="809.0" t="2222.0" r="1000.0" b="2259.0">Premium</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2537.0" t="2221.0" r="2779.0" b="2267.0">7,706,078</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="420.0" t="2335.0" r="694.0" b="2383.0">Previously</box>
+          <box l="726.0" t="2334.0" r="884.0" b="2373.0">Billed</box>
+          <box l="921.0" t="2334.0" r="1109.0" b="2372.0">Premium</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1363.0" t="2335.0" r="1608.0" b="2380.0">4,838,583</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2538.0" t="2334.0" r="2780.0" b="2380.0">7,717,330</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="417.0" t="2451.0" r="551.0" b="2484.0">Gross</box>
+          <box l="584.0" t="2447.0" r="855.0" b="2492.0">Adjustment</box>
+          <box l="892.0" t="2442.0" r="941.0" b="2484.0">(2</box>
+          <box l="1034.0" t="2442.0" r="1075.0" b="2484.0">3)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1422.0" t="2447.0" r="1607.0" b="2488.0">127,864</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2622.0" t="2447.0" r="2841.0" b="2488.0">11.252CR</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="417.0" t="2559.0" r="633.0" b="2597.0">Dividend</box>
+          <box l="667.0" t="2568.0" r="720.0" b="2593.0">on</box>
+          <box l="754.0" t="2563.0" r="908.0" b="2597.0">Retro.</box>
+          <box l="946.0" t="2555.0" r="1137.0" b="2593.0">Ptemiimi</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1421.0" t="2559.0" r="1604.0" b="2601.0">744,967</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2592.0" t="2558.0" r="2779.0" b="2601.0">744,967</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="420.0" t="2667.0" r="692.0" b="2715.0">Previously</box>
+          <box l="726.0" t="2667.0" r="887.0" b="2706.0">Billed</box>
+          <box l="917.0" t="2667.0" r="1134.0" b="2705.0">Dividend</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1421.0" t="2667.0" r="1607.0" b="2713.0">725,787</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2592.0" t="2667.0" r="2779.0" b="2709.0">725,787</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="312.0" t="2784.0" r="355.0" b="2817.0">7.</box>
+          <box l="420.0" t="2780.0" r="637.0" b="2817.0">Dividend</box>
+          <box l="671.0" t="2781.0" r="829.0" b="2817.0">Offset</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1451.0" t="2781.0" r="1670.0" b="2826.0">19.180CR</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2622.0" t="2780.0" r="2841.0" b="2826.0">19,180CR</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="309.0" t="2892.0" r="354.0" b="2926.0">8.</box>
+          <box l="420.0" t="2893.0" r="474.0" b="2928.0">K.Y</box>
+          <box l="505.0" t="2896.0" r="687.0" b="2926.0">Assess.</box>
+          <box l="726.0" t="2893.0" r="855.0" b="2927.0">Prev.</box>
+          <box l="896.0" t="2889.0" r="1054.0" b="2926.0">Billed</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1451.0" t="2892.0" r="1608.0" b="2934.0">28,973</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2622.0" t="2889.0" r="2780.0" b="2931.0">28,973</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="421.0" t="3001.0" r="608.0" b="3038.0">Revised</box>
+          <box l="641.0" t="3005.0" r="695.0" b="3038.0">RY</box>
+          <box l="729.0" t="3005.0" r="887.0" b="3039.0">Assess</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1451.0" t="3002.0" r="1606.0" b="3047.0">28,161</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2622.0" t="3001.0" r="2780.0" b="3047.0">28,161</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="8.0" fn="0.0">
+      <box l="2623.0" t="3223.0" r="2842.0" b="3267.0">31,244CR</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

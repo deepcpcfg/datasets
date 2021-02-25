@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "12-53-0020",
+    "IssuedDate": "12-31-82",
+    "TotalAmount": "78,600.00",
+    "LineItem": [
+        {
+            "ItemDescription": "1982 ALLOWANCE PER AGREEMENT ",
+            "ItemTotal": "$733,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

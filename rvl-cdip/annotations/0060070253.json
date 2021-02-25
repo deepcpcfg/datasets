@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "5/93-0439",
+    "IssuedDate": "May 28, 1993",
+    "TotalAmount": "4,897.20",
+    "LineItem": [
+        {
+            "ItemDescription": "Conceepts and design mock-ups and copy",
+            "ItemTotal": "4.620.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

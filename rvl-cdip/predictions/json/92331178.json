@@ -1,0 +1,26 @@
+{
+    "IssuedDate": "10 '03 1 86 7",
+    "LineItem": [
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "|CT 10496 I6H Harley-flavldson K S Flit",
+            "ItemUnitValue": "6.0800",
+            "ItemTotal": "13.76"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "CT 10496 6M Harley K S Flit",
+            "ItemTotal": ".8800"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "CT 10496 6m Davidson K S Flit",
+            "ItemTotal": "6.8800"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "CT 10496 6m H-D K S Flit",
+            "ItemTotal": "6.8800"
+        }
+    ]
+}

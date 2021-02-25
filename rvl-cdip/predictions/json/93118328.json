@@ -1,0 +1,17 @@
+{
+    "InvoiceNumber": "D-11-0313",
+    "IssuedDate": "DEC 18/94",
+    "LineItem": [
+        {
+            "ItemDescription": "BV KEYLINE ASSEMBLY 090506 STUDIO",
+            "ItemUnitValue": "455.C0",
+            "ItemTotal": "535.30"
+        },
+        {
+            "ItemDescription": "100377 STUDIO",
+            "ItemUnitValue": "26C.C0",
+            "ItemTotal": "305.89"
+        }
+    ],
+    "TotalAmount": "841.19"
+}

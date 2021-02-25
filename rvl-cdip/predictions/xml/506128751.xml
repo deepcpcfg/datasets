@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="339.0" fp="115.0" fn="107.0">
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="2593.0" t="477.0" r="2868.0" b="520.0">85-0610-2</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="2.0">
+      <box l="2687.0" t="543.0" r="2867.0" b="594.0">7/19/85</box>
+    </IssuedDate>
+    <TotalAmount tp="0.0" fp="3.0" fn="0.0">
+      <box l="2785.0" t="1777.0" r="2872.0" b="1817.0">300</box>
+    </TotalAmount>
+    <LineItem tp="323.0" fp="112.0" fn="105.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="595.0" t="1862.0" r="741.0" b="1901.0">boxes</box>
+          <box l="841.0" t="1863.0" r="933.0" b="1903.0">RJR</box>
+          <box l="967.0" t="1864.0" r="1017.0" b="1905.0">P.</box>
+          <box l="1062.0" t="1865.0" r="1109.0" b="1904.0">0.</box>
+          <box l="1153.0" t="1867.0" r="1234.0" b="1904.0">No.</box>
+          <box l="1279.0" t="1864.0" r="1524.0" b="1906.0">85-35668</box>
+          <box l="2129.0" t="1863.0" r="2371.0" b="1917.0">(7/3/85)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2814.0" t="1871.0" r="2872.0" b="1914.0">25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="528.0" t="1988.0" r="553.0" b="2025.0">4</box>
+          <box l="591.0" t="1990.0" r="741.0" b="2031.0">boxes</box>
+          <box l="841.0" t="1992.0" r="891.0" b="2031.0">R.</box>
+          <box l="933.0" t="1992.0" r="982.0" b="2032.0">J.</box>
+          <box l="1028.0" t="1992.0" r="1078.0" b="2033.0">R.</box>
+          <box l="1121.0" t="1993.0" r="1170.0" b="2033.0">P.</box>
+          <box l="1213.0" t="1994.0" r="1263.0" b="2032.0">0.</box>
+          <box l="1307.0" t="1995.0" r="1420.0" b="2035.0">Nos.</box>
+          <box l="1466.0" t="1993.0" r="1709.0" b="2036.0">85-31516</box>
+          <box l="1747.0" t="1998.0" r="1771.0" b="2035.0">6</box>
+          <box l="1810.0" t="1994.0" r="2054.0" b="2036.0">85-35577</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2814.0" t="2000.0" r="2871.0" b="2039.0">25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="528.0" t="2116.0" r="553.0" b="2154.0">1</box>
+          <box l="591.0" t="2116.0" r="711.0" b="2157.0">drum</box>
+          <box l="841.0" t="2118.0" r="1082.0" b="2168.0">Hydrated</box>
+          <box l="1118.0" t="2119.0" r="1333.0" b="2161.0">Alumina</box>
+          <box l="1425.0" t="2121.0" r="1637.0" b="2161.0">SAMPLES</box>
+          <box l="2126.0" t="2118.0" r="2400.0" b="2168.0">(7/12/85)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2814.0" t="2125.0" r="2872.0" b="2164.0">25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="590.0" t="2241.0" r="736.0" b="2282.0">boxes</box>
+          <box l="837.0" t="2244.0" r="1012.0" b="2285.0">R.J.R.</box>
+          <box l="1057.0" t="2246.0" r="1107.0" b="2285.0">P.</box>
+          <box l="1150.0" t="2247.0" r="1200.0" b="2287.0">0.</box>
+          <box l="1241.0" t="2245.0" r="1325.0" b="2287.0">No.</box>
+          <box l="1371.0" t="2245.0" r="1615.0" b="2287.0">85-29030</box>
+          <box l="1651.0" t="2251.0" r="1676.0" b="2288.0">8</box>
+          <box l="1713.0" t="2250.0" r="1929.0" b="2299.0">Samples</box>
+          <box l="2129.0" t="2245.0" r="2401.0" b="2297.0">(7/17/85)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2813.0" t="2251.0" r="2872.0" b="2293.0">25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="838.0" t="2307.0" r="960.0" b="2349.0">from</box>
+          <box l="997.0" t="2309.0" r="1177.0" b="2350.0">Hudson</box>
+          <box l="1213.0" t="2310.0" r="1388.0" b="2357.0">Falls,</box>
+          <box l="1431.0" t="2310.0" r="1491.0" b="2350.0">NY</box>
+          <box l="526.0" t="2431.0" r="546.0" b="2470.0">1</box>
+          <box l="585.0" t="2432.0" r="709.0" b="2471.0">drum</box>
+          <box l="831.0" t="2434.0" r="1081.0" b="2481.0">wydrated</box>
+          <box l="1118.0" t="2435.0" r="1331.0" b="2475.0">Alumina</box>
+          <box l="1372.0" t="2432.0" r="1613.0" b="2486.0">(Samples</box>
+          <box l="1649.0" t="2447.0" r="1739.0" b="2486.0">per</box>
+          <box l="1774.0" t="2438.0" r="1857.0" b="2478.0">Dr.</box>
+          <box l="1902.0" t="2439.0" r="2100.0" b="2479.0">Chandr;</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2781.0" t="2442.0" r="2869.0" b="2481.0">143</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="523.0" t="2620.0" r="547.0" b="2660.0">2</box>
+          <box l="836.0" t="2622.0" r="1144.0" b="2671.0">HM/PALLETS</box>
+          <box l="1179.0" t="2626.0" r="1362.0" b="2667.0">ACTIVE</box>
+          <box l="1396.0" t="2626.0" r="1582.0" b="2667.0">CARBON</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="520.0" t="3005.0" r="544.0" b="3042.0">1</box>
+          <box l="585.0" t="3007.0" r="673.0" b="3043.0">box</box>
+          <box l="832.0" t="3007.0" r="1075.0" b="3048.0">Material</box>
+          <box l="1116.0" t="3008.0" r="1328.0" b="3057.0">shipped</box>
+          <box l="1366.0" t="3016.0" r="1424.0" b="3048.0">to</box>
+          <box l="1457.0" t="3009.0" r="1674.0" b="3059.0">Germany</box>
+          <box l="1716.0" t="3008.0" r="1832.0" b="3058.0">(per</box>
+          <box l="1867.0" t="3012.0" r="1958.0" b="3051.0">Hax</box>
+          <box l="834.0" t="3066.0" r="1013.0" b="3114.0">Baker)</box>
+          <box l="1056.0" t="3067.0" r="1326.0" b="3117.0">(5/31/85)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2779.0" t="3014.0" r="2868.0" b="3055.0">115</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="520.0" t="3193.0" r="542.0" b="3230.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="583.0" t="3195.0" r="671.0" b="3234.0">box</box>
+          <box l="831.0" t="3195.0" r="1076.0" b="3237.0">Material</box>
+          <box l="1117.0" t="3197.0" r="1327.0" b="3248.0">shipped</box>
+          <box l="1367.0" t="3203.0" r="1421.0" b="3238.0">to</box>
+          <box l="1459.0" t="3199.0" r="1671.0" b="3248.0">Germany</box>
+          <box l="1711.0" t="3197.0" r="1830.0" b="3249.0">(per</box>
+          <box l="1865.0" t="3200.0" r="1952.0" b="3242.0">Max</box>
+          <box l="836.0" t="3257.0" r="1011.0" b="3306.0">Baker)</box>
+          <box l="1057.0" t="3256.0" r="1294.0" b="3308.0">(6/4/85)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2769.0" t="3213.0" r="2857.0" b="3253.0">115</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="531.0" t="3376.0" r="552.0" b="3413.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="594.0" t="3378.0" r="682.0" b="3415.0">box</box>
+          <box l="844.0" t="3377.0" r="1020.0" b="3416.0">R.J.R.</box>
+          <box l="1065.0" t="3378.0" r="1114.0" b="3417.0">P.</box>
+          <box l="1157.0" t="3378.0" r="1207.0" b="3416.0">O.</box>
+          <box l="1251.0" t="3377.0" r="1332.0" b="3415.0">No.</box>
+          <box l="1377.0" t="3374.0" r="1619.0" b="3415.0">85-32661</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

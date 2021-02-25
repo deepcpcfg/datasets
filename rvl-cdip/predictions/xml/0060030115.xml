@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="341.0" fp="85.0" fn="24.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="726.0" t="755.0" r="924.0" b="801.0">February</box>
+      <box l="947.0" t="755.0" r="1004.0" b="795.0">19,</box>
+      <box l="1030.0" t="755.0" r="1133.0" b="792.0">1993</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="1.0" fn="1.0">
+      <box l="933.0" t="1484.0" r="1184.0" b="1527.0">#02-0133</box>
+    </InvoiceNumber>
+    <LineItem tp="311.0" fp="83.0" fn="23.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="725.0" t="1784.0" r="841.0" b="1825.0">’Data</box>
+          <box l="862.0" t="1784.0" r="975.0" b="1830.0">Entry</box>
+          <box l="1025.0" t="1784.0" r="1287.0" b="1830.0">Recfemptton</box>
+          <box l="1308.0" t="1784.0" r="1502.0" b="1829.0">Coupons</box>
+          <box l="1522.0" t="1784.0" r="1658.0" b="1830.0">(7,606</box>
+          <box l="1679.0" t="1792.0" r="1768.0" b="1830.0">pcs.</box>
+          <box l="1844.0" t="1784.0" r="1934.0" b="1826.0">$41.</box>
+          <box l="1947.0" t="1784.0" r="1955.0" b="1821.0">i</box>
+          <box l="1968.0" t="1784.0" r="2064.0" b="1830.0">8A1)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2469.0" t="1784.0" r="2651.0" b="1826.0">$313.22</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="725.0" t="1855.0" r="841.0" b="1896.0">•Data</box>
+          <box l="862.0" t="1855.0" r="975.0" b="1902.0">Entry</box>
+          <box l="1025.0" t="1855.0" r="1287.0" b="1901.0">Redemption</box>
+          <box l="1308.0" t="1855.0" r="1500.0" b="1899.0">Coupons</box>
+          <box l="1522.0" t="1855.0" r="1659.0" b="1900.0">(11/92</box>
+          <box l="1676.0" t="1855.0" r="1747.0" b="1901.0">(94</box>
+          <box l="1764.0" t="1864.0" r="1855.0" b="1901.0">pcs.</box>
+          <box l="1929.0" t="1854.0" r="2180.0" b="1896.0">$29.4l/rnin.</box>
+          <box l="2201.0" t="1855.0" r="2318.0" b="1905.0">dig.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2526.0" t="1855.0" r="2643.0" b="1896.0">29.41</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="725.0" t="1930.0" r="841.0" b="1967.0">'Data</box>
+          <box l="862.0" t="1927.0" r="974.0" b="1976.0">Entry</box>
+          <box l="1025.0" t="1926.0" r="1287.0" b="1975.0">Redemption</box>
+          <box l="1308.0" t="1926.0" r="1500.0" b="1971.0">Coupons</box>
+          <box l="1529.0" t="1927.0" r="1642.0" b="1967.0">12/92</box>
+          <box l="1663.0" t="1929.0" r="1701.0" b="1971.0">(5</box>
+          <box l="1722.0" t="1938.0" r="1809.0" b="1971.0">pcs.</box>
+          <box l="1889.0" t="1927.0" r="2139.0" b="1967.0">$29.41/min.</box>
+          <box l="2160.0" t="1930.0" r="2272.0" b="1975.0">chg.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2526.0" t="1930.0" r="2642.0" b="1967.0">29.41</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="725.0" t="1996.0" r="1033.0" b="2048.0">'Programming</box>
+          <box l="1054.0" t="1996.0" r="1109.0" b="2038.0">for</box>
+          <box l="1129.0" t="1996.0" r="1229.0" b="2038.0">Oaia</box>
+          <box l="1250.0" t="1996.0" r="1359.0" b="2046.0">Entry</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="2001.0" r="2647.0" b="2038.0">176.48</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="2071.0" r="1008.0" b="2117.0">Management</box>
+          <box l="1026.0" t="2071.0" r="1092.0" b="2109.0">fee</box>
+          <box l="1112.0" t="2071.0" r="1296.0" b="2117.0">covering</box>
+          <box l="1321.0" t="2071.0" r="1525.0" b="2109.0">back-end</box>
+          <box l="1546.0" t="2071.0" r="1784.0" b="2117.0">processing</box>
+          <box l="754.0" t="2142.0" r="796.0" b="2180.0">D.</box>
+          <box l="821.0" t="2141.0" r="982.0" b="2180.0">Smden</box>
+          <box l="1000.0" t="2141.0" r="1137.0" b="2188.0">(15,75</box>
+          <box l="1154.0" t="2141.0" r="1250.0" b="2188.0">hrs.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2455.0" t="2071.0" r="2646.0" b="2112.0">2,094.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="724.0" t="2213.0" r="851.0" b="2253.0">•Wise,</box>
+          <box l="872.0" t="2213.0" r="1079.0" b="2263.0">(postage,</box>
+          <box l="1101.0" t="2213.0" r="1247.0" b="2263.0">freight,</box>
+          <box l="1268.0" t="2214.0" r="1425.0" b="2258.0">copies,</box>
+          <box l="1446.0" t="2216.0" r="1542.0" b="2259.0">etc.)</box>
+          <box l="721.0" t="2434.0" r="837.0" b="2481.0">(Less</box>
+          <box l="858.0" t="2442.0" r="962.0" b="2480.0">prev.</box>
+          <box l="979.0" t="2434.0" r="1133.0" b="2473.0">invoice</box>
+          <box l="1155.0" t="2434.0" r="1367.0" b="2476.0">#01-0190,</box>
+          <box l="1388.0" t="2434.0" r="1512.0" b="2472.0">dated</box>
+          <box l="1538.0" t="2434.0" r="1713.0" b="2480.0">1/22/93)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2522.0" t="2213.0" r="2647.0" b="2252.0">80.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2468.0" t="2797.0" r="2643.0" b="2838.0">$125.69</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

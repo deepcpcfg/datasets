@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="104.0" fp="1.0" fn="6.0">
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="1453.0" t="528.0" r="1552.0" b="574.0">May</box>
+      <box l="1595.0" t="524.0" r="1795.0" b="571.0">6,1983</box>
+    </IssuedDate>
+    <LineItem tp="94.0" fp="1.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="326.0" t="1343.0" r="418.0" b="1380.0">Fee</box>
+          <box l="469.0" t="1341.0" r="564.0" b="1379.0">for</box>
+          <box l="607.0" t="1353.0" r="843.0" b="1391.0">gear-up</box>
+          <box l="890.0" t="1344.0" r="985.0" b="1379.0">and</box>
+          <box l="1031.0" t="1343.0" r="1340.0" b="1381.0">execution</box>
+          <box l="1385.0" t="1354.0" r="1406.0" b="1379.0">n</box>
+          <box l="1424.0" t="1342.0" r="1443.0" b="1383.0">E</box>
+          <box l="327.0" t="1399.0" r="668.0" b="1439.0">additional</box>
+          <box l="719.0" t="1398.0" r="985.0" b="1449.0">sampling</box>
+          <box l="1036.0" t="1402.0" r="1093.0" b="1440.0">in</box>
+          <box l="1136.0" t="1405.0" r="1231.0" b="1443.0">Los</box>
+          <box l="1278.0" t="1404.0" r="1515.0" b="1450.0">Angeles</box>
+          <box l="327.0" t="1459.0" r="419.0" b="1497.0">and</box>
+          <box l="473.0" t="1463.0" r="565.0" b="1496.0">San</box>
+          <box l="611.0" t="1457.0" r="915.0" b="1497.0">Francisco</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2267.0" t="1463.0" r="2579.0" b="1510.0">$4,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

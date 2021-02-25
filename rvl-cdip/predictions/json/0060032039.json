@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "14833",
+    "IssuedDate": "July 30, 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Creative Development, Fees and Art thru Mechanical.",
+            "ItemTotal": "6,375.00"
+        }
+    ]
+}

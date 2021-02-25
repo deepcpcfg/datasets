@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "12-0500",
+    "IssuedDate": "December 30, 199",
+    "TotalAmount": "9,374.79",
+    "LineItem": [
+        {
+            "ItemTotal": "4,911.39",
+            "ItemDescription": "Produce Trial Mailing #2 Profile Report",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,846.54",
+            "ItemDescription": "ist PuU (314,037 records ® S5.88/M)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "737.99",
+            "ItemDescription": "Merge/Purge (314.037 records @ S2.35/M) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "725.24",
+            "ItemDescription": "Ink Jet Program Processing (306,612 records @ S2.35/M} ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,153.13",
+            "ItemDescription": "Programm ing Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

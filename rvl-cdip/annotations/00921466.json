@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "5-J",
+    "IssuedDate": "August 20, 1981",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of Final Report \"Cardiovascular Testing of Compound A-11 in the Beagle Dog\" at $2,700.00 per compound.",
+            "ItemTotal": "$2,700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

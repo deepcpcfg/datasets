@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "June 20, 1986",
+    "InvoiceNumber": "33157",
+    "LineItem": [
+        {
+            "ItemDescription": "4 pairs Beta Boots size 9 at",
+            "ItemUnitValue": "12.96",
+            "ItemTotal": "51.84"
+        },
+        {
+            "ItemDescription": "3 pairs Beta Boots size 10 at",
+            "ItemUnitValue": "12.96",
+            "ItemTotal": "38.88"
+        },
+        {
+            "ItemDescription": "2 pairs Beta Boots size 12 at",
+            "ItemUnitValue": "12.96",
+            "ItemTotal": "2S.92"
+        }
+    ],
+    "TotalAmount": "116,64"
+}

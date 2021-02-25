@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "7622",
+    "IssuedDate": "12/3/87",
+    "TotalAmount": "35,60.0.00 ",
+    "LineItem": [
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound B63",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound Bl 29",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound B127",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound B30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound Bl15",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound B10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound B95",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,450.00",
+            "ItemDescription": "Compound B214",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

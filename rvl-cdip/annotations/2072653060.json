@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "9,562.50",
+    "LineItem": [
+        {
+            "ItemDescription": "ROYALE KS LIGHTS OUST, UPC 11141-98508",
+            "ItemUnitCount": "12",
+            "ItemTotal": "4,607.50",
+            "ItemUnitValue": "20"
+        },
+        {
+            "ItemDescription": "ROYALE 100S LIGHTS CUST. UPC 11141-98510",
+            "ItemUnitCount": "12",
+            "ItemTotal": "4,875.00",
+            "ItemUnitValue": "20"
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

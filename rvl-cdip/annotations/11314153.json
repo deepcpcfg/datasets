@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "774",
+    "IssuedDate": "June 16, 1970",
+    "LineItem": [
+        {
+            "ItemDescription": "COUNCIL FOR TOBACCO RESEARCH 3rd class envelopes printed 6 1/2 x 9 1/2, open end, 28 lb., white wove envelopes printed with indicia box and \"third class11 in lower left corner",
+            "ItemTotal": "282.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

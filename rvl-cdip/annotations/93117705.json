@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "D-10-0501",
+    "IssuedDate": "OCTOBER 5, 1994",
+    "TotalAmount": "419,136.58",
+    "LineItem": [
+        {
+            "ItemDescription": "INSERTING",
+            "ItemTotal": "73,397.83",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MECHANICALS",
+            "ItemTotal": "5,719,55",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COLOR XEROX",
+            "ItemTotal": "139.59",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TYPESETTING",
+            "ItemTotal": "13,510.93",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ENGRAVING",
+            "ItemTotal": "27,603.04",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PERSONALlZATION/KEYCODING",
+            "ItemTotal": "63.547.57",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PRINTING",
+            "ItemTotal": "121,585.99",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE",
+            "ItemTotal": "110,273.64",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemTotal": "588.97",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

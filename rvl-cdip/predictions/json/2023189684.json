@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "0174701",
+    "LineItem": [
+        {
+            "ItemDescription": "Drug Metabolism Disposition Title NICOTINE IN HAIR"
+        },
+        {
+            "ItemDescription": "100 REPRINTS",
+            "ItemTotal": "229.00"
+        },
+        {
+            "ItemDescription": "SHIPPING ADVANCED PAYMENT",
+            "ItemTotal": "-229.00"
+        }
+    ]
+}

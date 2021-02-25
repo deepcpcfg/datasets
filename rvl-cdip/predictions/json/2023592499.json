@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "10th August 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Fees",
+            "ItemTotal": "112,100.00"
+        },
+        {
+            "ItemDescription": "Expenses",
+            "ItemTotal": "1,966.64"
+        },
+        {
+            "ItemDescription": "office Expenses",
+            "ItemTotal": "2.683.96"
+        }
+    ],
+    "TotalAmount": "85,176.21"
+}

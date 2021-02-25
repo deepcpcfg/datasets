@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "180-0045",
+    "IssuedDate": "06/09/97",
+    "TotalAmount": "803.96",
+    "LineItem": [
+        {
+            "ItemDescription": "CAMEL FILTER BOX B6G4F",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "371.7000",
+            "ItemTotal": "743.40"
+        },
+        {
+            "ItemDescription": "CAMEL LIGHT BOX B6G4F",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "371.7000",
+            "ItemTotal": "743.40"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "594.72-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTABLE GROSS",
+            "ItemTotal": "892.08",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STD TElRMS DISCOUNT OF 3.25*",
+            "ItemTotal": "28.99-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "19.32-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "843.77",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT TERMS DISCOUNT OF 1,40*",
+            "ItemTotal": "11.81-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS STATE TAX TOR FREE PRODUCT",
+            "ItemTotal": "288.80-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

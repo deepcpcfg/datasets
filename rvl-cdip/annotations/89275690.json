@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "December 1, 1993",
+    "TotalAmount": "43,453.69",
+    "LineItem": [
+        {
+            "ItemDescription": "December assessment for CIAR",
+            "ItemTotal": "35,531.42",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "December supplemental assessment for Johns Hopkins, Dr. Matanoski, Confounder's Study",
+            "ItemTotal": "7,922.27",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

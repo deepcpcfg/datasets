@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "4/9/86",
+            {
+                "tp": 0.0,
+                "fp": 6.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$24,000.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Design engineering development of new Virginia Slims Butane Piezzo Lighter Color design renderings Hand Made plaster models Hand Made plaster models revised Temporary 1 up molds for all component parts for actual working prototype.",
+                            {
+                                "tp": 74.0,
+                                "fp": 157.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 84.0,
+                        "fp": 158.0,
+                        "fn": 2.0
+                    }
+                ]
+            ],
+            {
+                "tp": 84.0,
+                "fp": 158.0,
+                "fn": 2.0
+            }
+        ],
+        "InvoiceNumber": [
+            "7559",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 88.0,
+        "fp": 164.0,
+        "fn": 2.0
+    }
+]

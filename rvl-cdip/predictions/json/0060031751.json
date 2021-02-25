@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "AM7915/A",
+    "IssuedDate": "October 25/1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Creative, Account Management",
+            "ItemTotal": "2,300.00"
+        }
+    ]
+}

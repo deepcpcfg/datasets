@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "0/30/01",
+    "InvoiceNumber": "PFT0011719",
+    "LineItem": [
+        {
+            "ItemDescription": "Downloads",
+            "ItemTotal": "125.00"
+        },
+        {
+            "ItemDescription": "Printouts",
+            "ItemTotal": "125.00"
+        }
+    ],
+    "TotalAmount": "$125-00"
+}

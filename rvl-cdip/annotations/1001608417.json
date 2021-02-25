@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "242",
+    "IssuedDate": "30 April 65",
+    "LineItem": [
+        {
+            "ItemDescription": "Labor",
+            "ItemTotal": "350,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

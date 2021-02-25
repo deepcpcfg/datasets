@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="242.0" fp="233.0" fn="7.0">
+    <IssuedDate tp="19.0" fp="0.0" fn="0.0">
+      <box l="2036.0" t="1090.0" r="2124.0" b="1128.0">6th</box>
+      <box l="2161.0" t="1090.0" r="2461.0" b="1136.0">September,</box>
+      <box l="2508.0" t="1090.0" r="2625.0" b="1128.0">1971</box>
+    </IssuedDate>
+    <LineItem tp="223.0" fp="233.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1183.0" t="1405.0" r="1461.0" b="1450.0">supplying</box>
+          <box l="1499.0" t="1405.0" r="1554.0" b="1442.0">24</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1908.0" t="1407.0" r="2058.0" b="1441.0">£9.50</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1083.0" t="1510.0" r="1145.0" b="1543.0">To</box>
+          <box l="1183.0" t="1510.0" r="1461.0" b="1556.0">supplying</box>
+          <box l="1499.0" t="1513.0" r="1554.0" b="1546.0">2'4</box>
+          <box l="1595.0" t="1511.0" r="1712.0" b="1546.0">full</box>
+          <box l="1746.0" t="1512.0" r="1991.0" b="1558.0">portions</box>
+          <box l="2030.0" t="1511.0" r="2088.0" b="1548.0">of</box>
+          <box l="2124.0" t="1515.0" r="2245.0" b="1548.0">meat</box>
+          <box l="2284.0" t="1515.0" r="2337.0" b="1548.0">at</box>
+          <box l="2380.0" t="1520.0" r="2433.0" b="1548.0">an</box>
+          <box l="2471.0" t="1510.0" r="2779.0" b="1548.0">additional</box>
+          <box l="1183.0" t="1562.0" r="1270.0" b="1600.0">fee</box>
+          <box l="1308.0" t="1563.0" r="1365.0" b="1597.0">of</box>
+          <box l="1404.0" t="1563.0" r="1554.0" b="1600.0">£1,00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2850.0" t="1563.0" r="3063.0" b="1602.0">£252.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1083.0" t="1668.0" r="1145.0" b="1702.0">To</box>
+          <box l="1183.0" t="1668.0" r="1458.0" b="1714.0">supplying</box>
+          <box l="1500.0" t="1671.0" r="1767.0" b="1712.0">costumes,</box>
+          <box l="1813.0" t="1670.0" r="1867.0" b="1704.0">at</box>
+          <box l="1909.0" t="1670.0" r="1992.0" b="1704.0">the</box>
+          <box l="2034.0" t="1669.0" r="2213.0" b="1713.0">agreed</box>
+          <box l="2251.0" t="1669.0" r="2401.0" b="1715.0">price</box>
+          <box l="2438.0" t="1669.0" r="2496.0" b="1707.0">of</box>
+          <box l="1083.0" t="1776.0" r="1145.0" b="1810.0">To</box>
+          <box l="1184.0" t="1775.0" r="1459.0" b="1818.0">supplying</box>
+          <box l="1496.0" t="1775.0" r="1796.0" b="1821.0">equipment,</box>
+          <box l="1843.0" t="1774.0" r="2238.0" b="1819.0">candlesticks,</box>
+          <box l="2284.0" t="1778.0" r="2495.0" b="1811.0">candles</box>
+          <box l="2534.0" t="1778.0" r="2589.0" b="1811.0">at</box>
+          <box l="2630.0" t="1777.0" r="2713.0" b="1811.0">the</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2880.0" t="1668.0" r="3063.0" b="1706.0">£12.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1184.0" t="1826.0" r="1459.0" b="1863.0">increased</box>
+          <box l="1496.0" t="1830.0" r="1646.0" b="1871.0">price</box>
+          <box l="1684.0" t="1825.0" r="1742.0" b="1862.0">of</box>
+          <box l="1083.0" t="1934.0" r="1142.0" b="1968.0">To</box>
+          <box l="1183.0" t="1933.0" r="1459.0" b="1976.0">supplying</box>
+          <box l="1496.0" t="1933.0" r="1646.0" b="1967.0">coffe</box>
+          <box l="1684.0" t="1933.0" r="1963.0" b="1979.0">equipment</box>
+          <box l="2005.0" t="1934.0" r="2055.0" b="1969.0">ir.</box>
+          <box l="2093.0" t="1932.0" r="2338.0" b="1969.0">addition</box>
+          <box l="2378.0" t="1936.0" r="2434.0" b="1969.0">to</box>
+          <box l="2472.0" t="1935.0" r="2589.0" b="1969.0">that</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2880.0" t="1827.0" r="3062.0" b="1864.0">£17.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1180.0" t="1984.0" r="1489.0" b="2030.0">originally</box>
+          <box l="1530.0" t="1984.0" r="1801.0" b="2030.0">supplied,</box>
+          <box l="1843.0" t="1995.0" r="1897.0" b="2020.0">as</box>
+          <box l="1939.0" t="1986.0" r="2213.0" b="2033.0">requested</box>
+          <box l="2252.0" t="1986.0" r="2306.0" b="2032.0">by</box>
+          <box l="2343.0" t="1986.0" r="2526.0" b="2023.0">Prince</box>
+          <box l="1176.0" t="2038.0" r="1484.0" b="2081.0">Vsevolode,</box>
+          <box l="1531.0" t="2038.0" r="1617.0" b="2075.0">for</box>
+          <box l="1656.0" t="2039.0" r="1680.0" b="2075.0">2</box>
+          <box l="1713.0" t="2041.0" r="1867.0" b="2075.0">weeks</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2910.0" t="2038.0" r="3064.0" b="2076.0">£8.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1081.0" t="2147.0" r="1142.0" b="2181.0">To</box>
+          <box l="1181.0" t="2146.0" r="1459.0" b="2189.0">supplying</box>
+          <box l="1497.0" t="2145.0" r="1584.0" b="2180.0">and</box>
+          <box l="1622.0" t="2145.0" r="1838.0" b="2191.0">serving</box>
+          <box l="1877.0" t="2154.0" r="2056.0" b="2191.0">supper</box>
+          <box l="2094.0" t="2145.0" r="2181.0" b="2181.0">and</box>
+          <box l="2218.0" t="2145.0" r="2402.0" b="2182.0">drinks</box>
+          <box l="2440.0" t="2149.0" r="2497.0" b="2182.0">to</box>
+          <box l="2535.0" t="2144.0" r="2688.0" b="2182.0">coach</box>
+          <box l="1181.0" t="2196.0" r="1367.0" b="2234.0">driver</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2907.0" t="2196.0" r="3064.0" b="2232.0">£1.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1085.0" t="2407.0" r="1147.0" b="2439.0">To</box>
+          <box l="1185.0" t="2405.0" r="1460.0" b="2452.0">supplying</box>
+          <box l="1497.0" t="2405.0" r="1806.0" b="2451.0">pre-dinner</box>
+          <box l="1843.0" t="2408.0" r="2052.0" b="2450.0">drinks,</box>
+          <box l="2090.0" t="2407.0" r="2364.0" b="2449.0">minerals,</box>
+          <box l="2411.0" t="2411.0" r="2522.0" b="2444.0">etc.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2878.0" t="2406.0" r="3064.0" b="2443.0">£18.75</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

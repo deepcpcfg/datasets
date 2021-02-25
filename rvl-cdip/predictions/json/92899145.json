@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "021346",
+    "IssuedDate": "February 27,200!",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Staff Time Mark WiLcox/Vice President S225",
+            "ItemUnitCount": "1450",
+            "ItemTotal": "53,262.50"
+        },
+        {
+            "ItemDescription": "Total Professional Staff Time",
+            "ItemTotal": "53,262.50"
+        }
+    ],
+    "TotalAmount": "$3,26230"
+}

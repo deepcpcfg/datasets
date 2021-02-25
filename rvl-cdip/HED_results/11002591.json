@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "7-13-67",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$2,755-55",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "fie search on Methods of Measuring the Deposition of Inhaled Cigarette Smoke in Dogs For Services Rendered. June; 1967",
+                            {
+                                "tp": 21.0,
+                                "fp": 97.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 30.0,
+                        "fp": 97.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 30.0,
+                "fp": 97.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "3-07025",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 44.0,
+        "fp": 97.0,
+        "fn": 0.0
+    }
+]

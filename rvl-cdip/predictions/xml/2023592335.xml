@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="116.0" fp="98.0" fn="12.0">
+    <IssuedDate tp="19.0" fp="0.0" fn="0.0">
+      <box l="645.0" t="1503.0" r="774.0" b="1543.0">13th</box>
+      <box l="820.0" t="1507.0" r="1121.0" b="1551.0">September</box>
+      <box l="1171.0" t="1506.0" r="1292.0" b="1545.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="89.0" fp="97.0" fn="10.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="644.0" t="2146.0" r="878.0" b="2186.0">12.9.92</box>
+          <box l="1165.0" t="2150.0" r="1425.0" b="2194.0">Meeting,</box>
+          <box l="1478.0" t="2151.0" r="1678.0" b="2190.0">London</box>
+          <box l="1167.0" t="2207.0" r="1188.0" b="2244.0">J</box>
+          <box l="1234.0" t="2206.0" r="1467.0" b="2247.0">Hoskins</box>
+          <box l="1582.0" t="2209.0" r="1609.0" b="2247.0">R</box>
+          <box l="1652.0" t="2212.0" r="1816.0" b="2254.0">Perry</box>
+          <box l="1169.0" t="2265.0" r="1186.0" b="2303.0">1</box>
+          <box l="1232.0" t="2267.0" r="1331.0" b="2311.0">day</box>
+          <box l="1441.0" t="2266.0" r="1572.0" b="2306.0">£550</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2315.0" t="2270.0" r="2511.0" b="2308.0">550.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="648.0" t="2379.0" r="983.0" b="2421.0">10-11.9.92</box>
+          <box l="1163.0" t="2385.0" r="1396.0" b="2422.0">Meeting</box>
+          <box l="1447.0" t="2396.0" r="1501.0" b="2424.0">in</box>
+          <box l="1547.0" t="2388.0" r="1812.0" b="2431.0">Budapest</box>
+          <box l="1168.0" t="2445.0" r="1191.0" b="2482.0">2</box>
+          <box l="1232.0" t="2442.0" r="1361.0" b="2488.0">days</box>
+          <box l="1477.0" t="2444.0" r="1607.0" b="2482.0">£550</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2211.0" t="2448.0" r="2514.0" b="2487.0">£1.100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1167.0" t="2561.0" r="1188.0" b="2594.0">6</box>
+          <box l="1234.0" t="2567.0" r="1363.0" b="2604.0">days</box>
+          <box l="1404.0" t="2562.0" r="1850.0" b="2601.0">miscellaneous</box>
+          <box l="1895.0" t="2565.0" r="2022.0" b="2600.0">work</box>
+          <box l="2067.0" t="2576.0" r="2129.0" b="2602.0">on</box>
+          <box l="1165.0" t="2618.0" r="1286.0" b="2658.0">ETS,</box>
+          <box l="1336.0" t="2620.0" r="1495.0" b="2658.0">ARIA.</box>
+          <box l="1549.0" t="2621.0" r="1666.0" b="2661.0">IA1.</box>
+          <box l="1719.0" t="2622.0" r="2056.0" b="2660.0">conference</box>
+          <box l="1167.0" t="2678.0" r="1430.0" b="2719.0">planning</box>
+          <box l="1475.0" t="2687.0" r="1571.0" b="2716.0">etc</box>
+          <box l="1687.0" t="2679.0" r="1816.0" b="2718.0">£550</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2208.0" t="2681.0" r="2338.0" b="2723.0">£3.3</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="2.0">
+      <box l="2207.0" t="2797.0" r="2512.0" b="2838.0">£4,950,00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

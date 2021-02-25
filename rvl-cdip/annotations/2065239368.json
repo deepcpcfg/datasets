@@ -1,0 +1,97 @@
+{
+    "InvoiceNumber": "1483",
+    "IssuedDate": "August 12,1998",
+    "TotalAmount": "52,202.19",
+    "LineItem": [
+        {
+            "ItemDescription": "(85) Sedans © $35,00 per hour per v&hbcto + 20% gratuity / total (170) hours",
+            "ItemTotal": "$7,140.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(170) Skycap gratuities © $3.50 par person",
+            "ItemTotal": "$595.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(50) Guests © $371.00 per person ",
+            "ItemTotal": "315,550.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(100) Tote bags © $20.00 each, plus 8.9% tax ",
+            "ItemTotal": "$2,138.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(30) Guests @ §82.00 per person ",
+            "ItemTotal": "$2,480.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Estimated Wins with lunch based on consumption + 20% Destination Services Management Fea",
+            "ItemTotal": "$285.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(60) Guests © $154.00 per person",
+            "ItemTotal": "$9,240.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(60) Squirt Guns @ $2.25 each, plus 6,9% tax",
+            "ItemTotal": "$144.32",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(8) \"Master Blaster\" Team Water Guns © $35.00 each, plus 6.9% tax",
+            "ItemTotal": "$307.87",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(30) Guests © $82.00 per person",
+            "ItemTotal": "$2,450.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Estimated beverages based on consumption + 20% Destination Services Management Fee",
+            "ItemTotal": "5285.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(170) Notices @ $3,00 each ",
+            "ItemTotal": "$510.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(1) Hotel Coordinator @$22.00 per hour/ total (16) hours",
+            "ItemTotal": "$352.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(85) Sedans © $35,00 per hour par vehicle * 20% gratuity / total (170) hours",
+            "ItemTotal": "$7,140,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(170) Skycap gratuities © $3.50 per person",
+            "ItemTotal": "$595.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="63.0" fp="36.0" fn="18.0">
+    <InvoiceNumber tp="11.0" fp="0.0" fn="0.0">
+      <box l="2619.0" t="699.0" r="2885.0" b="725.0">PR07-01GS72</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="4.0" fn="0.0">
+      <box l="856.0" t="976.0" r="948.0" b="1005.0">2001</box>
+    </IssuedDate>
+    <LineItem tp="52.0" fp="32.0" fn="10.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="532.0" t="1254.0" r="977.0" b="1285.0">Non-coaiiLLrnionable</box>
+          <box l="1003.0" t="1255.0" r="1174.0" b="1292.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2691.0" t="1255.0" r="2882.0" b="1287.0">3,600.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="532.0" t="1346.0" r="877.0" b="1377.0">CcamiasionablB</box>
+          <box l="903.0" t="1346.0" r="1074.0" b="1384.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2790.0" t="1349.0" r="2882.0" b="1377.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="531.0" t="1442.0" r="680.0" b="1477.0">Agency</box>
+          <box l="707.0" t="1439.0" r="953.0" b="1469.0">Corraleaion</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2791.0" t="1441.0" r="2882.0" b="1469.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

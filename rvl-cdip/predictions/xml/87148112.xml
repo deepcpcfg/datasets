@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="40.0" fp="71.0" fn="108.0">
+    <IssuedDate tp="0.0" fp="4.0" fn="7.0">
+      <box l="313.0" t="1614.0" r="401.0" b="1642.0">DATE</box>
+    </IssuedDate>
+    <LineItem tp="31.0" fp="66.0" fn="101.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="371.0" t="1846.0" r="516.0" b="1887.0">Phase</box>
+          <box l="558.0" t="1844.0" r="571.0" b="1886.0">I</box>
+          <box l="608.0" t="1844.0" r="754.0" b="1897.0">Range</box>
+          <box l="788.0" t="1844.0" r="987.0" b="1897.0">Finding</box>
+          <box l="1025.0" t="1842.0" r="1164.0" b="1895.0">Study</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2415.0" t="1845.0" r="2647.0" b="1894.0">8,355.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="374.0" t="2084.0" r="516.0" b="2123.0">Phase</box>
+          <box l="557.0" t="2082.0" r="569.0" b="2123.0">I</box>
+          <box l="611.0" t="2081.0" r="753.0" b="2134.0">Range</box>
+          <box l="790.0" t="2082.0" r="988.0" b="2135.0">Finding</box>
+          <box l="1026.0" t="2081.0" r="1164.0" b="2130.0">Study</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2416.0" t="1962.0" r="2649.0" b="2014.0">8,355.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="370.0" t="2142.0" r="545.0" b="2191.0">Repeat</box>
+          <box l="583.0" t="2143.0" r="636.0" b="2182.0">of</box>
+          <box l="670.0" t="2142.0" r="753.0" b="2183.0">PFC</box>
+          <box l="787.0" t="2141.0" r="932.0" b="2193.0">Assay</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2418.0" t="2141.0" r="2647.0" b="2189.0">2,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2155.0" t="2673.0" r="2444.0" b="2725.0">$42,242.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

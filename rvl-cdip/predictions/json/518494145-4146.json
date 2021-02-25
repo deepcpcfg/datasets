@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "2270400",
+    "IssuedDate": "10/01",
+    "LineItem": [
+        {
+            "ItemDescription": "SALEM B1G1F",
+            "ItemUnitCount": "12.000",
+            "ItemTotal": "356.7000"
+        },
+        {
+            "ItemDescription": "SALEM 100 B1G1F",
+            "ItemUnitCount": "12,000",
+            "ItemTotal": "356.7000"
+        },
+        {
+            "ItemDescription": "SALEM LTS B1G1F",
+            "ItemUnitCount": "10,000",
+            "ItemTotal": "1,070.10"
+        },
+        {
+            "ItemDescription": "SALEM LT 100 B1G1F",
+            "ItemUnitCount": "12,000",
+            "ItemTotal": "356.7000"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "1,605,15-"
+        },
+        {
+            "ItemDescription": "LESS HANDLING",
+            "ItemTotal": "1,605.15"
+        },
+        {
+            "ItemDescription": "EFT",
+            "ItemTotal": "1.600.82"
+        },
+        {
+            "ItemDescription": "LESS STATE TAX FDR FREE PRODUCT",
+            "ItemTotal": "540.00-"
+        }
+    ],
+    "TotalAmount": "1,012.99"
+}

@@ -1,0 +1,17 @@
+{
+    "InvoiceNumber": "00787",
+    "IssuedDate": "12-30-91",
+    "LineItem": [
+        {
+            "ItemDescription": "BOSTON HERALD PHILADELPHIA INQUIRER",
+            "ItemTotal": "490"
+        },
+        {
+            "ItemDescription": "7/10",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "3,441.00",
+            "ItemTotal": "2,924.95"
+        }
+    ],
+    "TotalAmount": "27,151.00"
+}

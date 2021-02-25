@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="46.0" fp="35.0" fn="14.0">
+    <InvoiceNumber tp="2.0" fp="5.0" fn="4.0">
+      <box l="652.0" t="570.0" r="914.0" b="612.0">1310702</box>
+    </InvoiceNumber>
+    <LineItem tp="37.0" fp="29.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="342.0" t="1539.0" r="759.0" b="1582.0">COLORATIONS</box>
+          <box l="811.0" t="1538.0" r="880.0" b="1577.0">4C</box>
+          <box l="342.0" t="1605.0" r="679.0" b="1646.0">POSITIONS</box>
+          <box l="816.0" t="1604.0" r="884.0" b="1642.0">IN</box>
+          <box l="1159.0" t="1661.0" r="1231.0" b="1699.0">AD</box>
+          <box l="1275.0" t="1658.0" r="1423.0" b="1699.0">SIZE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2723.0" t="1649.0" r="3029.0" b="1694.0">3*355.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1162.0" t="1722.0" r="1386.0" b="1762.0">AGENCY</box>
+          <box l="1431.0" t="1720.0" r="1819.0" b="1760.0">COMMISSION</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2805.0" t="1713.0" r="3026.0" b="1754.0">503.25</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="2729.0" t="1826.0" r="3030.0" b="1873.0">2*851.75</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

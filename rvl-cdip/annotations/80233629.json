@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "7019-3",
+    "IssuedDate": "September 28, 1984",
+    "TotalAmount": "37,550.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Award",
+            "ItemTotal": "$ 150,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Cumulative billings",
+            "ItemTotal": "<112,650.00>",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

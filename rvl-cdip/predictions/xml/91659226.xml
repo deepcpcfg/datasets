@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="68.0" fp="62.0" fn="44.0">
+    <InvoiceNumber tp="6.0" fp="1.0" fn="1.0">
+      <box l="2642.0" t="1296.0" r="2884.0" b="1341.0">1025626</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="5.0" fn="3.0">
+      <box l="2279.0" t="1480.0" r="2383.0" b="1525.0">MAY</box>
+      <box l="2428.0" t="1480.0" r="2667.0" b="1525.0">14*195*</box>
+      <box l="2747.0" t="1513.0" r="2762.0" b="1538.0">v</box>
+    </IssuedDate>
+    <LineItem tp="54.0" fp="48.0" fn="40.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="951.0" t="1996.0" r="976.0" b="2038.0">1</box>
+          <box l="1026.0" t="1992.0" r="1159.0" b="2035.0">PAGE</box>
+          <box l="1276.0" t="1992.0" r="1376.0" b="2034.0">HAY</box>
+          <box l="1417.0" t="1988.0" r="1663.0" b="2034.0">21»19B4</box>
+          <box l="1707.0" t="1985.0" r="1807.0" b="2030.0">JET</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2680.0" t="1970.0" r="2992.0" b="2018.0">1U04H.0U</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="809.0" t="2055.0" r="834.0" b="2097.0">4</box>
+          <box l="876.0" t="2051.0" r="1054.0" b="2097.0">COLOR</box>
+          <box l="1100.0" t="2051.0" r="1267.0" b="2092.0">ORDER</box>
+          <box l="1313.0" t="2046.0" r="1520.0" b="2091.0">NUMBER</box>
+          <box l="1563.0" t="2045.0" r="1592.0" b="2087.0">0</box>
+          <box l="808.0" t="2112.0" r="980.0" b="2159.0">BLEED</box>
+          <box l="809.0" t="2176.0" r="980.0" b="2222.0">SATIN</box>
+          <box l="805.0" t="2234.0" r="1163.0" b="2281.0">COMMISSION</box>
+          <box l="1205.0" t="2233.0" r="1342.0" b="2276.0">FROM</box>
+          <box l="1384.0" t="2230.0" r="1558.0" b="2273.0">ABOVE</box>
+          <box l="1609.0" t="2226.0" r="1737.0" b="2272.0">HEM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2722.0" t="2209.0" r="3063.0" b="2259.0">1*657.ZuLl*.</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="8.0" fn="0.0">
+      <box l="2730.0" t="3072.0" r="2997.0" b="3113.0">9.390.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

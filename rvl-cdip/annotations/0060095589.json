@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "02-0461",
+    "IssuedDate": "February 24, 1S94",
+    "TotalAmount": "73,597.01",
+    "LineItem": [
+        {
+            "ItemDescription": "Artwork",
+            "ItemTotal": "$17,963.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ProducCon",
+            "ItemTotal": "9,463.94",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "12,475. 25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": "29.528.45",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

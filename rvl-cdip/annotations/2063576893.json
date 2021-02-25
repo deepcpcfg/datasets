@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1418",
+    "IssuedDate": "October 10, 1991",
+    "TotalAmount": "192.931.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Payments on Phase I Construction: Research and Demonstration Facility. Per payment schedule on Attachment A of the agreement. Principal Investigator: J. Woods.",
+            "ItemTotal": "192.931.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

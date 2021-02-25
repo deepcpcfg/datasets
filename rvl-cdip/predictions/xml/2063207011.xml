@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="691.0" t="2021.0" r="721.0" b="2055.0">1.</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="755.0" t="2012.0" r="925.0" b="2051.0">Audited</box>
+          <box l="951.0" t="2011.0" r="1151.0" b="2051.0">Premium</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1542.0" t="2013.0" r="1762.0" b="2076.0">6;520,075</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="759.0" t="2089.0" r="1062.0" b="2142.0">Retrospective</box>
+          <box l="1088.0" t="2089.0" r="1284.0" b="2130.0">Premium</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1543.0" t="2092.0" r="1762.0" b="2151.0">4,137,249</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2705.0" t="2088.0" r="2991.0" b="2150.0">6f94q790^</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="759.0" t="2164.0" r="984.0" b="2214.0">Previously</box>
+          <box l="1005.0" t="2164.0" r="1121.0" b="2205.0">Billed</box>
+          <box l="1142.0" t="2163.0" r="1334.0" b="2205.0">Premium</box>
+          <box l="755.0" t="2242.0" r="837.0" b="2283.0">Net</box>
+          <box l="863.0" t="2242.0" r="1125.0" b="2288.0">Adjustment</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1543.0" t="2167.0" r="1762.0" b="2223.0">4,071)730</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="687.0" t="2317.0" r="720.0" b="2351.0">5.</box>
+          <box l="759.0" t="2309.0" r="820.0" b="2351.0">KY</box>
+          <box l="834.0" t="2313.0" r="1005.0" b="2351.0">Assess.</box>
+          <box l="1026.0" t="2309.0" r="1137.0" b="2351.0">Prev,</box>
+          <box l="1155.0" t="2309.0" r="1270.0" b="2351.0">Bilbo</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1604.0" t="2310.0" r="1762.0" b="2372.0">2^278</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="759.0" t="2380.0" r="930.0" b="2417.0">Revised</box>
+          <box l="946.0" t="2379.0" r="1012.0" b="2418.0">KY</box>
+          <box l="1026.0" t="2380.0" r="1192.0" b="2417.0">Assess.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1604.0" t="2377.0" r="1761.0" b="2445.0">2E|268</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

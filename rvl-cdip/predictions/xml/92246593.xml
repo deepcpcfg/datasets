@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="95.0" fp="23.0" fn="109.0">
+    <InvoiceNumber tp="11.0" fp="0.0" fn="0.0">
+      <box l="2549.0" t="228.0" r="2879.0" b="267.0">008069003-A</box>
+    </InvoiceNumber>
+    <LineItem tp="69.0" fp="22.0" fn="108.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="593.0" t="1321.0" r="759.0" b="1362.0">ISSUE:</box>
+          <box l="776.0" t="1321.0" r="910.0" b="1362.0">JULY</box>
+          <box l="926.0" t="1321.0" r="996.0" b="1366.0">25,</box>
+          <box l="1018.0" t="1322.0" r="1135.0" b="1360.0">1989</box>
+          <box l="592.0" t="1388.0" r="817.0" b="1429.0">INVOICE:</box>
+          <box l="838.0" t="1388.0" r="1104.0" b="1430.0">008069003</box>
+          <box l="592.0" t="1455.0" r="942.0" b="1496.0">PRODUCTION</box>
+          <box l="960.0" t="1455.0" r="1221.0" b="1496.0">CHARGES</box>
+          <box l="1238.0" t="1456.0" r="1355.0" b="1496.0">WAS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="991.0" t="1723.0" r="1232.0" b="1765.0">S2.888.73</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1568.0" t="1453.0" r="1675.0" b="1495.0">ATS</box>
+          <box l="1692.0" t="1454.0" r="1898.0" b="1499.0">4.000.00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2286.0" t="1386.0" r="2493.0" b="1428.0">2,888.73</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2548.0" t="317.0" r="2748.0" b="354.0">04/23/91</box>
+    </IssuedDate>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="2777.0" t="1384.0" r="2981.0" b="1429.0">2.888.73</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "05-0096 ",
+    "IssuedDate": "May 13, 1992",
+    "TotalAmount": "9,500.00",
+    "LineItem": [
+        {
+            "ItemDescription": "340,000 Phase I Coupon Distributions (May *8-30, 1992)",
+            "ItemTotal": "$3,230.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,135.00",
+            "ItemDescription": "330,000 Phase II Coupon Distributions (July 2 31. 1992)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,135.00",
+            "ItemDescription": "330,000 Phase in Coupon Distributions (September 14-26. 1992)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

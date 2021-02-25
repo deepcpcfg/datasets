@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "802392",
+    "LineItem": [
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "PORTAB SYSTEM E AIR SAMPLING",
+            "ItemTotal": "7000.0000",
+            "ItemUnitValue": "14000*00"
+        },
+        {
+            "ItemDescription": "SHIPPI (G CHGS",
+            "ItemTotal": "7.53"
+        }
+    ],
+    "TotalAmount": "14,007,53"
+}

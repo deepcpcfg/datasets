@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "August 31,_ 19 78",
+            {
+                "tp": 0.0,
+                "fp": 17.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "10019",
+                            {
+                                "tp": 2.0,
+                                "fp": 3.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Charge for the work specified in Franklin Institute Agreement 8/11/78= Nd. 19210-1 for the period covering 7/15/78 to",
+                            {
+                                "tp": 106.0,
+                                "fp": 11.0,
+                                "fn": 11.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 108.0,
+                        "fp": 14.0,
+                        "fn": 18.0
+                    }
+                ]
+            ],
+            {
+                "tp": 108.0,
+                "fp": 14.0,
+                "fn": 18.0
+            }
+        ],
+        "TotalAmount": [
+            "13,715-26",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "19210-",
+            {
+                "tp": 2.0,
+                "fp": 4.0,
+                "fn": 3.0
+            }
+        ]
+    },
+    {
+        "tp": 110.0,
+        "fp": 44.0,
+        "fn": 21.0
+    }
+]

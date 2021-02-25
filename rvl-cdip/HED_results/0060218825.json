@@ -1,0 +1,149 @@
+[
+    {
+        "IssuedDate": [
+            "2/10/87",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "FOR THE MONTH Or DECEMBER 1986 PROVIDENCE",
+                            {
+                                "tp": 41.0,
+                                "fp": 0.0,
+                                "fn": 34.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 41.0,
+                        "fp": 0.0,
+                        "fn": 43.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$9,448.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SUNDAY MAGAZINE",
+                            {
+                                "tp": 0.0,
+                                "fp": 15.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 24.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "8,503.20",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LESS PREVIOUSLY BILLED ON INVOICE #12138",
+                            {
+                                "tp": 40.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 89.0,
+                "fp": 24.0,
+                "fn": 43.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2056",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 100.0,
+        "fp": 24.0,
+        "fn": 49.0
+    }
+]

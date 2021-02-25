@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "Wednesday 6th October 1993",
+    "InvoiceNumber": "#2089",
+    "LineItem": [
+        {
+            "ItemDescription": "SPECIAL NOMINAL FEE",
+            "ItemTotal": "$3,200.00"
+        }
+    ],
+    "TotalAmount": "51,000.00"
+}

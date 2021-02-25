@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "COMPUTER PROGRAMMING",
+            "ItemTotal": "00",
+            "ItemUnitValue": "$1o.0o"
+        },
+        {
+            "ItemDescription": "CRhRLSS M. SLBDD",
+            "ItemTotal": "0-50",
+            "ItemUnitValue": "S20.00"
+        },
+        {
+            "ItemDescription": "COMPUTER PROGRAMMING",
+            "ItemUnitCount": "2l'9O",
+            "ItemUnitValue": "$i5.00"
+        }
+    ],
+    "TotalAmount": "$896"
+}

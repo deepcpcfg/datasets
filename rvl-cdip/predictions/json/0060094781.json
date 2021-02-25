@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "December 2 0, 1982",
+    "InvoiceNumber": "S805748",
+    "LineItem": [
+        {
+            "ItemDescription": "Travel out-of-pocket",
+            "ItemTotal": "$2,516.28",
+            "ItemUnitValue": "$2,516.28"
+        },
+        {
+            "ItemDescription": "Sponsorship costa",
+            "ItemUnitValue": "347.7",
+            "ItemTotal": "347.70"
+        }
+    ]
+}

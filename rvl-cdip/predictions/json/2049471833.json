@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "3-51",
+    "IssuedDate": "March 31",
+    "LineItem": [
+        {
+            "ItemTotal": "10049",
+            "ItemDescription": "To charge your account for 1st quarter 1980 Advertising Research"
+        }
+    ],
+    "TotalAmount": "118,125"
+}

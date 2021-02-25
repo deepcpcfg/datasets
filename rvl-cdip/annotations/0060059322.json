@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "807638",
+    "IssuedDate": "January 27, 1984",
+    "TotalAmount": "523,65",
+    "LineItem": [
+        {
+            "ItemDescription": "Our-of-Pocket Expenses",
+            "ItemUnitValue": "$523.65",
+            "ItemTotal": "$523.65",
+            "ItemUnitCount": ""
+        }
+    ]
+}

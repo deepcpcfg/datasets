@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "5/15/90",
+    "InvoiceNumber": "18041",
+    "TotalAmount": "17,425.00",
+    "LineItem": [
+        {
+            "ItemDescription": "1990 Fan Magazine Advertisement Marlboro Back Cover, Full Page; Color",
+            "ItemTotal": "$17,425.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

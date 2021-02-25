@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="134.0" fp="7.0" fn="5.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="675.0" t="656.0" r="821.0" b="697.0">94382</box>
+    </InvoiceNumber>
+    <IssuedDate tp="6.0" fp="1.0" fn="1.0">
+      <box l="671.0" t="789.0" r="850.0" b="834.0">6/28/95</box>
+    </IssuedDate>
+    <LineItem tp="116.0" fp="4.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="128.0" t="1763.0" r="303.0" b="1816.0">Agency</box>
+          <box l="324.0" t="1760.0" r="412.0" b="1805.0">fees</box>
+          <box l="433.0" t="1760.0" r="499.0" b="1805.0">for</box>
+          <box l="515.0" t="1759.0" r="749.0" b="1802.0">additional</box>
+          <box l="766.0" t="1759.0" r="908.0" b="1814.0">recipe</box>
+          <box l="929.0" t="1757.0" r="1241.0" b="1815.0">development,</box>
+          <box l="1259.0" t="1760.0" r="1545.0" b="1815.0">supervision,</box>
+          <box l="124.0" t="1831.0" r="311.0" b="1885.0">tracking</box>
+          <box l="332.0" t="1831.0" r="415.0" b="1876.0">and</box>
+          <box l="432.0" t="1831.0" r="662.0" b="1885.0">reporting;</box>
+          <box l="682.0" t="1831.0" r="870.0" b="1885.0">meeting</box>
+          <box l="887.0" t="1828.0" r="970.0" b="1872.0">and</box>
+          <box l="987.0" t="1828.0" r="1337.0" b="1873.0">administration!</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2120.0" t="1829.0" r="2358.0" b="1883.0">$5,450,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="2.0" fn="1.0">
+      <box l="2119.0" t="2042.0" r="2353.0" b="2093.0">$5,450,00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

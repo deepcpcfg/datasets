@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "PS07-001875",
+    "IssuedDate": "JUL06/99",
+    "TotalAmount": "113,900.00",
+    "LineItem": [
+        {
+            "ItemTotal": "113,900.00",
+            "ItemDescription": "SERVICE FEE FOR THE MONTH OF JULY 1999",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

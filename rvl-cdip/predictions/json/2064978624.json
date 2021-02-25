@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "0004217-IN",
+    "IssuedDate": "00/28/98",
+    "LineItem": [
+        {
+            "ItemDescription": "Sales"
+        },
+        {
+            "ItemDescription": "Pier If"
+        },
+        {
+            "ItemDescription": "34 1/2\" W x Covering Period: February 1,"
+        },
+        {
+            "ItemDescription": "Outdoor 1/2,r H Terrace",
+            "ItemTotal": "5,000.00"
+        }
+    ],
+    "TotalAmount": "5,000.00"
+}

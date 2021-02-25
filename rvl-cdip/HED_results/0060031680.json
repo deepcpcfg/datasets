@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "December 31, 1992",
+            {
+                "tp": 11.0,
+                "fp": 6.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "11,600.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "RIVIERA $8 SAVINGS Development, Fees, Art thru Mechanical Production",
+                            {
+                                "tp": 49.0,
+                                "fp": 19.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 58.0,
+                        "fp": 19.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 58.0,
+                "fp": 19.0,
+                "fn": 1.0
+            }
+        ],
+        "InvoiceNumber": [
+            "15493",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 74.0,
+        "fp": 25.0,
+        "fn": 1.0
+    }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="44.0" fp="18.0" fn="18.0">
+    <LineItem tp="44.0" fp="8.0" fn="6.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="514.0" t="2151.0" r="580.0" b="2206.0">50</box>
+          <box l="605.0" t="2156.0" r="818.0" b="2206.0">tickets</box>
+          <box l="842.0" t="2149.0" r="940.0" b="2204.0">for</box>
+          <box l="967.0" t="2149.0" r="1269.0" b="2214.0">February</box>
+          <box l="1293.0" t="2156.0" r="1327.0" b="2198.0">0</box>
+          <box l="1351.0" t="2148.0" r="1490.0" b="2203.0">(Leo</box>
+          <box l="1518.0" t="2148.0" r="1772.0" b="2204.0">Burnett</box>
+          <box l="1793.0" t="2148.0" r="1998.0" b="2215.0">Party)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2047.0" t="2148.0" r="2160.0" b="2202.0">S16</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2431.0" t="2146.0" r="2586.0" b="2200.0">$800</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="10.0" fn="0.0">
+      <box l="3027.0" t="3522.0" r="3086.0" b="3897.0">£808901^02</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

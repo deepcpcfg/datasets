@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2547.0" t="977.0" r="2706.0" b="1019.0">131300</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="896.0" t="1761.0" r="1038.0" b="1798.0">SUPER</box>
+          <box l="930.0" t="1815.0" r="1033.0" b="1868.0">l^B?</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2336.0" t="1216.0" r="2444.0" b="1255.0">JUNE</box>
+      <box l="2487.0" t="1217.0" r="2553.0" b="1260.0">12,</box>
+      <box l="2603.0" t="1216.0" r="2704.0" b="1261.0">1992</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2415.0" t="2831.0" r="2694.0" b="2881.0">$65,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

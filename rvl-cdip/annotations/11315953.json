@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "699 9",
+    "IssuedDate": "JULY 13, 1983",
+    "TotalAmount": "150.38",
+    "LineItem": [
+        {
+            "ItemDescription": "117 PLATES EMBOSSED",
+            "ItemTotal": "$93.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "42.00",
+            "ItemDescription": "DELETIONS, ADDRESSING GALLEYS, CHECKING LIST ETC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

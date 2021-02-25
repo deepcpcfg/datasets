@@ -1,0 +1,79 @@
+{
+    "InvoiceNumber": "3943",
+    "IssuedDate": "April 30, 1991",
+    "TotalAmount": "16,676.42",
+    "LineItem": [
+        {
+            "ItemDescription": "Six days at $1,250/day",
+            "ItemTotal": "$ 7,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Air fares",
+            "ItemTotal": "$ 5.B64.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Bonaparte Hotel, Milan (335.000 lire @ 1213 lira/$l) ",
+            "ItemTotal": "$ 276.17",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hotel Steigenberger, Berlin (446,75 DM 0 $1.65)",
+            "ItemTotal": "$ 270.76",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Sehweizerhof, Berlin (2074.9 DM C $1.65)",
+            "ItemTotal": "$ 1,257.51",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Milan: Tolfran airport (46,000 lira @ 1213 lira/$l)",
+            "ItemTotal": "$ 37.92",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Germany: Tolfran airport (46 DM @ $1.65)",
+            "ItemTotal": "$ 27.88",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Miscellaneous drinks/tips, etc",
+            "ItemTotal": "$ 20.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Slides by Corporate Visions, #23069",
+            "ItemTotal": "$ 533.31",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Slides by Corporate Visions, #22538",
+            "ItemTotal": "$ 163.17",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hard copies of slides, #23101",
+            "ItemTotal": "$ 125.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "300 portfolio covers",
+            "ItemTotal": "$ 600.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

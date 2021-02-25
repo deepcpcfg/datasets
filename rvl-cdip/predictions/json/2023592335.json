@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "13th September 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "12.9.92 Meeting, London J Hoskins R Perry 1 day £550",
+            "ItemTotal": "550.00"
+        },
+        {
+            "ItemDescription": "10-11.9.92 Meeting in Budapest 2 days £550",
+            "ItemTotal": "£1.100.00"
+        },
+        {
+            "ItemDescription": "6 days miscellaneous work on ETS, ARIA. IA1. conference planning etc £550",
+            "ItemTotal": "£3.3"
+        }
+    ],
+    "TotalAmount": "£4,950,00"
+}

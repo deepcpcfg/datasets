@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "159015-00",
+    "IssuedDate": "07/16/98",
+    "TotalAmount": "107.65",
+    "LineItem": [
+        {
+            "ItemDescription": "BATH TOWEL 20X40 3 LB EGYF",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "15.95",
+            "ItemTotal": "95.70"
+        },
+        {
+            "ItemDescription": "HAND TOWEL 16X27 3# KING I LU",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "11.95",
+            "ItemTotal": "11.95"
+        }
+    ]
+}

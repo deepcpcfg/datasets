@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "164107",
+    "IssuedDate": "APR-87",
+    "TotalAmount": "9.837-29",
+    "LineItem": [
+        {
+            "ItemDescription": "AD SIZ",
+            "ItemTotal": "12.312.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTS: PMN",
+            "ItemTotal": "738.72",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AGENCY COMMISSION",
+            "ItemTotal": "1.735.99",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

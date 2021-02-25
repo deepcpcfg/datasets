@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "11921",
+    "IssuedDate": "12/11/98",
+    "TotalAmount": "199,690.05",
+    "LineItem": [
+        {
+            "ItemDescription": "CAHEL NOVEMBER REBATE FOR SUPERAMERICA",
+            "ItemTotal": "199,690.05",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

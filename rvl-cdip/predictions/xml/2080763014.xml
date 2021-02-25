@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="98.0" fp="147.0" fn="98.0">
+    <LineItem tp="94.0" fp="143.0" fn="94.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="741.0" t="1551.0" r="1012.0" b="1583.0">Collector's</box>
+          <box l="1042.0" t="1550.0" r="1191.0" b="1583.0">Choice</box>
+          <box l="1220.0" t="1549.0" r="1346.0" b="1584.0">Vista</box>
+          <box l="1376.0" t="1546.0" r="1521.0" b="1584.0">Series</box>
+          <box l="1586.0" t="1542.0" r="1686.0" b="1579.0">12M?</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2008.0" t="1543.0" r="2196.0" b="1589.0">24&gt;000</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2296.0" t="1545.0" r="2479.0" b="1581.0">116.20</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2659.0" t="1545.0" r="2911.0" b="1588.0">2,788.B0</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="741.0" t="1609.0" r="851.0" b="1642.0">LESS</box>
+          <box l="885.0" t="1610.0" r="1084.0" b="1642.0">HANDING</box>
+          <box l="1113.0" t="1611.0" r="1370.0" b="1643.0">ALLOWANCE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2722.0" t="1605.0" r="2910.0" b="1641.0">-48.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="741.0" t="1721.0" r="1013.0" b="1757.0">Collector's</box>
+          <box l="742.0" t="1780.0" r="888.0" b="1817.0">Series</box>
+          <box l="1042.0" t="1721.0" r="1191.0" b="1758.0">Choice</box>
+          <box l="1221.0" t="1721.0" r="1396.0" b="1764.0">Skyline</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2008.0" t="1717.0" r="2196.0" b="1754.0">241000</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2296.0" t="1717.0" r="2479.0" b="1755.0">116.20</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2658.0" t="1717.0" r="2913.0" b="1762.0">2,788.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="740.0" t="1846.0" r="851.0" b="1876.0">less</box>
+          <box l="885.0" t="1846.0" r="1083.0" b="1875.0">handing</box>
+          <box l="1114.0" t="1845.0" r="1370.0" b="1875.0">allowance</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2755.0" t="1837.0" r="2909.0" b="1871.0">48.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="741.0" t="1959.0" r="980.0" b="1992.0">Collector'</box>
+          <box l="988.0" t="1967.0" r="1012.0" b="1992.0">s</box>
+          <box l="1042.0" t="1955.0" r="1192.0" b="1992.0">Choice</box>
+          <box l="1217.0" t="1959.0" r="1370.0" b="2001.0">Medley</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2009.0" t="1952.0" r="2196.0" b="2001.0">12}000</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2292.0" t="1954.0" r="2479.0" b="1988.0">116.20</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2659.0" t="1953.0" r="2909.0" b="1996.0">1,394.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="738.0" t="2076.0" r="851.0" b="2109.0">LESS</box>
+          <box l="884.0" t="2076.0" r="1084.0" b="2109.0">BANDING</box>
+          <box l="1113.0" t="2076.0" r="1370.0" b="2109.0">ALLOWANCE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2754.0" t="2067.0" r="2910.0" b="2105.0">24.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="4.0" fp="4.0" fn="4.0">
+      <box l="2629.0" t="3782.0" r="2876.0" b="3822.0">6,653.57</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

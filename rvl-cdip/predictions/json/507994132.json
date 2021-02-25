@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "g-1678",
+    "IssuedDate": "4/18/91",
+    "LineItem": [
+        {
+            "ItemDescription": "Dr. Sam Deadwyler Quarterly Billing for: Jan, 1, 1991 and March 31, 1991",
+            "ItemTotal": "'$17,019.25"
+        },
+        {
+            "ItemDescription": "April 1, 1991 June 30, 1991",
+            "ItemTotal": "17,019.25"
+        }
+    ],
+    "TotalAmount": "$34,038.50"
+}

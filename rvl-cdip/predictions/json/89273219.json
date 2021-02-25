@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "May IB, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "May assessment for CIAR",
+            "ItemTotal": "$42,272.17"
+        },
+        {
+            "ItemDescription": "May supplemental assessment for Johns Hopkins, Dr. MaCano ski, Conf©unders Study",
+            "ItemTotal": "8,906.89"
+        },
+        {
+            "ItemDescription": "Additional May supplemental assessment for Johns Hopkins, Dr. Matanoski, Confoundars Study",
+            "ItemTotal": "2.304,43"
+        }
+    ],
+    "TotalAmount": "$53,483.49"
+}

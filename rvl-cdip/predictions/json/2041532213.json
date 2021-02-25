@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "07/31/94",
+    "LineItem": [
+        {
+            "ItemDescription": "names 227fl^-NN 2300^-G 22734-FFF 22782-JJJJ 22950-3Y"
+        },
+        {
+            "ItemDescription": "Out Of Pocket:",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Creative Supervision:",
+            "ItemTotal": "465.75"
+        }
+    ],
+    "TotalAmount": "$9,465.75"
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "0570",
+    "LineItem": [
+        {
+            "ItemDescription": "Primary Irritation of Mucous Membrane- Thct Rabbit Eye Irritation Tcct of Matarial B10. ^Protocol LRC-5A.",
+            "ItemTotal": "375",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Protocol Change Order #1",
+            "ItemTotal": "20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

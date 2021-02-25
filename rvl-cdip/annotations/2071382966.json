@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "3746",
+    "IssuedDate": "February 1, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "Total research fees",
+            "ItemTotal": "S 22,170,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Billed to date",
+            "ItemTotal": "(10,850.00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

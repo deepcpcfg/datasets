@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="56.0" fn="19.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="2.0">
+      <box l="2839.0" t="1071.0" r="2988.0" b="1117.0">5601</box>
+    </InvoiceNumber>
+    <LineItem tp="74.0" fp="56.0" fn="7.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="383.0" t="1514.0" r="484.0" b="1552.0">oz,</box>
+          <box l="545.0" t="1496.0" r="837.0" b="1563.0">"sample"</box>
+          <box l="919.0" t="1502.0" r="1220.0" b="1552.0">Resinoid</box>
+          <box l="1267.0" t="1501.0" r="1413.0" b="1553.0">0-50</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1879.0" t="1516.0" r="1950.0" b="1549.0">no</box>
+          <box l="1996.0" t="1503.0" r="2288.0" b="1565.0">charge,.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2651.0" t="1503.0" r="2830.0" b="1559.0">$4,85</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="383.0" t="1663.0" r="486.0" b="1696.0">oz.</box>
+          <box l="545.0" t="1642.0" r="837.0" b="1706.0">"sample"</box>
+          <box l="919.0" t="1648.0" r="1220.0" b="1695.0">Resinoid</box>
+          <box l="1265.0" t="1647.0" r="1413.0" b="1696.0">B-50</box>
+          <box l="1854.0" t="1662.0" r="1950.0" b="1696.0">.no</box>
+          <box l="1996.0" t="1649.0" r="2288.0" b="1708.0">charge..</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2651.0" t="1647.0" r="2837.0" b="1707.0">$1.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="383.0" t="1804.0" r="483.0" b="1836.0">oz.</box>
+          <box l="544.0" t="1785.0" r="836.0" b="1847.0">"sample"</box>
+          <box l="920.0" t="1789.0" r="1221.0" b="1835.0">Resinoid</box>
+          <box l="1265.0" t="1789.0" r="1415.0" b="1836.0">F-50</box>
+          <box l="1854.0" t="1804.0" r="1950.0" b="1837.0">.no</box>
+          <box l="1995.0" t="1791.0" r="2289.0" b="1849.0">charge..</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2649.0" t="1787.0" r="2831.0" b="1845.0">$1.35</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,51 @@
+{
+    "IssuedDate": "December 31st.,1990.",
+    "InvoiceNumber": "1990.",
+    "LineItem": [
+        {
+            "ItemDescription": "October 3rd.London. Railfare",
+            "ItemTotal": "70.00"
+        },
+        {
+            "ItemDescription": "Visit to Greece.October Taxifare 6-12th.",
+            "ItemTotal": "78.00"
+        },
+        {
+            "ItemDescription": "Railfare Taxifare Airfare Hotel Incidentals",
+            "ItemTotal": "51.00"
+        },
+        {
+            "ItemDescription": "Visit to Southampton,TAC. Railfare",
+            "ItemTotal": "24.00"
+        },
+        {
+            "ItemDescription": "Visit to TAC November Taxifare 20th.London-",
+            "ItemTotal": "14.75"
+        },
+        {
+            "ItemDescription": "Railfare Taxifare",
+            "ItemTotal": "72.00"
+        },
+        {
+            "ItemDescription": "Incidentals",
+            "ItemTotal": "77.70"
+        },
+        {
+            "ItemDescription": "Visit to LGC.Teddington.28-29th November. Hotel",
+            "ItemTotal": "147.83"
+        },
+        {
+            "ItemDescription": "Car milage 464 0.32 per mile.",
+            "ItemTotal": "148.48"
+        },
+        {
+            "ItemDescription": "Travel Insurance PM business.",
+            "ItemTotal": "234.00"
+        },
+        {
+            "ItemDescription": "Telephone, Fax,Postage.(telephone from July 11th)",
+            "ItemTotal": "270.79"
+        }
+    ],
+    "TotalAmount": "1673-55"
+}

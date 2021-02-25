@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "July 12, 1991",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "2500",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Lienzo Charro— Riverside, July, 14, 1991 Ramon Ayala",
+                            {
+                                "tp": 52.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 56.0,
+                        "fp": 0.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 56.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 69.0,
+        "fp": 0.0,
+        "fn": 15.0
+    }
+]

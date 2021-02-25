@@ -1,0 +1,46 @@
+{
+    "IssuedDate": "June 15, 2002",
+    "InvoiceNumber": "227081",
+    "LineItem": [
+        {
+            "ItemDescription": "Special Materials For Client East Carter Youth Services",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemDescription": "Indiana FCCLA",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemDescription": "Greece Central School District",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemDescription": "Volney Rogers Junior High",
+            "ItemUnitValue": "5,000",
+            "ItemTotal": "00"
+        },
+        {
+            "ItemDescription": "Cleveland Clinic Volunteer Services of Manatee",
+            "ItemUnitValue": "5,000-00",
+            "ItemTotal": "5,000-00"
+        },
+        {
+            "ItemDescription": "North Putnam High School WSCI/Project Dun Baar",
+            "ItemTotal": "5,000.00",
+            "ItemUnitValue": "5,OoO.90"
+        },
+        {
+            "ItemDescription": "Healthy Families Chicago",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemDescription": "Barbara Hernandez",
+            "ItemTotal": "1,800.00"
+        },
+        {
+            "ItemDescription": "Monroe County High school",
+            "ItemTotal": "5,000.00"
+        }
+    ],
+    "TotalAmount": "$51,600-00"
+}

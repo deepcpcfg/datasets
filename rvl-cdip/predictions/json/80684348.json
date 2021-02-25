@@ -1,0 +1,35 @@
+{
+    "IssuedDate": "6th September, 1971",
+    "LineItem": [
+        {
+            "ItemDescription": "supplying 24"
+        },
+        {
+            "ItemDescription": "£9.50"
+        },
+        {
+            "ItemDescription": "To supplying 2'4 full portions of meat at an additional fee of £1,00",
+            "ItemTotal": "£252.00"
+        },
+        {
+            "ItemDescription": "To supplying costumes, at the agreed price of To supplying equipment, candlesticks, candles at the",
+            "ItemTotal": "£12.60"
+        },
+        {
+            "ItemDescription": "increased price of To supplying coffe equipment ir. addition to that",
+            "ItemTotal": "£17.00"
+        },
+        {
+            "ItemDescription": "originally supplied, as requested by Prince Vsevolode, for 2 weeks",
+            "ItemTotal": "£8.50"
+        },
+        {
+            "ItemDescription": "To supplying and serving supper and drinks to coach driver",
+            "ItemTotal": "£1.50"
+        },
+        {
+            "ItemDescription": "To supplying pre-dinner drinks, minerals, etc.",
+            "ItemTotal": "£18.75"
+        }
+    ]
+}

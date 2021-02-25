@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="102.0" fp="15.0" fn="45.0">
+    <LineItem tp="102.0" fp="15.0" fn="28.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="673.0" t="2620.0" r="1083.0" b="2678.0">Duplicating</box>
+          <box l="671.0" t="2746.0" r="891.0" b="2792.0">Travel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2321.0" t="2628.0" r="2540.0" b="2680.0">329.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="675.0" t="2875.0" r="820.0" b="2929.0">Long</box>
+          <box l="863.0" t="2874.0" r="1155.0" b="2918.0">distance</box>
+          <box l="1200.0" t="2874.0" r="1525.0" b="2931.0">telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2317.0" t="2871.0" r="2539.0" b="2933.0">149.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="671.0" t="3000.0" r="926.0" b="3055.0">Postage</box>
+          <box l="671.0" t="3129.0" r="1151.0" b="3171.0">Miscellaneous</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2318.0" t="3124.0" r="2535.0" b="3176.0">181.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="672.0" t="3259.0" r="889.0" b="3313.0">Copies</box>
+          <box l="935.0" t="3258.0" r="1005.0" b="3304.0">of</box>
+          <box l="1044.0" t="3259.0" r="1339.0" b="3304.0">District</box>
+          <box l="1385.0" t="3261.0" r="1564.0" b="3304.0">Court</box>
+          <box l="1610.0" t="3264.0" r="1935.0" b="3308.0">documents</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2439.0" t="3265.0" r="2535.0" b="3308.0">.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

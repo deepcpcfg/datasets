@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "November 18, 1986",
+    "InvoiceNumber": "4362",
+    "LineItem": [
+        {
+            "ItemDescription": "Account management supervision, copy editing, slide production mounts, video editing, film processing, messengers and miscellaneous",
+            "ItemTotal": "$7,450.00"
+        },
+        {
+            "ItemDescription": "Quality Control Chart submitted on November 14, 1986:",
+            "ItemTotal": "116.00"
+        }
+    ],
+    "TotalAmount": "$8,190.20"
+}

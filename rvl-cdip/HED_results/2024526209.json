@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "Dec 20, 1091",
+            {
+                "tp": 11.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "1,850.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Translation of Issue 16 by M. Sigler, IS-pages",
+                            {
+                                "tp": 44.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 52.0,
+                        "fp": 2.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "6,000.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Printing of 5,000 Mercury Press",
+                            {
+                                "tp": 31.0,
+                                "fp": 0.0,
+                                "fn": 33.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 39.0,
+                        "fp": 0.0,
+                        "fn": 35.0
+                    }
+                ]
+            ],
+            {
+                "tp": 91.0,
+                "fp": 2.0,
+                "fn": 39.0
+            }
+        ],
+        "TotalAmount": [
+            "7,950.00",
+            {
+                "tp": 0.0,
+                "fp": 8.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "11152-015",
+            {
+                "tp": 2.0,
+                "fp": 7.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 104.0,
+        "fp": 18.0,
+        "fn": 44.0
+    }
+]

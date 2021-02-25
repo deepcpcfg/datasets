@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="87.0" fp="40.0" fn="58.0">
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="1954.0" t="739.0" r="2166.0" b="772.0">October</box>
+      <box l="2204.0" t="738.0" r="2279.0" b="779.0">20,</box>
+      <box l="2325.0" t="738.0" r="2438.0" b="773.0">1999</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2286.0" t="1388.0" r="2432.0" b="1421.0">20004</box>
+    </InvoiceNumber>
+    <LineItem tp="58.0" fp="39.0" fn="58.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="501.0" t="1913.0" r="713.0" b="1950.0">Airfare</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2530.0" t="1795.0" r="2796.0" b="1837.0">$3,231.57</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="501.0" t="1976.0" r="551.0" b="2006.0">s.</box>
+          <box l="593.0" t="1971.0" r="855.0" b="2012.0">williams,</box>
+          <box l="898.0" t="1973.0" r="1110.0" b="2007.0">WDC-San</box>
+          <box l="1148.0" t="1972.0" r="1440.0" b="2014.0">Francisco,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1790.0" t="1973.0" r="2031.0" b="2015.0">3,185.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="502.0" t="2030.0" r="702.0" b="2071.0">CA-WDC,</box>
+          <box l="748.0" t="2025.0" r="956.0" b="2071.0">8/31/99</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2190.0" t="2092.0" r="2427.0" b="2134.0">3,185-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="715.0" t="2208.0" r="1141.0" b="2253.0">Transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2279.0" t="2213.0" r="2426.0" b="2246.0">24.94</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2522.0" t="2621.0" r="2790.0" b="2662.0">$3,231-57</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

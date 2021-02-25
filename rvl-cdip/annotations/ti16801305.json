@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "6036",
+    "IssuedDate": "03/11/96",
+    "TotalAmount": "48,252.82",
+    "LineItem": [
+        {
+            "ItemTotal": "$48,252.62",
+            "ItemDescription": "800 Number ■ Operator",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

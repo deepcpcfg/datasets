@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "September 30, 1976",
+    "LineItem": [
+        {
+            "ItemDescription": "Advertising As Directed Signs",
+            "ItemTotal": "$100.00"
+        },
+        {
+            "ItemDescription": "Rework Repack Supplies",
+            "ItemTotal": "5.13"
+        }
+    ],
+    "TotalAmount": "$105-13"
+}

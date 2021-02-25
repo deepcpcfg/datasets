@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="88.0" fp="39.0" fn="21.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="488.0" t="1095.0" r="612.0" b="1152.0">July</box>
+      <box l="651.0" t="1098.0" r="701.0" b="1152.0">5,</box>
+      <box l="746.0" t="1097.0" r="863.0" b="1144.0">1983</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="1095.0" t="1917.0" r="1274.0" b="1967.0">1532-1</box>
+    </InvoiceNumber>
+    <LineItem tp="61.0" fp="37.0" fn="21.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="489.0" t="2144.0" r="833.0" b="2202.0">Teratogenic</box>
+          <box l="868.0" t="2143.0" r="959.0" b="2192.0">and</box>
+          <box l="996.0" t="2142.0" r="1301.0" b="2196.0">Perinatal/</box>
+          <box l="492.0" t="2207.0" r="762.0" b="2257.0">Postnatal</box>
+          <box l="806.0" t="2210.0" r="959.0" b="2264.0">Study</box>
+          <box l="997.0" t="2209.0" r="1050.0" b="2256.0">1n</box>
+          <box l="1092.0" t="2209.0" r="1180.0" b="2256.0">the</box>
+          <box l="1217.0" t="2209.0" r="1305.0" b="2255.0">Rat</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2194.0" t="2138.0" r="2473.0" b="2200.0">$6,625.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="488.0" t="2273.0" r="609.0" b="2320.0">with</box>
+          <box l="650.0" t="2273.0" r="769.0" b="2321.0">D-16</box>
+          <box l="806.0" t="2272.0" r="897.0" b="2320.0">and</box>
+          <box l="931.0" t="2271.0" r="1084.0" b="2322.0">B-112</box>
+          <box l="932.0" t="2464.0" r="1085.0" b="2513.0">Award</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1193.0" t="2465.0" r="1969.0" b="2523.0">.$26,500.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="2.0" fn="0.0">
+      <box l="1633.0" t="2623.0" r="1969.0" b="2686.0">.$19,875.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

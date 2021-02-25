@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="65.0" fp="44.0" fn="116.0">
+    <InvoiceNumber tp="10.0" fp="0.0" fn="0.0">
+      <box l="2335.0" t="875.0" r="2680.0" b="916.0">0004217-IN</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="1.0" fn="1.0">
+      <box l="2335.0" t="984.0" r="2606.0" b="1037.0">00/28/98</box>
+    </IssuedDate>
+    <LineItem tp="40.0" fp="43.0" fn="115.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="451.0" t="1691.0" r="618.0" b="1732.0">Sales</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="798.0" t="1809.0" r="931.0" b="1847.0">Pier</box>
+          <box l="973.0" t="1808.0" r="1001.0" b="1854.0">If</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="657.0" t="1869.0" r="719.0" b="1906.0">34</box>
+          <box l="765.0" t="1864.0" r="891.0" b="1909.0">1/2"</box>
+          <box l="937.0" t="1871.0" r="970.0" b="1905.0">W</box>
+          <box l="1003.0" t="1879.0" r="1037.0" b="1904.0">x</box>
+          <box l="449.0" t="1923.0" r="723.0" b="1976.0">Covering</box>
+          <box l="765.0" t="1925.0" r="991.0" b="1966.0">Period:</box>
+          <box l="553.0" t="1982.0" r="828.0" b="2034.0">February</box>
+          <box l="870.0" t="1989.0" r="919.0" b="2030.0">1,</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1111.0" t="1807.0" r="1352.0" b="1849.0">Outdoor</box>
+          <box l="1183.0" t="1862.0" r="1311.0" b="1912.0">1/2,r</box>
+          <box l="1354.0" t="1869.0" r="1387.0" b="1906.0">H</box>
+          <box l="1390.0" t="1811.0" r="1626.0" b="1848.0">Terrace</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2576.0" t="1694.0" r="2844.0" b="1740.0">5,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2571.0" t="3452.0" r="2839.0" b="3496.0">5,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

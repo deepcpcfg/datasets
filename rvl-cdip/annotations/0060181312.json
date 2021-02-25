@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "10025",
+    "IssuedDate": "10/24/89",
+    "TotalAmount": "7,254.00",
+    "LineItem": [
+        {
+            "ItemDescription": "TRANSIT - KING SIZE RUS POSTERS - AUGUST, 1989",
+            "ItemTotal": "72,540.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS AMOUNT BILLED (9D%) ON INV. M8Q61",
+            "ItemTotal": "65,286,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

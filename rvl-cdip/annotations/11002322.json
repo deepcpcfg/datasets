@@ -1,0 +1,85 @@
+{
+    "InvoiceNumber": "7",
+    "TotalAmount": "5,985.19",
+    "LineItem": [
+        {
+            "ItemDescription": "Laboratory Supplies",
+            "ItemTotal": "372.66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Animal Feed and Bedding",
+            "ItemTotal": "37.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Animals",
+            "ItemTotal": "194.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Pharmacologist (Emil R. Smith, Ph.D.)",
+            "ItemUnitCount": "10",
+            "ItemTotal": "85*00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Biochemist (Harris Rosenkrantz, Ph.D.)",
+            "ItemUnitCount": "14",
+            "ItemTotal": "124.03",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Pathologist (Marcus M. Mason, D.V.M.)",
+            "ItemUnitCount": "47",
+            "ItemTotal": "521.38",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hlstochemist (A. Gouvelis, D.V.M.)",
+            "ItemUnitCount": "48",
+            "ItemTotal": "161*56",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Technician - pharmacology",
+            "ItemUnitCount": "32",
+            "ItemTotal": "58.25",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Technician - histology",
+            "ItemUnitCount": "472",
+            "ItemTotal": "I,193.57",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Technician - animal care",
+            "ItemUnitCount": "40",
+            "ItemTotal": "60.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Clerk - data processing",
+            "ItemUnitCount": "6",
+            "ItemTotal": "16.06",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,369.85",
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee (1 2%)",
+            "ItemTotal": "641.27",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

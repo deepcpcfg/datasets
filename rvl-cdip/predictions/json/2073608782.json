@@ -1,0 +1,52 @@
+{
+    "IssuedDate": "10/16/97",
+    "InvoiceNumber": "2278",
+    "LineItem": [
+        {
+            "ItemDescription": "n„"
+        },
+        {
+            "ItemDescription": "D."
+        },
+        {
+            "ItemDescription": "D."
+        },
+        {
+            "ItemDescription": "New York, New York September 29 and 30, 1997"
+        },
+        {
+            "ItemUnitCount": "597",
+            "ItemDescription": "To transcript, daily copy, deposition of Liggett Dietz I) Group(LeBow I n, Stupe I and",
+            "ItemUnitValue": "3.50",
+            "ItemTotal": "2,089.50"
+        },
+        {
+            "ItemUnitCount": "597",
+            "ItemDescription": "Extra copy of transcript above for Mr. Nunley of Hunton. Williams",
+            "ItemUnitValue": "0.25",
+            "ItemTotal": "149.25"
+        },
+        {
+            "ItemUnitCount": "8",
+            "ItemDescription": "To production of Min-U-Script with Key Word Index for above",
+            "ItemUnitValue": "10.00",
+            "ItemTotal": "80.00"
+        },
+        {
+            "ItemDescription": "To reproduction of deposition exhibits",
+            "ItemUnitValue": "0,20",
+            "ItemTotal": "-138.80"
+        },
+        {
+            "ItemDescription": "To reproduction of deposition exhibits; exha set for Mr,Nunley",
+            "ItemUnitValue": "0.20",
+            "ItemTotal": "_138.80"
+        },
+        {
+            "ItemDescription": "Federal Express shipping charges",
+            "ItemTotal": "74.75",
+            "ItemUnitValue": "74.75"
+        }
+    ],
+    "TotalAmount": "12,671.10"
+}

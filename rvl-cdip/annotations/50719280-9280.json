@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "06/13/96 ",
+    "TotalAmount": "1,256.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemTotal": "1,105.00",
+            "ItemDescription": "TAYLOR WHORTON 36VHC CRYO UNIT",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemTotal": "160.00",
+            "ItemDescription": "ROLLER CASE FOR 35VHC",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "2655",
+    "IssuedDate": "05-10-2000",
+    "LineItem": [
+        {
+            "ItemUnitCount": "10",
+            "ItemDescription": "25 Spot ID:"
+        },
+        {
+            "ItemDescription": "vhs 10 min ZUBD01D9CC"
+        },
+        {
+            "ItemDescription": "CC",
+            "ItemUnitValue": "18.00",
+            "ItemTotal": "450.00"
+        },
+        {
+            "ItemDescription": "CS3 10 3/4\" 10 min cs OF EACH",
+            "ItemUnitValue": "20.00",
+            "ItemTotal": "200.00"
+        },
+        {
+            "ItemDescription": "ID: ZU8D 0109 CC"
+        }
+    ],
+    "TotalAmount": "650.00"
+}

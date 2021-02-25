@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "7622",
+    "IssuedDate": "11/24/86",
+    "TotalAmount": "12,332-00",
+    "LineItem": [
+        {
+            "ItemDescription": "Imnuncuodulatory Screening Test in Mice",
+            "ItemTotal": "$3,083.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,083.00",
+            "ItemDescription": "Irafflunotnodulatory Screening Test in Mice",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,083.00",
+            "ItemDescription": "Iimimottodulatory Screening Test in Mice",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,083.00",
+            "ItemDescription": "Icmmcrmodiilatory Screening Test in Mice",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

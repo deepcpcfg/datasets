@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="176.0" fp="53.0" fn="17.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2692.0" t="794.0" r="2855.0" b="833.0">501182</box>
+    </InvoiceNumber>
+    <LineItem tp="164.0" fp="52.0" fn="10.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="1663.0" r="1003.0" b="1702.0">NICOTINE</box>
+          <box l="1046.0" t="1664.0" r="1282.0" b="1703.0">CONTENT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1987.0" t="1666.0" r="2010.0" b="1702.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2299.0" t="1665.0" r="2462.0" b="1704.0">17.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2750.0" t="1665.0" r="2912.0" b="1704.0">17.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="733.0" t="1719.0" r="1004.0" b="1760.0">REDUCING</box>
+          <box l="1046.0" t="1720.0" r="1250.0" b="1760.0">SUGARS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1987.0" t="1722.0" r="2007.0" b="1761.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2332.0" t="1720.0" r="2463.0" b="1762.0">7.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2783.0" t="1720.0" r="2839.0" b="1761.0">7.</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="418.0" t="1895.0" r="726.0" b="1937.0">REQUESTED</box>
+          <box l="733.0" t="1778.0" r="862.0" b="1818.0">MH30</box>
+          <box l="769.0" t="1898.0" r="830.0" b="1935.0">BY</box>
+          <box l="944.0" t="1896.0" r="1144.0" b="1934.0">PHILIP</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1988.0" t="1781.0" r="2013.0" b="1819.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2296.0" t="1779.0" r="2463.0" b="1820.0">60.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2747.0" t="1780.0" r="2913.0" b="1819.0">60.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="732.0" t="2009.0" r="1006.0" b="2048.0">NICOTINE</box>
+          <box l="1049.0" t="2010.0" r="1285.0" b="2049.0">CONTENT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1990.0" t="2012.0" r="2011.0" b="2049.0">a</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2299.0" t="2012.0" r="2465.0" b="2049.0">17.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2716.0" t="2011.0" r="2915.0" b="2049.0">136.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="416.0" t="2184.0" r="725.0" b="2226.0">REQUESTED</box>
+          <box l="732.0" t="2068.0" r="865.0" b="2106.0">MH30</box>
+          <box l="771.0" t="2185.0" r="832.0" b="2223.0">BY</box>
+          <box l="946.0" t="2184.0" r="1146.0" b="2225.0">PHILIP</box>
+          <box l="1188.0" t="2185.0" r="1388.0" b="2226.0">MORRIS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2299.0" t="2069.0" r="2466.0" b="2108.0">60.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2712.0" t="2069.0" r="2916.0" b="2108.0">460.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="734.0" t="2300.0" r="1006.0" b="2339.0">NICOTINE</box>
+          <box l="1051.0" t="2300.0" r="1285.0" b="2340.0">CONTENT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1988.0" t="2303.0" r="2013.0" b="2340.0">i</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2301.0" t="2303.0" r="2463.0" b="2341.0">17.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2752.0" t="2303.0" r="2913.0" b="2341.0">17.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="734.0" t="2358.0" r="1006.0" b="2398.0">REDUCING</box>
+          <box l="1048.0" t="2358.0" r="1251.0" b="2398.0">SUGARS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1988.0" t="2362.0" r="2013.0" b="2398.0">i</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2785.0" t="2361.0" r="2914.0" b="2400.0">7.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="735.0" t="2418.0" r="865.0" b="2457.0">MH30</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1989.0" t="2420.0" r="2014.0" b="2458.0">i</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2298.0" t="2419.0" r="2464.0" b="2459.0">60.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2753.0" t="2419.0" r="2914.0" b="2458.0">60.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2684.0" t="2709.0" r="2914.0" b="2755.0">1794.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

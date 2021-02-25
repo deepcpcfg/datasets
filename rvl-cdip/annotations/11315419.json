@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "3697",
+    "IssuedDate": "JULY 5. 1972",
+    "TotalAmount": "1,525-05",
+    "LineItem": [
+        {
+            "ItemDescription": "ADDRESSING YOUR ENVELOPES ’’COUNCIL FOR TOBACCO RESEARCH U.S.A., INC.” TO....OFFICE BASED CD, PTH, PH, CLP, PRIMARY; PUD, PRIMARY AND SECONDARY; TS, TOTAL PATIENT CARE IN U.S.",
+            "ItemUnitCount": "11,696",
+            "ItemTotal": "235-67",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "314",
+            "ItemDescription": "MEDICAL SCHOOL LIBRARIES",
+            "ItemTotal": "35-00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "12,010",
+            "ItemDescription": "ENCLOSE 1970-71 ANNL. REPORT FOR THE COUNCIL FOR TOBACCO RESEARCH U.S.A., INC.",
+            "ItemTotal": "216.18",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "12,010",
+            "ItemDescription": "SORT AND MAIL",
+            "ItemTotal": "103-89",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "11,6961",
+            "ItemDescription": "AMA FEE",
+            "ItemTotal": "70.18",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE ADVANCED",
+            "ItemTotal": "772.59",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "BULK FEE",
+            "ItemTotal": "30.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TRUCKING FEE",
+            "ItemTotal": "32.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "12039",
+    "IssuedDate": "October 16, 1999",
+    "TotalAmount": "846.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Assorted Chilled Soft Drinks",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "$2.50",
+            "ItemTotal": "$7.50"
+        },
+        {
+            "ItemDescription": "Non-Sparkling Mineral",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "$3.00",
+            "ItemTotal": "$6.00"
+        },
+        {
+            "ItemDescription": "A Slice of Chicago",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "$30.95",
+            "ItemTotal": "$123.80"
+        },
+        {
+            "ItemDescription": "Room Set-up Fee",
+            "ItemUnitValue": "$600.00",
+            "ItemTotal": "$600.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Labor Charge for Groups of Less Than 25",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$45.00",
+            "ItemTotal": "$45.00"
+        }
+    ]
+}

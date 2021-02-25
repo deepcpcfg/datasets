@@ -1,0 +1,109 @@
+{
+    "IssuedDate": "25 September, 1987",
+    "TotalAmount": "1983",
+    "LineItem": [
+        {
+            "ItemDescription": "BBC B+ Microcomputer*",
+            "ItemUnitCount": "1",
+            "ItemTotal": "399",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Cumans Dual Diac Drive*",
+            "ItemUnitCount": "1",
+            "ItemTotal": "330",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Tatung Monochrome Monitor TH80",
+            "ItemUnitCount": "1",
+            "ItemTotal": "78",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Epson Printer FX80+",
+            "ItemUnitCount": "1",
+            "ItemTotal": "438",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Flraness Controls PTess ore Transducers Type FC040 (boxed)",
+            "ItemUnitCount": "2",
+            "ItemTotal": "480",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Flow Control Unit (ITL)",
+            "ItemUnitCount": "1",
+            "ItemTotal": "120",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Accessories: Printer Cable",
+            "ItemUnitCount": "1",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Monitor Cable",
+            "ItemUnitCount": "1",
+            "ItemTotal": "20",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Maine Distribution Cable",
+            "ItemUnitCount": "1",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Flow Sensors (Perspex}",
+            "ItemUnitCount": "10",
+            "ItemTotal": "50",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Flow Sensors (Polypropylene",
+            "ItemUnitCount": "10",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Polythene tubing",
+            "ItemUnitCount": "4",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Tool Kit (tin)",
+            "ItemUnitCount": "1",
+            "ItemTotal": "20",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printer Paper (box)",
+            "ItemUnitCount": "1",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Computer Plinth",
+            "ItemUnitCount": "1",
+            "ItemTotal": "20",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Computer Flexible Disca (blank)",
+            "ItemUnitCount": "8",
+            "ItemTotal": "20",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Cumana Flexible Disc (Fomatter)*",
+            "ItemUnitCount": "1",
+            "ItemTotal": "10",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

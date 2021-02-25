@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="424.0" fn="33.0">
+    <IssuedDate tp="3.0" fp="5.0" fn="12.0">
+      <box l="214.0" t="352.0" r="426.0" b="386.0">08/22/01</box>
+    </IssuedDate>
+    <LineItem tp="61.0" fp="419.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="328.0" t="1527.0" r="539.0" b="1571.0">Attended</box>
+          <box l="615.0" t="1523.0" r="890.0" b="1582.0">participated</box>
+          <box l="907.0" t="1528.0" r="948.0" b="1569.0">in</box>
+          <box l="327.0" t="1593.0" r="547.0" b="1639.0">Interview</box>
+          <box l="565.0" t="1593.0" r="665.0" b="1636.0">with</box>
+          <box l="682.0" t="1598.0" r="794.0" b="1636.0">Asst.</box>
+          <box l="815.0" t="1595.0" r="915.0" b="1639.0">U.S.</box>
+          <box l="936.0" t="1598.0" r="1144.0" b="1648.0">Attorney</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1252.0" t="1524.0" r="1320.0" b="1567.0">6.5</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="1902.0" t="1522.0" r="2011.0" b="1567.0">3800</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2428.0" t="1523.0" r="2624.0" b="1574.0">5,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="326.0" t="1664.0" r="376.0" b="1702.0">In</box>
+          <box l="393.0" t="1660.0" r="556.0" b="1714.0">Austin,</box>
+          <box l="573.0" t="1664.0" r="714.0" b="1702.0">Texas</box>
+          <box l="331.0" t="1864.0" r="735.0" b="1907.0">PREPARATION</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1215.0" t="1862.0" r="1365.0" b="1904.0">152,75</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2368.0" t="1859.0" r="2556.0" b="1907.0">399,287</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="330.0" t="1930.0" r="538.0" b="1985.0">Prepared</box>
+          <box l="556.0" t="1928.0" r="622.0" b="1972.0">fur</box>
+          <box l="639.0" t="1929.0" r="792.0" b="1969.0">Austin</box>
+          <box l="806.0" t="1928.0" r="1021.0" b="1969.0">interview</box>
+          <box l="1039.0" t="1928.0" r="1092.0" b="1982.0">by</box>
+          <box l="331.0" t="1997.0" r="621.0" b="2052.0">participating</box>
+          <box l="639.0" t="1998.0" r="683.0" b="2039.0">in</box>
+          <box l="697.0" t="1994.0" r="900.0" b="2039.0">selection</box>
+          <box l="934.0" t="1994.0" r="985.0" b="2034.0">of</box>
+          <box l="993.0" t="1994.0" r="1106.0" b="2036.0">Akin</box>
+          <box l="1122.0" t="1995.0" r="1264.0" b="2049.0">Gump</box>
+          <box l="331.0" t="2068.0" r="541.0" b="2117.0">Attorney</box>
+          <box l="556.0" t="2062.0" r="888.0" b="2118.0">representation</box>
+          <box l="901.0" t="2058.0" r="968.0" b="2105.0">for</box>
+          <box l="985.0" t="2058.0" r="1238.0" b="2105.0">Arbitration</box>
+          <box l="331.0" t="2132.0" r="471.0" b="2180.0">Panel,</box>
+          <box l="493.0" t="2132.0" r="591.0" b="2174.0">read</box>
+          <box l="667.0" t="2132.0" r="834.0" b="2173.0">re-read</box>
+          <box l="851.0" t="2129.0" r="1056.0" b="2173.0">materials</box>
+          <box l="1072.0" t="2128.0" r="1318.0" b="2182.0">designated</box>
+          <box l="334.0" t="2198.0" r="388.0" b="2252.0">by</box>
+          <box l="405.0" t="2198.0" r="517.0" b="2239.0">AUS</box>
+          <box l="521.0" t="2202.0" r="567.0" b="2239.0">A</box>
+          <box l="580.0" t="2210.0" r="625.0" b="2239.0">as</box>
+          <box l="638.0" t="2198.0" r="767.0" b="2240.0">focus</box>
+          <box l="784.0" t="2194.0" r="838.0" b="2240.0">of</box>
+          <box l="846.0" t="2194.0" r="917.0" b="2236.0">the</box>
+          <box l="934.0" t="2194.0" r="1161.0" b="2245.0">interview,</box>
+          <box l="1181.0" t="2192.0" r="1392.0" b="2237.0">extensive</box>
+          <box l="338.0" t="2265.0" r="604.0" b="2323.0">preparation</box>
+          <box l="617.0" t="2261.0" r="720.0" b="2307.0">with</box>
+          <box l="734.0" t="2262.0" r="858.0" b="2307.0">Mike</box>
+          <box l="872.0" t="2262.0" r="1116.0" b="2315.0">Maddigan,</box>
+          <box l="1135.0" t="2262.0" r="1263.0" b="2304.0">travel</box>
+          <box l="1281.0" t="2266.0" r="1325.0" b="2304.0">to</box>
+          <box l="338.0" t="2335.0" r="420.0" b="2377.0">and</box>
+          <box l="434.0" t="2332.0" r="546.0" b="2377.0">from</box>
+          <box l="559.0" t="2332.0" r="841.0" b="2386.0">Washington</box>
+          <box l="917.0" t="2330.0" r="1080.0" b="2382.0">Austin,</box>
+          <box l="1100.0" t="2329.0" r="1163.0" b="2372.0">for</box>
+          <box l="1181.0" t="2329.0" r="1405.0" b="2376.0">interview,</box>
+          <box l="338.0" t="2403.0" r="555.0" b="2448.0">interview</box>
+          <box l="571.0" t="2400.0" r="816.0" b="2456.0">debriefing,</box>
+          <box l="834.0" t="2400.0" r="987.0" b="2444.0">review</box>
+          <box l="1063.0" t="2395.0" r="1284.0" b="2444.0">re-review</box>
+          <box l="1299.0" t="2395.0" r="1351.0" b="2441.0">of</box>
+          <box l="341.0" t="2469.0" r="555.0" b="2514.0">interview</box>
+          <box l="571.0" t="2479.0" r="716.0" b="2523.0">report</box>
+          <box l="730.0" t="2469.0" r="934.0" b="2524.0">prepared</box>
+          <box l="948.0" t="2465.0" r="1005.0" b="2520.0">by</box>
+          <box l="1020.0" t="2466.0" r="1263.0" b="2520.0">Maddigan.</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

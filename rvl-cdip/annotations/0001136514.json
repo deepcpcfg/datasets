@@ -1,0 +1,43 @@
+{
+    "TotalAmount": "4753.54",
+    "LineItem": [
+        {
+            "ItemDescription": "PHGTOGRPHRS FEE",
+            "ItemTotal": "500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RETOUCHING",
+            "ItemTotal": "600.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "photostats",
+            "ItemTotal": "150.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MECHANICALS",
+            "ItemTotal": "912.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PACK PHOTOGRPHY",
+            "ItemTotal": "900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TRANSPARENCIES",
+            "ItemTotal": "400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

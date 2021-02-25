@@ -1,0 +1,79 @@
+{
+    "InvoiceNumber": "P0242263",
+    "IssuedDate": "11/18/99",
+    "TotalAmount": "2,060.00",
+    "LineItem": [
+        {
+            "ItemDescription": "P/U w/Lt. Revise",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "300.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Flatbed High Res Scan",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "100.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "MAC Production Time",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "400.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Zip Disk",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "120.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Download 2 -100 MB",
+            "ItemUnitCount": "5",
+            "ItemUnitValue": "600.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "B&W Plotter 10X24",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "25.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "B&W Plotter 20X30",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Color Plotter 30X40",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "250.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Color Fiery Output 11X17",
+            "ItemUnitCount": "9",
+            "ItemUnitValue": "135.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "E-Mail File",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Handling & Packaging",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "15.00",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "15.00",
+            "ItemTotal": ""
+        }
+    ]
+}

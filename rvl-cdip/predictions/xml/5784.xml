@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2591.0" t="1031.0" r="2736.0" b="1056.0">63419</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2328.0" t="1078.0" r="2529.0" b="1107.0">4-07-63</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="325.0" t="1472.0" r="672.0" b="1500.0">PHILADELPHIA</box>
+          <box l="713.0" t="1471.0" r="842.0" b="1500.0">INOUI</box>
+          <box l="855.0" t="1471.0" r="938.0" b="1500.0">REW</box>
+          <box l="1001.0" t="1474.0" r="1084.0" b="1499.0">490</box>
+          <box l="1031.0" t="1520.0" r="1143.0" b="1548.0">FROM</box>
+          <box l="1235.0" t="1520.0" r="1347.0" b="1548.0">7Z1O</box>
+          <box l="1381.0" t="1522.0" r="1438.0" b="1547.0">PG</box>
+          <box l="1560.0" t="1522.0" r="1580.0" b="1547.0">V</box>
+          <box l="1617.0" t="1522.0" r="1701.0" b="1551.0">016</box>
+          <box l="1763.0" t="1522.0" r="1876.0" b="1550.0">SL12</box>
+          <box l="2001.0" t="1474.0" r="2201.0" b="1505.0">3/13/86</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2268.0" t="1523.0" r="2493.0" b="1553.0">16.061,I</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2685.0" t="1522.0" r="2994.0" b="1553.0">13.6S1.94CT</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1031.0" t="1570.0" r="1085.0" b="1595.0">TO</box>
+          <box l="1235.0" t="1570.0" r="1347.0" b="1598.0">7/10</box>
+          <box l="1381.0" t="1569.0" r="1424.0" b="1594.0">Pt</box>
+          <box l="1560.0" t="1572.0" r="1583.0" b="1597.0">V</box>
+          <box l="1617.0" t="1572.0" r="1638.0" b="1597.0">0</box>
+          <box l="1652.0" t="1572.0" r="1697.0" b="1598.0">12</box>
+          <box l="1763.0" t="1571.0" r="1876.0" b="1600.0">SL12</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2682.0" t="1572.0" r="2939.0" b="1602.0">1A.036.3J</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

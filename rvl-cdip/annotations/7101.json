@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "JUL09/01",
+    "TotalAmount": "7,224.31",
+    "LineItem": [
+        {
+            "ItemTotal": "7,214.31",
+            "ItemDescription": "Hon-Commiasicnabl* Charge*",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Cutranicsionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Ccrnmiseion",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

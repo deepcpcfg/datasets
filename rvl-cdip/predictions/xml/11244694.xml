@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="73.0" fp="46.0" fn="9.0">
+    <IssuedDate tp="14.0" fp="6.0" fn="0.0">
+      <box l="392.0" t="2213.0" r="525.0" b="2251.0">DATE:</box>
+      <box l="563.0" t="2213.0" r="704.0" b="2251.0">March</box>
+      <box l="738.0" t="2213.0" r="809.0" b="2259.0">30,</box>
+      <box l="851.0" t="2213.0" r="958.0" b="2251.0">1990</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="738.0" t="2326.0" r="842.0" b="2363.0">1007</box>
+    </InvoiceNumber>
+    <LineItem tp="55.0" fp="40.0" fn="4.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="396.0" t="2492.0" r="416.0" b="2530.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="734.0" t="2493.0" r="930.0" b="2530.0">Tobacco</box>
+          <box l="1017.0" t="2492.0" r="1184.0" b="2530.0">Health</box>
+          <box l="1217.0" t="2494.0" r="1471.0" b="2530.0">Reference</box>
+          <box l="734.0" t="2550.0" r="1013.0" b="2592.0">Cigarettes</box>
+          <box l="1104.0" t="2548.0" r="1213.0" b="2584.0">Code</box>
+          <box l="1248.0" t="2547.0" r="1326.0" b="2584.0">1R1</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1587.0" t="2551.0" r="1779.0" b="2591.0">30.00/M</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1896.0" t="2551.0" r="2029.0" b="2588.0">30.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2655.0" r="495.0" b="2692.0">nin.</box>
+          <box l="538.0" t="2655.0" r="762.0" b="2701.0">shipping</box>
+          <box l="792.0" t="2658.0" r="876.0" b="2692.0">and</box>
+          <box l="906.0" t="2655.0" r="1129.0" b="2701.0">handling</box>
+          <box l="1159.0" t="2659.0" r="1356.0" b="2701.0">chargee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1921.0" t="2663.0" r="2026.0" b="2698.0">8.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

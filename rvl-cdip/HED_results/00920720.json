@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "July 23, 1982",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "B-107.",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 6.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Cardiovascular Testing of Compounds B-118 compound and B-23, at $3,700.00",
+                            {
+                                "tp": 64.0,
+                                "fp": 9.0,
+                                "fn": 51.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 64.0,
+                        "fp": 9.0,
+                        "fn": 61.0
+                    }
+                ]
+            ],
+            {
+                "tp": 64.0,
+                "fp": 15.0,
+                "fn": 61.0
+            }
+        ],
+        "TotalAmount": [
+            "$11,100.00",
+            {
+                "tp": 0.0,
+                "fp": 10.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1450-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 83.0,
+        "fp": 25.0,
+        "fn": 61.0
+    }
+]

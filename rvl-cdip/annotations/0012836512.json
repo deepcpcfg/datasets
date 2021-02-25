@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "9068",
+    "IssuedDate": "9/20/82",
+    "TotalAmount": "647.43",
+    "LineItem": [
+        {
+            "ItemDescription": "JAN. 1982",
+            "ItemTotal": "93.31",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FEB.",
+            "ItemTotal": "93.31",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MARCH",
+            "ItemTotal": "93.31",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "APRIL",
+            "ItemTotal": "95.62",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MAY",
+            "ItemTotal": "95.62",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "JUNE",
+            "ItemTotal": "95.62",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "JULY",
+            "ItemTotal": "80.64",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "IssuedDate": "August 10, 1932",
+    "InvoiceNumber": "1417-6",
+    "LineItem": [
+        {
+            "ItemDescription": "Cardiovascular Testing of Compounds A-23, A-25, A-18, 8-75, and B-108 in the Beagle Dog A-23",
+            "ItemTotal": "$3,930.00"
+        },
+        {
+            "ItemDescription": "A-25 A-18",
+            "ItemTotal": "3,930.00",
+            "ItemUnitValue": "2,930.00"
+        },
+        {
+            "ItemDescription": "B-75 B-108",
+            "ItemTotal": "3,930.00",
+            "ItemUnitValue": "2,930.00"
+        }
+    ],
+    "TotalAmount": "$17,650.00"
+}

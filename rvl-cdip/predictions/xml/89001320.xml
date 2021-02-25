@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="183.0" fp="82.0" fn="33.0">
+    <InvoiceNumber tp="1.0" fp="4.0" fn="3.0">
+      <box l="2775.0" t="752.0" r="3012.0" b="815.0">43238</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="537.0" t="1799.0" r="755.0" b="1841.0">11/24/86</box>
+    </IssuedDate>
+    <LineItem tp="174.0" fp="78.0" fn="21.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="592.0" t="1973.0" r="1038.0" b="2016.0">Imuncnaodulatory</box>
+          <box l="1071.0" t="1973.0" r="1321.0" b="2016.0">Screening</box>
+          <box l="1351.0" t="1973.0" r="1463.0" b="2007.0">Test</box>
+          <box l="1493.0" t="1973.0" r="1542.0" b="2007.0">in</box>
+          <box l="1576.0" t="1973.0" r="1684.0" b="2007.0">Mice</box>
+          <box l="1726.0" t="1969.0" r="1964.0" b="2015.0">(compound</box>
+          <box l="1992.0" t="1969.0" r="2129.0" b="2011.0">Al56)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2538.0" t="1969.0" r="2784.0" b="2014.0">S3,0&amp;3.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="592.0" t="2058.0" r="1038.0" b="2100.0">iMMunomodulatory</box>
+          <box l="1071.0" t="2058.0" r="1321.0" b="2101.0">Screening</box>
+          <box l="1351.0" t="2057.0" r="1459.0" b="2091.0">Test</box>
+          <box l="1494.0" t="2057.0" r="1543.0" b="2091.0">in</box>
+          <box l="1572.0" t="2057.0" r="1684.0" b="2091.0">Mice</box>
+          <box l="1726.0" t="2053.0" r="1963.0" b="2098.0">(compound</box>
+          <box l="1997.0" t="2053.0" r="2101.0" b="2094.0">A81)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2567.0" t="2056.0" r="2784.0" b="2097.0">3,083.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="592.0" t="2145.0" r="1038.0" b="2187.0">Imniimoisodulatory</box>
+          <box l="1072.0" t="2144.0" r="1321.0" b="2186.0">Screening</box>
+          <box l="1351.0" t="2144.0" r="1459.0" b="2178.0">Test</box>
+          <box l="1493.0" t="2144.0" r="1543.0" b="2178.0">in</box>
+          <box l="1576.0" t="2144.0" r="1684.0" b="2178.0">Mice</box>
+          <box l="1725.0" t="2141.0" r="1963.0" b="2186.0">(compound</box>
+          <box l="1997.0" t="2140.0" r="2101.0" b="2181.0">A90)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2567.0" t="2140.0" r="2784.0" b="2184.0">3,083.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="592.0" t="2229.0" r="1038.0" b="2271.0">Iimimomodulatoxy</box>
+          <box l="1072.0" t="2228.0" r="1321.0" b="2269.0">Screening</box>
+          <box l="1351.0" t="2228.0" r="1459.0" b="2261.0">Test</box>
+          <box l="1493.0" t="2228.0" r="1547.0" b="2261.0">in</box>
+          <box l="1576.0" t="2228.0" r="1685.0" b="2261.0">Mice</box>
+          <box l="1722.0" t="2224.0" r="1966.0" b="2269.0">(compound</box>
+          <box l="1997.0" t="2224.0" r="2101.0" b="2265.0">B34)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2567.0" t="2224.0" r="2784.0" b="2268.0">3,083.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

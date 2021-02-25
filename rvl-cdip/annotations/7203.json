@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR01-0D5936",
+    "IssuedDate": "JAN25/00",
+    "TotalAmount": "289.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Commissionable Charges",
+            "ItemTotal": "289.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Commissionable Charges ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0-00",
+            "ItemDescription": "Agency Commission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

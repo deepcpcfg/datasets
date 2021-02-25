@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="529.0" t="937.0" r="616.0" b="994.0">May</box>
+      <box l="655.0" t="937.0" r="737.0" b="989.0">10»</box>
+      <box l="779.0" t="934.0" r="896.0" b="983.0">1983</box>
+    </IssuedDate>
+    <InvoiceNumber>
+      <box l="1000.0" t="1626.0" r="1175.0" b="1675.0">1498-1</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="537.0" t="1967.0" r="591.0" b="2013.0">IN</box>
+          <box l="626.0" t="1966.0" r="808.0" b="2013.0">B6C3F1</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="874.0" t="1906.0" r="930.0" b="1952.0">OF</box>
+          <box l="972.0" t="1905.0" r="1488.0" b="1954.0">IMMUNOSUPPRESSION</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

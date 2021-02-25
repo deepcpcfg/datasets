@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "07/16/98",
+    "LineItem": [
+        {
+            "ItemDescription": "BATH TOWEL 20X40 LB EFYF",
+            "ItemUnitValue": "15.",
+            "ItemTotal": "95.70"
+        },
+        {
+            "ItemDescription": "HAND TOWEL 16X27 3# KING HU",
+            "ItemTotal": "11.95",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "11.95"
+        }
+    ],
+    "InvoiceNumber": "159015-00"
+}

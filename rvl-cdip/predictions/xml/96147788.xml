@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="57.0" fp="17.0" fn="193.0">
+    <IssuedDate tp="8.0" fp="1.0" fn="0.0">
+      <box l="2697.0" t="517.0" r="2942.0" b="575.0">03/16/931</box>
+    </IssuedDate>
+    <LineItem tp="49.0" fp="16.0" fn="187.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="312.0" t="1816.0" r="416.0" b="1842.0">VM.I/E</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2730.0" t="1659.0" r="2917.0" b="1708.0">$432.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="362.0" t="2959.0" r="541.0" b="2992.0">NUMBER</box>
+          <box l="554.0" t="2959.0" r="1009.0" b="2992.0">OFPACKAGE/CARTON</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2730.0" t="2451.0" r="2941.0" b="2520.0">$150.00,</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="509.0" t="3002.0" r="650.0" b="3034.0">FLOOR</box>
+          <box l="663.0" t="3002.0" r="862.0" b="3034.0">DISPLAYS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1904.0" t="3000.0" r="1925.0" b="3034.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2760.0" t="2989.0" r="2922.0" b="3038.0">$75.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

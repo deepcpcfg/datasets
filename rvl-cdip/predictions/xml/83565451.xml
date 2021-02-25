@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="124.0" fp="5.0" fn="6.0">
+    <IssuedDate tp="15.0" fp="0.0" fn="0.0">
+      <box l="525.0" t="1166.0" r="788.0" b="1212.0">December</box>
+      <box l="805.0" t="1167.0" r="988.0" b="1217.0">1,1998</box>
+    </IssuedDate>
+    <LineItem tp="105.0" fp="4.0" fn="6.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="700.0" t="1792.0" r="892.0" b="1851.0">Meeting</box>
+          <box l="913.0" t="1805.0" r="975.0" b="1841.0">on</box>
+          <box l="992.0" t="1792.0" r="1270.0" b="1851.0">September</box>
+          <box l="1288.0" t="1792.0" r="1608.0" b="1841.0">16.1998:2.5</box>
+          <box l="1630.0" t="1796.0" r="1771.0" b="1841.0">hours</box>
+          <box l="1787.0" t="1795.0" r="2047.0" b="1855.0">@$300/hr.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2342.0" t="1796.0" r="2438.0" b="1841.0">750</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="696.0" t="1863.0" r="825.0" b="1913.0">Write</box>
+          <box l="846.0" t="1867.0" r="1000.0" b="1925.0">report,</box>
+          <box l="1021.0" t="1863.0" r="1296.0" b="1925.0">September</box>
+          <box l="1313.0" t="1863.0" r="1716.0" b="1916.0">27-29,1998:12</box>
+          <box l="1737.0" t="1863.0" r="1766.0" b="1910.0">5</box>
+          <box l="1783.0" t="1867.0" r="1921.0" b="1913.0">hours</box>
+          <box l="2015.0" t="1866.0" r="2213.0" b="1919.0">5300/hr.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2312.0" t="1866.0" r="2437.0" b="1913.0">3750</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="4.0" fp="1.0" fn="0.0">
+      <box l="2279.0" t="2148.0" r="2437.0" b="2201.0">$3450</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

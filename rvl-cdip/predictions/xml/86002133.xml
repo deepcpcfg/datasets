@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="240.0" fp="118.0" fn="151.0">
+    <InvoiceNumber tp="6.0" fp="1.0" fn="1.0">
+      <box l="2519.0" t="364.0" r="2727.0" b="408.0">0489116</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="1.0" fn="1.0">
+      <box l="1988.0" t="848.0" r="2222.0" b="891.0">04-07-69</box>
+    </IssuedDate>
+    <LineItem tp="227.0" fp="116.0" fn="140.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="291.0" t="1841.0" r="466.0" b="1882.0">Direct</box>
+          <box l="499.0" t="1839.0" r="645.0" b="1881.0">Labor</box>
+          <box l="292.0" t="1903.0" r="425.0" b="1944.0">Pram.</box>
+          <box l="471.0" t="1901.0" r="587.0" b="1940.0">Cost</box>
+          <box l="621.0" t="1901.0" r="707.0" b="1938.0">for</box>
+          <box l="738.0" t="1898.0" r="971.0" b="1937.0">Overtime</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1779.0" t="1889.0" r="1900.0" b="1930.0">4.15</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2200.0" t="1886.0" r="2375.0" b="1927.0">222.89</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="289.0" t="1961.0" r="426.0" b="2014.0">Bldg.</box>
+          <box l="472.0" t="1961.0" r="496.0" b="2001.0">A</box>
+          <box l="529.0" t="1959.0" r="795.0" b="2001.0">Utilities</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1658.0" t="1949.0" r="1896.0" b="1994.0">4,930.87</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2114.0" t="1945.0" r="2375.0" b="1990.0">18,387.74</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="289.0" t="2024.0" r="426.0" b="2063.0">Tech.</box>
+          <box l="472.0" t="2023.0" r="605.0" b="2072.0">Mgmt.</box>
+          <box l="650.0" t="2019.0" r="767.0" b="2059.0">Cost</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1664.0" t="2010.0" r="1896.0" b="2053.0">6,602.56</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2109.0" t="2007.0" r="2374.0" b="2050.0">29,79837</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="289.0" t="2082.0" r="318.0" b="2123.0">T</box>
+          <box l="326.0" t="2081.0" r="456.0" b="2124.0">ravel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2259.0" t="2065.0" r="2376.0" b="2110.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="290.0" t="2144.0" r="397.0" b="2195.0">Org,</box>
+          <box l="443.0" t="2140.0" r="577.0" b="2182.0">Facil</box>
+          <box l="597.0" t="2139.0" r="876.0" b="2193.0">ity/Equip.</box>
+          <box l="918.0" t="2137.0" r="1064.0" b="2178.0">Costs</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1660.0" t="2131.0" r="1897.0" b="2173.0">5,718.75</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2110.0" t="2126.0" r="2372.0" b="2170.0">21,699.43</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="293.0" t="2204.0" r="439.0" b="2245.0">Other</box>
+          <box l="473.0" t="2202.0" r="647.0" b="2244.0">Direct</box>
+          <box l="681.0" t="2201.0" r="823.0" b="2242.0">Costs</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1724.0" t="2189.0" r="1898.0" b="2231.0">107.61</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2115.0" t="2186.0" r="2377.0" b="2232.0">11,304.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="291.0" t="2384.0" r="557.0" b="2426.0">Materials</box>
+          <box l="292.0" t="2446.0" r="441.0" b="2486.0">Other</box>
+          <box l="470.0" t="2444.0" r="678.0" b="2485.0">Hanford</box>
+          <box l="712.0" t="2442.0" r="1007.0" b="2483.0">Contractor</box>
+          <box l="1042.0" t="2439.0" r="1275.0" b="2480.0">Services</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1783.0" t="2431.0" r="1900.0" b="2472.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="293.0" t="2566.0" r="400.0" b="2607.0">Gen.</box>
+          <box l="505.0" t="2565.0" r="671.0" b="2605.0">Admin.</box>
+          <box l="712.0" t="2564.0" r="829.0" b="2604.0">Cost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2262.0" t="2489.0" r="2379.0" b="2532.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="297.0" t="2628.0" r="412.0" b="2667.0">Cost</box>
+          <box l="447.0" t="2627.0" r="499.0" b="2666.0">of</box>
+          <box l="534.0" t="2625.0" r="767.0" b="2675.0">Facility</box>
+          <box l="801.0" t="2623.0" r="997.0" b="2673.0">Capital</box>
+          <box l="384.0" t="2684.0" r="621.0" b="2727.0">Battelle</box>
+          <box l="651.0" t="2684.0" r="818.0" b="2734.0">Bldgs.</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1668.0" t="2672.0" r="1904.0" b="2718.0">1,995.52</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2143.0" t="2669.0" r="2380.0" b="2712.0">7,931.79</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="384.0" t="2748.0" r="472.0" b="2790.0">DOE</box>
+          <box l="502.0" t="2744.0" r="669.0" b="2797.0">Bldgs.</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1756.0" t="2735.0" r="1901.0" b="2776.0">47,95</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2235.0" t="2728.0" r="2380.0" b="2773.0">84,51</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

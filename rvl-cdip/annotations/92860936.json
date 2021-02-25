@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "30-220-0134511",
+    "IssuedDate": "3/26/2003",
+    "TotalAmount": "226.78",
+    "LineItem": [
+        {
+            "ItemDescription": "-NETWORK/NEW YORK TV COMMERCIAL",
+            "ItemUnitCount": "4",
+            "ItemTotal": "200.00",
+            "ItemUnitValue": ""
+        }
+    ]
+}

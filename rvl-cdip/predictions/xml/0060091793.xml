@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="176.0" fp="14.0" fn="44.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="729.0" t="750.0" r="966.0" b="791.0">September</box>
+      <box l="987.0" t="747.0" r="1179.0" b="791.0">11,1992</box>
+    </IssuedDate>
+    <LineItem tp="151.0" fp="13.0" fn="37.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="1705.0" r="862.0" b="1742.0">Select</box>
+          <box l="879.0" t="1705.0" r="1062.0" b="1742.0">universe</box>
+          <box l="1079.0" t="1701.0" r="1172.0" b="1742.0">from</box>
+          <box l="1197.0" t="1702.0" r="1400.0" b="1742.0">database</box>
+          <box l="1450.0" t="1709.0" r="1538.0" b="1738.0">min.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2472.0" t="1696.0" r="2646.0" b="1738.0">$882.38</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="728.0" t="1778.0" r="904.0" b="1822.0">Dedupe</box>
+          <box l="925.0" t="1780.0" r="1084.0" b="1813.0">records</box>
+          <box l="1104.0" t="1776.0" r="1419.0" b="1825.0">(merge/ourge)</box>
+          <box l="742.0" t="1846.0" r="921.0" b="1888.0">44B.5B8</box>
+          <box l="992.0" t="1845.0" r="1167.0" b="1887.0">$Z94/M</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2463.0" t="1842.0" r="2643.0" b="1882.0">1.318.85</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="728.0" t="1921.0" r="862.0" b="1959.0">Select</box>
+          <box l="879.0" t="1921.0" r="1025.0" b="1959.0">control</box>
+          <box l="1046.0" t="1921.0" r="1142.0" b="1959.0">cells</box>
+          <box l="729.0" t="1991.0" r="1021.0" b="2038.0">Programming</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2497.0" t="1913.0" r="2646.0" b="1955.0">882.38</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="2063.0" r="908.0" b="2101.0">Produce</box>
+          <box l="925.0" t="2067.0" r="1063.0" b="2106.0">ouiput</box>
+          <box l="1083.0" t="2067.0" r="1201.0" b="2108.0">tapes</box>
+          <box l="1271.0" t="2063.0" r="1421.0" b="2109.0">reports</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2497.0" t="2055.0" r="2643.0" b="2097.0">882.38</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2430.0" t="2272.0" r="2646.0" b="2317.0">$4,889.12</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

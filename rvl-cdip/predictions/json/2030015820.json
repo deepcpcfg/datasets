@@ -1,0 +1,14 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "l-JP 3r LI MR l-25-°A UNIT 1323",
+            "ItemUnitValue": "50"
+        },
+        {
+            "ItemDescription": "SUPERVISOR OPERATOR",
+            "ItemUnitCount": "9",
+            "ItemTotal": "22.0C",
+            "ItemUnitValue": "20.50"
+        }
+    ]
+}

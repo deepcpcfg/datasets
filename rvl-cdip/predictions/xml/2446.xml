@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="139.0" fp="114.0" fn="81.0">
+    <TotalAmount tp="2.0" fp="6.0" fn="6.0">
+      <box l="2498.0" t="813.0" r="2660.0" b="843.0">222-6060</box>
+    </TotalAmount>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="2336.0" t="1085.0" r="2577.0" b="1131.0">September</box>
+      <box l="2590.0" t="1085.0" r="2777.0" b="1128.0">30,1998</box>
+    </IssuedDate>
+    <LineItem tp="116.0" fp="108.0" fn="75.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="282.0" t="1916.0" r="341.0" b="1951.0">W.</box>
+          <box l="361.0" t="1917.0" r="415.0" b="1951.0">Ed</box>
+          <box l="433.0" t="1914.0" r="632.0" b="1954.0">Whitelaw</box>
+          <box l="879.0" t="1917.0" r="962.0" b="1962.0">Exp</box>
+          <box l="974.0" t="1917.0" r="1212.0" b="1954.0">Wiiness/Sr</box>
+          <box l="1229.0" t="1920.0" r="1333.0" b="1954.0">Econ</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1512.0" t="1916.0" r="1653.0" b="1953.0">250.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="1882.0" t="1915.0" r="2003.0" b="1953.0">40.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2200.0" t="1914.0" r="2440.0" b="1959.0">$10,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="283.0" t="1968.0" r="444.0" b="2005.0">Edward</box>
+          <box l="462.0" t="1969.0" r="694.0" b="2005.0">MacMuilan</box>
+          <box l="879.0" t="1970.0" r="1104.0" b="2009.0">Economist</box>
+          <box l="1120.0" t="1971.0" r="1141.0" b="2008.0">3</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1537.0" t="1969.0" r="1653.0" b="2007.0">90.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="1883.0" t="1969.0" r="2002.0" b="2007.0">10.75</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2266.0" t="1968.0" r="2440.0" b="2006.0">$967.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="281.0" t="2026.0" r="394.0" b="2064.0">Anne</box>
+          <box l="412.0" t="2025.0" r="540.0" b="2064.0">FSfiekl</box>
+          <box l="879.0" t="2030.0" r="1079.0" b="2066.0">Research</box>
+          <box l="1095.0" t="2029.0" r="1254.0" b="2075.0">Analyst</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1538.0" t="2029.0" r="1653.0" b="2066.0">55.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="1883.0" t="2028.0" r="2003.0" b="2065.0">18.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2226.0" t="2027.0" r="2441.0" b="2069.0">$1,017.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="283.0" t="2081.0" r="415.0" b="2126.0">Becky</box>
+          <box l="429.0" t="2083.0" r="649.0" b="2117.0">Grossman</box>
+          <box l="875.0" t="2083.0" r="1083.0" b="2120.0">Technical</box>
+          <box l="1099.0" t="2087.0" r="1191.0" b="2120.0">Asst</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1538.0" t="2083.0" r="1653.0" b="2119.0">30.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="1908.0" t="2082.0" r="2003.0" b="2119.0">2.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2295.0" t="2081.0" r="2441.0" b="2124.0">$67.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="284.0" t="2635.0" r="445.0" b="2680.0">Printing</box>
+          <box l="280.0" t="2689.0" r="458.0" b="2734.0">Postage</box>
+          <box l="283.0" t="2743.0" r="509.0" b="2789.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2293.0" t="2824.0" r="2441.0" b="2860.0">350.64</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2540.0" t="1143.0" r="2645.0" b="1180.0">1735</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

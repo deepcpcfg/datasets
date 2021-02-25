@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "503258",
+    "IssuedDate": "3/14/95",
+    "TotalAmount": "231.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "17.00",
+            "ItemTotal": "51.00",
+            "ItemDescription": ""
+        },
+        {
+            "ItemDescription": "MH3 0",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "180.00"
+        }
+    ]
+}

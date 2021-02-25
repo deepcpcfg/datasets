@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "DATE: September 25, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "For replacement banners",
+            "ItemTotal": "$3,000"
+        },
+        {
+            "ItemDescription": "Extra envelopes",
+            "ItemTotal": "66.,d0"
+        }
+    ],
+    "TotalAmount": "$3,066.00"
+}

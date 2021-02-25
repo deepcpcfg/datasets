@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="61.0" fp="5.0" fn="49.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2580.0" t="1480.0" r="2822.0" b="1526.0">1025776</box>
+    </InvoiceNumber>
+    <LineItem tp="54.0" fp="5.0" fn="49.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="663.0" t="2168.0" r="692.0" b="2209.0">4</box>
+          <box l="884.0" t="2167.0" r="904.0" b="2209.0">1</box>
+          <box l="955.0" t="2163.0" r="1092.0" b="2209.0">PAGE</box>
+          <box l="1205.0" t="2163.0" r="1596.0" b="2209.0">JUN.1A.19S4</box>
+          <box l="1638.0" t="2163.0" r="1738.0" b="2206.0">JET</box>
+          <box l="738.0" t="2227.0" r="766.0" b="2267.0">4</box>
+          <box l="808.0" t="2225.0" r="984.0" b="2267.0">COLOR</box>
+          <box l="1030.0" t="2223.0" r="1201.0" b="2266.0">ORDER</box>
+          <box l="1242.0" t="2223.0" r="1451.0" b="2264.0">NUMBER</box>
+          <box l="1496.0" t="2222.0" r="1634.0" b="2263.0">7640</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2613.0" t="2159.0" r="2926.0" b="2205.0">11,048,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

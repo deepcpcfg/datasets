@@ -1,0 +1,46 @@
+{
+    "InvoiceNumber": "309-0094",
+    "LineItem": [
+        {
+            "ItemDescription": "5M 30 DORAL LIGHT B1G1T",
+            "ItemUnitCount": "6,000",
+            "ItemTotal": "275.7000"
+        },
+        {
+            "ItemDescription": "6M 30 DORAL LT 100 B1G1F",
+            "ItemTotal": "275.7000"
+        },
+        {
+            "ItemDescription": "6M 30 DORAL FF 100 B1G1F",
+            "ItemTotal": "275.7000"
+        },
+        {
+            "ItemDescription": "6M 30 DORAL full Flavor bigif",
+            "ItemTotal": "275.7000"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "651.40-"
+        },
+        {
+            "ItemDescription": "STD",
+            "ItemTotal": "551.40"
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "17.92-"
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "515.56"
+        },
+        {
+            "ItemDescription": "EFT TERMS",
+            "ItemTotal": "3,61-"
+        },
+        {
+            "ItemDescription": "LESS STATE",
+            "ItemTotal": "240.00-"
+        }
+    ]
+}

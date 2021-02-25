@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "324961",
+    "LineItem": [
+        {
+            "ItemDescription": "POSITION: IN AD SIZE INSERT",
+            "ItemUnitCount": "40",
+            "ItemTotal": "12,550.00"
+        },
+        {
+            "ItemDescription": "AGENCY COMMISSION",
+            "ItemTotal": "1,882.50"
+        },
+        {
+            "ItemDescription": "BINDING",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "SLOWDOWN HlSCELLANEOUS",
+            "ItemTotal": "50.00"
+        }
+    ]
+}

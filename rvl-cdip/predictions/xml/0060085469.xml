@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="93.0" fp="3.0" fn="7.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2105.0" t="750.0" r="2301.0" b="788.0">001526</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="1.0" fn="1.0">
+      <box l="2105.0" t="863.0" r="2371.0" b="913.0">06/3D/93</box>
+    </IssuedDate>
+    <TotalAmount tp="3.0" fp="2.0" fn="3.0">
+      <box l="666.0" t="1221.0" r="825.0" b="1263.0">10380</box>
+    </TotalAmount>
+    <LineItem tp="77.0" fp="0.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="133.0" t="2229.0" r="266.0" b="2267.0">CALL</box>
+          <box l="304.0" t="2229.0" r="475.0" b="2267.0">HOURS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1468.0" t="2226.0" r="1633.0" b="2267.0">13.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2129.0" t="2229.0" r="2292.0" b="2267.0">30.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2585.0" t="2227.0" r="2789.0" b="2267.0">390.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="133.0" t="2286.0" r="265.0" b="2326.0">DATA</box>
+          <box l="305.0" t="2286.0" r="650.0" b="2326.0">PROCESSING</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1504.0" t="2285.0" r="1633.0" b="2326.0">1.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2130.0" t="2285.0" r="2293.0" b="2326.0">15.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2623.0" t="2285.0" r="2710.0" b="2329.0">15.</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="129.0" t="2343.0" r="228.0" b="2383.0">MIS</box>
+          <box l="275.0" t="2346.0" r="475.0" b="2384.0">SET-UP</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1501.0" t="2343.0" r="1633.0" b="2384.0">0.50</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2130.0" t="2343.0" r="2292.0" b="2384.0">20.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2626.0" t="2343.0" r="2789.0" b="2386.0">10.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

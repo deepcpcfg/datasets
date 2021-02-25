@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "606912",
+    "IssuedDate": "December 2 3, 1991",
+    "TotalAmount": "7,656.88",
+    "LineItem": [
+        {
+            "ItemDescription": "Total Fee Share",
+            "ItemTotal": "$7,415.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Total Expense Share",
+            "ItemTotal": "$241.83",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

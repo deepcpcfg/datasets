@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "317773",
+    "IssuedDate": "August 30, 1994",
+    "TotalAmount": "32,145.61",
+    "LineItem": [
+        {
+            "ItemDescription": "Fees 1/5 of attached detailed statement ",
+            "ItemTotal": "31,004.95",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "1/5 of Disbursements.",
+            "ItemTotal": "1,140.66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

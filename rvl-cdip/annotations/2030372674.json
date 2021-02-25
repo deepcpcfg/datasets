@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "12058",
+    "IssuedDate": "12/20/90",
+    "TotalAmount": "121.950.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Press Screw Cage Top & Bottom Sections",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "38,600.00",
+            "ItemTotal": "115,800.00"
+        },
+        {
+            "ItemDescription": "Lot of Press Screw Cage Fasteners",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "2,050.00",
+            "ItemTotal": "6,150.00"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "IssuedDate": "07/13",
+    "LineItem": [
+        {
+            "ItemUnitCount": "30",
+            "ItemDescription": "SALEM SLIDE"
+        },
+        {
+            "ItemDescription": "BOX B1G1F",
+            "ItemUnitCount": "48.000",
+            "ItemUnitValue": "430.2000",
+            "ItemTotal": "3,441.60"
+        },
+        {
+            "ItemUnitCount": "30",
+            "ItemDescription": "SALEM LT SLIDE BOX B1G1F",
+            "ItemUnitValue": "430.2000",
+            "ItemTotal": "3,441.60"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "3,441.60-"
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "111.86-"
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE",
+            "ItemTotal": "1,344.00-"
+        }
+    ]
+}

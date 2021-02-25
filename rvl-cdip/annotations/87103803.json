@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "0666",
+    "IssuedDate": "January 14,",
+    "TotalAmount": "395",
+    "LineItem": [
+        {
+            "ItemDescription": "Primary Irritation of Mucous Membrane. The Rabbit",
+            "ItemTotal": "375",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Protocol Change Order #1",
+            "ItemTotal": "20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

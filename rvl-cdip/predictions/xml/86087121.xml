@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="225.0" fp="73.0" fn="76.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2239.0" t="272.0" r="2469.0" b="318.0">11/18/99</box>
+    </IssuedDate>
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="2234.0" t="342.0" r="2513.0" b="391.0">P0242263</box>
+    </InvoiceNumber>
+    <LineItem tp="201.0" fp="73.0" fn="76.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="433.0" t="1555.0" r="506.0" b="1593.0">PAJ</box>
+          <box l="526.0" t="1555.0" r="625.0" b="1593.0">w/Lt.</box>
+          <box l="646.0" t="1555.0" r="791.0" b="1592.0">Revise</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2384.0" t="1559.0" r="2396.0" b="1595.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2602.0" t="1559.0" r="2758.0" b="1596.0">300.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="430.0" t="1627.0" r="588.0" b="1667.0">Hatbod</box>
+          <box l="605.0" t="1627.0" r="701.0" b="1676.0">High</box>
+          <box l="721.0" t="1628.0" r="804.0" b="1667.0">Res</box>
+          <box l="821.0" t="1626.0" r="926.0" b="1667.0">Scan</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2380.0" t="1634.0" r="2397.0" b="1668.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2604.0" t="1630.0" r="2757.0" b="1670.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="429.0" t="1702.0" r="533.0" b="1742.0">MAC</box>
+          <box l="554.0" t="1704.0" r="783.0" b="1742.0">Production</box>
+          <box l="801.0" t="1705.0" r="905.0" b="1742.0">Time</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2380.0" t="1708.0" r="2400.0" b="1744.0">2</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2601.0" t="1709.0" r="2755.0" b="1746.0">400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="426.0" t="1776.0" r="491.0" b="1821.0">Zip</box>
+          <box l="509.0" t="1776.0" r="600.0" b="1813.0">Disk</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2380.0" t="1782.0" r="2400.0" b="1817.0">4</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2604.0" t="1781.0" r="2757.0" b="1817.0">120.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="429.0" t="1851.0" r="641.0" b="1888.0">Download</box>
+          <box l="658.0" t="1851.0" r="683.0" b="1888.0">2</box>
+          <box l="701.0" t="1852.0" r="792.0" b="1888.0">-100</box>
+          <box l="813.0" t="1851.0" r="879.0" b="1888.0">MB</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2376.0" t="1855.0" r="2400.0" b="1892.0">5</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2600.0" t="1855.0" r="2755.0" b="1892.0">600.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="429.0" t="1921.0" r="534.0" b="1960.0">B&amp;W</box>
+          <box l="555.0" t="1922.0" r="695.0" b="1960.0">Plotter</box>
+          <box l="717.0" t="1926.0" r="859.0" b="1962.0">10X24</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2379.0" t="1930.0" r="2392.0" b="1963.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2627.0" t="1930.0" r="2755.0" b="1966.0">25.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="425.0" t="1996.0" r="533.0" b="2036.0">B&amp;W</box>
+          <box l="554.0" t="1996.0" r="696.0" b="2037.0">Plotter</box>
+          <box l="716.0" t="1996.0" r="859.0" b="2038.0">20X30</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2379.0" t="2004.0" r="2392.0" b="2038.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2627.0" t="2002.0" r="2755.0" b="2041.0">50.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="425.0" t="2071.0" r="538.0" b="2109.0">Color</box>
+          <box l="559.0" t="2071.0" r="700.0" b="2109.0">Plotter-</box>
+          <box l="720.0" t="2071.0" r="863.0" b="2112.0">30X40</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2375.0" t="2076.0" r="2397.0" b="2113.0">2</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2597.0" t="2076.0" r="2754.0" b="2116.0">250.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="425.0" t="2143.0" r="537.0" b="2184.0">Color</box>
+          <box l="558.0" t="2147.0" r="662.0" b="2196.0">Fiery</box>
+          <box l="680.0" t="2147.0" r="825.0" b="2192.0">Output</box>
+          <box l="850.0" t="2147.0" r="988.0" b="2187.0">11X17</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2376.0" t="2151.0" r="2396.0" b="2188.0">9</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2601.0" t="2152.0" r="2751.0" b="2190.0">135.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="425.0" t="2222.0" r="554.0" b="2260.0">E-Maii</box>
+          <box l="570.0" t="2222.0" r="641.0" b="2260.0">File</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2372.0" t="2226.0" r="2396.0" b="2263.0">2</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2626.0" t="2227.0" r="2751.0" b="2267.0">50.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="421.0" t="2297.0" r="608.0" b="2342.0">Handling</box>
+          <box l="679.0" t="2298.0" r="900.0" b="2347.0">Packaging</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2376.0" t="2305.0" r="2388.0" b="2338.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2626.0" t="2305.0" r="2751.0" b="2341.0">15.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="421.0" t="2367.0" r="618.0" b="2417.0">Shipping</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2626.0" t="2376.0" r="2750.0" b="2413.0">15.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2509.0" t="2525.0" r="2747.0" b="2567.0">2,060.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

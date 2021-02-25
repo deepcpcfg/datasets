@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "November 13, 1992",
+            {
+                "tp": 17.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "56.000,00",
+            {
+                "tp": 7.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "56,000-00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Houston Minneapolis Pittsburgh",
+                            {
+                                "tp": 10.0,
+                                "fp": 20.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 21.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 18.0,
+                "fp": 21.0,
+                "fn": 3.0
+            }
+        ],
+        "InvoiceNumber": [
+            "11547",
+            {
+                "tp": 4.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 46.0,
+        "fp": 24.0,
+        "fn": 5.0
+    }
+]

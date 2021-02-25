@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "538",
+    "IssuedDate": "31, 1992",
+    "LineItem": [
+        {
+            "ItemTotal": "37",
+            "ItemDescription": "Iberica: 1",
+            "ItemUnitCount": "43"
+        },
+        {
+            "ItemDescription": "WDCs 43 C $1,200 per building",
+            "ItemTotal": "51,600.00"
+        }
+    ],
+    "TotalAmount": "51,600.00"
+}

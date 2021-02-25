@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "5957",
+    "IssuedDate": "03/31/72",
+    "LineItem": [
+        {
+            "ItemDescription": "RIO STILUS RUBINSTEIN.",
+            "ItemUnitCount": "11.22"
+        },
+        {
+            "ItemDescription": "RUBINSTEIN",
+            "ItemUnitCount": "10*50",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "AMER BLUE",
+            "ItemTotal": "2*70"
+        }
+    ],
+    "TotalAmount": "*73.00"
+}

@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "P98027-4",
+    "IssuedDate": "June t 1999",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost for 7 questions on AVP Natl Monitor-— Field Dates: June 1-7.1998",
+            "ItemTotal": "$9,900.00"
+        }
+    ],
+    "TotalAmount": "due-$9,900.00"
+}

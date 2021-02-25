@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1465-1",
+    "IssuedDate": "October 14, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "EVALUATION OF IMMUNOSUPPRES¬ SION IN B6C3F1 MICE WITH Compounds B-123, Bl25, and B-126",
+            "ItemTotal": "$3,500,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

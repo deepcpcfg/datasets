@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "10373",
+    "IssuedDate": "December 30, 1996",
+    "LineItem": [
+        {
+            "ItemDescription": "11/25/96 Prepare MA report",
+            "ItemUnitCount": "0.30",
+            "ItemUnitValue": "125.00",
+            "ItemTotal": "37.50"
+        },
+        {
+            "ItemDescription": "12/3/96 Meet and Confe",
+            "ItemUnitCount": "2.00",
+            "ItemUnitValue": "125.00",
+            "ItemTotal": "250.00"
+        },
+        {
+            "ItemDescription": "12/4/96 Conference with R. Walbum re canceling of Meet and Confe",
+            "ItemUnitCount": "0.10",
+            "ItemUnitValue": "125.00",
+            "ItemTotal": "12.50"
+        }
+    ],
+    "TotalAmount": ""
+}

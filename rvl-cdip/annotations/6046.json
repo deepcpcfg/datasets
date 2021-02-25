@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "4282-000230-3",
+    "IssuedDate": "February 23, 1996",
+    "TotalAmount": "75,975*00",
+    "LineItem": [
+        {
+            "ItemDescription": "Billing for services rendered in connection with \"The Institute,\" as per attached.",
+            "ItemTotal": "$75,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Out-of-pocket expenses",
+            "ItemTotal": "975.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

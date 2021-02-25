@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1643.0" t="713.0" r="1923.0" b="781.0">HARTFORD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2413.0" t="1345.0" r="2709.0" b="1419.0">139.703.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="959.0" t="2715.0" r="1193.0" b="2785.0">Hartford</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1747.0" t="1897.0" r="2015.0" b="1969.0">11,007.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2447.0" t="1713.0" r="2709.0" b="1787.0">11,007.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

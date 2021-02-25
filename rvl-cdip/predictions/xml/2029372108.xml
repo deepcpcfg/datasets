@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="200.0" fp="10.0" fn="14.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2498.0" t="930.0" r="2676.0" b="972.0">CH0215</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="6.0" fn="1.0">
+      <box l="2376.0" t="1043.0" r="2472.0" b="1072.0">DATE</box>
+      <box l="2497.0" t="1051.0" r="2583.0" b="1090.0">Mar</box>
+      <box l="2626.0" t="1051.0" r="2704.0" b="1093.0">31,</box>
+      <box l="2750.0" t="1048.0" r="2854.0" b="1089.0">1092</box>
+    </IssuedDate>
+    <LineItem tp="175.0" fp="4.0" fn="13.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="613.0" t="1788.0" r="816.0" b="1837.0">Sydney,</box>
+          <box l="858.0" t="1784.0" r="1240.0" b="1825.0">HBI-Australia</box>
+          <box l="1287.0" t="1785.0" r="1479.0" b="1826.0">invoice</box>
+          <box l="1520.0" t="1785.0" r="1631.0" b="1826.0">#498</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2632.0" t="1778.0" r="2864.0" b="1827.0">1,098.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="612.0" t="1848.0" r="907.0" b="1894.0">Melbourne,</box>
+          <box l="945.0" t="1846.0" r="1146.0" b="1888.0">HRI-Aus</box>
+          <box l="1162.0" t="1850.0" r="1174.0" b="1886.0">t</box>
+          <box l="1190.0" t="1847.0" r="1261.0" b="1887.0">ral</box>
+          <box l="1283.0" t="1843.0" r="1332.0" b="1887.0">ia</box>
+          <box l="1378.0" t="1843.0" r="1573.0" b="1886.0">invoice</box>
+          <box l="1608.0" t="1844.0" r="1718.0" b="1886.0">#499</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2635.0" t="1840.0" r="2863.0" b="1886.0">1,950-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="620.0" t="1908.0" r="878.0" b="1954.0">Brisbane,</box>
+          <box l="916.0" t="1905.0" r="1302.0" b="1948.0">HBI-Australia</box>
+          <box l="1344.0" t="1906.0" r="1540.0" b="1947.0">invoice</box>
+          <box l="1582.0" t="1907.0" r="1689.0" b="1947.0">#500</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2635.0" t="1902.0" r="2863.0" b="1947.0">1,950.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="616.0" t="1971.0" r="907.0" b="2014.0">Melbourne,</box>
+          <box l="948.0" t="1968.0" r="1331.0" b="2010.0">RBI-Australia</box>
+          <box l="1378.0" t="1968.0" r="1573.0" b="2010.0">invoice</box>
+          <box l="1611.0" t="1968.0" r="1718.0" b="2007.0">#501</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2638.0" t="1963.0" r="2863.0" b="2011.0">1,750.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2634.0" t="2086.0" r="2867.0" b="2131.0">6,748.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "15091",
+    "IssuedDate": "02/09/96",
+    "TotalAmount": "74,417,41",
+    "LineItem": [
+        {
+            "ItemDescription": "Program Management",
+            "ItemTotal": "74,417.41",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

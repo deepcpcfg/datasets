@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="51.0" fp="8.0" fn="1.0">
+    <InvoiceNumber tp="8.0" fp="1.0" fn="1.0">
+      <box l="2601.0" t="484.0" r="2825.0" b="521.0">3021'2136</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="4.0" fn="0.0">
+      <box l="2717.0" t="605.0" r="2822.0" b="650.0">days</box>
+    </IssuedDate>
+    <LineItem tp="34.0" fp="2.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="195.0" t="1992.0" r="366.0" b="2026.0">CD-ROM</box>
+          <box l="383.0" t="1992.0" r="620.0" b="2034.0">Duplication</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2147.0" t="1988.0" r="2216.0" b="2021.0">538</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2384.0" t="1988.0" r="2517.0" b="2022.0">$18.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2713.0" t="1988.0" r="2901.0" b="2029.0">$9,684.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2654.0" t="2551.0" r="2887.0" b="2596.0">$10,968.93</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

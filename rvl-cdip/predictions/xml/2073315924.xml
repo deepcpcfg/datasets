@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="429.0" t="2150.0" r="659.0" b="2189.0">Statewide</box>
+          <box l="679.0" t="2147.0" r="821.0" b="2192.0">Public</box>
+          <box l="838.0" t="2147.0" r="1020.0" b="2201.0">Opinion</box>
+          <box l="1038.0" t="2147.0" r="1201.0" b="2201.0">Survey</box>
+          <box l="1221.0" t="2151.0" r="1458.0" b="2201.0">regarding:</box>
+          <box l="430.0" t="2271.0" r="604.0" b="2314.0">•AtasKa</box>
+          <box l="629.0" t="2272.0" r="730.0" b="2313.0">YSP</box>
+          <box l="429.0" t="2455.0" r="608.0" b="2509.0">Sample</box>
+          <box l="625.0" t="2455.0" r="730.0" b="2497.0">size:</box>
+          <box l="841.0" t="2463.0" r="866.0" b="2496.0">n</box>
+          <box l="930.0" t="2455.0" r="1017.0" b="2497.0">500</box>
+          <box l="429.0" t="2576.0" r="616.0" b="2617.0">Number</box>
+          <box l="633.0" t="2576.0" r="676.0" b="2614.0">of</box>
+          <box l="426.0" t="2634.0" r="679.0" b="2679.0">Questions:</box>
+          <box l="834.0" t="2635.0" r="892.0" b="2676.0">70</box>
+          <box l="909.0" t="2638.0" r="1167.0" b="2676.0">closed-end</box>
+          <box l="426.0" t="2754.0" r="666.0" b="2797.0">Qualifiers:</box>
+          <box l="837.0" t="2752.0" r="1088.0" b="2805.0">Registered</box>
+          <box l="1109.0" t="2759.0" r="1254.0" b="2796.0">voters</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2058.0" t="1233.0" r="2272.0" b="1284.0">February</box>
+      <box l="2292.0" t="1234.0" r="2362.0" b="1280.0">15,</box>
+      <box l="2380.0" t="1234.0" r="2500.0" b="1272.0">2000</box>
+    </IssuedDate>
+    <InvoiceNumber>
+      <box l="2058.0" t="1355.0" r="2283.0" b="1396.0">0200-154</box>
+    </InvoiceNumber>
+    <TotalAmount>
+      <box l="2266.0" t="3123.0" r="2537.0" b="3170.0">$24,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "212-2",
+    "IssuedDate": "April 30, 1991",
+    "TotalAmount": "13,938 75",
+    "LineItem": [
+        {
+            "ItemDescription": "Original Contract",
+            "ItemTotal": "25,375 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Complete To Date",
+            "ItemTotal": "22,837 so",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Less 10% Retainage",
+            "ItemTotal": "2,283 75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

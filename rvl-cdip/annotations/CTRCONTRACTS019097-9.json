@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "4:1'75",
+    "TotalAmount": "33,140.12",
+    "LineItem": [
+        {
+            "ItemTotal": "$31,173.12",
+            "ItemDescription": "Thia voucher ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,967.00",
+            "ItemDescription": "Fixed Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

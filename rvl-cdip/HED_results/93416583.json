@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "Npyfcmbec4J924",
+            {
+                "tp": 7.0,
+                "fp": 7.0,
+                "fn": 8.0
+            }
+        ],
+        "TotalAmount": [
+            "392,000",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "500",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "@682",
+                            {
+                                "tp": 3.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "341,000",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "3-Page Contract Icor vending machine column",
+                            {
+                                "tp": 41.0,
+                                "fp": 2.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 54.0,
+                        "fp": 3.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 54.0,
+                "fp": 3.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "S-9MM0",
+            {
+                "tp": 4.0,
+                "fp": 2.0,
+                "fn": 3.0
+            }
+        ]
+    },
+    {
+        "tp": 72.0,
+        "fp": 12.0,
+        "fn": 15.0
+    }
+]

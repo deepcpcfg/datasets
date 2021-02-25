@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "7. H16",
+    "IssuedDate": "78 JUL 21",
+    "LineItem": [
+        {
+            "ItemUnitValue": "10,801.00",
+            "ItemTotal": "10,801.00",
+            "ItemDescription": "SUPPLEMENTAL SMOKE MONITORING STUDIES APRIL AND MAY, 1978",
+            "ItemUnitCount": ""
+        }
+    ],
+    "TotalAmount": ""
+}

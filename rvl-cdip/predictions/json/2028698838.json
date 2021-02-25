@@ -1,0 +1,26 @@
+{
+    "IssuedDate": "Jun.91",
+    "LineItem": [
+        {
+            "ItemDescription": "biological Activity of A 245",
+            "ItemTotal": "88,800"
+        },
+        {
+            "ItemDescription": "Biological Activity of FRSS and ELSS",
+            "ItemTotal": "5,083,000"
+        },
+        {
+            "ItemDescription": "Biological Activity of New Smoke",
+            "ItemTotal": "133,200"
+        },
+        {
+            "ItemDescription": "Scientific and Technical Improvements",
+            "ItemTotal": "281,200"
+        },
+        {
+            "ItemDescription": "Project Management",
+            "ItemTotal": "950.000"
+        }
+    ],
+    "TotalAmount": "7,336,200"
+}

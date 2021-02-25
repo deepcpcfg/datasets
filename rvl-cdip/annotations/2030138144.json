@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "06/04/93",
+    "TotalAmount": "1251.30",
+    "LineItem": [
+        {
+            "ItemDescription": "GLS FIBR FILT PPR 4.7CM 1",
+            "ItemUnitCount": "20",
+            "ItemUnitValue": "16.49",
+            "ItemTotal": "329.80"
+        },
+        {
+            "ItemDescription": "SPIGOT QUICK ACTION PP/TF",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "7.38",
+            "ItemTotal": "44.28"
+        },
+        {
+            "ItemDescription": "MERCURY SPILL CLEAN-UP KI",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "215.00",
+            "ItemTotal": "215.00"
+        },
+        {
+            "ItemDescription": "PIPET 10ML SERO WIDETIP 4",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "84.11",
+            "ItemTotal": "168.22"
+        },
+        {
+            "ItemDescription": "EPP PIPETE 4810UM 100UL-1",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "247.00",
+            "ItemTotal": "494.00"
+        }
+    ],
+    "InvoiceNumber": ""
+}

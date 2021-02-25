@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2169.0" t="1077.0" r="2307.0" b="1123.0">#3102</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="920.0" t="1534.0" r="1141.0" b="1588.0">Original</box>
+          <box l="1183.0" t="1538.0" r="1207.0" b="1574.0">4</box>
+          <box l="1241.0" t="1538.0" r="1382.0" b="1580.0">Color</box>
+          <box l="1416.0" t="1537.0" r="1729.0" b="1588.0">Photography</box>
+          <box l="1762.0" t="1537.0" r="1817.0" b="1581.0">of</box>
+          <box l="1850.0" t="1537.0" r="1987.0" b="1582.0">Black</box>
+          <box l="2021.0" t="1537.0" r="2154.0" b="1582.0">Altieri</box>
+          <box l="2168.0" t="1549.0" r="2250.0" b="1582.0">can</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1384.0" t="1712.0" r="1604.0" b="1762.0">Original</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1151.0" t="1767.0" r="1437.0" b="1813.0">Williarr.son</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2226.0" t="1770.0" r="2397.0" b="1819.0">$55.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="1909.0" t="1999.0" r="2134.0" b="2048.0">$2695.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

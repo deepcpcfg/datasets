@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "June 30, 1998",
+    "InvoiceNumber": "354861",
+    "TotalAmount": "382.89",
+    "LineItem": [
+        {
+            "ItemDescription": "Ground",
+            "ItemTotal": "25.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Transportation",
+            "ItemTotal": "112.64",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "232.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photocopy",
+            "ItemTotal": "13.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

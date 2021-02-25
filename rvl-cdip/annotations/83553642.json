@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "89455",
+    "IssuedDate": "4/13/98",
+    "TotalAmount": "604.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Copy of Deposition of Walker Paul",
+            "ItemTotal": "361.00",
+            "ItemUnitCount": "361",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ASCII Disk No Charge",
+            "ItemUnitValue": "0.00",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Exhibit Copying",
+            "ItemUnitCount": "832",
+            "ItemUnitValue": "0.25",
+            "ItemTotal": "208.00"
+        },
+        {
+            "ItemDescription": "Shipping & Handling",
+            "ItemTotal": "35.00",
+            "ItemUnitValue": "35.00",
+            "ItemUnitCount": ""
+        }
+    ]
+}

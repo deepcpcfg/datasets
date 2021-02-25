@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "JULY 9, 1979",
+    "InvoiceNumber": "6355",
+    "LineItem": [
+        {
+            "ItemDescription": "800 COPIES OF 2 PAGE RELEASE, COLLATED ANO"
+        },
+        {
+            "ItemDescription": "61/2X9 1/2"
+        },
+        {
+            "ItemDescription": "FOR MAILING WITH CTR"
+        },
+        {
+            "ItemDescription": "MONDAY JULY 2, 1979 NEW YORK OFFICE FOR MAILING EARLY, JULY 2, 1979 DELIVERED JULY 5, 1979.",
+            "ItemTotal": "$112.00"
+        }
+    ]
+}

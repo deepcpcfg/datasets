@@ -1,0 +1,47 @@
+{
+    "InvoiceNumber": "D-10-0501",
+    "IssuedDate": "21,1994",
+    "LineItem": [
+        {
+            "ItemDescription": "INSERTING",
+            "ItemUnitValue": "62,386.00",
+            "ItemTotal": "73,397.83"
+        },
+        {
+            "ItemDescription": "MECHANICALS",
+            "ItemTotal": "5,719.55"
+        },
+        {
+            "ItemDescription": "COLOR XEROX",
+            "ItemUnitValue": "118.65",
+            "ItemTotal": "139.59"
+        },
+        {
+            "ItemDescription": "TYPEStl FING",
+            "ItemUnitValue": "11.484.CK)",
+            "ItemTotal": "13,510.93"
+        },
+        {
+            "ItemDescription": "ENGRAVING",
+            "ItemTotal": "27,603.04"
+        },
+        {
+            "ItemDescription": "P ERSONALl zatio n/keycodi n g",
+            "ItemUnitValue": "54.014.08",
+            "ItemTotal": "63,547.57"
+        },
+        {
+            "ItemDescription": "PRINTING",
+            "ItemTotal": "121,585.99"
+        },
+        {
+            "ItemDescription": "POSTAGE",
+            "ItemTotal": "110,273.64"
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemTotal": "588.97"
+        }
+    ],
+    "TotalAmount": "419,136.88"
+}

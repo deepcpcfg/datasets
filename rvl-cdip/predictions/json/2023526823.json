@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "January 27, 1999",
+    "LineItem": [
+        {
+            "ItemDescription": "Assessment)",
+            "ItemTotal": "$195,566.60"
+        },
+        {
+            "ItemDescription": "February Assessment for CI AR",
+            "ItemTotal": "185,566.60"
+        }
+    ],
+    "TotalAmount": "1371,133.20"
+}

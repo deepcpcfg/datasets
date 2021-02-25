@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="169.0" fp="37.0" fn="179.0">
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="2016.0" t="740.0" r="2193.0" b="777.0">October</box>
+      <box l="2211.0" t="741.0" r="2265.0" b="779.0">29,</box>
+      <box l="2294.0" t="741.0" r="2382.0" b="777.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="153.0" fp="37.0" fn="170.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="938.0" t="1508.0" r="1171.0" b="1566.0">Sixty-nine</box>
+          <box l="1192.0" t="1507.0" r="1258.0" b="1549.0">full</box>
+          <box l="1280.0" t="1509.0" r="1405.0" b="1550.0">color</box>
+          <box l="1422.0" t="1506.0" r="1542.0" b="1550.0">front</box>
+          <box l="1563.0" t="1518.0" r="1695.0" b="1550.0">cover</box>
+          <box l="938.0" t="1579.0" r="1084.0" b="1634.0">design</box>
+          <box l="1105.0" t="1579.0" r="1174.0" b="1621.0">for</box>
+          <box l="1192.0" t="1579.0" r="1367.0" b="1634.0">Virginia</box>
+          <box l="1388.0" t="1575.0" r="1492.0" b="1621.0">Slim.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2367.0" t="1503.0" r="2635.0" b="1551.0">$23,800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="973.0" t="1863.0" r="1383.0" b="1910.0">-Commissionable</box>
+          <box l="1404.0" t="1867.0" r="1541.0" b="1909.0">items:</box>
+          <box l="1058.0" t="1938.0" r="1124.0" b="1982.0">Iris</box>
+          <box l="1148.0" t="1941.0" r="1274.0" b="1992.0">print,</box>
+          <box l="1291.0" t="1939.0" r="1432.0" b="1980.0">Audio</box>
+          <box l="1454.0" t="1938.0" r="1653.0" b="1993.0">Supplies.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2436.0" t="1859.0" r="2628.0" b="1912.0">$817.52</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1040.0" t="2008.0" r="1304.0" b="2049.0">Production</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1040.0" t="2074.0" r="1253.0" b="2120.0">Research</box>
+          <box l="1278.0" t="2075.0" r="1495.0" b="2118.0">Materials.</box>
+          <box l="968.0" t="2221.0" r="1390.0" b="2267.0">-Non-commission</box>
+          <box l="1397.0" t="2221.0" r="1490.0" b="2267.0">able</box>
+          <box l="1511.0" t="2221.0" r="1641.0" b="2267.0">items:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2431.0" t="2217.0" r="2623.0" b="2266.0">$220.03</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "39,578.79",
+    "LineItem": [
+        {
+            "ItemDescription": "Sampling Team",
+            "ItemTotal": "$6,642.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Program Development & ExocuKon Plan",
+            "ItemTotal": "15.000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Comp rehens ives Art & Mechanicals",
+            "ItemTotal": "1b.6S6.12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

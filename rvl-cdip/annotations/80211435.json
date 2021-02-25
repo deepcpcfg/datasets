@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1541-1",
+    "IssuedDate": "January 31, 1985",
+    "LineItem": [
+        {
+            "ItemDescription": "Evaluation of Immunosuppression in B6C3F1 Mice with B-143 and. B-157",
+            "ItemTotal": "$2450.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

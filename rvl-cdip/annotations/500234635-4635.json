@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "2-61",
+    "TotalAmount": "27,608.93",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost of conducting Evaluation of Four Alternate Campaign Aoproches for Winston",
+            "ItemTotal": "23,018.07",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Supervisory Expense",
+            "ItemTotal": "3,452.71",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Out-of-pocket expenses",
+            "ItemTotal": "1,138.15",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

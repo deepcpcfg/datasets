@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="88.0" fp="164.0" fn="2.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2485.0" t="355.0" r="2607.0" b="405.0">7559</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="6.0" fn="0.0">
+      <box l="179.0" t="1197.0" r="363.0" b="1253.0">4/9/86</box>
+    </IssuedDate>
+    <LineItem tp="84.0" fp="158.0" fn="2.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="653.0" t="1792.0" r="678.0" b="1839.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="964.0" t="1473.0" r="1142.0" b="1530.0">Design</box>
+          <box l="1181.0" t="1472.0" r="1518.0" b="1531.0">engineering</box>
+          <box l="1614.0" t="1469.0" r="1956.0" b="1526.0">development</box>
+          <box l="1989.0" t="1469.0" r="2051.0" b="1515.0">of</box>
+          <box l="2085.0" t="1479.0" r="2175.0" b="1515.0">new</box>
+          <box l="962.0" t="1536.0" r="1205.0" b="1593.0">Virginia</box>
+          <box l="1240.0" t="1535.0" r="1392.0" b="1581.0">Slims</box>
+          <box l="1431.0" t="1536.0" r="1611.0" b="1581.0">Butane</box>
+          <box l="1647.0" t="1532.0" r="1830.0" b="1578.0">Piezzo</box>
+          <box l="1867.0" t="1531.0" r="2082.0" b="1586.0">Lighter</box>
+          <box l="965.0" t="1664.0" r="1114.0" b="1710.0">Color</box>
+          <box l="1147.0" t="1661.0" r="1330.0" b="1718.0">design</box>
+          <box l="1368.0" t="1660.0" r="1671.0" b="1715.0">renderings</box>
+          <box l="964.0" t="1727.0" r="1082.0" b="1772.0">Hand</box>
+          <box l="1118.0" t="1727.0" r="1238.0" b="1772.0">Made</box>
+          <box l="1276.0" t="1723.0" r="1488.0" b="1781.0">plaster</box>
+          <box l="1522.0" t="1722.0" r="1705.0" b="1769.0">models</box>
+          <box l="964.0" t="1789.0" r="1084.0" b="1835.0">Hand</box>
+          <box l="1118.0" t="1786.0" r="1238.0" b="1835.0">Made</box>
+          <box l="1277.0" t="1785.0" r="1489.0" b="1843.0">plaster</box>
+          <box l="1522.0" t="1782.0" r="1705.0" b="1832.0">models</box>
+          <box l="1746.0" t="1782.0" r="1959.0" b="1831.0">revised</box>
+          <box l="961.0" t="1852.0" r="1238.0" b="1906.0">Temporary</box>
+          <box l="1278.0" t="1848.0" r="1301.0" b="1895.0">1</box>
+          <box l="1339.0" t="1861.0" r="1396.0" b="1906.0">up</box>
+          <box l="1430.0" t="1848.0" r="1580.0" b="1894.0">molds</box>
+          <box l="1619.0" t="1847.0" r="1709.0" b="1894.0">for</box>
+          <box l="1743.0" t="1844.0" r="1826.0" b="1893.0">all</box>
+          <box l="1871.0" t="1848.0" r="2146.0" b="1903.0">component</box>
+          <box l="2183.0" t="1845.0" r="2329.0" b="1898.0">parts</box>
+          <box l="965.0" t="1912.0" r="1053.0" b="1960.0">for</box>
+          <box l="1089.0" t="1911.0" r="1263.0" b="1960.0">actual</box>
+          <box l="1305.0" t="1911.0" r="1520.0" b="1968.0">working</box>
+          <box l="1559.0" t="1911.0" r="1858.0" b="1968.0">prototype.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2779.0" t="1896.0" r="3083.0" b="1954.0">$24,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,21 @@
+{
+    "InvoiceNumber": "CHO101",
+    "IssuedDate": "Dee 18, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "FH Invoice #072/91 of 12/4/91 refers"
+        },
+        {
+            "ItemDescription": "273,500",
+            "ItemTotal": "8,287.87"
+        },
+        {
+            "ItemDescription": "FH Invoice 1071/91 of 11/28/91"
+        },
+        {
+            "ItemDescription": "33",
+            "ItemTotal": "4,575.9?"
+        }
+    ],
+    "TotalAmount": "12,863.84"
+}

@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "809515",
+    "IssuedDate": "08-28-88",
+    "LineItem": [
+        {
+            "ItemDescription": "OR 131-137B",
+            "ItemTotal": "1.300.00"
+        },
+        {
+            "ItemDescription": "A58 OR 144-03",
+            "ItemTotal": "1.300.00"
+        }
+    ]
+}

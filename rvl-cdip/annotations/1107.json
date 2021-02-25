@@ -1,0 +1,55 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Research 7.70",
+            "ItemTotal": "$275.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Witness Activities 7.00",
+            "ItemTotal": "$275.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Writing/Contacts/Meetings 3.90",
+            "ItemTotal": "$275.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Information Management 5.75 ",
+            "ItemTotal": "$65.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hanagement 3.25",
+            "ItemTotal": "$65.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Research 4.25",
+            "ItemTotal": "$65.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Witness Activities 11.75",
+            "ItemTotal": "$65.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Writing/contacts/Meetings 10.00",
+            "ItemTotal": "$65.oo",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "3740",
+    "IssuedDate": "OCTOBER 24, 1986",
+    "TotalAmount": "340.64",
+    "LineItem": [
+        {
+            "ItemDescription": "PACKING AND HANDLING",
+            "ItemTotal": "$136.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LOCAL TRUCKING",
+            "ItemTotal": "110.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "UPS",
+            "ItemTotal": "79.28",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

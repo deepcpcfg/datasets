@@ -1,0 +1,37 @@
+{
+    "TotalAmount": "4209.44",
+    "LineItem": [
+        {
+            "ItemDescription": "Air fares",
+            "ItemTotal": "3209.04",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Surface",
+            "ItemTotal": "227.22",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hotels",
+            "ItemTotal": "604.52",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals",
+            "ItemTotal": "124.41",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mi sc",
+            "ItemTotal": "44.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

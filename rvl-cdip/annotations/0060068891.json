@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "1285",
+    "IssuedDate": "September 30, 1992",
+    "TotalAmount": "4358.31",
+    "LineItem": [
+        {
+            "ItemTotal": "1930.11",
+            "ItemDescription": "Service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2067 .98",
+            "ItemDescription": "To Capture Answers to Questions",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "332.06",
+            "ItemDescription": "Mag Tape TL I 4 - 12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "35.00",
+            "ItemDescription": "Tape Reel",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3.16",
+            "ItemDescription": "Postage",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

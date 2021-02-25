@@ -1,0 +1,68 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "MEMBERSHIP KIT CERTIFICATES COUPONS TO BE KEYED ONLY LIGHTERS $50 BOND",
+            "ItemTotal": "248"
+        },
+        {
+            "ItemDescription": "$100 BOND SERVICE: MEMBERSHIP KITS",
+            "ItemUnitCount": "539",
+            "ItemUnitValue": "$0.60",
+            "ItemTotal": "$323.40"
+        },
+        {
+            "ItemDescription": "UPDATE RECORDS",
+            "ItemUnitCount": "117",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$35.10"
+        },
+        {
+            "ItemDescription": "COUPONS",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$44.70"
+        },
+        {
+            "ItemDescription": "LIGHTERS",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$18.30"
+        },
+        {
+            "ItemDescription": "DUPE BONDS ELINIMATION",
+            "ItemUnitValue": "$2.25",
+            "ItemTotal": "$981.00"
+        },
+        {
+            "ItemDescription": "SERVICE TO SEND QUARTERLY $50",
+            "ItemTotal": "$50.00"
+        },
+        {
+            "ItemDescription": "STATEMENT #2",
+            "ItemUnitCount": "4227",
+            "ItemUnitValue": "$0.25",
+            "ItemTotal": "$1,056.75"
+        },
+        {
+            "ItemDescription": "MAILERS: LIGHTERS",
+            "ItemUnitCount": "61",
+            "ItemUnitValue": "$0.17",
+            "ItemTotal": "$10.07"
+        },
+        {
+            "ItemDescription": "MESSENGER SERVICE' TO SEND BOND TAPE TO FEDERAL RESERVE",
+            "ItemTotal": "$130.00"
+        },
+        {
+            "ItemDescription": "MAG TAPE",
+            "ItemTotal": "$50.00"
+        },
+        {
+            "ItemDescription": "TAPE REEL",
+            "ItemTotal": "$35.00"
+        },
+        {
+            "ItemDescription": "POSTAGE VIA UPS",
+            "ItemTotal": "$2.30"
+        }
+    ],
+    "TotalAmount": "$2,736.62"
+}

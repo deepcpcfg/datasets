@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "May 18, 1994",
+    "TotalAmount": "53,483.49",
+    "LineItem": [
+        {
+            "ItemDescription": "May assessment for CIAR",
+            "ItemTotal": "$42,272.17",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "May supplemental assessment for Johns Hopkins, Dr. Ma Cano ski, Confounders Study",
+            "ItemTotal": "8,906.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Additional May supplemental assessment for Johns Hopkins, Dr. Matanoski, Confoundera Study",
+            "ItemTotal": "2.304,43",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

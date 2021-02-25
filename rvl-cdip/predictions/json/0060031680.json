@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "15493",
+    "IssuedDate": "December 31, 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "RIVIERA $8 SAVINGS Development, Fees, Art thru Mechanical Production",
+            "ItemTotal": "11,600.00"
+        }
+    ]
+}

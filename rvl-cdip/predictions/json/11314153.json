@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "June 1970",
+    "InvoiceNumber": "774",
+    "LineItem": [
+        {
+            "ItemTotal": "18,000",
+            "ItemDescription": "TOBACCO RESEARCH 3rd class"
+        },
+        {
+            "ItemDescription": "envelopes printed 6 1/2 x 9 1/2, open end, 28"
+        },
+        {
+            "ItemDescription": "white wove envelopes printed with indicia box and \"third class\" in lower left corner",
+            "ItemTotal": "282.00"
+        }
+    ]
+}

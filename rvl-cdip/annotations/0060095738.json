@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "10789",
+    "IssuedDate": "May 4, 1989",
+    "TotalAmount": "11,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CARLION ADVERTISING RESEARCH Consultation Fee: One third total cost of due in advance project",
+            "ItemTotal": "$ 16,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DUE NOW",
+            "ItemTotal": "5,500*00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

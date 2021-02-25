@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="76.0" fp="35.0" fn="126.0">
+    <LineItem tp="71.0" fp="32.0" fn="123.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="687.0" t="1118.0" r="944.0" b="1168.0">charqos</box>
+          <box l="987.0" t="1111.0" r="1245.0" b="1161.0">include</box>
+          <box l="1291.0" t="1117.0" r="1474.0" b="1158.0">stats</box>
+          <box l="1520.0" t="1113.0" r="1628.0" b="1159.0">and</box>
+          <box l="1671.0" t="1115.0" r="1851.0" b="1159.0">state</box>
+          <box l="1896.0" t="1111.0" r="2011.0" b="1156.0">for</box>
+          <box l="2050.0" t="1111.0" r="2266.0" b="1168.0">legal*</box>
+          <box l="682.0" t="1178.0" r="1057.0" b="1224.0">Mechanical</box>
+          <box l="1103.0" t="1179.0" r="1211.0" b="1224.0">and</box>
+          <box l="1253.0" t="1178.0" r="1284.0" b="1224.0">3</box>
+          <box l="1328.0" t="1176.0" r="1664.0" b="1225.0">revisions</box>
+          <box l="682.0" t="1248.0" r="865.0" b="1289.0">stats</box>
+          <box l="912.0" t="1241.0" r="1024.0" b="1288.0">and</box>
+          <box l="1061.0" t="1245.0" r="1248.0" b="1287.0">stats</box>
+          <box l="1291.0" t="1239.0" r="1402.0" b="1287.0">for</box>
+          <box l="1445.0" t="1239.0" r="1662.0" b="1297.0">legal-</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2504.0" t="1171.0" r="2766.0" b="1224.0">&lt;210.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="3.0" fp="1.0" fn="1.0">
+      <box l="3040.0" t="537.0" r="3186.0" b="591.0">10/$</box>
+    </IssuedDate>
+    <InvoiceNumber tp="2.0" fp="2.0" fn="2.0">
+      <box l="3234.0" t="447.0" r="3377.0" b="495.0">7937</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

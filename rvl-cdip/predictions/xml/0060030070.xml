@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="68.0" fp="30.0" fn="10.0">
+    <IssuedDate tp="11.0" fp="1.0" fn="1.0">
+      <box l="729.0" t="763.0" r="821.0" b="806.0">May</box>
+      <box l="841.0" t="763.0" r="904.0" b="804.0">20.</box>
+      <box l="929.0" t="762.0" r="1033.0" b="801.0">1993</box>
+    </IssuedDate>
+    <LineItem tp="52.0" fp="28.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1017.0" t="1642.0" r="1143.0" b="1680.0">Direct</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1338.0" t="1642.0" r="1437.0" b="1680.0">Data</box>
+          <box l="1458.0" t="1642.0" r="1570.0" b="1688.0">Entry</box>
+          <box l="1621.0" t="1642.0" r="1767.0" b="1686.0">March.</box>
+          <box l="1789.0" t="1642.0" r="1892.0" b="1681.0">1993</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="725.0" t="1788.0" r="829.0" b="1826.0">Data</box>
+          <box l="850.0" t="1788.0" r="958.0" b="1834.0">Entry</box>
+          <box l="976.0" t="1786.0" r="1171.0" b="1826.0">"BSL392"</box>
+          <box l="1192.0" t="1785.0" r="1258.0" b="1834.0">(10</box>
+          <box l="1279.0" t="1796.0" r="1368.0" b="1834.0">pcs.</box>
+          <box l="1444.0" t="1787.0" r="1592.0" b="1829.0">$58.82</box>
+          <box l="1609.0" t="1788.0" r="1696.0" b="1826.0">min,</box>
+          <box l="1721.0" t="1788.0" r="1831.0" b="1835.0">chg.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="1787.0" r="2650.0" b="1828.0">$58.82</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="1.0" fn="0.0">
+      <box l="2497.0" t="1931.0" r="2647.0" b="1975.0">$56.82</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

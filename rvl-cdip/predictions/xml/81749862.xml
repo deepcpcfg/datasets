@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="581.0" fp="266.0" fn="241.0">
+    <IssuedDate tp="0.0" fp="5.0" fn="0.0">
+      <box l="1848.0" t="305.0" r="2006.0" b="347.0">09/22</box>
+    </IssuedDate>
+    <LineItem tp="574.0" fp="259.0" fn="240.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1010.0" t="1836.0" r="1175.0" b="1883.0">TtCtRA</box>
+          <box l="1188.0" t="1847.0" r="1281.0" b="1884.0">BUY</box>
+          <box l="1323.0" t="1836.0" r="1397.0" b="1883.0">lull</box>
+          <box l="1410.0" t="1847.0" r="1527.0" b="1884.0">Flavor</box>
+          <box l="1543.0" t="1847.0" r="1650.0" b="1890.0">Kings</box>
+          <box l="1659.0" t="1834.0" r="1738.0" b="1883.0">4ofl</box>
+          <box l="1750.0" t="1835.0" r="1839.0" b="1882.0">Fade</box>
+          <box l="1851.0" t="1833.0" r="2104.0" b="1889.0">(MmnVllM)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2498.0" t="1848.0" r="2630.0" b="1888.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2923.0" t="1849.0" r="3048.0" b="1890.0">a.«T~i</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="403.0" t="1902.0" r="427.0" b="1939.0">0</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1025.0" t="1895.0" r="1174.0" b="1939.0">ULTRA</box>
+          <box l="1187.0" t="1897.0" r="1283.0" b="1936.0">BUY</box>
+          <box l="1323.0" t="1895.0" r="1396.0" b="1937.0">Ml</box>
+          <box l="1412.0" t="1897.0" r="1529.0" b="1936.0">Flavor</box>
+          <box l="1542.0" t="1899.0" r="1649.0" b="1941.0">King?</box>
+          <box l="1662.0" t="1897.0" r="1736.0" b="1937.0">Box</box>
+          <box l="1749.0" t="1895.0" r="1999.0" b="1940.0">(79itoVJ2M)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2497.0" t="1901.0" r="2633.0" b="1938.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2923.0" t="1904.0" r="3000.0" b="1939.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="405.0" t="1956.0" r="426.0" b="1995.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1023.0" t="1954.0" r="1173.0" b="1993.0">ULTRA</box>
+          <box l="1190.0" t="1953.0" r="1281.0" b="1993.0">BUY</box>
+          <box l="1323.0" t="1951.0" r="1396.0" b="1994.0">Full</box>
+          <box l="1410.0" t="1952.0" r="1527.0" b="1993.0">Flavor</box>
+          <box l="1561.0" t="1954.0" r="1635.0" b="1994.0">Wt</box>
+          <box l="1647.0" t="1952.0" r="1722.0" b="1991.0">Soft</box>
+          <box l="1735.0" t="1952.0" r="1822.0" b="1991.0">Feck</box>
+          <box l="1836.0" t="1948.0" r="2111.0" b="1997.0">(IOOmm/12M)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2499.0" t="1953.0" r="2631.0" b="1996.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2846.0" t="1953.0" r="2999.0" b="2002.0">1,242.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1022.0" t="2007.0" r="1174.0" b="2045.0">ULTRA</box>
+          <box l="1189.0" t="2004.0" r="1283.0" b="2045.0">BUY</box>
+          <box l="1297.0" t="2005.0" r="1422.0" b="2054.0">-Light</box>
+          <box l="1434.0" t="2006.0" r="1542.0" b="2054.0">King*</box>
+          <box l="1555.0" t="2004.0" r="1630.0" b="2048.0">Soft</box>
+          <box l="1642.0" t="2004.0" r="1728.0" b="2042.0">Peck</box>
+          <box l="1742.0" t="2004.0" r="1992.0" b="2050.0">(MmnVUM)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2497.0" t="2009.0" r="2625.0" b="2048.0">021.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2844.0" t="2014.0" r="2855.0" b="2047.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2864.0" t="2014.0" r="2997.0" b="2052.0">&gt;242.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="406.0" t="2065.0" r="427.0" b="2101.0">0</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1021.0" t="2058.0" r="1173.0" b="2099.0">ULTRA</box>
+          <box l="1187.0" t="2059.0" r="1399.0" b="2106.0">OUY-Lighc</box>
+          <box l="1412.0" t="2060.0" r="1502.0" b="2107.0">King</box>
+          <box l="1514.0" t="2057.0" r="1866.0" b="2102.0">Boa(S4mrtV12mffl)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2495.0" t="2063.0" r="2625.0" b="2100.0">62LOC</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1019.0" t="2112.0" r="1172.0" b="2150.0">ULTRA</box>
+          <box l="1186.0" t="2112.0" r="1280.0" b="2146.0">BUY</box>
+          <box l="1322.0" t="2108.0" r="1419.0" b="2154.0">Light</box>
+          <box l="1440.0" t="2111.0" r="1526.0" b="2150.0">IWi</box>
+          <box l="1540.0" t="2111.0" r="1618.0" b="2148.0">Soft</box>
+          <box l="1628.0" t="2110.0" r="1713.0" b="2148.0">Pack</box>
+          <box l="1726.0" t="2109.0" r="2000.0" b="2152.0">(lOQnvrv'llM)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2495.0" t="2114.0" r="2627.0" b="2151.0">621.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="667.0" t="2162.0" r="878.0" b="2202.0">UB-FFMK</box>
+          <box l="1018.0" t="2158.0" r="1171.0" b="2200.0">ULTRA</box>
+          <box l="1184.0" t="2159.0" r="1394.0" b="2200.0">BUYTFtfl</box>
+          <box l="1405.0" t="2156.0" r="1814.0" b="2206.0">HtYoTMTnAdlKIngs</box>
+          <box l="1825.0" t="2155.0" r="1905.0" b="2194.0">Soft</box>
+          <box l="1910.0" t="2155.0" r="2008.0" b="2194.0">Rack</box>
+          <box l="2021.0" t="2156.0" r="2271.0" b="2204.0">(MmrimM)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2460.0" t="2155.0" r="2630.0" b="2200.0">“Tfn&amp;</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1016.0" t="2211.0" r="1172.0" b="2251.0">ULTRA</box>
+          <box l="1187.0" t="2212.0" r="1370.0" b="2254.0">BLY-Full</box>
+          <box l="1387.0" t="2212.0" r="1503.0" b="2250.0">Flavor</box>
+          <box l="1516.0" t="2208.0" r="1669.0" b="2249.0">Mcnifal</box>
+          <box l="1682.0" t="2210.0" r="1773.0" b="2257.0">King</box>
+          <box l="1786.0" t="2209.0" r="1861.0" b="2248.0">Box</box>
+          <box l="1018.0" t="2262.0" r="1281.0" b="2308.0">(94MM/I2M)</box>
+          <box l="2039.0" t="2273.0" r="2372.0" b="2323.0">16tW</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2495.0" t="2213.0" r="2625.0" b="2251.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2920.0" t="2217.0" r="2998.0" b="2251.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1022.0" t="2369.0" r="1172.0" b="2407.0">ultra</box>
+          <box l="1186.0" t="2371.0" r="1282.0" b="2407.0">BUY</box>
+          <box l="1322.0" t="2368.0" r="1394.0" b="2405.0">Full</box>
+          <box l="1407.0" t="2369.0" r="1524.0" b="2406.0">Flavor</box>
+          <box l="1540.0" t="2368.0" r="1690.0" b="2406.0">Menthol</box>
+          <box l="1710.0" t="2369.0" r="1798.0" b="2406.0">100’s</box>
+          <box l="1811.0" t="2368.0" r="1843.0" b="2410.0">(1</box>
+          <box l="1853.0" t="2366.0" r="2086.0" b="2409.0">WnntVIlM)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2495.0" t="2371.0" r="2628.0" b="2410.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2845.0" t="2371.0" r="2995.0" b="2414.0">I.B43.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="401.0" t="2427.0" r="421.0" b="2464.0">0</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1018.0" t="2420.0" r="1171.0" b="2461.0">ULTRA</box>
+          <box l="1185.0" t="2419.0" r="1281.0" b="2462.0">BUY</box>
+          <box l="1321.0" t="2421.0" r="1421.0" b="2468.0">Light</box>
+          <box l="1434.0" t="2420.0" r="1585.0" b="2462.0">Menthol</box>
+          <box l="1613.0" t="2422.0" r="1717.0" b="2468.0">King!</box>
+          <box l="1731.0" t="2421.0" r="1808.0" b="2458.0">Soft</box>
+          <box l="1817.0" t="2419.0" r="1909.0" b="2458.0">Pack</box>
+          <box l="1934.0" t="2417.0" r="2184.0" b="2466.0">(U4nvnA2M)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2493.0" t="2420.0" r="2627.0" b="2460.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2918.0" t="2423.0" r="2998.0" b="2462.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1020.0" t="2477.0" r="1169.0" b="2515.0">ULTRA</box>
+          <box l="1187.0" t="2475.0" r="1280.0" b="2514.0">BUY</box>
+          <box l="1304.0" t="2474.0" r="1596.0" b="2523.0">-LightMenthol</box>
+          <box l="1616.0" t="2475.0" r="1703.0" b="2512.0">1071</box>
+          <box l="1716.0" t="2474.0" r="1791.0" b="2512.0">Soft</box>
+          <box l="1803.0" t="2470.0" r="1895.0" b="2509.0">Pack</box>
+          <box l="1908.0" t="2471.0" r="2183.0" b="2516.0">(lOOmm/UM)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2496.0" t="2476.0" r="2625.0" b="2513.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2917.0" t="2475.0" r="2997.0" b="2517.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1019.0" t="2527.0" r="1168.0" b="2569.0">ULTRA</box>
+          <box l="1185.0" t="2527.0" r="1306.0" b="2569.0">BUY.</box>
+          <box l="1323.0" t="2528.0" r="1414.0" b="2567.0">Ultra</box>
+          <box l="1427.0" t="2528.0" r="1524.0" b="2577.0">Light</box>
+          <box l="1536.0" t="2527.0" r="1643.0" b="2575.0">Kings</box>
+          <box l="1656.0" t="2527.0" r="1731.0" b="2568.0">Soft</box>
+          <box l="1747.0" t="2528.0" r="1831.0" b="2565.0">Pack</box>
+          <box l="1847.0" t="2525.0" r="2098.0" b="2573.0">(84mmH2M)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2495.0" t="2529.0" r="2627.0" b="2567.0">621.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2919.0" t="2531.0" r="2996.0" b="2568.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1022.0" t="2584.0" r="1171.0" b="2621.0">ULTRA</box>
+          <box l="1184.0" t="2582.0" r="1276.0" b="2622.0">BUY</box>
+          <box l="1322.0" t="2580.0" r="1412.0" b="2621.0">Um</box>
+          <box l="1426.0" t="2581.0" r="1521.0" b="2629.0">Light</box>
+          <box l="1542.0" t="2582.0" r="1629.0" b="2622.0">100's</box>
+          <box l="1642.0" t="2580.0" r="1717.0" b="2618.0">Soft</box>
+          <box l="1730.0" t="2581.0" r="1818.0" b="2616.0">Pack</box>
+          <box l="1830.0" t="2580.0" r="2105.0" b="2623.0">(100mm/12M)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2494.0" t="2583.0" r="2626.0" b="2622.0">621,00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2844.0" t="2585.0" r="2998.0" b="2624.0">1.242.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1020.0" t="2636.0" r="1170.0" b="2675.0">ULTRA</box>
+          <box l="1183.0" t="2634.0" r="1278.0" b="2674.0">BUY</box>
+          <box l="1317.0" t="2636.0" r="1512.0" b="2675.0">Mm-FHter</box>
+          <box l="1525.0" t="2639.0" r="1612.0" b="2682.0">King</box>
+          <box l="1626.0" t="2635.0" r="1742.0" b="2679.0">(12M)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2496.0" t="2635.0" r="2628.0" b="2673.0">62LQO</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2918.0" t="2636.0" r="2996.0" b="2672.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1014.0" t="2688.0" r="1235.0" b="2726.0">©fMnvoiw</box>
+          <box l="1248.0" t="2689.0" r="1413.0" b="2726.0">Diacouni</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2477.0" t="2687.0" r="2627.0" b="2723.0">-120.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2823.0" t="2688.0" r="2995.0" b="2728.0">-1,440.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1095.0" t="2891.0" r="1232.0" b="2932.0">InWee</box>
+          <box l="1246.0" t="2898.0" r="1407.0" b="2933.0">Discount</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="2.0" fn="1.0">
+      <box l="2816.0" t="3648.0" r="2995.0" b="3692.0">15,396-49</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

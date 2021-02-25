@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "9",
+    "TotalAmount": "4,717.92",
+    "LineItem": [
+        {
+            "ItemDescription": "Biochemist (Harris Rosenkrente, Ph.D.)",
+            "ItemTotal": "203.17",
+            "ItemUnitCount": "20",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Pathologist (Marcus M* Mason, D.V.M:.)",
+            "ItemTotal": "555.61",
+            "ItemUnitCount": "43",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Technician - pharmacology",
+            "ItemTotal": "86.16",
+            "ItemUnitCount": "44",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Technician - histology",
+            "ItemTotal": "728.93",
+            "ItemUnitCount": "249",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Technician - biochemistry",
+            "ItemTotal": "233.45",
+            "ItemUnitCount": "111",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Clerk - data processing",
+            "ItemTotal": "38.53",
+            "ItemUnitCount": "17 1/2",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemTotal": "1,845.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee",
+            "ItemTotal": "505.49",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

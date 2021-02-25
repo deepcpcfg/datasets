@@ -1,0 +1,11 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "ADVANCE POSTAGE",
+            "ItemTotal": "$2,000.00"
+        }
+    ],
+    "TotalAmount": "$2,000.00",
+    "InvoiceNumber": "MP5011-3",
+    "IssuedDate": "12/4/92"
+}

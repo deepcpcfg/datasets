@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "01-06-86",
+    "TotalAmount": "3,300",
+    "LineItem": [
+        {
+            "ItemDescription": "8245 O 401 A120",
+            "ItemTotal": "1,100",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,100",
+            "ItemDescription": "8 247 0 401 BI90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

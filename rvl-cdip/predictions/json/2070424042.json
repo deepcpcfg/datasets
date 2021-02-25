@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "0z363",
+    "IssuedDate": "May 10,197?",
+    "LineItem": [
+        {
+            "ItemDescription": "1979 Atlanta Braves Scorebook Ad",
+            "ItemTotal": "10,000.00"
+        },
+        {
+            "ItemDescription": "Less 15% Commission",
+            "ItemTotal": "(1,500.00)"
+        }
+    ],
+    "TotalAmount": "8,500.00"
+}

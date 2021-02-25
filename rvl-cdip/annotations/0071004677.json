@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "28271",
+    "IssuedDate": "July 30, 1984",
+    "TotalAmount": "14,333.00",
+    "LineItem": [
+        {
+            "ItemDescription": "SacMnd One-Third of total price based on 10& lncidmce and including pra-test, briefing, and hand tabs",
+            "ItemTotal": "14,333,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "198-0053",
+    "IssuedDate": "07/15/98",
+    "TotalAmount": "1,985.74",
+    "LineItem": [
+        {
+            "ItemDescription": "SALEM SLIDE BOX B1G1F",
+            "ItemUnitCount": "8",
+            "ItemUnitValue": "430.2000",
+            "ItemTotal": "3,441.60"
+        },
+        {
+            "ItemDescription": "SALEM LT SLIDE BDX B1G1F",
+            "ItemUnitCount": "8",
+            "ItemUnitValue": "430.2000",
+            "ItemTotal": "3,441.60"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "3,441.60-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTABLE GROSS",
+            "ItemTotal": "3,441,60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STD TERMS DISCOUNT OF 3.25%",
+            "ItemTotal": "111.85-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "111.86-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "3,217.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT TERMS DISCOUNT OF 1.40%",
+            "ItemTotal": "45.05-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS STATE TAX FOR FREE PRODUCT",
+            "ItemTotal": "1,344.00-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

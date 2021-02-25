@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "August 23, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "ARGENTINE BURLEY STRIPS",
+            "ItemUnitCount": "384,000",
+            "ItemUnitValue": "1.79",
+            "ItemTotal": "3.6"
+        },
+        {
+            "ItemUnitCount": "172,800",
+            "ItemUnitValue": "1.99",
+            "ItemTotal": "3.7",
+            "ItemDescription": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "OTW006",
+    "IssuedDate": "6.24.97",
+    "TotalAmount": "35.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CIO",
+            "ItemUnitValue": "35.00",
+            "ItemTotal": "35.00",
+            "ItemUnitCount": ""
+        }
+    ]
+}

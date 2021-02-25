@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "May 4, 1989",
+    "InvoiceNumber": "#10789",
+    "LineItem": [
+        {
+            "ItemDescription": "Consultation Fee: One third total cost of project",
+            "ItemTotal": "16,500.00"
+        },
+        {
+            "ItemDescription": "due"
+        }
+    ],
+    "TotalAmount": "11,000.00"
+}

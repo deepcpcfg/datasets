@@ -1,0 +1,36 @@
+{
+    "IssuedDate": "12-21-93",
+    "LineItem": [
+        {
+            "ItemDescription": "VACUUM UNIT",
+            "ItemUnitCount": "16.00",
+            "ItemUnitValue": "70.00",
+            "ItemTotal": "1,120.00"
+        },
+        {
+            "ItemDescription": "SUPERVISOR",
+            "ItemUnitValue": "20.00",
+            "ItemUnitCount": "22.00",
+            "ItemTotal": "616.00"
+        },
+        {
+            "ItemDescription": "OPERATOR",
+            "ItemUnitCount": "56.00",
+            "ItemUnitValue": "20.50",
+            "ItemTotal": "1,140.00"
+        },
+        {
+            "ItemDescription": "PRESSURE WASHER COST 20%",
+            "ItemUnitCount": ".00",
+            "ItemTotal": "546.00",
+            "ItemUnitValue": "546.00"
+        },
+        {
+            "ItemDescription": "SUPPLIES COST 207.",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "94.38",
+            "ItemUnitValue": "94.32"
+        }
+    ],
+    "TotalAmount": "3,524.38"
+}

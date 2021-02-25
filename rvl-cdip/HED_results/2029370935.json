@@ -1,0 +1,247 @@
+[
+    {
+        "IssuedDate": [
+            "04/16/92",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "8291.60",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "^11*00",
+                            {
+                                "tp": 3.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Secretarial overtloo in connection oith inputting attendee”* list for HBI Seattle tour Secretarial overtine in connection alth editing*",
+                            {
+                                "tp": 77.0,
+                                "fp": 58.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 80.0,
+                        "fp": 61.0,
+                        "fn": 11.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "54.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "copyings fusing and Bailing HBI nedla tour* information Secretarial avertine in",
+                            {
+                                "tp": 48.0,
+                                "fp": 31.0,
+                                "fn": 56.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 53.0,
+                        "fp": 31.0,
+                        "fn": 56.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "180.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "connection oith HBI calls Secretarial avertin* in",
+                            {
+                                "tp": 23.0,
+                                "fp": 26.0,
+                                "fn": 26.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 29.0,
+                        "fp": 26.0,
+                        "fn": 26.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "36.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "connection oith entering HBI nedla tour list",
+                            {
+                                "tp": 41.0,
+                                "fp": 3.0,
+                                "fn": 27.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 46.0,
+                        "fp": 3.0,
+                        "fn": 27.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3.60",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Photocopies of necessary naterials St Leals",
+                            {
+                                "tp": 42.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 46.0,
+                        "fp": 1.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 254.0,
+                "fp": 122.0,
+                "fn": 123.0
+            }
+        ],
+        "InvoiceNumber": [
+            "153311",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 273.0,
+        "fp": 124.0,
+        "fn": 124.0
+    }
+]

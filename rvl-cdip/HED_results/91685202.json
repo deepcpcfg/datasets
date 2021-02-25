@@ -1,0 +1,891 @@
+[
+    {
+        "IssuedDate": [
+            "11- 30-90",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "J",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 1.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "BEACON JOURNAL OlO",
+                            {
+                                "tp": 3.0,
+                                "fp": 15.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 3.0,
+                        "fp": 15.0,
+                        "fn": 18.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "3.VOX DOLLAR ALTIMORE SUN",
+                            {
+                                "tp": 12.0,
+                                "fp": 13.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 13.0,
+                        "fn": 17.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            ".OOX DOLLAR VOLUME di scourer",
+                            {
+                                "tp": 2.0,
+                                "fp": 27.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 2.0,
+                        "fp": 27.0,
+                        "fn": 20.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "050",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "STUN GLOBE .00* DOLLAR Buffalo news /63.OOX DOLLAR-",
+                            {
+                                "tp": 12.0,
+                                "fp": 39.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 12.0,
+                        "fp": 42.0,
+                        "fn": 16.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "DALLAS TIMES HERALD 083",
+                            {
+                                "tp": 19.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 19.0,
+                        "fp": 4.0,
+                        "fn": 16.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Ofc.OO* DOLLAR",
+                            {
+                                "tp": 0.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 14.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "13,475.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CHICAGO TRIBUNE no",
+                            {
+                                "tp": 15.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 3.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "QG.OOX DOLLAR",
+                            {
+                                "tp": 0.0,
+                                "fp": 13.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,870.05",
+                            {
+                                "tp": 3.0,
+                                "fp": 5.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DALLAS MORNING NEWS",
+                            {
+                                "tp": 19.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 5.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            ",OO* DOLLAR",
+                            {
+                                "tp": 0.0,
+                                "fp": 11.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 11.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "EVELAND PLAIN DEALER 140",
+                            {
+                                "tp": 24.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 0.0,
+                        "fn": 18.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "00* DOLLAR",
+                            {
+                                "tp": 3.0,
+                                "fp": 7.0,
+                                "fn": 13.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 3.0,
+                        "fp": 7.0,
+                        "fn": 29.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "230",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LAUDERDALE OOX DOLLAR NEWS rl ART FORD COURANT",
+                            {
+                                "tp": 15.0,
+                                "fp": 31.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 15.0,
+                        "fp": 34.0,
+                        "fn": 17.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "63.00*",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 6.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "250",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Houston chronicle",
+                            {
+                                "tp": 0.0,
+                                "fp": 17.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 20.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "03.00* DOLLAR",
+                            {
+                                "tp": 3.0,
+                                "fp": 10.0,
+                                "fn": 14.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 3.0,
+                        "fp": 10.0,
+                        "fn": 30.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "290",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Kansas city star",
+                            {
+                                "tp": 0.0,
+                                "fp": 16.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 19.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "DOLLAR VOLUME DISCOUNT",
+                            {
+                                "tp": 5.0,
+                                "fp": 17.0,
+                                "fn": 11.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 5.0,
+                        "fp": 17.0,
+                        "fn": 27.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "340",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "/tlAMl HERALD",
+                            {
+                                "tp": 9.0,
+                                "fp": 4.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 7.0,
+                        "fn": 18.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "j/l.OOX DOLLAR VOLUME DISCOUNT",
+                            {
+                                "tp": 0.0,
+                                "fp": 30.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 30.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "350",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "'MILWAUKEE JOURNAL",
+                            {
+                                "tp": 17.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 17.0,
+                        "fp": 4.0,
+                        "fn": 16.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "6,549.25",
+                            {
+                                "tp": 3.0,
+                                "fp": 5.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "03.VOX DOLLAR VOLUME DISCOUNT (MINNEAFOLIS/TWIN CITIES36O 03.VOX DOLLAR VOLUME DISCOUfc",
+                            {
+                                "tp": 25.0,
+                                "fp": 62.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 67.0,
+                        "fn": 14.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "420",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "8,692.10",
+                            {
+                                "tp": 4.0,
+                                "fp": 4.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "NEW YORK DAILY NEWS",
+                            {
+                                "tp": 19.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 23.0,
+                        "fp": 7.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "0 VOX DOLLAR VOLUME DISCOUF T WORLD HERALD 460 03.00X DOLLAR VOLUME discount",
+                            {
+                                "tp": 14.0,
+                                "fp": 62.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 62.0,
+                        "fn": 19.0
+                    }
+                ]
+            ],
+            {
+                "tp": 235.0,
+                "fp": 438.0,
+                "fn": 310.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 5.0
+            }
+        ]
+    },
+    {
+        "tp": 244.0,
+        "fp": 438.0,
+        "fn": 315.0
+    }
+]

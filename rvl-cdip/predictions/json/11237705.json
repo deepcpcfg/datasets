@@ -1,0 +1,55 @@
+{
+    "IssuedDate": "August 27, 1962",
+    "InvoiceNumber": "35X-33572V",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Schimatzu Glass Forming Machine, Property No. 119106"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "HP5840 Gas Chrcroatcgraph, Property No. 126502"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "HP Autosanpler, Property No. 126503"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Liquid Scintillation Counter, Property No. 126504"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Dual Channel Chart Recorder, Property No. 126650"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Sample Oxidizer, Property No. 128830"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Waters DC Pump, Property No. 129707"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "VT105 Terminal, Property No. 130916"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "RX02 Disc Drive, Property No. 130917"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "DEC Writer II, Property No. 132215"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "LC Controller/Data Module"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Textronic Oscilliscope"
+        }
+    ],
+    "TotalAmount": "$19,000.00"
+}

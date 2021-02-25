@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "ry 21, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "TRUE SNAPSHOT REPORT (DI/18151) December 1993",
+            "ItemTotal": "$517.00"
+        },
+        {
+            "ItemDescription": "TRUE ALL"
+        },
+        {
+            "ItemDescription": "December 1993",
+            "ItemTotal": "$396.00"
+        }
+    ],
+    "TotalAmount": "$913.00"
+}

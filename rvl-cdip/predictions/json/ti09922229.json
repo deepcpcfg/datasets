@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "4-153-7",
+    "IssuedDate": "4/30/87",
+    "LineItem": [
+        {
+            "ItemDescription": "Messenger Express",
+            "ItemTotal": "17."
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "25."
+        },
+        {
+            "ItemDescription": "Reproduction Telephone and long distance service",
+            "ItemTotal": "443.71"
+        },
+        {
+            "ItemDescription": "Vox Cam Associates: Slide to tape",
+            "ItemTotal": "94."
+        },
+        {
+            "ItemDescription": "Davis",
+            "ItemTotal": "5,"
+        }
+    ],
+    "TotalAmount": "<16,695."
+}

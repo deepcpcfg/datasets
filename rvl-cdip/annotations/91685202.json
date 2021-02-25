@@ -1,0 +1,109 @@
+{
+    "InvoiceNumber": "00739",
+    "IssuedDate": "11- 30-90",
+    "LineItem": [
+        {
+            "ItemDescription": "AKRON",
+            "ItemUnitValue": "1,677.05",
+            "ItemTotal": "1,973.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "BALTIMORE SUN",
+            "ItemUnitValue": "3,511.35",
+            "ItemTotal": "4,131.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "BOSTON",
+            "ItemUnitValue": "5,617.65",
+            "ItemTotal": "6,609.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Buffalo news",
+            "ItemUnitValue": "3,868.35",
+            "ItemTotal": "4,551.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "DALLAS TIMES HERALD",
+            "ItemUnitValue": "2,471.80",
+            "ItemTotal": "2,908.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "CHICAGO TRIBUNE",
+            "ItemUnitValue": "11,453.75",
+            "ItemTotal": "13,475.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "DALLAS MORNING NEWS",
+            "ItemUnitValue": "3,870.05",
+            "ItemTotal": "4,553.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "CLEVELAND PLAIN DEALER 140",
+            "ItemUnitValue": "5,747.70",
+            "ItemTotal": "6,762.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": ".LAUDERDALE NEWS",
+            "ItemUnitValue": "3,428.05",
+            "ItemTotal": "4,033.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "HARTFORD COURANT",
+            "ItemUnitValue": "2,311.15",
+            "ItemTotal": "2,719.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "HOUSTON CHRONICLE",
+            "ItemUnitValue": "4,239.80",
+            "ItemTotal": "4,988.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "KANSAS CITY STAR",
+            "ItemUnitValue": "3,001.35",
+            "ItemTotal": "3,531.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "IAMI HERALD",
+            "ItemUnitValue": "3,956.75",
+            "ItemTotal": "4,655.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "MILWAUKEE JOURNAL",
+            "ItemUnitValue": "5,100.00",
+            "ItemTotal": "6,000.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "MINNEAPOLIS/TWIN CITIES360",
+            "ItemUnitValue": "6,549.25",
+            "ItemTotal": "7,705.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "NEW YORK DAILY NEWS",
+            "ItemUnitValue": "8,692.10",
+            "ItemTotal": "10,226.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "MAHA WORLD HERALD",
+            "ItemUnitValue": "2,873.85",
+            "ItemTotal": "3,391.00",
+            "ItemUnitCount": ""
+        }
+    ],
+    "TotalAmount": ""
+}

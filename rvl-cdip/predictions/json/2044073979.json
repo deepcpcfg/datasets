@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "November 30, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "\"It's The Law\" Qualitative Research:",
+            "ItemTotal": "$27.266,03"
+        },
+        {
+            "ItemDescription": "Moderator travel Air fare: Hotel:",
+            "ItemTotal": "$385.46"
+        },
+        {
+            "ItemDescription": "Cars, taxis, etc.:",
+            "ItemTotal": "138.91"
+        },
+        {
+            "ItemDescription": "Total moderator travel",
+            "ItemTotal": "850,45"
+        }
+    ],
+    "TotalAmount": "$10,216.48"
+}

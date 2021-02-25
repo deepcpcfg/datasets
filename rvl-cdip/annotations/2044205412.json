@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "AN1512",
+    "IssuedDate": "December 22, 1987",
+    "TotalAmount": "129,960.81",
+    "LineItem": [
+        {
+            "ItemDescription": "Store Manning (4,730 Days x $130/Day) ",
+            "ItemTotal": "$614,900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printing of Shelf Talkers/Header Cards",
+            "ItemTotal": "31,873.46",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Pius 10* ",
+            "ItemTotal": "3,187.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

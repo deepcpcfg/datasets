@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1418-6",
+    "IssuedDate": "June 30, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of final Report Cardiovascular Testing of Compound B-44 in the Beagle Dog @ $3,700 per compound.",
+            "ItemTotal": "$3,700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

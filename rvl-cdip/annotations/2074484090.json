@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1421",
+    "IssuedDate": "11/15/90",
+    "LineItem": [
+        {
+            "ItemDescription": "TOTAL CONTRACT AMOUNT",
+            "ItemTotal": "$589. 540.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

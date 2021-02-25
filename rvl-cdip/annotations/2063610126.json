@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "960808002",
+    "IssuedDate": "September 12, 1996",
+    "TotalAmount": "15,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Monthly rate flat fee",
+            "ItemTotal": "15,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

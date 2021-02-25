@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "322.7",
+    "IssuedDate": "31 AUG 89",
+    "LineItem": [
+        {
+            "ItemDescription": "PAYROLL BENEFITS",
+            "ItemUnitValue": "2,SOI.38"
+        },
+        {
+            "ItemDescription": "CHEMICALS AND LAB SUPPLIES",
+            "ItemTotal": "724.36"
+        },
+        {
+            "ItemDescription": "BYU EQUIPMENT LEASE",
+            "ItemTotal": "1,685.33"
+        },
+        {
+            "ItemDescription": "3YU LABORATORY USE FEE INDIRECT COSTS",
+            "ItemTotal": "709.66"
+        },
+        {
+            "ItemDescription": "FEE 5% OF DIRECT COSTS",
+            "ItemTotal": "161.29"
+        },
+        {
+            "ItemDescription": "FINANCE CHARGE",
+            "ItemTotal": "917.5?"
+        }
+    ],
+    "TotalAmount": "6.700.04"
+}

@@ -1,0 +1,39 @@
+{
+    "InvoiceNumber": "5652920",
+    "LineItem": [
+        {
+            "ItemDescription": "WINSTON SELECT B1G1F",
+            "ItemUnitCount": "162,000",
+            "ItemTotal": "9,306.80"
+        },
+        {
+            "ItemDescription": "WINSTON SELECT BOX B1G1F",
+            "ItemUnitValue": "162,000",
+            "ItemTotal": "9,SOS.90"
+        },
+        {
+            "ItemDescription": "WINSTON SELECT LT B1Q1F",
+            "ItemUnitCount": "162,000",
+            "ItemUnitValue": "344.7000",
+            "ItemTotal": "9,306.80"
+        },
+        {
+            "ItemDescription": "WINSTON SEL LT BOX B1G1F",
+            "ItemUnitCount": "162,000",
+            "ItemTotal": "9,300.80"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "18,013.BO-"
+        },
+        {
+            "ItemDescription": "STD",
+            "ItemTotal": "604.85-"
+        },
+        {
+            "ItemDescription": "LESS HANDLING",
+            "ItemTotal": "604.86-"
+        }
+    ],
+    "TotalAmount": "11,106.24"
+}

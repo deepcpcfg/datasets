@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Air fares",
+            "ItemTotal": "3209.04"
+        },
+        {
+            "ItemDescription": "Surface Hotels Meals Misc",
+            "ItemTotal": "44.25"
+        }
+    ],
+    "TotalAmount": "4209.44"
+}

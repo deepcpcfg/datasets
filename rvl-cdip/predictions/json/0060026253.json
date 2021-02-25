@@ -1,0 +1,44 @@
+{
+    "InvoiceNumber": "2918",
+    "LineItem": [
+        {
+            "ItemDescription": "MEMBERSHIP KIT CERTIFICATES COUPONS TO BE KEYED ONLY LIGHTERS $50 BOND $100 BOND SERVICE: MEMBERSHIP KITS",
+            "ItemUnitValue": "$0.60",
+            "ItemTotal": "$45.60"
+        },
+        {
+            "ItemDescription": "UPDATE RECORDS",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$30.60"
+        },
+        {
+            "ItemDescription": "COUPONS",
+            "ItemUnitValue": "§0.30",
+            "ItemTotal": "$196.80"
+        },
+        {
+            "ItemDescription": "LIGHTERS",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$25.20"
+        },
+        {
+            "ItemDescription": "BONDS",
+            "ItemUnitValue": "$2.25",
+            "ItemTotal": "$2,351.25"
+        },
+        {
+            "ItemDescription": "DUPE ELIMINATION",
+            "ItemTotal": "$50.00"
+        },
+        {
+            "ItemDescription": "mailers: lighters",
+            "ItemUnitValue": "$0.17",
+            "ItemTotal": "$14.28"
+        },
+        {
+            "ItemDescription": "MESSENGER SERVICE TO SEND BOND TAPE TO FEDERAL RESERVE",
+            "ItemTotal": "$130.00"
+        }
+    ],
+    "TotalAmount": "$2,843.73"
+}

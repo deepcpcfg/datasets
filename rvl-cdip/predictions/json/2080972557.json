@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "0000233",
+    "LineItem": [
+        {
+            "ItemUnitCount": "3.5",
+            "ItemDescription": "Deslgn/Pioducdon Services",
+            "ItemUnitValue": "S60.W",
+            "ItemTotal": "$90.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Canon Color Output 11x17",
+            "ItemTotal": "$15.00",
+            "ItemUnitValue": "$15.00"
+        },
+        {
+            "ItemDescription": "TektroMxDigitalPtoof 11x17",
+            "ItemUnitValue": "548.00"
+        }
+    ],
+    "TotalAmount": "$153.00"
+}

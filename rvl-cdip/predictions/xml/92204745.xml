@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="51.0" fp="89.0" fn="126.0">
+    <InvoiceNumber tp="3.0" fp="0.0" fn="3.0">
+      <box l="2960.0" t="349.0" r="3053.0" b="387.0">171</box>
+    </InvoiceNumber>
+    <LineItem tp="42.0" fp="78.0" fn="121.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="581.0" t="1725.0" r="684.0" b="1766.0">ONE</box>
+          <box l="730.0" t="1724.0" r="1048.0" b="1767.0">FURNISHED</box>
+          <box l="1094.0" t="1724.0" r="1231.0" b="1764.0">CARD</box>
+          <box l="655.0" t="1786.0" r="794.0" b="1828.0">FOUR</box>
+          <box l="839.0" t="1787.0" r="1014.0" b="1827.0">COLOR</box>
+          <box l="655.0" t="1849.0" r="822.0" b="1886.0">PAGE:</box>
+          <box l="872.0" t="1847.0" r="975.0" b="1887.0">035</box>
+          <box l="654.0" t="1904.0" r="971.0" b="1944.0">REG-MULTI</box>
+          <box l="1022.0" t="1904.0" r="1267.0" b="1944.0">EDITION</box>
+          <box l="654.0" t="2026.0" r="787.0" b="2070.0">ROlt</box>
+          <box l="838.0" t="2026.0" r="967.0" b="2068.0">R02f</box>
+          <box l="1017.0" t="2027.0" r="1150.0" b="2069.0">R07,</box>
+          <box l="1200.0" t="2028.0" r="1333.0" b="2070.0">ROB,</box>
+          <box l="1379.0" t="2029.0" r="1517.0" b="2066.0">RL2.</box>
+          <box l="1564.0" t="2027.0" r="1695.0" b="2067.0">R17,</box>
+          <box l="1745.0" t="2028.0" r="1845.0" b="2067.0">RIB</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="652.0" t="2083.0" r="787.0" b="2128.0">R19»</box>
+          <box l="833.0" t="2084.0" r="933.0" b="2125.0">R25</box>
+          <box l="578.0" t="2142.0" r="937.0" b="2184.0">NEGOTIATED</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2295.0" t="2139.0" r="2645.0" b="2184.0">12,220.00-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="6.0" fp="2.0" fn="2.0">
+      <box l="2847.0" t="470.0" r="3126.0" b="511.0">G7/1O/93</box>
+    </IssuedDate>
+    <TotalAmount tp="0.0" fp="9.0" fn="0.0">
+      <box l="2754.0" t="3697.0" r="3069.0" b="3742.0">17,748.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

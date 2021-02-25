@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "S-94-40",
+    "IssuedDate": "November 4,1994",
+    "TotalAmount": "392,000",
+    "LineItem": [
+        {
+            "ItemDescription": "I. 3-Page Contract for vending machine column",
+            "ItemUnitCount": "500",
+            "ItemUnitValue": "682",
+            "ItemTotal": "341,000"
+        }
+    ]
+}

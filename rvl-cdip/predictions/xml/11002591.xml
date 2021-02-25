@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="44.0" fp="97.0" fn="0.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2506.0" t="291.0" r="2709.0" b="333.0">3-07025</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2056.0" t="467.0" r="2264.0" b="520.0">7-13-67</box>
+    </IssuedDate>
+    <LineItem tp="30.0" fp="97.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="267.0" t="1332.0" r="320.0" b="1367.0">fie</box>
+          <box l="329.0" t="1333.0" r="505.0" b="1367.0">search</box>
+          <box l="541.0" t="1338.0" r="600.0" b="1363.0">on</box>
+          <box l="633.0" t="1329.0" r="837.0" b="1366.0">Methods</box>
+          <box l="875.0" t="1330.0" r="932.0" b="1363.0">of</box>
+          <box l="966.0" t="1329.0" r="1236.0" b="1370.0">Measuring</box>
+          <box l="1265.0" t="1329.0" r="1356.0" b="1363.0">the</box>
+          <box l="266.0" t="1388.0" r="569.0" b="1432.0">Deposition</box>
+          <box l="604.0" t="1387.0" r="658.0" b="1421.0">of</box>
+          <box l="692.0" t="1384.0" r="903.0" b="1421.0">Inhaled</box>
+          <box l="937.0" t="1384.0" r="1203.0" b="1429.0">Cigarette</box>
+          <box l="1239.0" t="1384.0" r="1386.0" b="1419.0">Smoke</box>
+          <box l="1424.0" t="1383.0" r="1481.0" b="1417.0">in</box>
+          <box l="1510.0" t="1384.0" r="1628.0" b="1426.0">Dogs</box>
+          <box l="266.0" t="1613.0" r="358.0" b="1646.0">For</box>
+          <box l="388.0" t="1612.0" r="628.0" b="1646.0">Services</box>
+          <box l="663.0" t="1609.0" r="904.0" b="1646.0">Rendered.</box>
+          <box l="1090.0" t="1605.0" r="1227.0" b="1651.0">June;</box>
+          <box l="1270.0" t="1599.0" r="1390.0" b="1650.0">1967</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2780.0" t="1595.0" r="3050.0" b="1646.0">$2,755-55</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

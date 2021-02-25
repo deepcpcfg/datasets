@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "050226",
+    "IssuedDate": "May 26. 1992",
+    "TotalAmount": "19,006",
+    "LineItem": [
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "$6,372.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "3.615.47",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": "7.190.98",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "752.33",
+            "ItemDescription": "Miso. (Copies.stats) $6,372.30 3.615.47 7.190.98 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

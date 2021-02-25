@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "f-2224-11",
+    "IssuedDate": "1'75",
+    "LineItem": [
+        {
+            "ItemDescription": "for",
+            "ItemTotal": "$31,173.12"
+        },
+        {
+            "ItemDescription": "Fixed Fee",
+            "ItemTotal": "1,967,00"
+        }
+    ],
+    "TotalAmount": "$33,140,12"
+}

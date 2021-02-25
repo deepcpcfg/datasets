@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="55.0" fp="35.0" fn="49.0">
+    <LineItem tp="45.0" fp="19.0" fn="49.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="973.0" t="2025.0" r="1147.0" b="2067.0">Labor</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1848.0" t="2018.0" r="2178.0" b="2068.0">19,380.42</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="970.0" t="2278.0" r="1263.0" b="2322.0">Material</box>
+          <box l="1055.0" t="2470.0" r="1151.0" b="2513.0">14^</box>
+          <box l="1201.0" t="2470.0" r="1493.0" b="2511.0">Overhead</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1851.0" t="2466.0" r="2181.0" b="2516.0">10,772.03</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="975.0" t="2983.0" r="1038.0" b="3021.0">At</box>
+          <box l="1092.0" t="2978.0" r="1192.0" b="3020.0">ACC</box>
+          <box l="1242.0" t="2977.0" r="1380.0" b="3019.0">Cost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1854.0" t="2972.0" r="2180.0" b="3027.0">12,206.45</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="0.0" fp="7.0" fn="0.0">
+      <box l="2633.0" t="875.0" r="2963.0" b="945.0">0(jyi54</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="8.0" fn="0.0">
+      <box l="2725.0" t="1060.0" r="3012.0" b="1112.0">10/27/88</box>
+    </IssuedDate>
+    <TotalAmount tp="10.0" fp="1.0" fn="0.0">
+      <box l="2733.0" t="3793.0" r="3137.0" b="3841.0">3105,184.49</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "February 9,2001",
+    "LineItem": [
+        {
+            "ItemDescription": "2001 DLS1 North America Technical Committee on Food Toxicology and Safety Assessment",
+            "ItemTotal": "$7,500.00"
+        },
+        {
+            "ItemDescription": "2001 ILSI Research Foundation Contribution",
+            "ItemTotal": "375.00"
+        }
+    ],
+    "TotalAmount": "$7,875.00"
+}

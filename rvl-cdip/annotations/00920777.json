@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1530-1",
+    "IssuedDate": "September 23, 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "Induction of Hepatic Microsomal Enzymes with A-56, B-90, B-158 and A-45 @ $2,550.00 per compound ",
+            "ItemTotal": "10,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

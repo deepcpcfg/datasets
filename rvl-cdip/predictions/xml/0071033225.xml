@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="255.0" fp="43.0" fn="39.0">
+    <IssuedDate tp="15.0" fp="2.0" fn="2.0">
+      <box l="2030.0" t="757.0" r="2322.0" b="795.0">December</box>
+      <box l="2351.0" t="757.0" r="2426.0" b="801.0">Z2(</box>
+      <box l="2477.0" t="754.0" r="2597.0" b="800.0">1966</box>
+    </IssuedDate>
+    <LineItem tp="240.0" fp="41.0" fn="27.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="537.0" t="1096.0" r="787.0" b="1137.0">Submission</box>
+          <box l="675.0" t="1342.0" r="1037.0" b="1380.0">Professional</box>
+          <box l="1071.0" t="1343.0" r="1309.0" b="1380.0">services</box>
+          <box l="1346.0" t="1341.0" r="1600.0" b="1382.0">rendered,</box>
+          <box l="1626.0" t="1342.0" r="1806.0" b="1392.0">during</box>
+          <box l="1836.0" t="1342.0" r="1917.0" b="1380.0">the</box>
+          <box l="1943.0" t="1342.0" r="2125.0" b="1389.0">period</box>
+          <box l="675.0" t="1409.0" r="708.0" b="1445.0">A</box>
+          <box l="721.0" t="1413.0" r="866.0" b="1459.0">aguet</box>
+          <box l="946.0" t="1408.0" r="1236.0" b="1446.0">November</box>
+          <box l="1267.0" t="1408.0" r="1317.0" b="1446.0">Ln</box>
+          <box l="1343.0" t="1388.0" r="1643.0" b="1460.0">connection</box>
+          <box l="1671.0" t="1409.0" r="1785.0" b="1446.0">with</box>
+          <box l="1814.0" t="1409.0" r="2047.0" b="1458.0">analysis</box>
+          <box l="2076.0" t="1409.0" r="2129.0" b="1446.0">of</box>
+          <box l="675.0" t="1475.0" r="930.0" b="1521.0">cigarette</box>
+          <box l="962.0" t="1475.0" r="1137.0" b="1509.0">smoke</box>
+          <box l="1167.0" t="1474.0" r="1246.0" b="1509.0">for</box>
+          <box l="1275.0" t="1461.0" r="1588.0" b="1521.0">participate</box>
+          <box l="1610.0" t="1480.0" r="1826.0" b="1517.0">matter,</box>
+          <box l="1868.0" t="1479.0" r="2026.0" b="1513.0">water</box>
+          <box l="2055.0" t="1480.0" r="2260.0" b="1513.0">content</box>
+          <box l="675.0" t="1538.0" r="766.0" b="1574.0">and</box>
+          <box l="792.0" t="1538.0" r="1037.0" b="1576.0">nicotine.</box>
+          <box l="1101.0" t="1538.0" r="1204.0" b="1576.0">Our</box>
+          <box l="1237.0" t="1530.0" r="1454.0" b="1585.0">report!</box>
+          <box l="1471.0" t="1538.0" r="1774.0" b="1585.0">September</box>
+          <box l="1809.0" t="1533.0" r="1926.0" b="1580.0">1966</box>
+          <box l="1955.0" t="1546.0" r="2020.0" b="1576.0">On</box>
+          <box l="2043.0" t="1538.0" r="2259.0" b="1577.0">Carlton</box>
+          <box l="675.0" t="1604.0" r="766.0" b="1642.0">and</box>
+          <box l="800.0" t="1610.0" r="1004.0" b="1651.0">reports</box>
+          <box l="1037.0" t="1604.0" r="1258.0" b="1642.0">October</box>
+          <box l="1293.0" t="1600.0" r="1412.0" b="1645.0">1966</box>
+          <box l="1529.0" t="1604.0" r="1697.0" b="1655.0">Lucky</box>
+          <box l="1726.0" t="1601.0" r="1892.0" b="1642.0">Strike</box>
+          <box l="1922.0" t="1605.0" r="2018.0" b="1642.0">and</box>
+          <box l="2043.0" t="1604.0" r="2155.0" b="1642.0">Fall</box>
+          <box l="2188.0" t="1604.0" r="2331.0" b="1646.0">Mali,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2641.0" t="1604.0" r="2739.0" b="1645.0">721.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1768.0" t="1738.0" r="1954.0" b="1776.0">Direct</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2641.0" t="1742.0" r="2739.0" b="1784.0">*50.</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

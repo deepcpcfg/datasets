@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1561-1",
+    "IssuedDate": "December 14, 1983",
+    "TotalAmount": "8,270.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Acute Cardiovascular and Respiratory Effects in Beagle Dogs with A-62 and B-166",
+            "ItemTotal": "8,270.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1010",
+    "IssuedDate": "February 22,1994",
+    "TotalAmount": "13.601. Oft",
+    "LineItem": [
+        {
+            "ItemDescription": "118-1010 Chattanooga 01/31/94 55",
+            "ItemTotal": "$13,351.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Summary Table",
+            "ItemTotal": "250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

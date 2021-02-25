@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "230",
+    "IssuedDate": "03/30/2000",
+    "TotalAmount": "4,742.00 ",
+    "LineItem": [
+        {
+            "ItemTotal": "400.00",
+            "ItemUnitValue": "$400.00",
+            "ItemDescription": "FELIPE CUEVAS PHOTOGRAPHY DATED 3/22/00",
+            "ItemUnitCount": "1"
+        },
+        {
+            "ItemTotal": "$13,642.00",
+            "ItemUnitValue": "$13,642.00",
+            "ItemDescription": "THE FORGE CKRQ DATED 3/21/00",
+            "ItemUnitCount": "1"
+        },
+        {
+            "ItemTotal": "$700.00",
+            "ItemUnitValue": "$700.00",
+            "ItemDescription": "EDWARD TILLOTSON CKRQ DATED 3/21/00",
+            "ItemUnitCount": "1"
+        }
+    ]
+}

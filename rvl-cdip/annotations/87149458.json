@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1889106",
+    "IssuedDate": "03/03/89",
+    "TotalAmount": "5,100.00",
+    "LineItem": [
+        {
+            "ItemDescription": "UDS & SINGLE STRAND BREAKS",
+            "ItemUnitCount": "01.000",
+            "ItemUnitValue": "5,000.00",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemDescription": "SHIPPING CHARGES",
+            "ItemUnitCount": "01.000",
+            "ItemUnitValue": "100.00",
+            "ItemTotal": "100.00"
+        }
+    ]
+}

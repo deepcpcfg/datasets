@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3239",
+    "IssuedDate": "NOVEMBER 25, 1981",
+    "TotalAmount": "3700.60",
+    "LineItem": [
+        {
+            "ItemDescription": "ANNUAL REPORT BOOKS INSERTED INTO ENVELOPES, HAND SEALED, METERED AND MAILED THIRD CLASS MAIL.",
+            "ItemTotal": "$885.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

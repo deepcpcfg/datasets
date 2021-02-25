@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "966",
+    "TotalAmount": "91487",
+    "LineItem": [
+        {
+            "ItemDescription": "Telecommunications",
+            "ItemTotal": "911.17",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Other - Magazine",
+            "ItemTotal": "3.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

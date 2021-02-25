@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "09/30/94",
+    "TotalAmount": "188.14",
+    "LineItem": [
+        {
+            "ItemDescription": "Clipping service: Carolina Clipping Service, Inc.",
+            "ItemTotal": "81.68",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "57.35",
+            "ItemDescription": "Clipping service: South Carolina Press Services, Inc.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9.95",
+            "ItemDescription": "Express mail to Henry Turner",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "33.45",
+            "ItemDescription": "Copies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": ".87",
+            "ItemDescription": "Postage",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4.84",
+            "ItemDescription": "Total phone calls",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

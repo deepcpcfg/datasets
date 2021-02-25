@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "898-3050035",
+    "IssuedDate": "06/03/1993",
+    "LineItem": [
+        {
+            "ItemDescription": "90-000-004 Tobacco - Lorillard",
+            "ItemTotal": "2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Cigarette ",
+            "ItemTotal": "(333.40)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

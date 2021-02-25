@@ -1,0 +1,31 @@
+{
+    "TotalAmount": "7,395.40",
+    "LineItem": [
+        {
+            "ItemDescription": "HOURS LABOR 12/01/91 - 12/31/91 38.00 HRS. § $120.00/HR.",
+            "ItemTotal": "$ 4,560.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TOLLS 12/01/91 - 12/31/91 7.00 DAYS @ $400.00/HR.",
+            "ItemTotal": "2/800.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MATERIALS AND EXPENSES",
+            "ItemTotal": "30.78",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "15% Handling Fee",
+            "ItemTotal": "4.62",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

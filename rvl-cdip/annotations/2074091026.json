@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2 62805",
+    "IssuedDate": "May 13, 1992",
+    "TotalAmount": "330,121.30",
+    "LineItem": [
+        {
+            "ItemDescription": "For Legal Services‘Rendered through April 30 r 1992",
+            "ItemTotal": "300,.411.37",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "29,709-93",
+            "ItemDescription": "Disbursements Recorded through April 30, 1992:",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

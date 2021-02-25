@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR04-D07630",
+    "IssuedDate": "APR10/00",
+    "TotalAmount": "37.89",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Commissionable Charges",
+            "ItemTotal": "37.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Commissionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Commission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

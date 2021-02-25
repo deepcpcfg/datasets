@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "May 3 0, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "Fee",
+            "ItemTotal": "$ 7r049.19",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Share of Philip Morris Management Corp",
+            "ItemTotal": "$ 1.762.29",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

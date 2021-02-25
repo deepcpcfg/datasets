@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "44",
+    "IssuedDate": "0/09 469",
+    "LineItem": [
+        {
+            "ItemDescription": "CONTAINER DRAYAGE",
+            "ItemTotal": "175.00",
+            "ItemUnitValue": "175.00"
+        },
+        {
+            "ItemDescription": "TAIL-GATE EXAM AT NDS HJCU7129184",
+            "ItemUnitCount": "1.",
+            "ItemTotal": "50.00",
+            "ItemUnitValue": "50.00"
+        }
+    ],
+    "TotalAmount": "225.00"
+}

@@ -1,0 +1,199 @@
+[
+    {
+        "TotalAmount": [
+            "16,523.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "18,14D.OO",
+                            {
+                                "tp": 6.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "NOV.29,1993 JET 4TH COVER",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 31.0,
+                        "fp": 3.0,
+                        "fn": 10.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "k COLOR ORDER",
+                            {
+                                "tp": 0.0,
+                                "fp": 13.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "Z,721.00CR",
+                            {
+                                "tp": 8.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "COMMISSION FROM ABOVE ITEM",
+                            {
+                                "tp": 25.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 3.0,
+                        "fn": 2.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,104.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "JET 4TH COVER",
+                            {
+                                "tp": 13.0,
+                                "fp": 0.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 21.0,
+                        "fp": 0.0,
+                        "fn": 12.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "ORDER NUMBER",
+                            {
+                                "tp": 0.0,
+                                "fp": 12.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 12.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 85.0,
+                "fp": 31.0,
+                "fn": 24.0
+            }
+        ],
+        "InvoiceNumber": [
+            "IO42M4",
+            {
+                "tp": 3.0,
+                "fp": 3.0,
+                "fn": 4.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 11.0
+            }
+        ]
+    },
+    {
+        "tp": 97.0,
+        "fp": 34.0,
+        "fn": 39.0
+    }
+]

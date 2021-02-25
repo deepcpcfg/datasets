@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "December 1,1998",
+    "TotalAmount": "3450",
+    "LineItem": [
+        {
+            "ItemDescription": "Meeting an September 16.1998:2.5 hours @$300/hr.",
+            "ItemTotal": "750",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Write report. September 27-29,1398:12 5 hours @ ?300/hr.",
+            "ItemTotal": "3750",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

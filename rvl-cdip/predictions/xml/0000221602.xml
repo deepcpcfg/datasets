@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="194.0" fp="36.0" fn="47.0">
+    <IssuedDate tp="6.0" fp="2.0" fn="8.0">
+      <box l="2399.0" t="825.0" r="2457.0" b="871.0">9,</box>
+      <box l="2515.0" t="821.0" r="3041.0" b="871.0">1983-</box>
+    </IssuedDate>
+    <LineItem tp="183.0" fp="33.0" fn="35.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="408.0" t="1983.0" r="561.0" b="2022.0">Your</box>
+          <box l="604.0" t="1980.0" r="786.0" b="2023.0">share</box>
+          <box l="829.0" t="1980.0" r="903.0" b="2022.0">of</box>
+          <box l="945.0" t="1980.0" r="1053.0" b="2022.0">the</box>
+          <box l="1099.0" t="1979.0" r="1474.0" b="2022.0">multibrand</box>
+          <box l="1515.0" t="1981.0" r="1589.0" b="2022.0">ad</box>
+          <box l="1631.0" t="1980.0" r="1778.0" b="2025.0">that</box>
+          <box l="1826.0" t="1981.0" r="2126.0" b="2038.0">appeared</box>
+          <box l="2170.0" t="1980.0" r="2243.0" b="2026.0">in</box>
+          <box l="2285.0" t="1984.0" r="2393.0" b="2026.0">the</box>
+          <box l="2431.0" t="1984.0" r="2585.0" b="2038.0">Duty</box>
+          <box l="2627.0" t="1985.0" r="2769.0" b="2026.0">Free</box>
+          <box l="409.0" t="2051.0" r="899.0" b="2097.0">International</box>
+          <box l="957.0" t="2051.0" r="1233.0" b="2109.0">(Spring)</box>
+          <box l="1287.0" t="2051.0" r="1731.0" b="2109.0">publication.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2815.0" t="2055.0" r="3035.0" b="2107.0">$262.6</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="408.0" t="2273.0" r="558.0" b="2313.0">Your</box>
+          <box l="604.0" t="2271.0" r="786.0" b="2313.0">share</box>
+          <box l="829.0" t="2271.0" r="903.0" b="2313.0">of</box>
+          <box l="941.0" t="2271.0" r="1053.0" b="2313.0">the</box>
+          <box l="1099.0" t="2267.0" r="1474.0" b="2313.0">multibrand</box>
+          <box l="1515.0" t="2272.0" r="1589.0" b="2313.0">ad</box>
+          <box l="1631.0" t="2272.0" r="1780.0" b="2313.0">that</box>
+          <box l="1826.0" t="2272.0" r="2126.0" b="2326.0">appeared</box>
+          <box l="2172.0" t="2271.0" r="2243.0" b="2315.0">in</box>
+          <box l="2285.0" t="2272.0" r="2393.0" b="2314.0">the</box>
+          <box l="2431.0" t="2271.0" r="2697.0" b="2313.0">Airline</box>
+          <box l="407.0" t="2342.0" r="633.0" b="2384.0">Travel</box>
+          <box l="675.0" t="2342.0" r="824.0" b="2384.0">Food</box>
+          <box l="866.0" t="2341.0" r="1160.0" b="2392.0">Service,</box>
+          <box l="1208.0" t="2342.0" r="1399.0" b="2386.0">March</box>
+          <box l="1445.0" t="2342.0" r="1615.0" b="2392.0">1983,</box>
+          <box l="1665.0" t="2342.0" r="2116.0" b="2397.0">publication.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2818.0" t="2342.0" r="3035.0" b="2394.0">$385.0</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="1.0" fn="0.0">
+      <box l="2818.0" t="2416.0" r="3034.0" b="2467.0">$647.7</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

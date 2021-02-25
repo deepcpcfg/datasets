@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="30.0" fp="44.0" fn="66.0">
+    <IssuedDate tp="11.0" fp="5.0" fn="0.0">
+      <box l="2127.0" t="550.0" r="2343.0" b="597.0">January</box>
+      <box l="2380.0" t="545.0" r="2462.0" b="594.0">14,</box>
+      <box l="2505.0" t="545.0" r="2622.0" b="586.0">1982</box>
+    </IssuedDate>
+    <LineItem tp="15.0" fp="39.0" fn="63.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="717.0" t="899.0" r="804.0" b="940.0">1?X</box>
+          <box l="837.0" t="899.0" r="1054.0" b="946.0">monthly</box>
+          <box l="1088.0" t="898.0" r="1296.0" b="938.0">service</box>
+          <box l="1333.0" t="898.0" r="1511.0" b="944.0">charge</box>
+          <box l="1546.0" t="894.0" r="1666.0" b="933.0">will</box>
+          <box l="1700.0" t="893.0" r="1757.0" b="931.0">be</box>
+          <box l="1794.0" t="891.0" r="1940.0" b="931.0">added</box>
+          <box l="1978.0" t="891.0" r="2128.0" b="929.0">after</box>
+          <box l="2166.0" t="888.0" r="2222.0" b="929.0">30</box>
+          <box l="2257.0" t="889.0" r="2377.0" b="935.0">days</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2671.0" t="229.0" r="2879.0" b="301.0">0666</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

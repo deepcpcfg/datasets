@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "6804",
+    "IssuedDate": "November 1, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "Two-thirde of Campaign Consulting Fee (Total Consul tine Fee - $15,000.00) ",
+            "ItemTotal": "$10,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

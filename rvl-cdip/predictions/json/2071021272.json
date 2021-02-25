@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "August 30, 1994",
+    "InvoiceNumber": "1317773",
+    "LineItem": [
+        {
+            "ItemDescription": "Fee: 1/5 of attached detailed statement",
+            "ItemTotal": "S31.004.95"
+        },
+        {
+            "ItemDescription": "1/5 of",
+            "ItemTotal": "1,140.66"
+        }
+    ]
+}

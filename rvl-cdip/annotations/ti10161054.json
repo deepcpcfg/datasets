@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "670398",
+    "IssuedDate": "MARCH 26. 1987 ",
+    "TotalAmount": "247 ,5 1",
+    "LineItem": [
+        {
+            "ItemDescription": "CHARACTER GENERATION;",
+            "ItemUnitCount": "2.25 ",
+            "ItemUnitValue": "80",
+            "ItemTotal": "180.00"
+        },
+        {
+            "ItemTotal": "23.50",
+            "ItemUnitValue": "23.50",
+            "ItemUnitCount": "1",
+            "ItemDescription": "BCA-30"
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemUnitValue": "30.00",
+            "ItemUnitCount": "1",
+            "ItemDescription": "BCA-60"
+        }
+    ]
+}

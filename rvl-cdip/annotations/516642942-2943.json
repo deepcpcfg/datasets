@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "3750",
+    "IssuedDate": "11/20/96",
+    "TotalAmount": "14,030.08",
+    "LineItem": [
+        {
+            "ItemDescription": "CONDE NAST PUBLICATIONS - DETAILS w/o DECEMBER 1996 (2)",
+            "ItemTotal": "15,167.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS 7.5% DISCOUNT",
+            "ItemTotal": "-1,137.57",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

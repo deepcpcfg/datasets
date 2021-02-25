@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1588-2",
+    "IssuedDate": "May 9, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Range-Finding Study in Albino Rats (phase I and II) with A-110*",
+            "ItemTotal": "$2,650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

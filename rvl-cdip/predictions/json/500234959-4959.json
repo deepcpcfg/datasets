@@ -1,0 +1,18 @@
+{
+    "TotalAmount": "INC,",
+    "IssuedDate": "6/25/70",
+    "LineItem": [
+        {
+            "ItemDescription": "Tobacco Product Tost",
+            "ItemTotal": "1,235.00"
+        },
+        {
+            "ItemDescription": "Cupervlbory pengo",
+            "ItemTotal": "125.25"
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemTotal": "15.71"
+        }
+    ]
+}

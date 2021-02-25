@@ -1,0 +1,24 @@
+{
+    "InvoiceNumber": "IO42M4",
+    "LineItem": [
+        {
+            "ItemDescription": "NOV.29,1993 JET 4TH COVER",
+            "ItemTotal": "18,14D.OO"
+        },
+        {
+            "ItemDescription": "k COLOR ORDER"
+        },
+        {
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemTotal": "Z,721.00CR"
+        },
+        {
+            "ItemDescription": "JET 4TH COVER",
+            "ItemTotal": "1,104.00"
+        },
+        {
+            "ItemDescription": "ORDER NUMBER"
+        }
+    ],
+    "TotalAmount": "16,523.00"
+}

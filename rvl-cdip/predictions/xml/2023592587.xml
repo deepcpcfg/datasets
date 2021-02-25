@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="82.0" fp="7.0" fn="10.0">
+    <IssuedDate tp="19.0" fp="0.0" fn="0.0">
+      <box l="637.0" t="1812.0" r="770.0" b="1854.0">13th</box>
+      <box l="813.0" t="1815.0" r="1133.0" b="1859.0">September</box>
+      <box l="1180.0" t="1816.0" r="1309.0" b="1858.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="57.0" fp="4.0" fn="8.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="629.0" t="2429.0" r="658.0" b="2466.0">J</box>
+          <box l="700.0" t="2428.0" r="909.0" b="2470.0">Dilley</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1995.0" t="2435.0" r="2200.0" b="2474.0">124.01</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="629.0" t="2544.0" r="658.0" b="2587.0">D</box>
+          <box l="704.0" t="2545.0" r="730.0" b="2585.0">F</box>
+          <box l="771.0" t="2545.0" r="1016.0" b="2587.0">Westman</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1886.0" t="2554.0" r="2195.0" b="2599.0">£4,322.97</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="629.0" t="2669.0" r="649.0" b="2710.0">J</box>
+          <box l="696.0" t="2670.0" r="871.0" b="2720.0">Munby</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1992.0" t="2679.0" r="2200.0" b="2723.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="624.0" t="2810.0" r="654.0" b="2849.0">R</box>
+          <box l="700.0" t="2812.0" r="871.0" b="2858.0">Perry</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1991.0" t="2817.0" r="2195.0" b="2866.0">969,_38</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="3.0" fn="2.0">
+      <box l="1883.0" t="2941.0" r="2195.0" b="2987.0">£5,517,16</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

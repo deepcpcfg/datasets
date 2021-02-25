@@ -1,0 +1,125 @@
+{
+    "InvoiceNumber": "£77000003204",
+    "IssuedDate": "02/14/91",
+    "LineItem": [
+        {
+            "ItemDescription": "VIRGINIA SLIM SPR SLIM MNTH 100'S",
+            "ItemUnitCount": "423",
+            "ItemTotal": "$211.50"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM SPR SLIM REG 100'S",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "387",
+            "ItemTotal": "93.50"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM SUPERSLIM MTHL 100 0X",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "27",
+            "ItemTotal": "<54.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM SUPERSLIM REG 100 BOX",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "31",
+            "ItemTotal": "$62.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIMS ULTRA LIGHT MNTH 100",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1390",
+            "ItemTotal": "$695.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIMS ULTRA LIGHT 100’S",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1749",
+            "ItemTotal": "$874.50"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM ULTRA LIGHT MNTHL 100",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "72",
+            "ItemTotal": "$144.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM ULTRA LIGHT 100'S",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "82",
+            "ItemTotal": "$164.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM LIGHT MENTHOL BOX",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1103",
+            "ItemTotal": "$551.5G"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM MENTHOL FILTER",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1094",
+            "ItemTotal": "$547.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM LIGHT FILTER BOX",
+            "ItemUnitCount": "50",
+            "ItemTotal": "$689.50"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM REGULAR 120'S",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1730",
+            "ItemTotal": "$365.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM MENTHOL 120'S",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1080",
+            "ItemTotal": "$540.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM 100'S FILTER",
+            "ItemUnitValue": ".50",
+            "ItemUnitCount": "1836",
+            "ItemTotal": "$918.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM MENTHOL 120'S BOX",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "78",
+            "ItemTotal": "1156.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM REGULAR IZO’S",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "123",
+            "ItemTotal": "S246.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM MENTHOL FILTER",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "74",
+            "ItemTotal": "$148.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM LIGHT MENTHOL 80X",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "74",
+            "ItemTotal": "$148.OC"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM LIGHT FILTER BOX",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "97",
+            "ItemTotal": "$194.00"
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIM 100’S FILTER",
+            "ItemUnitValue": "2.00",
+            "ItemUnitCount": "106",
+            "ItemTotal": "$212.00"
+        }
+    ],
+    "TotalAmount": "$7,613.50"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="48.0" fp="46.0" fn="19.0">
+    <InvoiceNumber tp="0.0" fp="6.0" fn="0.0">
+      <box l="2381.0" t="453.0" r="2597.0" b="493.0">011565</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="7.0" fn="0.0">
+      <box l="2744.0" t="454.0" r="2997.0" b="493.0">2/04/92</box>
+    </IssuedDate>
+    <LineItem tp="48.0" fp="33.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="372.0" t="1439.0" r="509.0" b="1477.0">5164</box>
+          <box l="555.0" t="1439.0" r="806.0" b="1477.0">RECORDS</box>
+          <box l="412.0" t="1502.0" r="512.0" b="1539.0">150</box>
+          <box l="554.0" t="1501.0" r="805.0" b="1539.0">RECORDS</box>
+          <box l="849.0" t="1501.0" r="988.0" b="1539.0">WITH</box>
+          <box l="1033.0" t="1501.0" r="1281.0" b="1538.0">CONTACT</box>
+          <box l="1323.0" t="1500.0" r="1499.0" b="1538.0">NAMES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2824.0" t="1432.0" r="3037.0" b="1470.0">469.26</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="440.0" t="1927.0" r="544.0" b="1963.0">ONE</box>
+          <box l="590.0" t="1926.0" r="731.0" b="1964.0">TAPE</box>
+          <box l="772.0" t="1928.0" r="839.0" b="1963.0">AT</box>
+          <box l="884.0" t="1927.0" r="1007.0" b="1965.0">*25-</box>
+          <box l="1031.0" t="1929.0" r="1097.0" b="1962.0">00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2857.0" t="1925.0" r="2944.0" b="1961.0">25.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="438.0" t="2478.0" r="727.0" b="2517.0">SHIPPING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2890.0" t="2476.0" r="2941.0" b="2511.0">9.</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

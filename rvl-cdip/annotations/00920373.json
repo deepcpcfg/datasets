@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1571-2",
+    "IssuedDate": "February 1, 1984",
+    "TotalAmount": "153,900.60",
+    "LineItem": [
+        {
+            "ItemDescription": "Mouse Skin Painting Study With D-6 and D-17 2nd of 11 Monthly Installments",
+            "ItemTotal": "15,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

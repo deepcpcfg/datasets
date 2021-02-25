@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "July 23, 1982",
+    "InvoiceNumber": "1450-1",
+    "LineItem": [
+        {
+            "ItemDescription": "B-107."
+        },
+        {
+            "ItemDescription": "Cardiovascular Testing of Compounds B-118 compound and B-23, at $3,700.00"
+        }
+    ],
+    "TotalAmount": "$11,100.00"
+}

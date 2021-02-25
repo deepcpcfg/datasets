@@ -1,0 +1,47 @@
+{
+    "IssuedDate": "March 1967",
+    "LineItem": [
+        {
+            "ItemDescription": "Laboratory",
+            "ItemTotal": "562.58"
+        },
+        {
+            "ItemDescription": "Animal Feed and Bedding",
+            "ItemTotal": "599.27"
+        },
+        {
+            "ItemDescription": "Pharmacologist (Emil R. Smithy",
+            "ItemTotal": "42.50"
+        },
+        {
+            "ItemDescription": "Biochemist (Harris Rosenkrantz, Pathologist (Marcus M. Mason, Histochemist",
+            "ItemTotal": "181.64"
+        },
+        {
+            "ItemDescription": "(Alexandras GouvelIs,D. V.M.J95",
+            "ItemTotal": "306.27"
+        },
+        {
+            "ItemDescription": "Technician pharmacology",
+            "ItemTotal": "1,136.00"
+        },
+        {
+            "ItemDescription": "Technician biochemist",
+            "ItemTotal": "222.09"
+        },
+        {
+            "ItemDescription": "Technician histology",
+            "ItemTotal": "138.52"
+        },
+        {
+            "ItemDescription": "Clerk-data processsing",
+            "ItemUnitValue": "5.20",
+            "ItemTotal": "2,123.23"
+        },
+        {
+            "ItemDescription": "Overhead (100 of Direct Labor)",
+            "ItemTotal": "2,123.23"
+        }
+    ],
+    "TotalAmount": "$5,427.21"
+}

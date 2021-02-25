@@ -1,0 +1,49 @@
+{
+    "IssuedDate": "December 4, 1997",
+    "TotalAmount": "924.17",
+    "LineItem": [
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "77.28",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Faxes",
+            "ItemTotal": "13.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copies",
+            "ItemTotal": "0.63",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postage",
+            "ItemTotal": "11.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Business Meals & Entertainment",
+            "ItemTotal": "459.26",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Gas",
+            "ItemTotal": "40.31",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Business Travel/Hotel (1/2 pro-rata share",
+            "ItemTotal": "321.73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

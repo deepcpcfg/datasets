@@ -1,0 +1,206 @@
+[
+    {
+        "TotalAmount": [
+            "4,152.00",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "0",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "50 Comp, Prem, Orch. tickets 00",
+                            {
+                                "tp": 29.0,
+                                "fp": 2.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 30.0,
+                        "fp": 2.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,152",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "36 Prem Orch tickets $32 (40 less 20% disc.)",
+                            {
+                                "tp": 43.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 1.0,
+                        "fn": 5.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "78",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2,496",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Prem. Mezz, tickets $32 (40 less 20% disc.)",
+                            {
+                                "tp": 43.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 2.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "18",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "504",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pref Orch tickets $28 (35 less 20% disc.)",
+                            {
+                                "tp": 41.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 44.0,
+                        "fp": 2.0,
+                        "fn": 7.0
+                    }
+                ]
+            ],
+            {
+                "tp": 170.0,
+                "fp": 7.0,
+                "fn": 27.0
+            }
+        ],
+        "InvoiceNumber": [
+            "091294-02",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 19.0
+            }
+        ]
+    },
+    {
+        "tp": 187.0,
+        "fp": 7.0,
+        "fn": 46.0
+    }
+]

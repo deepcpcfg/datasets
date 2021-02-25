@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "September .15, 1994",
+    "InvoiceNumber": "091294-02",
+    "TotalAmount": "4,152.00",
+    "LineItem": [
+        {
+            "ItemDescription": "50 Comp. Prem. Orch. tickets @ $ 00",
+            "ItemTotal": "$ 0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "36 Prem Orch tickets § $32 (40 less 20% disc.]",
+            "ItemTotal": "$ 1,152",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "78 Prem. Mezz, tickets § $32 (40 less 20% disc.)",
+            "ItemTotal": "$ 2,496",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "18 Pref Orch tickets @ $28 (35 less 20% disc.)",
+            "ItemTotal": "$ 504",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

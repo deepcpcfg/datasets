@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="67.0" fp="98.0" fn="41.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="601.0" t="876.0" r="880.0" b="919.0">November</box>
+      <box l="910.0" t="876.0" r="989.0" b="926.0">30,</box>
+      <box l="1027.0" t="876.0" r="1155.0" b="921.0">1994</box>
+    </IssuedDate>
+    <LineItem tp="41.0" fp="97.0" fn="37.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="599.0" t="1823.0" r="691.0" b="1866.0">"It's</box>
+          <box l="720.0" t="1822.0" r="819.0" b="1867.0">The</box>
+          <box l="853.0" t="1822.0" r="974.0" b="1867.0">Law"</box>
+          <box l="1002.0" t="1822.0" r="1293.0" b="1868.0">Qualitative</box>
+          <box l="1331.0" t="1823.0" r="1606.0" b="1867.0">Research:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2554.0" t="1820.0" r="2874.0" b="1868.0">$27.266,03</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="709.0" t="2786.0" r="991.0" b="2831.0">Moderator</box>
+          <box l="1026.0" t="2789.0" r="1170.0" b="2831.0">travel</box>
+          <box l="813.0" t="2848.0" r="888.0" b="2889.0">Air</box>
+          <box l="917.0" t="2847.0" r="1034.0" b="2890.0">fare:</box>
+          <box l="817.0" t="2907.0" r="967.0" b="2952.0">Hotel:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1867.0" t="2846.0" r="2095.0" b="2892.0">$385.46</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="813.0" t="2965.0" r="951.0" b="3014.0">Cars,</box>
+          <box l="984.0" t="2968.0" r="1117.0" b="3013.0">taxis,</box>
+          <box l="1150.0" t="2972.0" r="1258.0" b="3010.0">etc.:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1920.0" t="2966.0" r="2088.0" b="3016.0">138.91</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="708.0" t="3031.0" r="835.0" b="3073.0">Total</box>
+          <box l="867.0" t="3031.0" r="1146.0" b="3072.0">moderator</box>
+          <box l="1180.0" t="3031.0" r="1321.0" b="3073.0">travel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2693.0" t="3032.0" r="2873.0" b="3074.0">850,45</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2574.0" t="3212.0" r="2940.0" b="3261.0">$10,216.48</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

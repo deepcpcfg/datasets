@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="320.0" fp="9.0" fn="20.0">
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="1455.0" t="429.0" r="1655.0" b="470.0">January</box>
+      <box l="1689.0" t="426.0" r="1768.0" b="470.0">28,</box>
+      <box l="1813.0" t="425.0" r="1918.0" b="462.0">1983</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="1.0" fn="0.0">
+      <box l="1692.0" t="954.0" r="1896.0" b="992.0">#806053</box>
+    </InvoiceNumber>
+    <LineItem tp="298.0" fp="8.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="125.0" t="1720.0" r="226.0" b="1755.0">'Tkrw</box>
+          <box l="255.0" t="1720.0" r="370.0" b="1755.0">York</box>
+          <box l="400.0" t="1720.0" r="550.0" b="1753.0">Press</box>
+          <box l="583.0" t="1720.0" r="722.0" b="1754.0">Event</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1230.0" t="1713.0" r="1400.0" b="1752.0">604.31</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2672.0" t="1713.0" r="2839.0" b="1752.0">604.31</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="133.0" t="1776.0" r="341.0" b="1814.0">Herroit</box>
+          <box l="376.0" t="1780.0" r="516.0" b="1813.0">Press</box>
+          <box l="554.0" t="1780.0" r="695.0" b="1813.0">Event</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1171.0" t="1771.0" r="1400.0" b="1817.0">3,376.82</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2614.0" t="1771.0" r="2846.0" b="1821.0">3,376.82</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2872.0" t="1815.0" r="2876.0" b="1850.0">1</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="141.0" t="1838.0" r="316.0" b="1875.0">Boston.</box>
+          <box l="346.0" t="1838.0" r="488.0" b="1872.0">Press</box>
+          <box l="525.0" t="1838.0" r="666.0" b="1871.0">Event</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1262.0" t="1832.0" r="1401.0" b="1872.0">57.20</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2706.0" t="1830.0" r="2844.0" b="1872.0">57.20</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="141.0" t="1896.0" r="228.0" b="1933.0">Kew</box>
+          <box l="258.0" t="1895.0" r="375.0" b="1933.0">York</box>
+          <box l="405.0" t="1892.0" r="554.0" b="1930.0">Media</box>
+          <box l="584.0" t="1892.0" r="846.0" b="1941.0">Reception</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1172.0" t="1891.0" r="1400.0" b="1938.0">2,305.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2614.0" t="1891.0" r="2846.0" b="1934.0">2,305.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="141.0" t="1951.0" r="461.0" b="1992.0">Invitations</box>
+          <box l="500.0" t="1960.0" r="550.0" b="1991.0">to</box>
+          <box l="587.0" t="1963.0" r="725.0" b="1997.0">press</box>
+          <box l="762.0" t="1959.0" r="929.0" b="1988.0">events</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1229.0" t="1950.0" r="1405.0" b="1989.0">644.08</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2676.0" t="1946.0" r="2846.0" b="1988.0">644.08</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="137.0" t="2013.0" r="341.0" b="2046.0">Masters</box>
+          <box l="379.0" t="2009.0" r="433.0" b="2046.0">of</box>
+          <box l="467.0" t="2010.0" r="641.0" b="2055.0">Hockey</box>
+          <box l="671.0" t="2009.0" r="816.0" b="2046.0">media</box>
+          <box l="851.0" t="2009.0" r="934.0" b="2042.0">and</box>
+          <box l="175.0" t="2076.0" r="462.0" b="2114.0">appearance</box>
+          <box l="501.0" t="2067.0" r="608.0" b="2105.0">fees</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1146.0" t="2064.0" r="1404.0" b="2113.0">10,010.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2593.0" t="2063.0" r="2848.0" b="2110.0">10,010.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="141.0" t="2126.0" r="345.0" b="2163.0">Rowland</box>
+          <box l="379.0" t="2126.0" r="454.0" b="2163.0">Co.</box>
+          <box l="496.0" t="2134.0" r="725.0" b="2172.0">expenses</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1176.0" t="2125.0" r="1401.0" b="2169.0">1,409.62</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2623.0" t="2122.0" r="2847.0" b="2167.0">1,409.62</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="141.0" t="2181.0" r="520.0" b="2217.0">Miscellaneous</box>
+          <box l="558.0" t="2192.0" r="783.0" b="2229.0">expenses</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1233.0" t="2184.0" r="1312.0" b="2217.0">373</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2681.0" t="2177.0" r="2847.0" b="2217.0">373.08</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

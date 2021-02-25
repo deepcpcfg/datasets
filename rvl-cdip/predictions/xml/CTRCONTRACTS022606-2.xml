@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="102.0" fp="18.0" fn="63.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2651.0" t="1117.0" r="2880.0" b="1154.0">0045821</box>
+    </InvoiceNumber>
+    <LineItem tp="95.0" fp="18.0" fn="47.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="762.0" t="1856.0" r="1026.0" b="1895.0">TERMINAL</box>
+          <box l="1045.0" t="1858.0" r="1748.0" b="1901.0">,,CHARCES_</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2080.0" t="1854.0" r="2241.0" b="1892.0">55.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="759.0" t="1909.0" r="929.0" b="1946.0">ENTRY</box>
+          <box l="963.0" t="1909.0" r="1059.0" b="1946.0">FEE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2079.0" t="1905.0" r="2241.0" b="1946.0">57.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="763.0" t="1967.0" r="1059.0" b="2006.0">TMMFBTATE</box>
+          <box l="1100.0" t="1967.0" r="1360.0" b="2006.0">DELIVERY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2083.0" t="1963.0" r="2238.0" b="2002.0">15.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="688.0" t="2026.0" r="1059.0" b="2066.0">_VALUATION</box>
+          <box l="1100.0" t="2026.0" r="1125.0" b="2067.0">1</box>
+          <box l="1159.0" t="2026.0" r="1392.0" b="2066.0">CLA8SIF</box>
+          <box l="1409.0" t="2045.0" r="1748.0" b="2066.0">t_</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2112.0" t="2021.0" r="2239.0" b="2063.0">7.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="752.0" t="2134.0" r="883.0" b="2176.0">EELt</box>
+          <box l="930.0" t="2134.0" r="1091.0" b="2176.0">ORDER</box>
+          <box l="1134.0" t="2134.0" r="1158.0" b="2176.0">1</box>
+          <box l="1196.0" t="2134.0" r="1429.0" b="2177.0">RELEASE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2080.0" t="2131.0" r="2240.0" b="2167.0">10*00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "277-0008",
+    "IssuedDate": "10/03/88",
+    "TotalAmount": "1,012.09",
+    "LineItem": [
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "356.7000",
+            "ItemTotal": "713.40",
+            "ItemDescription": "SALEM"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "356.7000",
+            "ItemTotal": "713.40",
+            "ItemDescription": "SALEM"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "356.7000",
+            "ItemTotal": "1,070.10",
+            "ItemDescription": "SALEM"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "356.7000",
+            "ItemTotal": "713.40",
+            "ItemDescription": "SALEM"
+        }
+    ]
+}

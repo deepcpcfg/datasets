@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "153311",
+    "IssuedDate": "04/16/92",
+    "LineItem": [
+        {
+            "ItemDescription": "Secretarial overtloo in connection oith inputting attendee”* list for HBI Seattle tour Secretarial overtine in connection alth editing*",
+            "ItemTotal": "^11*00"
+        },
+        {
+            "ItemDescription": "copyings fusing and Bailing HBI nedla tour* information Secretarial avertine in",
+            "ItemTotal": "54.00"
+        },
+        {
+            "ItemDescription": "connection oith HBI calls Secretarial avertin* in",
+            "ItemTotal": "180.00"
+        },
+        {
+            "ItemDescription": "connection oith entering HBI nedla tour list",
+            "ItemTotal": "36.00"
+        },
+        {
+            "ItemDescription": "Photocopies of necessary naterials St Leals",
+            "ItemTotal": "3.60"
+        }
+    ],
+    "TotalAmount": "8291.60"
+}

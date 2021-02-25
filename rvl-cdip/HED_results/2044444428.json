@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "Date 30 APRIL 1986",
+            {
+                "tp": 13.0,
+                "fp": 5.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$5,457,00",
+            {
+                "tp": 7.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$9,155.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PROFESSIONAL SERVICE FEES",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "4,250,00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PREVIOUSLY",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 0.0,
+                        "fn": 12.0
+                    }
+                ]
+            ],
+            {
+                "tp": 52.0,
+                "fp": 0.0,
+                "fn": 13.0
+            }
+        ],
+        "InvoiceNumber": [
+            "04309",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 77.0,
+        "fp": 7.0,
+        "fn": 14.0
+    }
+]

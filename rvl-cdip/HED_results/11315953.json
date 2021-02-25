@@ -1,0 +1,158 @@
+[
+    {
+        "IssuedDate": [
+            "JULY 13, 1983",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "RUNNING ONE GALLEY FOR LIST Z-l 375",
+                            {
+                                "tp": 0.0,
+                                "fp": 35.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 35.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "CHANGES",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 7.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$93.60",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PLATES EMBOSSED",
+                            {
+                                "tp": 15.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 21.0,
+                        "fp": 0.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "92.00",
+                            {
+                                "tp": 4.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DELETIONS DELETIONS, ADDRESSING GALLEYS, CHECKING LIST ETC.",
+                            {
+                                "tp": 48.0,
+                                "fp": 11.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 52.0,
+                        "fp": 12.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 73.0,
+                "fp": 54.0,
+                "fn": 5.0
+            }
+        ],
+        "InvoiceNumber": [
+            "699",
+            {
+                "tp": 3.0,
+                "fp": 0.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 89.0,
+        "fp": 54.0,
+        "fn": 13.0
+    }
+]

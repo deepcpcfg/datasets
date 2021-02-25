@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "05-0125",
+    "IssuedDate": "May 20, 1993",
+    "TotalAmount": "56.82",
+    "LineItem": [
+        {
+            "ItemDescription": "Data Entry \"BSL392\" (10 pcs. @ $58.82 min, chg.)",
+            "ItemTotal": "$58.82",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

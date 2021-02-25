@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "2099",
+    "IssuedDate": "Aug. 29, 1969.",
+    "LineItem": [
+        {
+            "ItemDescription": "Project 208 Topical",
+            "ItemTotal": "$1,200.00"
+        },
+        {
+            "ItemDescription": "Project 209 Subcutaneous Disbursements: Telephone",
+            "ItemTotal": "700.00"
+        }
+    ],
+    "TotalAmount": "$1,903.55"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1108",
+    "IssuedDate": "12/01/97",
+    "TotalAmount": "94.60",
+    "LineItem": [
+        {
+            "ItemDescription": "! 1-24-97 Passenger, Mr. Phii Carlton. From IAD To As",
+            "ItemTotal": "79.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

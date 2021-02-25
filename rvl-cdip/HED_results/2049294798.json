@@ -1,0 +1,141 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "12",
+                            {
+                                "tp": 2.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "1,738.40",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "NOV 87 GOHJUTER CLOCKS-BL",
+                            {
+                                "tp": 0.0,
+                                "fp": 25.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 26.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "152",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "18.543.53",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "NOV 87 COMMJTER CLOCKS-BL",
+                            {
+                                "tp": 0.0,
+                                "fp": 25.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 11.0,
+                        "fp": 26.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "BLB B6.H LIGHTS BOX",
+                            {
+                                "tp": 0.0,
+                                "fp": 19.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 19.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 20.0,
+                "fp": 71.0,
+                "fn": 2.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 20.0,
+        "fp": 71.0,
+        "fn": 27.0
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "104264-00",
+    "IssuedDate": "04/02/87",
+    "LineItem": [
+        {
+            "ItemDescription": "DETROIT TIGERS NEW YORK YANKEES CHICAGO WHITE SOX",
+            "ItemTotal": "59145"
+        }
+    ]
+}

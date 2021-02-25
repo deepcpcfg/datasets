@@ -1,0 +1,34 @@
+{
+    "IssuedDate": "July 16,1998",
+    "LineItem": [
+        {
+            "ItemDescription": "5- 18'98 Review of d ocume dU",
+            "ItemTotal": "350.00"
+        },
+        {
+            "ItemDescription": "6- 5-98 Review of new documents provided",
+            "ItemTotal": "350,00"
+        },
+        {
+            "ItemDescription": "6*8 Io 6*9-98 Review of medical records documents 3 hours",
+            "ItemTotal": "1050.00"
+        },
+        {
+            "ItemDescription": "6-10-98 Meeting. 2hours",
+            "ItemTotal": "700.00"
+        },
+        {
+            "ItemDescription": "6-10 Io 9-23-98 Review of literature and prepara tion affid avii 4 hours",
+            "ItemTotal": "1400.00"
+        },
+        {
+            "ItemDescription": "6-13-98 Conference call",
+            "ItemTotal": "175.00"
+        },
+        {
+            "ItemDescription": "6-7-98 Conference call and affidavit",
+            "ItemTotal": "875.00"
+        }
+    ],
+    "TotalAmount": "4900.00"
+}

@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "95C1002S6P",
+    "LineItem": [
+        {
+            "ItemDescription": "01/1995",
+            "ItemUnitValue": "$147.00",
+            "ItemTotal": "$147.00"
+        },
+        {
+            "ItemDescription": "03/1995",
+            "ItemTotal": "$147.00",
+            "ItemUnitValue": "($147.00}"
+        }
+    ],
+    "TotalAmount": "$2,940.00"
+}

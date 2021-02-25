@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="159.0" fp="10.0" fn="17.0">
+    <InvoiceNumber tp="6.0" fp="1.0" fn="1.0">
+      <box l="1983.0" t="469.0" r="2171.0" b="504.0">0228575</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2426.0" t="474.0" r="2613.0" b="508.0">04/09/99</box>
+    </IssuedDate>
+    <TotalAmount tp="1.0" fp="4.0" fn="5.0">
+      <box l="854.0" t="1083.0" r="980.0" b="1121.0">10003</box>
+    </TotalAmount>
+    <LineItem tp="144.0" fp="5.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="452.0" t="1907.0" r="466.0" b="1945.0">1</box>
+          <box l="504.0" t="1908.0" r="650.0" b="1945.0">COMP</box>
+          <box l="666.0" t="1908.0" r="733.0" b="1946.0">FM</box>
+          <box l="753.0" t="1908.0" r="888.0" b="1946.0">8.5x11</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2233.0" t="1846.0" r="2350.0" b="1883.0">28.55</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2667.0" t="1846.0" r="2783.0" b="1887.0">28.55</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="450.0" t="2084.0" r="721.0" b="2129.0">TRANSFER.</box>
+          <box l="745.0" t="2085.0" r="759.0" b="2121.0">1</box>
+          <box l="784.0" t="2084.0" r="954.0" b="2121.0">COLOR</box>
+          <box l="971.0" t="2084.0" r="1212.0" b="2126.0">ORIGINAL,</box>
+          <box l="1231.0" t="2084.0" r="1296.0" b="2121.0">8.5</box>
+          <box l="1313.0" t="2092.0" r="1334.0" b="2121.0">x</box>
+          <box l="1356.0" t="2084.0" r="1392.0" b="2121.0">11</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1980.0" t="2025.0" r="1996.0" b="2058.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2229.0" t="2025.0" r="2348.0" b="2062.0">46,00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2663.0" t="2025.0" r="2780.0" b="2063.0">46.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="446.0" t="2259.0" r="720.0" b="2301.0">TRANSFER.</box>
+          <box l="741.0" t="2262.0" r="758.0" b="2296.0">1</box>
+          <box l="783.0" t="2259.0" r="951.0" b="2297.0">COLOR</box>
+          <box l="971.0" t="2259.0" r="1212.0" b="2299.0">ORIGINAL.</box>
+          <box l="1230.0" t="2259.0" r="1292.0" b="2296.0">8.5</box>
+          <box l="1309.0" t="2268.0" r="1334.0" b="2296.0">x</box>
+          <box l="1355.0" t="2259.0" r="1392.0" b="2296.0">11</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1979.0" t="2200.0" r="2000.0" b="2234.0">3</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2230.0" t="2200.0" r="2346.0" b="2238.0">56.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2638.0" t="2200.0" r="2780.0" b="2238.0">168.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="450.0" t="2378.0" r="558.0" b="2416.0">PICK</box>
+          <box l="579.0" t="2378.0" r="641.0" b="2415.0">UP</box>
+          <box l="687.0" t="2378.0" r="925.0" b="2417.0">DELIVERY</box>
+          <box l="942.0" t="2378.0" r="1146.0" b="2416.0">CHARGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2663.0" t="2378.0" r="2777.0" b="2413.0">10.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "38",
+    "IssuedDate": "September 2,1997",
+    "TotalAmount": "4,252.23",
+    "LineItem": [
+        {
+            "ItemDescription": "Taxi to hotel",
+            "ItemTotal": "$ 33.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Research Review",
+            "ItemTotal": "$ 1400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Room charges",
+            "ItemTotal": "$ 475.73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shuttle to SeaTac",
+            "ItemTotal": "$ 7.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Parking",
+            "ItemTotal": "$ 26.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "1129.10 Expert Consultant",
+            "ItemTotal": "2,310.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

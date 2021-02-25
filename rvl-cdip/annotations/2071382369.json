@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "14, 1994",
+    "InvoiceNumber": "1994-23",
+    "TotalAmount": "12,100",
+    "LineItem": [
+        {
+            "ItemDescription": "Total Cost of Proyect (40 one-on-one interviews)",
+            "ItemTotal": "$24,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

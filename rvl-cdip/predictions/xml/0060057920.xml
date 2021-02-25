@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="69.0" fp="21.0" fn="22.0">
+    <TotalAmount tp="4.0" fp="4.0" fn="5.0">
+      <box l="2297.0" t="352.0" r="2479.0" b="382.0">860-8800</box>
+    </TotalAmount>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2488.0" t="575.0" r="2624.0" b="614.0">18411</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="12.0" fn="0.0">
+      <box l="1944.0" t="703.0" r="2031.0" b="738.0">ATE</box>
+      <box l="2494.0" t="687.0" r="2716.0" b="733.0">08/31/89</box>
+    </IssuedDate>
+    <LineItem tp="60.0" fp="5.0" fn="17.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="296.0" t="1510.0" r="355.0" b="1550.0">00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="475.0" t="1508.0" r="645.0" b="1549.0">COPIES</box>
+          <box l="683.0" t="1507.0" r="992.0" b="1546.0">(44-WRRNING</box>
+          <box l="1229.0" t="1504.0" r="1542.0" b="1543.0">(SA-WARNING</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2331.0" t="1499.0" r="2530.0" b="1540.0">355.000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2674.0" t="1494.0" r="2957.0" b="1538.0">$20,400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="321.0" t="1573.0" r="346.0" b="1610.0">4</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="466.0" t="1570.0" r="667.0" b="1609.0">OVERRUN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2727.0" t="1556.0" r="2955.0" b="1602.0">1,420.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

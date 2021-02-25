@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "#7728",
+    "IssuedDate": "Juno 2,1997",
+    "LineItem": [
+        {
+            "ItemDescription": "June 1,1997"
+        },
+        {
+            "ItemDescription": "May 31,1996."
+        },
+        {
+            "ItemDescription": "Silverdome 1-75 Spectacular sign for the period",
+            "ItemTotal": "$150,000.00"
+        }
+    ]
+}

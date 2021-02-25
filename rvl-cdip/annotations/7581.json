@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "July 31, 2001",
+    "InvoiceNumber": "212733",
+    "LineItem": [
+        {
+            "ItemTotal": "752*50",
+            "ItemDescription": "Winners Press Materials",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,331.50",
+            "ItemDescription": "Scholarships",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "689.47",
+            "ItemDescription": "Total Travel And Subsistence",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "19-74",
+            "ItemDescription": "Total Overnight Courier",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,183.90",
+            "ItemDescription": "Total Press Releases",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

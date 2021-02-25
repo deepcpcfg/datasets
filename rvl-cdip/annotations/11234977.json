@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "8. 442",
+    "IssuedDate": "76 AUG 16",
+    "TotalAmount": "7,194.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CTR - SUPPLEMENTAL SHAKE MONITORING STUDIES",
+            "ItemTotal": "7,194.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

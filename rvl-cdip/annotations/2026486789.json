@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "8800",
+    "IssuedDate": "April 2, 1956",
+    "LineItem": [
+        {
+            "ItemDescription": "Our Swedish associate’a services Ln noting our instructions, preparing and filing an amendment and reporting to ua ",
+            "ItemTotal": "$30.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

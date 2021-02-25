@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="152.0" fp="61.0" fn="156.0">
+    <InvoiceNumber tp="3.0" fp="0.0" fn="0.0">
+      <box l="2833.0" t="340.0" r="2916.0" b="373.0">277</box>
+    </InvoiceNumber>
+    <IssuedDate tp="9.0" fp="0.0" fn="0.0">
+      <box l="1020.0" t="1313.0" r="1287.0" b="1349.0">13-Jun-95</box>
+    </IssuedDate>
+    <LineItem tp="140.0" fp="61.0" fn="146.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1015.0" t="1587.0" r="1126.0" b="1623.0">Nos;</box>
+          <box l="1202.0" t="1583.0" r="1377.0" b="1629.0">1360/1</box>
+          <box l="1419.0" t="1592.0" r="1473.0" b="1625.0">to</box>
+          <box l="1511.0" t="1589.0" r="1531.0" b="1624.0">6</box>
+          <box l="1572.0" t="1586.0" r="1842.0" b="1625.0">inclusive</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="740.0" t="1642.0" r="948.0" b="1678.0">Conduct</box>
+          <box l="984.0" t="1640.0" r="1040.0" b="1678.0">of</box>
+          <box l="1077.0" t="1649.0" r="1102.0" b="1677.0">a</box>
+          <box l="1140.0" t="1643.0" r="1290.0" b="1687.0">study</box>
+          <box l="1323.0" t="1647.0" r="1381.0" b="1679.0">to</box>
+          <box l="1415.0" t="1650.0" r="1623.0" b="1680.0">measure</box>
+          <box l="1661.0" t="1643.0" r="2051.0" b="1681.0">environmental</box>
+          <box l="744.0" t="1697.0" r="951.0" b="1734.0">tobacco</box>
+          <box l="982.0" t="1699.0" r="1044.0" b="1741.0">by</box>
+          <box l="1074.0" t="1697.0" r="1315.0" b="1744.0">personal</box>
+          <box l="1352.0" t="1698.0" r="1656.0" b="1744.0">monitoring</box>
+          <box l="1694.0" t="1700.0" r="1748.0" b="1735.0">in</box>
+          <box l="1786.0" t="1701.0" r="2023.0" b="1745.0">European</box>
+          <box l="741.0" t="1760.0" r="794.0" b="1788.0">as</box>
+          <box l="832.0" t="1752.0" r="1103.0" b="1789.0">described</box>
+          <box l="1141.0" t="1752.0" r="1195.0" b="1789.0">in</box>
+          <box l="1232.0" t="1754.0" r="1316.0" b="1788.0">the</box>
+          <box l="1350.0" t="1753.0" r="1686.0" b="1800.0">Application</box>
+          <box l="1723.0" t="1755.0" r="1811.0" b="1792.0">for</box>
+          <box l="1845.0" t="1756.0" r="2086.0" b="1793.0">Research</box>
+          <box l="741.0" t="1810.0" r="978.0" b="1846.0">Contract</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="833.0" t="1862.0" r="919.0" b="1900.0">3rd</box>
+          <box l="953.0" t="1864.0" r="1225.0" b="1909.0">quarterly</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="2093.0" t="1539.0" r="2235.0" b="1572.0">94-08</box>
+          <box l="2061.0" t="1701.0" r="2236.0" b="1739.0">cities</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2668.0" t="1870.0" r="2971.0" b="1911.0">302,200.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2308.0" t="1163.0" r="2504.0" b="1205.0">101714</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="245.0" t="2142.0" r="488.0" b="2184.0">MONTHLY</box>
+          <box l="350.0" t="2201.0" r="454.0" b="2242.0">AND</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="529.0" t="2147.0" r="733.0" b="2184.0">COUPON</box>
+          <box l="775.0" t="2147.0" r="1013.0" b="2187.0">TRACING</box>
+          <box l="1054.0" t="2151.0" r="1258.0" b="2188.0">REPORT</box>
+          <box l="1296.0" t="2151.0" r="1363.0" b="2188.0">ON</box>
+          <box l="596.0" t="2205.0" r="837.0" b="2242.0">MARKETS</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1607.0" t="2154.0" r="1776.0" b="2192.0">VALUE</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="1954.0" t="1401.0" r="2158.0" b="1438.0">AUGUST</box>
+      <box l="2201.0" t="1396.0" r="2290.0" b="1447.0">11,</box>
+      <box l="2341.0" t="1396.0" r="2471.0" b="1441.0">1989</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2237.0" t="2447.0" r="2538.0" b="2496.0">$3,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

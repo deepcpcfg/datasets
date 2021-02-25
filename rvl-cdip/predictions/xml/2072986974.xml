@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="472.0" fp="270.0" fn="316.0">
+    <LineItem tp="464.0" fp="269.0" fn="316.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="541.0" t="1355.0" r="634.0" b="1392.0">189</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="679.0" t="1351.0" r="988.0" b="1392.0">Retrieval</box>
+          <box l="1030.0" t="1353.0" r="1096.0" b="1392.0">of</box>
+          <box l="1138.0" t="1355.0" r="1409.0" b="1393.0">comments</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1455.0" t="1351.0" r="1517.0" b="1392.0">in</box>
+          <box l="1555.0" t="1355.0" r="1958.0" b="1392.0">OST-96-1880.</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2329.0" t="1355.0" r="2459.0" b="1393.0">5.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2680.0" t="1355.0" r="2880.0" b="1393.0">275.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="537.0" t="1408.0" r="636.0" b="1446.0">408</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="679.0" t="1404.0" r="888.0" b="1446.0">Review</box>
+          <box l="926.0" t="1404.0" r="1130.0" b="1446.0">latest</box>
+          <box l="1171.0" t="1407.0" r="1276.0" b="1445.0">DOT</box>
+          <box l="1313.0" t="1404.0" r="1513.0" b="1446.0">docket</box>
+          <box l="1556.0" t="1401.0" r="1960.0" b="1456.0">submissions;</box>
+          <box l="680.0" t="1459.0" r="850.0" b="1496.0">draft</box>
+          <box l="888.0" t="1467.0" r="1029.0" b="1496.0">memo</box>
+          <box l="1067.0" t="1463.0" r="1133.0" b="1496.0">to</box>
+          <box l="1170.0" t="1459.0" r="1229.0" b="1496.0">M.</box>
+          <box l="1280.0" t="1459.0" r="1551.0" b="1496.0">Pottorff</box>
+          <box l="1591.0" t="1467.0" r="1657.0" b="1496.0">on</box>
+          <box l="1700.0" t="1459.0" r="1829.0" b="1496.0">ICAO</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="679.0" t="1509.0" r="980.0" b="1559.0">meetings,</box>
+          <box l="679.0" t="1563.0" r="946.0" b="1603.0">matters.</box>
+          <box l="1030.0" t="1509.0" r="1235.0" b="1551.0">Airbus</box>
+          <box l="1276.0" t="1508.0" r="1443.0" b="1547.0">draft</box>
+          <box l="1485.0" t="1509.0" r="1586.0" b="1550.0">and</box>
+          <box l="1625.0" t="1509.0" r="1865.0" b="1550.0">related</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2330.0" t="1567.0" r="2459.0" b="1604.0">1.50</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="537.0" t="1617.0" r="633.0" b="1655.0">409</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="679.0" t="1616.0" r="850.0" b="1655.0">Draft</box>
+          <box l="891.0" t="1626.0" r="1025.0" b="1655.0">memo</box>
+          <box l="1068.0" t="1620.0" r="1133.0" b="1655.0">to</box>
+          <box l="1168.0" t="1613.0" r="1517.0" b="1655.0">Ambassador</box>
+          <box l="1559.0" t="1613.0" r="1821.0" b="1663.0">Peissik;</box>
+          <box l="679.0" t="1680.0" r="920.0" b="1720.0">prepare</box>
+          <box l="963.0" t="1680.0" r="1205.0" b="1717.0">summary</box>
+          <box l="1242.0" t="1667.0" r="1304.0" b="1709.0">of</box>
+          <box l="1346.0" t="1671.0" r="1450.0" b="1709.0">FAA</box>
+          <box l="1488.0" t="1667.0" r="1725.0" b="1717.0">funding</box>
+          <box l="1762.0" t="1680.0" r="2001.0" b="1717.0">process</box>
+          <box l="680.0" t="1720.0" r="783.0" b="1761.0">and</box>
+          <box l="817.0" t="1720.0" r="1100.0" b="1762.0">Aviation</box>
+          <box l="1134.0" t="1721.0" r="1304.0" b="1760.0">Trust</box>
+          <box l="1347.0" t="1720.0" r="1505.0" b="1767.0">Fund;</box>
+          <box l="1556.0" t="1720.0" r="1691.0" b="1762.0">send</box>
+          <box l="1730.0" t="1725.0" r="1796.0" b="1762.0">to</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="680.0" t="1771.0" r="946.0" b="1821.0">Peissik;</box>
+          <box l="996.0" t="1776.0" r="1163.0" b="1814.0">draft</box>
+          <box l="1208.0" t="1776.0" r="1309.0" b="1813.0">and</box>
+          <box l="1346.0" t="1776.0" r="1484.0" b="1813.0">send</box>
+          <box l="1521.0" t="1785.0" r="1654.0" b="1813.0">memo</box>
+          <box l="1696.0" t="1780.0" r="1759.0" b="1813.0">to</box>
+          <box l="1796.0" t="1779.0" r="1855.0" b="1814.0">N.</box>
+          <box l="679.0" t="1826.0" r="959.0" b="1867.0">Bertrand</box>
+          <box l="1009.0" t="1826.0" r="1134.0" b="1871.0">(Air</box>
+          <box l="1172.0" t="1826.0" r="1396.0" b="1870.0">France)</box>
+          <box l="1451.0" t="1838.0" r="1517.0" b="1867.0">on</box>
+          <box l="1560.0" t="1830.0" r="1691.0" b="1867.0">ICAO</box>
+          <box l="1729.0" t="1826.0" r="1992.0" b="1878.0">meeting.</box>
+          <box l="538.0" t="1884.0" r="633.0" b="1921.0">409</box>
+          <box l="679.0" t="1880.0" r="988.0" b="1933.0">Telephone</box>
+          <box l="1033.0" t="1880.0" r="1376.0" b="1921.0">conference</box>
+          <box l="1413.0" t="1880.0" r="1551.0" b="1921.0">with</box>
+          <box l="1587.0" t="1884.0" r="1643.0" b="1921.0">M.</box>
+          <box l="1696.0" t="1880.0" r="1966.0" b="1921.0">Pottorff</box>
+          <box l="2008.0" t="1892.0" r="2075.0" b="1921.0">on</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2327.0" t="1830.0" r="2459.0" b="1869.0">3.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2684.0" t="1830.0" r="2880.0" b="1867.0">945.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="679.0" t="1936.0" r="783.0" b="1975.0">DOT</box>
+          <box l="821.0" t="1933.0" r="1188.0" b="1980.0">statistics,</box>
+          <box l="1238.0" t="1931.0" r="1442.0" b="1971.0">Airbus</box>
+          <box l="1484.0" t="1933.0" r="1675.0" b="1980.0">draft,</box>
+          <box l="1726.0" t="1936.0" r="1829.0" b="1971.0">NYC</box>
+          <box l="676.0" t="1984.0" r="920.0" b="2038.0">meeting</box>
+          <box l="961.0" t="1984.0" r="1066.0" b="2026.0">and</box>
+          <box l="1101.0" t="1984.0" r="1342.0" b="2026.0">related</box>
+          <box l="1380.0" t="1991.0" r="1645.0" b="2026.0">matters.</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2326.0" t="1991.0" r="2459.0" b="2026.0">1.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2680.0" t="1991.0" r="2880.0" b="2026.0">315.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="538.0" t="2042.0" r="633.0" b="2080.0">408</box>
+          <box l="679.0" t="2038.0" r="888.0" b="2080.0">Review</box>
+          <box l="927.0" t="2038.0" r="1129.0" b="2080.0">latest</box>
+          <box l="1170.0" t="2042.0" r="1272.0" b="2078.0">DOT</box>
+          <box l="1309.0" t="2038.0" r="1512.0" b="2078.0">docket</box>
+          <box l="1555.0" t="2038.0" r="1959.0" b="2085.0">submissions;</box>
+          <box l="679.0" t="2089.0" r="920.0" b="2133.0">discuss</box>
+          <box l="959.0" t="2088.0" r="1100.0" b="2133.0">with</box>
+          <box l="1134.0" t="2092.0" r="1191.0" b="2133.0">M.</box>
+          <box l="1242.0" t="2092.0" r="1434.0" b="2131.0">Crews.</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2326.0" t="2097.0" r="2459.0" b="2133.0">1.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2680.0" t="2097.0" r="2880.0" b="2133.0">315.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="538.0" t="2147.0" r="633.0" b="2184.0">408</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="679.0" t="2142.0" r="883.0" b="2184.0">Travel</box>
+          <box l="926.0" t="2139.0" r="1167.0" b="2191.0">DCA/NYC</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2325.0" t="2147.0" r="2459.0" b="2184.0">4.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2646.0" t="2147.0" r="2880.0" b="2184.0">1260.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="538.0" t="2198.0" r="633.0" b="2234.0">409</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="676.0" t="2197.0" r="920.0" b="2247.0">Meeting</box>
+          <box l="959.0" t="2193.0" r="1100.0" b="2234.0">with</box>
+          <box l="1130.0" t="2197.0" r="1192.0" b="2234.0">N.</box>
+          <box l="1242.0" t="2195.0" r="1538.0" b="2242.0">Pottorff,</box>
+          <box l="1587.0" t="2197.0" r="1645.0" b="2237.0">M.</box>
+          <box l="1691.0" t="2192.0" r="1933.0" b="2238.0">Winokur</box>
+          <box l="1976.0" t="2197.0" r="2071.0" b="2234.0">120</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="680.0" t="2248.0" r="816.0" b="2288.0">Park</box>
+          <box l="855.0" t="2252.0" r="955.0" b="2288.0">Ave</box>
+          <box l="996.0" t="2259.0" r="1062.0" b="2288.0">on</box>
+          <box l="1100.0" t="2247.0" r="1338.0" b="2288.0">various</box>
+          <box l="1377.0" t="2254.0" r="1616.0" b="2288.0">matters</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2326.0" t="2251.0" r="2458.0" b="2288.0">3.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2680.0" t="2251.0" r="2880.0" b="2288.0">945.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="537.0" t="2304.0" r="633.0" b="2338.0">409</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="679.0" t="2301.0" r="883.0" b="2338.0">Travel</box>
+          <box l="921.0" t="2297.0" r="1170.0" b="2347.0">NYC/DCA</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2325.0" t="2304.0" r="2459.0" b="2341.0">4.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2647.0" t="2301.0" r="2880.0" b="2341.0">1260.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="466.0" t="2672.0" r="634.0" b="2712.0">17.50</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="220.0" t="2984.0" r="354.0" b="3026.0">Taxi</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2079.0" t="2672.0" r="2208.0" b="2709.0">5.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2572.0" t="2672.0" r="2775.0" b="2709.0">275.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="217.0" t="3035.0" r="320.0" b="3077.0">Air</box>
+          <box l="359.0" t="3042.0" r="600.0" b="3088.0">Express</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2680.0" t="3038.0" r="2880.0" b="3077.0">521.68</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="217.0" t="3198.0" r="391.0" b="3234.0">Xerox</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2713.0" t="3250.0" r="2843.0" b="3287.0">46.3</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2575.0" t="3559.0" r="2880.0" b="3610.0">$12791.09</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

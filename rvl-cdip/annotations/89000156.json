@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "7622",
+    "IssuedDate": "8/31/89",
+    "LineItem": [
+        {
+            "ItemDescription": "Total amount per contract",
+            "ItemTotal": "$156,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "154,131.76",
+            "ItemDescription": "Less amount previously billed",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

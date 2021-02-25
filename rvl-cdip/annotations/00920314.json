@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1518-1",
+    "IssuedDate": "June 15, 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "Repeated Dose Rangefinding Study In B6C3F1 Mice with A-45",
+            "ItemTotal": "$1,050.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

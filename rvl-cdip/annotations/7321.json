@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR11-004611",
+    "IssuedDate": "NOV24/99",
+    "TotalAmount": "102,495.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Commissionable Charges",
+            "ItemTotal": "102,495.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Commissionable Charges",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Agency Commission",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

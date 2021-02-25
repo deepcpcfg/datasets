@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "802531",
+    "IssuedDate": "01-30-88",
+    "LineItem": [
+        {
+            "ItemDescription": "8185 LOT 2456",
+            "ItemTotal": "5.400",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "B213 LOT #09423AP",
+            "ItemTotal": "5.400",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

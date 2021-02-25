@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "APR10/00",
+    "InvoiceNumber": "PR04-D3763C",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Con-faiaslo^atilfi",
+            "ItemTotal": "7.fi"
+        },
+        {
+            "ItemDescription": "ComriiBsionable Charges",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Agency Commission",
+            "ItemTotal": "0.0"
+        }
+    ]
+}

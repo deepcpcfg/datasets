@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "1672",
+    "IssuedDate": "August 31, 1998",
+    "TotalAmount": "38,205.96",
+    "LineItem": [
+        {
+            "ItemDescription": "W, Ed Whitelaw",
+            "ItemUnitCount": "64.50",
+            "ItemUnitValue": "250.00",
+            "ItemTotal": "$16,125.00"
+        },
+        {
+            "ItemDescription": "Edward MacMullan",
+            "ItemUnitCount": "153.50",
+            "ItemUnitValue": "90.00",
+            "ItemTotal": "$13,815.00"
+        },
+        {
+            "ItemDescription": "Helen Rosenau",
+            "ItemUnitCount": "0.75",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "$45.00"
+        },
+        {
+            "ItemDescription": "Anne FifleCd",
+            "ItemUnitCount": "145.75",
+            "ItemUnitValue": "55.00",
+            "ItemTotal": "$5,016.25"
+        },
+        {
+            "ItemDescription": "RoseAnn Robinson",
+            "ItemUnitCount": "2.50",
+            "ItemUnitValue": "40.00",
+            "ItemTotal": "$100.00"
+        },
+        {
+            "ItemDescription": "Associates",
+            "ItemTotal": "18.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postage",
+            "ItemTotal": "25.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Publications",
+            "ItemTotal": "35.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Tetephcne",
+            "ItemTotal": "24.61",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="114.0" fp="25.0" fn="10.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="1612.0" t="1063.0" r="1737.0" b="1113.0">8687</box>
+    </InvoiceNumber>
+    <IssuedDate tp="3.0" fp="5.0" fn="8.0">
+      <box l="1563.0" t="1346.0" r="1779.0" b="1395.0">7/15/96)</box>
+    </IssuedDate>
+    <LineItem tp="99.0" fp="20.0" fn="2.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="512.0" t="1495.0" r="620.0" b="1542.0">1.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="801.0" t="1491.0" r="1170.0" b="1551.0">Management</box>
+          <box l="1188.0" t="1492.0" r="1313.0" b="1542.0">Time</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1721.0" t="1491.0" r="1891.0" b="1545.0">$70.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2407.0" t="1491.0" r="2549.0" b="1543.0">70.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="512.0" t="1567.0" r="620.0" b="1613.0">1.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="802.0" t="1567.0" r="995.0" b="1613.0">Clerical</box>
+          <box l="1013.0" t="1566.0" r="1141.0" b="1613.0">Time</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1721.0" t="1563.0" r="1893.0" b="1615.0">$35.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2533.0" t="1567.0" r="2676.0" b="1613.0">35.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="479.0" t="1638.0" r="620.0" b="1688.0">60.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="801.0" t="1634.0" r="976.0" b="1684.0">Phone</box>
+          <box l="992.0" t="1638.0" r="1155.0" b="1685.0">Hours</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1637.0" t="1633.0" r="1809.0" b="1687.0">$35.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2451.0" t="1637.0" r="2676.0" b="1692.0">2,100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="512.0" t="1709.0" r="620.0" b="1758.0">0.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="801.0" t="1709.0" r="930.0" b="1756.0">Data</box>
+          <box l="942.0" t="1708.0" r="1238.0" b="1763.0">Processing</box>
+          <box l="1255.0" t="1709.0" r="1412.0" b="1756.0">Hours</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1721.0" t="1709.0" r="1891.0" b="1757.0">S9D.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2442.0" t="1926.0" r="2672.0" b="1980.0">2,205.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

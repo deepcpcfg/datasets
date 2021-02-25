@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="109.0" fp="10.0" fn="14.0">
+    <IssuedDate tp="14.0" fp="0.0" fn="1.0">
+      <box l="1771.0" t="1033.0" r="1920.0" b="1077.0">March</box>
+      <box l="1936.0" t="1034.0" r="2004.0" b="1083.0">30,</box>
+      <box l="2029.0" t="1033.0" r="2133.0" b="1078.0">1995</box>
+    </IssuedDate>
+    <LineItem tp="89.0" fp="9.0" fn="13.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="675.0" t="2242.0" r="766.0" b="2288.0">Ten</box>
+          <box l="783.0" t="2242.0" r="1129.0" b="2288.0">Commissioned</box>
+          <box l="1146.0" t="2242.0" r="1326.0" b="2288.0">Articles</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2001.0" t="2243.0" r="2129.0" b="2297.0">5,000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="676.0" t="2384.0" r="820.0" b="2429.0">Editor</box>
+          <box l="676.0" t="2522.0" r="862.0" b="2580.0">Printing</box>
+          <box l="880.0" t="2523.0" r="1055.0" b="2578.0">(15,000</box>
+          <box l="1071.0" t="2526.0" r="1251.0" b="2580.0">Copies)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1941.0" t="2525.0" r="2129.0" b="2576.0">S40,000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="675.0" t="2663.0" r="858.0" b="2717.0">Mailing</box>
+          <box l="879.0" t="2664.0" r="1051.0" b="2717.0">(15,000</box>
+          <box l="1070.0" t="2666.0" r="1246.0" b="2718.0">Copies)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1941.0" t="2667.0" r="2129.0" b="2717.0">510,000</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="1941.0" t="2873.0" r="2129.0" b="2926.0">390,000</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

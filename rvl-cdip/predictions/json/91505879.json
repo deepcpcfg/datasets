@@ -1,0 +1,53 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "R",
+            "ItemUnitValue": "4.5985",
+            "ItemTotal": "8,304.89"
+        },
+        {
+            "ItemDescription": "IT TASTE TOO GOOD‘/kS",
+            "ItemUnitValue": "4.5985",
+            "ItemTotal": "8,304.89"
+        },
+        {
+            "ItemDescription": "IT TASTES TOO GOOD'Z*",
+            "ItemUnitValue": "4.5985"
+        },
+        {
+            "ItemDescription": "R",
+            "ItemUnitValue": "4.1480",
+            "ItemTotal": "7,491.29"
+        },
+        {
+            "ItemDescription": "BLIND F ORD v-v",
+            "ItemUnitValue": "4.1480",
+            "ItemTotal": "7,491.29"
+        },
+        {
+            "ItemDescription": "DECK CHAIRES",
+            "ItemUnitValue": "4.1480",
+            "ItemTotal": "7,4"
+        },
+        {
+            "ItemDescription": "LUNCH",
+            "ItemUnitValue": "4.1480",
+            "ItemTotal": "7,491.29"
+        },
+        {
+            "ItemDescription": "CAFE AD",
+            "ItemUnitValue": "4.1480",
+            "ItemTotal": "7,491.29"
+        },
+        {
+            "ItemDescription": "IT TASTE TOO GOOD",
+            "ItemUnitValue": "4.1480",
+            "ItemTotal": "7,491.29"
+        },
+        {
+            "ItemDescription": "SGN CON S GN CON",
+            "ItemTotal": "1,657.891"
+        }
+    ],
+    "TotalAmount": "167.30"
+}

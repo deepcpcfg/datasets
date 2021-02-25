@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "11003631",
+    "IssuedDate": "12/31/93",
+    "TotalAmount": "3,524.38",
+    "LineItem": [
+        {
+            "ItemDescription": "VACUUM UNIT",
+            "ItemUnitCount": "16.00",
+            "ItemUnitValue": "70.00",
+            "ItemTotal": "1,120.00"
+        },
+        {
+            "ItemDescription": "SUPERVISOR",
+            "ItemUnitCount": "20.00",
+            "ItemUnitValue": "22.00",
+            "ItemTotal": "616.00"
+        },
+        {
+            "ItemDescription": "OPERATOR",
+            "ItemUnitCount": "56.00",
+            "ItemUnitValue": "20.50",
+            "ItemTotal": "1,140.00"
+        },
+        {
+            "ItemDescription": "PRESSURE WASHER COST + 207.",
+            "ItemUnitCount": "1 .00",
+            "ItemUnitValue": "546.00",
+            "ItemTotal": "546.00"
+        },
+        {
+            "ItemDescription": "SUPPLIES COST + 207.",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "94.38",
+            "ItemTotal": "94.32"
+        }
+    ]
+}

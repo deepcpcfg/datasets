@@ -1,0 +1,387 @@
+[
+    {
+        "IssuedDate": [
+            "November 8, 2000",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "24.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "(El01) Copying Charges (El02) Outside Printing",
+                            {
+                                "tp": 22.0,
+                                "fp": 24.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 27.0,
+                        "fp": 24.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "5,463.46",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Outside Copying Charges Westside Reprograpliics S, Long/Litigation Copies RMI Depo and Exhib.",
+                            {
+                                "tp": 50.0,
+                                "fp": 43.0,
+                                "fn": 24.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 58.0,
+                        "fp": 43.0,
+                        "fn": 24.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2,984.97",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Copies for Plaintiff, Jury and Judge 8/08/00 Outside Copying Charges Imagotek 8/30/00 61065",
+                            {
+                                "tp": 91.0,
+                                "fp": 0.0,
+                                "fn": 91.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 99.0,
+                        "fp": 0.0,
+                        "fn": 91.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "with Matter #42) 40% Share",
+                            {
+                                "tp": 0.0,
+                                "fp": 26.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 26.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "6.51",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "(E105) Long Distance Telephone (E124) Other Catch AU",
+                            {
+                                "tp": 30.0,
+                                "fp": 22.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 22.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,143.75",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Temporary Services Bowne Business Solutions July",
+                            {
+                                "tp": 48.0,
+                                "fp": 0.0,
+                                "fn": 75.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 56.0,
+                        "fp": 0.0,
+                        "fn": 75.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "137.50",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "2000: Tony Cantero 20 Hrs; Manuel Jaco 24.10 Hrs. Temporary Services Bowne Business Solutions",
+                            {
+                                "tp": 42.0,
+                                "fp": 51.0,
+                                "fn": 30.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 48.0,
+                        "fp": 51.0,
+                        "fn": 30.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "622.43",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "8/2000: Tony Cantero 5.5 Hrs. Equipment Rental Bowne Business Solutions 8/2000",
+                            {
+                                "tp": 48.0,
+                                "fp": 30.0,
+                                "fn": 29.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 53.0,
+                        "fp": 31.0,
+                        "fn": 30.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "90E",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 74.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 3.0,
+                        "fp": 0.0,
+                        "fn": 80.0
+                    }
+                ]
+            ],
+            {
+                "tp": 378.0,
+                "fp": 197.0,
+                "fn": 330.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 394.0,
+        "fp": 197.0,
+        "fn": 345.0
+    }
+]

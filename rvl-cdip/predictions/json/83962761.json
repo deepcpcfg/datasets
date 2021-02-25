@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "March 11,1998",
+    "InvoiceNumber": "336106",
+    "LineItem": [
+        {
+            "ItemDescription": "Current fees",
+            "ItemTotal": "$164.50"
+        },
+        {
+            "ItemDescription": "Current disbursements",
+            "ItemTotal": "$13.20"
+        },
+        {
+            "ItemDescription": "Current",
+            "ItemTotal": "$177.70"
+        }
+    ]
+}

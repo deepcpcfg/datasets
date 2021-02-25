@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2325.0" t="959.0" r="2483.0" b="1026.0">7142</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2367.0" t="1060.0" r="2595.0" b="1119.0">4/15/63</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="588.0" t="1594.0" r="791.0" b="1653.0">33,300</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1046.0" t="1592.0" r="1108.0" b="1638.0">of</box>
+          <box l="1153.0" t="1585.0" r="1315.0" b="1639.0">"1962</box>
+          <box l="1341.0" t="1592.0" r="1528.0" b="1643.0">Report</box>
+          <box l="1570.0" t="1590.0" r="1628.0" b="1636.0">of</box>
+          <box l="1666.0" t="1587.0" r="1765.0" b="1636.0">the</box>
+          <box l="1804.0" t="1584.0" r="2136.0" b="1634.0">Scientific</box>
+          <box l="2173.0" t="1576.0" r="2460.0" b="1630.0">Director*'</box>
+          <box l="1533.0" t="1657.0" r="1602.0" b="1710.0">by</box>
+          <box l="1637.0" t="1657.0" r="1728.0" b="1702.0">Dr.</box>
+          <box l="1770.0" t="1650.0" r="1969.0" b="1700.0">Little</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="2143.0" t="2130.0" r="2400.0" b="2184.0">$5930.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

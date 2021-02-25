@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="84.0" fp="4.0" fn="3.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2217.0" t="1608.0" r="2304.0" b="1644.0">April</box>
+      <box l="2325.0" t="1608.0" r="2358.0" b="1642.0">3.</box>
+      <box l="2387.0" t="1606.0" r="2479.0" b="1640.0">1995</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="737.0" t="1897.0" r="846.0" b="1928.0">12241</box>
+    </InvoiceNumber>
+    <LineItem tp="61.0" fp="3.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1068.0" t="2802.0" r="1392.0" b="2838.0">PROFESSIONAL</box>
+          <box l="1418.0" t="2802.0" r="1589.0" b="2837.0">SERVICE</box>
+          <box l="1617.0" t="2801.0" r="1713.0" b="2838.0">FEE"</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2105.0" t="2803.0" r="2243.0" b="2841.0">$2,550</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1045.0" t="2948.0" r="1167.0" b="2982.0">OPC's</box>
+          <box l="1187.0" t="2946.0" r="1291.0" b="2982.0">(OUT</box>
+          <box l="1307.0" t="2947.0" r="1361.0" b="2980.0">OF</box>
+          <box l="1387.0" t="2946.0" r="1549.0" b="2982.0">POCKET</box>
+          <box l="1570.0" t="2946.0" r="1717.0" b="2981.0">COSTS!</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2111.0" t="2953.0" r="2249.0" b="2990.0">$1,388</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="1.0" fn="0.0">
+      <box l="2114.0" t="3086.0" r="2251.0" b="3125.0">$4,438</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

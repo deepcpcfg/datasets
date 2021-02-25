@@ -1,0 +1,43 @@
+{
+    "TotalAmount": "2733.05",
+    "LineItem": [
+        {
+            "ItemDescription": "Air travel",
+            "ItemTotal": "2359.44",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Train",
+            "ItemTotal": "23.43",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxi",
+            "ItemTotal": "71.97",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hotel",
+            "ItemTotal": "212.07",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals",
+            "ItemTotal": "40.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mis c",
+            "ItemTotal": "25.79",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

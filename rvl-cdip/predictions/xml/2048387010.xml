@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2072.0" t="1134.0" r="2438.0" b="1184.0">#CCPIC~0196</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="1342.0" t="1401.0" r="1566.0" b="1455.0">January</box>
+      <box l="1587.0" t="1401.0" r="1711.0" b="1444.0">1996</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="1863.0" r="1471.0" b="1921.0">Interagency</box>
+          <box l="1496.0" t="1863.0" r="1850.0" b="1913.0">Coordination.</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="917.0" t="2126.0" r="1129.0" b="2167.0">TOTAL</box>
+          <box l="1146.0" t="2122.0" r="1291.0" b="2167.0">DUE</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

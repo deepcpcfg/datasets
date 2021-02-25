@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "April 7, 1999",
+    "LineItem": [
+        {
+            "ItemTotal": "$18,000.00",
+            "ItemDescription": "panel"
+        },
+        {
+            "ItemTotal": "262.50",
+            "ItemDescription": "(Vi of monthly CO SI lease for March)"
+        },
+        {
+            "ItemTotal": "846.99",
+            "ItemDescription": "3/18 meeting)"
+        }
+    ],
+    "TotalAmount": "$19,109,49"
+}

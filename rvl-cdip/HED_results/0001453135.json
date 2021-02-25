@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "Augu-t igg4",
+            {
+                "tp": 0.0,
+                "fp": 11.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "£52.540.05",
+                            {
+                                "tp": 3.0,
+                                "fp": 7.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Cigaretten Fabrieken being royalties for the month of Auguat 1984",
+                            {
+                                "tp": 65.0,
+                                "fp": 0.0,
+                                "fn": 61.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 68.0,
+                        "fp": 7.0,
+                        "fn": 67.0
+                    }
+                ]
+            ],
+            {
+                "tp": 68.0,
+                "fp": 7.0,
+                "fn": 67.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 68.0,
+        "fp": 18.0,
+        "fn": 67.0
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="174.0" fp="3.0" fn="10.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2280.0" t="563.0" r="2480.0" b="600.0">2277050</box>
+    </InvoiceNumber>
+    <LineItem tp="160.0" fp="2.0" fn="9.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1093.0" t="1696.0" r="1375.0" b="1734.0">17010.005:</box>
+          <box l="1419.0" t="1696.0" r="1439.0" b="1733.0">6</box>
+          <box l="1474.0" t="1696.0" r="1589.0" b="1734.0">Week.</box>
+          <box l="1624.0" t="1696.0" r="1852.0" b="1742.0">Repeated</box>
+          <box l="1889.0" t="1696.0" r="2031.0" b="1734.0">Smoke</box>
+          <box l="2070.0" t="1696.0" r="2355.0" b="1734.0">Inhalation</box>
+          <box l="1093.0" t="1759.0" r="1144.0" b="1792.0">in</box>
+          <box l="1178.0" t="1758.0" r="1290.0" b="1792.0">Mice</box>
+          <box l="1332.0" t="1763.0" r="1378.0" b="1792.0">to</box>
+          <box l="1415.0" t="1758.0" r="1619.0" b="1801.0">Compare</box>
+          <box l="1652.0" t="1755.0" r="2060.0" b="1804.0">Histopathology</box>
+          <box l="2095.0" t="1759.0" r="2178.0" b="1792.0">and</box>
+          <box l="2213.0" t="1758.0" r="2354.0" b="1792.0">Short</box>
+          <box l="1090.0" t="1817.0" r="1206.0" b="1854.0">Term</box>
+          <box l="1240.0" t="1816.0" r="1498.0" b="1863.0">Endpoints</box>
+          <box l="1536.0" t="1817.0" r="1677.0" b="1863.0">Using</box>
+          <box l="1711.0" t="1817.0" r="1823.0" b="1855.0">Test</box>
+          <box l="1857.0" t="1817.0" r="1939.0" b="1855.0">an-d</box>
+          <box l="1978.0" t="1817.0" r="2238.0" b="1855.0">Reference</box>
+          <box l="1090.0" t="1876.0" r="1381.0" b="1921.0">Cigarettes</box>
+          <box l="1424.0" t="1875.0" r="1527.0" b="1917.0">(DL9</box>
+          <box l="1564.0" t="1878.0" r="1644.0" b="1913.0">and</box>
+          <box l="1682.0" t="1876.0" r="1786.0" b="1919.0">D29)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2805.0" t="1693.0" r="3034.0" b="1733.0">27762.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="201.0" t="2847.0" r="425.0" b="2884.0">27762,00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

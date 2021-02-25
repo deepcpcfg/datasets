@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "433974",
+    "IssuedDate": "February 5,2002",
+    "LineItem": [
+        {
+            "ItemDescription": "Payment requested for research entitled 'Studies an Tobacco Derived tihlbltors at Morwamihe",
+            "ItemTotal": "07.712.23"
+        },
+        {
+            "ItemDescription": "12/31/01 Did dose\" under tho direction or Dr N Castagr.ofl Advances"
+        }
+    ],
+    "TotalAmount": "$107.71223"
+}

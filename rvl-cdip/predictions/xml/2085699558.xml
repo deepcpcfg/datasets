@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="60.0" fp="63.0" fn="18.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2500.0" t="744.0" r="2608.0" b="786.0">2655</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="2420.0" t="894.0" r="2683.0" b="937.0">05-10-2000</box>
+    </IssuedDate>
+    <LineItem tp="40.0" fp="63.0" fn="18.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="261.0" t="1628.0" r="299.0" b="1662.0">10</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="532.0" t="1627.0" r="573.0" b="1661.0">25</box>
+          <box l="394.0" t="1715.0" r="482.0" b="1756.0">Spot</box>
+          <box l="498.0" t="1715.0" r="545.0" b="1748.0">ID:</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="665.0" t="1627.0" r="727.0" b="1664.0">vhs</box>
+          <box l="747.0" t="1629.0" r="789.0" b="1664.0">10</box>
+          <box l="802.0" t="1629.0" r="873.0" b="1664.0">min</box>
+          <box l="566.0" t="1715.0" r="840.0" b="1750.0">ZUBD01D9CC</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1474.0" t="1715.0" r="1523.0" b="1751.0">CC</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2290.0" t="1634.0" r="2393.0" b="1670.0">18.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2670.0" t="1636.0" r="2798.0" b="1670.0">450.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="166.0" t="1791.0" r="232.0" b="1824.0">CS3</box>
+          <box l="253.0" t="1791.0" r="294.0" b="1824.0">10</box>
+          <box l="666.0" t="1793.0" r="748.0" b="1826.0">3/4"</box>
+          <box l="766.0" t="1793.0" r="807.0" b="1826.0">10</box>
+          <box l="824.0" t="1792.0" r="891.0" b="1826.0">min</box>
+          <box l="908.0" t="1800.0" r="945.0" b="1826.0">cs</box>
+          <box l="962.0" t="1792.0" r="1014.0" b="1825.0">OF</box>
+          <box l="1028.0" t="1792.0" r="1128.0" b="1826.0">EACH</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2287.0" t="1798.0" r="2393.0" b="1833.0">20.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2670.0" t="1798.0" r="2799.0" b="1834.0">200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="498.0" t="1877.0" r="543.0" b="1907.0">ID:</box>
+          <box l="566.0" t="1876.0" r="669.0" b="1910.0">ZU8D</box>
+          <box l="683.0" t="1876.0" r="773.0" b="1910.0">0109</box>
+          <box l="790.0" t="1876.0" r="841.0" b="1910.0">CC</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="0.0">
+      <box l="2656.0" t="3579.0" r="2800.0" b="3617.0">650.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

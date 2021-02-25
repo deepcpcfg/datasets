@@ -1,0 +1,97 @@
+{
+    "InvoiceNumber": "16055",
+    "IssuedDate": "03/13/96",
+    "TotalAmount": "350,082.10",
+    "LineItem": [
+        {
+            "ItemTotal": "$15,222.10",
+            "ItemDescription": "Pins (Qty 600,000 • 6 par krt]",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Window decals (Ctty: 300.000)",
+            "ItemTotal": "$29,366.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$46,750.00",
+            "ItemDescription": "Counter displays (Qty: 200,000 - 2 psr kfl)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$124,832.50",
+            "ItemDescription": "Calendars (Qty: 100.000)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$20,521.25",
+            "ItemDescription": "Calendar Slickers (Qty- 750,000}",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$19,040.50",
+            "ItemDescription": "raining videos (Qty: 100.000)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$26,461.00",
+            "ItemDescription": "Training audios (Qly: 100,300)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$2,104,00",
+            "ItemDescription": "xtra video sleeves (Qty; 100.000)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$163.00",
+            "ItemDescription": "Training workbooks (Qty; 600,COO - 6 per lai",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$12,817.00",
+            "ItemDescription": "Tear oads (Qty soo.coo - 6 per kit]",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$3,807.75",
+            "ItemDescription": "Breakroom Posters (Qty: 100,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$30,563.25",
+            "ItemDescription": "Kit Boxes preprinted (Qty: 100,0001",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$174.75",
+            "ItemDescription": "Re-orde-- forms (Qty: 100,000)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$3,630.00",
+            "ItemDescription": "Re-order rnagneis (Q:y: 100,300)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$14,549.00",
+            "ItemDescription": "Account service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

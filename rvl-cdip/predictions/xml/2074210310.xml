@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="20.0" fp="50.0" fn="14.0">
+    <LineItem tp="11.0" fp="47.0" fn="13.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="209.0" t="1863.0" r="332.0" b="1892.0">Slid**</box>
+          <box l="350.0" t="1859.0" r="442.0" b="1900.0">(Boa</box>
+          <box l="459.0" t="1863.0" r="558.0" b="1901.0">1-14)</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1535.0" t="1863.0" r="1625.0" b="1892.0">1476</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="1787.0" t="1860.0" r="1941.0" b="1892.0">1900.55</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2826.0" t="1863.0" r="2926.0" b="1895.0">37.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="208.0" t="1967.0" r="304.0" b="2001.0">^rn-it</box>
+          <box l="320.0" t="1967.0" r="395.0" b="2001.0">Ads</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2439.0" t="1967.0" r="2546.0" b="2002.0">52.95</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2717.0" t="1967.0" r="2926.0" b="2005.0">$51,511.45</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="3.0" fn="1.0">
+      <box l="2651.0" t="2518.0" r="2937.0" b="2605.0">$113,288.821</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

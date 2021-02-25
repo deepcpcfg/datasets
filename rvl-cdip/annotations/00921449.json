@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "4Y",
+    "IssuedDate": "October 30, 1981",
+    "LineItem": [
+        {
+            "ItemDescription": "For Submission of Final Report CARDIOVASCULAR TESTING OF COM¬ POUND B72 IN THE BEAGLE DOG at $2,700.00 per compound",
+            "ItemTotal": "2,700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

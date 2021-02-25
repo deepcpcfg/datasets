@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "April 25, 1994",
+    "InvoiceNumber": "1031",
+    "LineItem": [
+        {
+            "ItemDescription": "Pittsburgh",
+            "ItemUnitCount": "70",
+            "ItemTotal": "S16.220.00"
+        },
+        {
+            "ItemDescription": "Summary Tables",
+            "ItemTotal": "250.00"
+        }
+    ],
+    "TotalAmount": "£16.470.00"
+}

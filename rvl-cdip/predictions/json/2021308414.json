@@ -1,0 +1,18 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "TRIALS CONDUCTED IN APRIL 1993"
+        },
+        {
+            "ItemDescription": "MACHINE TIME SPECIAL LABOR",
+            "ItemTotal": "7,647.00"
+        },
+        {
+            "ItemDescription": "EQUIPMENT",
+            "ItemTotal": "3,000.00"
+        }
+    ],
+    "InvoiceNumber": "55-0794",
+    "IssuedDate": "5/7/93",
+    "TotalAmount": "511,097.00"
+}

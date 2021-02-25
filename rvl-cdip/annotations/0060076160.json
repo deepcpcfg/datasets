@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1247237",
+    "IssuedDate": "December 16, 1992",
+    "TotalAmount": "6,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Postage to replenish business reply permit #533. QI Hon, New Jersey. Funds covered receipt of Bull Durham Trial mail response (bounce-back requests). Total postage charges were S6.000.00. Postage Charges",
+            "ItemTotal": "$6,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

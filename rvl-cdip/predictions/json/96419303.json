@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "898-3050035",
+    "IssuedDate": "06/03/1993",
+    "LineItem": [
+        {
+            "ItemDescription": "4’ X NIVERSITY 48’ AVE A VANDALIA SW/F",
+            "ItemTotal": "(333.40)"
+        }
+    ],
+    "TotalAmount": "1,666113"
+}

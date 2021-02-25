@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="262.0" fp="14.0" fn="125.0">
+    <IssuedDate tp="11.0" fp="0.0" fn="0.0">
+      <box l="1919.0" t="759.0" r="1947.0" b="800.0">2</box>
+      <box l="1970.0" t="758.0" r="2082.0" b="802.0">June</box>
+      <box l="2111.0" t="756.0" r="2223.0" b="801.0">1972</box>
+    </IssuedDate>
+    <LineItem tp="242.0" fp="13.0" fn="124.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="624.0" t="1713.0" r="892.0" b="1776.0">Laboratory</box>
+          <box l="917.0" t="1712.0" r="1121.0" b="1773.0">Supplies</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1949.0" t="1710.0" r="2184.0" b="1768.0">1,327.27</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="617.0" t="1781.0" r="817.0" b="1830.0">Animals</box>
+          <box l="620.0" t="1849.0" r="1107.0" b="1910.0">Equlpment-Paekard</box>
+          <box l="1132.0" t="1850.0" r="1403.0" b="1899.0">Calculator</box>
+          <box l="1421.0" t="1848.0" r="1575.0" b="1898.0">Model</box>
+          <box l="1603.0" t="1851.0" r="1740.0" b="1897.0">HP35</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1999.0" t="1848.0" r="2182.0" b="1896.0">395.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="912.0" t="1919.0" r="1015.0" b="1968.0">Vari</box>
+          <box l="1020.0" t="1934.0" r="1077.0" b="1966.0">an</box>
+          <box l="1104.0" t="1917.0" r="1350.0" b="1978.0">Integrator</box>
+          <box l="1374.0" t="1918.0" r="1541.0" b="1980.0">System</box>
+          <box l="1562.0" t="1916.0" r="1714.0" b="1966.0">Model</box>
+          <box l="1740.0" t="1917.0" r="1831.0" b="1966.0">477</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1945.0" t="1915.0" r="2182.0" b="1976.0">1,995.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="614.0" t="2185.0" r="793.0" b="2242.0">Project</box>
+          <box l="814.0" t="2183.0" r="1034.0" b="2240.0">Manager</box>
+          <box l="1165.0" t="2184.0" r="1489.0" b="2239.0">Ratenkrantx,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1995.0" t="2181.0" r="2180.0" b="2227.0">253.44</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="608.0" t="2247.0" r="875.0" b="2311.0">Analytical</box>
+          <box l="901.0" t="2248.0" r="1105.0" b="2299.0">Chemist</box>
+          <box l="1248.0" t="2251.0" r="1509.0" b="2311.0">Hagoplan,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1942.0" t="2247.0" r="2167.0" b="2305.0">1,284.61</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="606.0" t="2316.0" r="875.0" b="2380.0">Analytical</box>
+          <box l="900.0" t="2316.0" r="1104.0" b="2366.0">Chemist</box>
+          <box l="1238.0" t="2321.0" r="1417.0" b="2372.0">Prasad,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1992.0" t="2319.0" r="2179.0" b="2365.0">632.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="613.0" t="2385.0" r="878.0" b="2447.0">Laboratory</box>
+          <box l="904.0" t="2384.0" r="1199.0" b="2437.0">Technicians</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1941.0" t="2385.0" r="2173.0" b="2441.0">1,012.56</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2532.0" t="3225.0" r="2832.0" b="3280.0">$12,261.70</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

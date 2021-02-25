@@ -1,0 +1,32 @@
+{
+    "IssuedDate": "30-AFR-86",
+    "InvoiceNumber": "105377-00",
+    "LineItem": [
+        {
+            "ItemDescription": "04/1 1 ADJUSTMENT-COT ADJ MAR 86",
+            "ItemTotal": "8.21"
+        },
+        {
+            "ItemDescription": "118200-06 TRUE CIGARETTES 04/11 ADJUSTMENT—COT ADJ MAR 86",
+            "ItemTotal": "24.28"
+        },
+        {
+            "ItemDescription": "118200-06 TRUE CIGARETTES 04/11 ADJUSTMENT-COT ADJ DEC 85",
+            "ItemTotal": "21.90"
+        },
+        {
+            "ItemDescription": "NEWPORT"
+        },
+        {
+            "ItemDescription": "ADJUSTMENT-COT ADJ DEC 13",
+            "ItemTotal": "12."
+        },
+        {
+            "ItemDescription": "NEWPORT"
+        },
+        {
+            "ItemDescription": "ADJUSTMENT-COT ADJ DEC 85",
+            "ItemTotal": "141.90"
+        }
+    ]
+}

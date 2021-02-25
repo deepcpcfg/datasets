@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="50.0" fp="44.0" fn="9.0">
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="2042.0" t="1299.0" r="2263.0" b="1337.0">D-11-0313</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="4.0" fn="3.0">
+      <box l="1951.0" t="1358.0" r="2046.0" b="1395.0">DEC</box>
+      <box l="2055.0" t="1358.0" r="2167.0" b="1395.0">18/94</box>
+    </IssuedDate>
+    <LineItem tp="30.0" fp="40.0" fn="6.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="233.0" t="1809.0" r="293.0" b="1846.0">BV</box>
+          <box l="308.0" t="1809.0" r="508.0" b="1846.0">KEYLINE</box>
+          <box l="524.0" t="1810.0" r="780.0" b="1847.0">ASSEMBLY</box>
+          <box l="229.0" t="1980.0" r="387.0" b="2017.0">090506</box>
+          <box l="716.0" t="1980.0" r="895.0" b="2015.0">STUDIO</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1520.0" t="1978.0" r="1665.0" b="2016.0">455.C0</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2527.0" t="1975.0" r="2671.0" b="2014.0">535.30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="233.0" t="2035.0" r="386.0" b="2071.0">100377</box>
+          <box l="716.0" t="2035.0" r="895.0" b="2072.0">STUDIO</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1521.0" t="2035.0" r="1665.0" b="2070.0">26C.C0</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2529.0" t="2034.0" r="2670.0" b="2071.0">305.89</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="0.0">
+      <box l="2529.0" t="2317.0" r="2670.0" b="2352.0">841.19</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="461.0" fp="159.0" fn="52.0">
+    <IssuedDate tp="0.0" fp="14.0" fn="0.0">
+      <box l="989.0" t="1202.0" r="1153.0" b="1254.0">August</box>
+      <box l="1171.0" t="1196.0" r="1359.0" b="1254.0">16,1996</box>
+    </IssuedDate>
+    <LineItem tp="461.0" fp="145.0" fn="45.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="1659.0" r="1176.0" b="1701.0">Amateur</box>
+          <box l="1184.0" t="1656.0" r="1284.0" b="1701.0">Pint</box>
+          <box l="1296.0" t="1655.0" r="1413.0" b="1711.0">place</box>
+          <box l="1426.0" t="1655.0" r="1534.0" b="1711.0">prize</box>
+          <box l="1546.0" t="1655.0" r="1621.0" b="1701.0">foe</box>
+          <box l="1154.0" t="1709.0" r="1292.0" b="1756.0">World</box>
+          <box l="1306.0" t="1709.0" r="1441.0" b="1756.0">t^BaU</box>
+          <box l="1456.0" t="1709.0" r="1770.0" b="1767.0">Championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="1705.0" r="2170.0" b="1755.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="1766.0" r="1292.0" b="1814.0">Grand</box>
+          <box l="1305.0" t="1767.0" r="1395.0" b="1813.0">Prix</box>
+          <box l="1409.0" t="1767.0" r="1462.0" b="1813.0">de</box>
+          <box l="1472.0" t="1767.0" r="1616.0" b="1813.0">Puerto</box>
+          <box l="1629.0" t="1764.0" r="1735.0" b="1812.0">Rico</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="1763.0" r="2168.0" b="1813.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1153.0" t="1826.0" r="1250.0" b="1871.0">U.S.</box>
+          <box l="1264.0" t="1826.0" r="1384.0" b="1883.0">Open</box>
+          <box l="1396.0" t="1826.0" r="1534.0" b="1871.0">9-Ball</box>
+          <box l="1552.0" t="1822.0" r="1871.0" b="1883.0">Championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="1816.0" r="2167.0" b="1870.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1151.0" t="1884.0" r="1441.0" b="1926.0">FloridaFIare</box>
+          <box l="1452.0" t="1884.0" r="1517.0" b="1938.0">Up</box>
+          <box l="1531.0" t="1884.0" r="1585.0" b="1926.0">ED</box>
+          <box l="988.0" t="1952.0" r="1258.0" b="1995.0">Professional</box>
+          <box l="1271.0" t="1952.0" r="1371.0" b="1995.0">First</box>
+          <box l="1385.0" t="1952.0" r="1496.0" b="2008.0">place</box>
+          <box l="1509.0" t="1951.0" r="1621.0" b="2008.0">prize</box>
+          <box l="1634.0" t="1951.0" r="1708.0" b="1996.0">foe</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="1880.0" r="2166.0" b="1929.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2006.0" r="1293.0" b="2054.0">World</box>
+          <box l="1306.0" t="2006.0" r="1441.0" b="2054.0">8-BaU</box>
+          <box l="1456.0" t="2005.0" r="1771.0" b="2062.0">Championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="2002.0" r="2166.0" b="2056.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2063.0" r="1292.0" b="2110.0">Grand</box>
+          <box l="1305.0" t="2063.0" r="1392.0" b="2109.0">Prix</box>
+          <box l="1409.0" t="2063.0" r="1459.0" b="2109.0">de</box>
+          <box l="1472.0" t="2063.0" r="1616.0" b="2108.0">Puerto</box>
+          <box l="1629.0" t="2062.0" r="1736.0" b="2109.0">Rico</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="2057.0" r="2167.0" b="2111.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1154.0" t="2122.0" r="1250.0" b="2168.0">U.S.</box>
+          <box l="1267.0" t="2122.0" r="1384.0" b="2180.0">Open</box>
+          <box l="1396.0" t="2122.0" r="1537.0" b="2168.0">9-Ball</box>
+          <box l="1551.0" t="2122.0" r="1775.0" b="2180.0">Champion</box>
+          <box l="1783.0" t="2120.0" r="1871.0" b="2179.0">ship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="2117.0" r="2167.0" b="2168.0">$400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2180.0" r="1312.0" b="2225.0">Florida</box>
+          <box l="1326.0" t="2180.0" r="1441.0" b="2225.0">Hare</box>
+          <box l="1452.0" t="2180.0" r="1520.0" b="2237.0">Up</box>
+          <box l="1531.0" t="2180.0" r="1584.0" b="2225.0">ID</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="2176.0" r="2170.0" b="2227.0">$400,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="2292.0" r="1180.0" b="2337.0">Amateur</box>
+          <box l="1192.0" t="2292.0" r="1472.0" b="2348.0">Secondplace</box>
+          <box l="1484.0" t="2290.0" r="1595.0" b="2349.0">prize</box>
+          <box l="1606.0" t="2289.0" r="1682.0" b="2337.0">for:</box>
+          <box l="1152.0" t="2347.0" r="1292.0" b="2392.0">World</box>
+          <box l="1305.0" t="2346.0" r="1438.0" b="2392.0">8-Ball</box>
+          <box l="1456.0" t="2334.0" r="1771.0" b="2405.0">championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1980.0" t="2343.0" r="2166.0" b="2396.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2405.0" r="1292.0" b="2452.0">Grand</box>
+          <box l="1305.0" t="2402.0" r="1392.0" b="2451.0">Prix</box>
+          <box l="1409.0" t="2405.0" r="1462.0" b="2451.0">de</box>
+          <box l="1472.0" t="2405.0" r="1616.0" b="2451.0">Puerto</box>
+          <box l="1629.0" t="2405.0" r="1733.0" b="2451.0">Rico</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1979.0" t="2392.0" r="2166.0" b="2454.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2463.0" r="1250.0" b="2509.0">U.S.</box>
+          <box l="1267.0" t="2463.0" r="1384.0" b="2522.0">Open</box>
+          <box l="1397.0" t="2463.0" r="1533.0" b="2509.0">9-Ball</box>
+          <box l="1552.0" t="2461.0" r="1870.0" b="2522.0">Championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2016.0" t="2459.0" r="2166.0" b="2509.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1152.0" t="2521.0" r="1312.0" b="2566.0">Florida</box>
+          <box l="1326.0" t="2522.0" r="1441.0" b="2565.0">Flare</box>
+          <box l="1452.0" t="2522.0" r="1517.0" b="2576.0">Up</box>
+          <box l="1530.0" t="2522.0" r="1583.0" b="2563.0">HI</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2016.0" t="2517.0" r="2166.0" b="2563.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="2631.0" r="1257.0" b="2675.0">Professional</box>
+          <box l="1270.0" t="2629.0" r="1430.0" b="2676.0">Second</box>
+          <box l="1442.0" t="2630.0" r="1558.0" b="2687.0">place</box>
+          <box l="1567.0" t="2631.0" r="1679.0" b="2687.0">prize</box>
+          <box l="1691.0" t="2628.0" r="1768.0" b="2675.0">for</box>
+          <box l="1155.0" t="2685.0" r="1292.0" b="2730.0">World</box>
+          <box l="1306.0" t="2685.0" r="1441.0" b="2731.0">8-Ball</box>
+          <box l="1456.0" t="2685.0" r="1770.0" b="2742.0">Championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1976.0" t="2683.0" r="2166.0" b="2734.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2743.0" r="1291.0" b="2792.0">Grand</box>
+          <box l="1302.0" t="2742.0" r="1393.0" b="2791.0">Prix</box>
+          <box l="1409.0" t="2742.0" r="1459.0" b="2792.0">de</box>
+          <box l="1476.0" t="2743.0" r="1616.0" b="2792.0">Puerto</box>
+          <box l="1629.0" t="2743.0" r="1733.0" b="2792.0">Rico</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1976.0" t="2730.0" r="2166.0" b="2792.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1155.0" t="2803.0" r="1250.0" b="2851.0">U.S.</box>
+          <box l="1266.0" t="2802.0" r="1384.0" b="2862.0">Open</box>
+          <box l="1396.0" t="2802.0" r="1534.0" b="2851.0">9-Ball</box>
+          <box l="1551.0" t="2802.0" r="1871.0" b="2863.0">Championship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1979.0" t="2797.0" r="2166.0" b="2851.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1151.0" t="2863.0" r="1196.0" b="2905.0">Fl</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

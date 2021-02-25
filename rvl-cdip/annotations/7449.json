@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "PR07-002003",
+    "IssuedDate": "JUL09/99",
+    "TotalAmount": "74,679.72",
+    "LineItem": [
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Ccommissionable Charges ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Cosmission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

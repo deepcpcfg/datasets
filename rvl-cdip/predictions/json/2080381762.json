@@ -1,0 +1,38 @@
+{
+    "LineItem": [
+        {
+            "ItemTotal": "42140",
+            "ItemDescription": "Mhx-lbccro Hilda King*"
+        },
+        {
+            "ItemDescription": "Bant B1CHP 6M 20",
+            "ItemUnitCount": "i2|ooa",
+            "ItemUnitValue": "129.70",
+            "ItemTotal": "1,554.40"
+        },
+        {
+            "ItemDescription": "LRSB COMP CIGTB",
+            "ItemTotal": "-778.20"
+        },
+        {
+            "ItemDescription": "Marlboro Mrifrhol Lta Box B1GLP 6M 20",
+            "ItemUnitCount": "12j",
+            "ItemUnitValue": "129.70",
+            "ItemTotal": "1,554.40"
+        },
+        {
+            "ItemDescription": "IXXXXX UB88 COMP CIGT8",
+            "ItemTotal": "-778.20"
+        },
+        {
+            "ItemDescription": "42150",
+            "ItemUnitValue": "129.70",
+            "ItemTotal": "778.20"
+        },
+        {
+            "ItemDescription": "mxn LSSB COMP CIGZ8",
+            "ItemTotal": "-389.10"
+        }
+    ],
+    "TotalAmount": "1,945.50"
+}

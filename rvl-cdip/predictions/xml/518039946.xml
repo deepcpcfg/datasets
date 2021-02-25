@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="138.0" fp="105.0" fn="219.0">
+    <InvoiceNumber tp="2.0" fp="5.0" fn="6.0">
+      <box l="1947.0" t="166.0" r="2133.0" b="195.0">5652920</box>
+    </InvoiceNumber>
+    <LineItem tp="131.0" fp="96.0" fn="201.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="1434.0" r="1179.0" b="1466.0">WINSTON</box>
+          <box l="1208.0" t="1433.0" r="1366.0" b="1466.0">SELECT</box>
+          <box l="1400.0" t="1432.0" r="1530.0" b="1463.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2193.0" t="1430.0" r="2375.0" b="1463.0">162,000</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2822.0" t="1426.0" r="3038.0" b="1462.0">9,306.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="1479.0" r="1179.0" b="1509.0">WINSTON</box>
+          <box l="1209.0" t="1476.0" r="1366.0" b="1509.0">SELECT</box>
+          <box l="1400.0" t="1476.0" r="1478.0" b="1509.0">BOX</box>
+          <box l="1509.0" t="1476.0" r="1637.0" b="1508.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2192.0" t="1471.0" r="2376.0" b="1509.0">162,000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2822.0" t="1471.0" r="3038.0" b="1506.0">9,SOS.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="1521.0" r="1179.0" b="1554.0">WINSTON</box>
+          <box l="1208.0" t="1521.0" r="1366.0" b="1554.0">SELECT</box>
+          <box l="1400.0" t="1521.0" r="1450.0" b="1551.0">LT</box>
+          <box l="1480.0" t="1520.0" r="1612.0" b="1551.0">B1Q1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2192.0" t="1517.0" r="2375.0" b="1554.0">162,000</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2463.0" t="1514.0" r="2680.0" b="1546.0">344.7000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2822.0" t="1513.0" r="3038.0" b="1551.0">9,306.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="1567.0" r="1179.0" b="1597.0">WINSTON</box>
+          <box l="1208.0" t="1566.0" r="1284.0" b="1596.0">SEL</box>
+          <box l="1317.0" t="1566.0" r="1366.0" b="1596.0">LT</box>
+          <box l="1401.0" t="1564.0" r="1476.0" b="1596.0">BOX</box>
+          <box l="1509.0" t="1563.0" r="1637.0" b="1595.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2192.0" t="1562.0" r="2376.0" b="1595.0">162,000</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2822.0" t="1559.0" r="3038.0" b="1595.0">9,300.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="991.0" t="1700.0" r="1095.0" b="1730.0">LESS</box>
+          <box l="1125.0" t="1696.0" r="1284.0" b="1730.0">CREDIT</box>
+          <box l="1316.0" t="1696.0" r="1396.0" b="1730.0">FOR</box>
+          <box l="1426.0" t="1696.0" r="1530.0" b="1729.0">FREE</box>
+          <box l="1563.0" t="1696.0" r="1747.0" b="1729.0">PRODUCT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2801.0" t="1689.0" r="3062.0" b="1725.0">18,013.BO-</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="991.0" t="1788.0" r="1067.0" b="1818.0">STD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2876.0" t="1780.0" r="3062.0" b="1809.0">604.85-</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="991.0" t="1833.0" r="1095.0" b="1863.0">LESS</box>
+          <box l="1125.0" t="1830.0" r="1341.0" b="1862.0">HANDLING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2876.0" t="1821.0" r="3062.0" b="1855.0">604.86-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="4.0" fn="4.0">
+      <box l="2801.0" t="3502.0" r="3038.0" b="3537.0">11,106.24</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

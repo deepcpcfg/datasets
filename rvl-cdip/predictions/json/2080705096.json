@@ -1,0 +1,23 @@
+{
+    "IssuedDate": "December 23, 1999",
+    "InvoiceNumber": "100175",
+    "LineItem": [
+        {
+            "ItemDescription": "General Expenses",
+            "ItemTotal": "$689.13"
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "129,40"
+        },
+        {
+            "ItemDescription": "Local Delivery",
+            "ItemTotal": "23.30"
+        },
+        {
+            "ItemDescription": "Storage Magazines for Reference Telephone",
+            "ItemTotal": "231,90"
+        }
+    ],
+    "TotalAmount": "S689.13"
+}

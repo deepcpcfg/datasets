@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "2267016",
+    "TotalAmount": "6375.00",
+    "LineItem": [
+        {
+            "ItemDescription": "15041.401: INDUCTION OF HEPATIC IN RATS BY A81",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "2500.00",
+            "ItemTotal": "2500.0"
+        },
+        {
+            "ItemDescription": "15042.401: INDUCTION OF HEPATIC ENZYMES IN RATS BY A90",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "1375.00",
+            "ItemTotal": "1375.0"
+        },
+        {
+            "ItemDescription": "15043.401: INDUCTION OF HEPATIC ENZYMES IN RATS BY Al 9 4",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "2500.00",
+            "ItemTotal": "2500.0"
+        }
+    ],
+    "IssuedDate": ""
+}

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "2",
+    "TotalAmount": "5,198.98",
+    "LineItem": [
+        {
+            "ItemTotal": "2,757.55",
+            "ItemDescription": "Salaries and Wages",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "(1.472.89)",
+            "ItemDescription": "Salaries Cost-Shared",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,804.86",
+            "ItemDescription": "Fringe Benefits",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

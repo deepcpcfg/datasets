@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="142.0" fp="57.0" fn="65.0">
+    <InvoiceNumber tp="1.0" fp="4.0" fn="5.0">
+      <box l="1186.0" t="1799.0" r="1361.0" b="1836.0">56046</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="2.0" fn="2.0">
+      <box l="2817.0" t="1795.0" r="3071.0" b="1842.0">4/42/46</box>
+    </IssuedDate>
+    <LineItem tp="131.0" fp="48.0" fn="55.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="961.0" t="1989.0" r="1140.0" b="2026.0">CAMEL</box>
+          <box l="1223.0" t="1989.0" r="1360.0" b="2028.0">P*0*</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="665.0" t="2174.0" r="881.0" b="2212.0">PICKED</box>
+          <box l="925.0" t="2176.0" r="993.0" b="2213.0">UP</box>
+          <box l="1036.0" t="2175.0" r="1215.0" b="2212.0">FLATS</box>
+          <box l="1261.0" t="2175.0" r="1361.0" b="2211.0">ANO</box>
+          <box l="1407.0" t="2174.0" r="1660.0" b="2211.0">CHANGED</box>
+          <box l="667.0" t="2241.0" r="920.0" b="2279.0">HARKING</box>
+          <box l="967.0" t="2241.0" r="1067.0" b="2278.0">BOX</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2934.0" t="2172.0" r="3110.0" b="2213.0">7b*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1078.0" t="2306.0" r="1105.0" b="2339.0">4</box>
+          <box l="1153.0" t="2301.0" r="1477.0" b="2339.0">1HPCRTANT</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="667.0" t="2429.0" r="846.0" b="2468.0">PRESS</box>
+          <box l="889.0" t="2430.0" r="1033.0" b="2467.0">PREP</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2899.0" t="2429.0" r="3111.0" b="2467.0">450*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="668.0" t="2493.0" r="881.0" b="2532.0">RUNOFF</box>
+          <box l="927.0" t="2492.0" r="997.0" b="2530.0">SO</box>
+          <box l="1036.0" t="2493.0" r="1218.0" b="2529.0">PROGS</box>
+          <box l="1265.0" t="2494.0" r="1290.0" b="2527.0">5</box>
+          <box l="1336.0" t="2495.0" r="1403.0" b="2528.0">50</box>
+          <box l="1444.0" t="2493.0" r="1661.0" b="2528.0">PROOFS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2900.0" t="2489.0" r="3112.0" b="2530.0">750*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="670.0" t="2553.0" r="771.0" b="2594.0">100</box>
+          <box l="820.0" t="2554.0" r="1107.0" b="2595.0">QUANTITY</box>
+          <box l="1149.0" t="2555.0" r="1366.0" b="2591.0">PROOFS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2935.0" t="2553.0" r="3114.0" b="2591.0">12*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="675.0" t="2620.0" r="696.0" b="2658.0">1</box>
+          <box l="743.0" t="2618.0" r="849.0" b="2656.0">SET</box>
+          <box l="893.0" t="2618.0" r="959.0" b="2656.0">OF</box>
+          <box l="1004.0" t="2618.0" r="1146.0" b="2657.0">FILft</box>
+          <box l="1196.0" t="2616.0" r="1293.0" b="2657.0">(TO</box>
+          <box l="1343.0" t="2618.0" r="1551.0" b="2655.0">INSIDE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2904.0" t="2615.0" r="3114.0" b="2656.0">155*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="673.0" t="2679.0" r="886.0" b="2718.0">SPORTS</box>
+          <box l="936.0" t="2680.0" r="1036.0" b="2717.0">ILL</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="3.0" fn="3.0">
+      <box l="2830.0" t="2862.0" r="3113.0" b="2909.0">1&gt;742*00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

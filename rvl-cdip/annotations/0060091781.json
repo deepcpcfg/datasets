@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "13 S3",
+    "IssuedDate": "September 27, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Por professional services rendered, in connection with. MISTY LOOK BOOK CONVERSION Final Billing",
+            "ItemTotal": "$9,700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

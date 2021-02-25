@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="221.0" fp="18.0" fn="17.0">
+    <IssuedDate tp="0.0" fp="13.0" fn="0.0">
+      <box l="552.0" t="1001.0" r="706.0" b="1070.0">April</box>
+      <box l="733.0" t="998.0" r="993.0" b="1066.0">17,1998</box>
+    </IssuedDate>
+    <LineItem tp="221.0" fp="5.0" fn="10.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1113.0" t="2235.0" r="1175.0" b="2276.0">Air</box>
+          <box l="1187.0" t="2235.0" r="1308.0" b="2277.0">travel</box>
+          <box l="1325.0" t="2235.0" r="1846.0" b="2277.0">Toronto/Atlanta/Toronto</box>
+          <box l="1864.0" t="2235.0" r="1958.0" b="2285.0">(Apr</box>
+          <box l="1971.0" t="2236.0" r="2107.0" b="2285.0">15/17}</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2588.0" t="2237.0" r="2784.0" b="2281.0">$1495.61</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1151.0" t="2302.0" r="1262.0" b="2343.0">Hole!</box>
+          <box l="1276.0" t="2302.0" r="1637.0" b="2343.0">Accommodation</box>
+          <box l="1655.0" t="2302.0" r="1767.0" b="2352.0">(April</box>
+          <box l="1784.0" t="2303.0" r="2070.0" b="2352.0">16,17,1998)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2601.0" t="2304.0" r="2779.0" b="2349.0">$453.72</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1042.0" t="2368.0" r="1216.0" b="2417.0">Meeting</box>
+          <box l="1234.0" t="2368.0" r="1491.0" b="2417.0">preparation,</box>
+          <box l="1509.0" t="2368.0" r="1629.0" b="2408.0">travel</box>
+          <box l="1646.0" t="2369.0" r="1726.0" b="2408.0">and</box>
+          <box l="1745.0" t="2369.0" r="1918.0" b="2419.0">meeting</box>
+          <box l="1937.0" t="2369.0" r="2179.0" b="2410.0">attendance</box>
+          <box l="1180.0" t="2427.0" r="1208.0" b="2467.0">2</box>
+          <box l="1221.0" t="2427.0" r="1325.0" b="2476.0">days</box>
+          <box l="1405.0" t="2427.0" r="1704.0" b="2476.0">$1500.00/day</box>
+          <box l="1721.0" t="2428.0" r="2040.0" b="2476.0">($US200/hour)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2580.0" t="2370.0" r="2800.0" b="2415.0">$3,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1495.0" t="2493.0" r="1729.0" b="2532.0">Incidentals</box>
+          <box l="1416.0" t="2552.0" r="1520.0" b="2601.0">days</box>
+          <box l="1600.0" t="2552.0" r="1845.0" b="2602.0">$50.00/day</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2601.0" t="2494.0" r="2779.0" b="2535.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

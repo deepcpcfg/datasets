@@ -1,0 +1,58 @@
+{
+    "IssuedDate": "DATE October 31, 1988",
+    "LineItem": [
+        {
+            "ItemDescription": "Waterbiaster",
+            "ItemUnitValue": "48.00",
+            "ItemTotal": "'>80.00"
+        },
+        {
+            "ItemDescription": "Supervisor",
+            "ItemUnitValue": "21.00",
+            "ItemTotal": "210.00"
+        },
+        {
+            "ItemDescription": "Operators",
+            "ItemUnitValue": "19.50",
+            "ItemTotal": "1,j60.00"
+        },
+        {
+            "ItemDescription": "Waterbiaster",
+            "ItemUnitValue": "48.00",
+            "ItemTotal": "360.00"
+        },
+        {
+            "ItemDescription": "Supervisor",
+            "ItemUnitValue": "21.00",
+            "ItemTotal": "157.50"
+        },
+        {
+            "ItemDescription": "Operators",
+            "ItemUnitValue": "19.50",
+            "ItemTotal": "1,170.00"
+        },
+        {
+            "ItemUnitCount": "4.5",
+            "ItemDescription": "Waterblaster",
+            "ItemUnitValue": "48.00",
+            "ItemTotal": "216.00"
+        },
+        {
+            "ItemUnitCount": "4.5",
+            "ItemDescription": "Supervisor",
+            "ItemUnitValue": "21.00",
+            "ItemTotal": "94.30"
+        },
+        {
+            "ItemUnitCount": "4.5",
+            "ItemDescription": "Operators",
+            "ItemUnitValue": "19.50",
+            "ItemTotal": "614.25"
+        },
+        {
+            "ItemDescription": "Man Lift 20%",
+            "ItemTotal": "864.00"
+        }
+    ],
+    "TotalAmount": "$5,726.25"
+}

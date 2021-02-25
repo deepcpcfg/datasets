@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "99065516",
+    "IssuedDate": "07/01/99",
+    "TotalAmount": "358.10",
+    "LineItem": [
+        {
+            "ItemDescription": "OZ, MAIL PIECES",
+            "ItemUnitCount": "22",
+            "ItemUnitValue": "34.10",
+            "ItemTotal": "34.10"
+        },
+        {
+            "ItemDescription": "OZ. MAIL PIECES",
+            "ItemUnitCount": "80",
+            "ItemUnitValue": "124.00",
+            "ItemTotal": "124,00"
+        },
+        {
+            "ItemDescription": "ANNUAL SERVICE CHARGE",
+            "ItemTotal": "200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="87.0" fp="7.0" fn="2.0">
+    <InvoiceNumber tp="0.0" fp="5.0" fn="0.0">
+      <box l="2389.0" t="649.0" r="2639.0" b="737.0">0z363</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="1.0" fn="1.0">
+      <box l="2452.0" t="887.0" r="2538.0" b="929.0">May</box>
+      <box l="2572.0" t="882.0" r="2772.0" b="923.0">10,197?</box>
+    </IssuedDate>
+    <LineItem tp="69.0" fp="1.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="571.0" t="2214.0" r="688.0" b="2248.0">1979</box>
+          <box l="717.0" t="2214.0" r="920.0" b="2250.0">Atlanta</box>
+          <box l="951.0" t="2218.0" r="1125.0" b="2250.0">Braves</box>
+          <box l="1155.0" t="2215.0" r="1421.0" b="2252.0">Scorebook</box>
+          <box l="1451.0" t="2217.0" r="1504.0" b="2251.0">Ad</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2413.0" t="2220.0" r="2671.0" b="2262.0">10,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="572.0" t="2336.0" r="688.0" b="2368.0">Less</box>
+          <box l="722.0" t="2330.0" r="804.0" b="2368.0">15%</box>
+          <box l="834.0" t="2333.0" r="1125.0" b="2367.0">Commission</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2421.0" t="2338.0" r="2689.0" b="2380.0">(1,500.00)</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2438.0" t="2754.0" r="2667.0" b="2795.0">8,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="113.0" fp="1.0" fn="6.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2596.0" t="1875.0" r="2840.0" b="1921.0">PF48XX</box>
+    </InvoiceNumber>
+    <LineItem tp="103.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1503.0" t="2760.0" r="1710.0" b="2809.0">Salaries</box>
+          <box l="1732.0" t="2763.0" r="1828.0" b="2809.0">and</box>
+          <box l="1849.0" t="2760.0" r="2289.0" b="2822.0">Expense-Market</box>
+          <box l="2307.0" t="2760.0" r="2448.0" b="2818.0">Mgrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2965.0" t="2759.0" r="3111.0" b="2810.0">$0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1503.0" t="2835.0" r="1711.0" b="2884.0">Salaries</box>
+          <box l="1732.0" t="2836.0" r="1828.0" b="2884.0">and</box>
+          <box l="1848.0" t="2835.0" r="2268.0" b="2897.0">Expense-SPR’s</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2965.0" t="2832.0" r="3111.0" b="2884.0">$0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1503.0" t="2906.0" r="1710.0" b="2955.0">Salaries</box>
+          <box l="1728.0" t="2909.0" r="1828.0" b="2955.0">and</box>
+          <box l="1848.0" t="2906.0" r="2318.0" b="2967.0">Expense-Floaters</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2965.0" t="2906.0" r="3111.0" b="2955.0">$0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="4.0" fp="1.0" fn="0.0">
+      <box l="2964.0" t="3089.0" r="3108.0" b="3142.0">$0.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

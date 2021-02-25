@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="31.0" fp="66.0" fn="27.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="519.0" t="852.0" r="643.0" b="899.0">June</box>
+      <box l="678.0" t="852.0" r="764.0" b="906.0">30,</box>
+      <box l="806.0" t="851.0" r="927.0" b="901.0">1982</box>
+    </IssuedDate>
+    <LineItem tp="18.0" fp="66.0" fn="21.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="514.0" t="2427.0" r="951.0" b="2477.0">Cardiovascular</box>
+          <box l="984.0" t="2428.0" r="1201.0" b="2486.0">Testing</box>
+          <box l="1236.0" t="2431.0" r="1297.0" b="2478.0">of</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="514.0" t="2488.0" r="573.0" b="2537.0">in</box>
+          <box l="610.0" t="2491.0" r="698.0" b="2537.0">the</box>
+          <box l="735.0" t="2492.0" r="919.0" b="2548.0">Beagle</box>
+          <box l="956.0" t="2493.0" r="1044.0" b="2550.0">Dog</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1177.0" t="2494.0" r="1361.0" b="2548.0">&gt;3,700</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1331.0" t="2431.0" r="1578.0" b="2489.0">Compound</box>
+          <box l="1615.0" t="2433.0" r="1736.0" b="2479.0">B-44</box>
+          <box l="1395.0" t="2505.0" r="1486.0" b="2551.0">per</box>
+          <box l="1520.0" t="2496.0" r="1792.0" b="2553.0">compound.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2343.0" t="2369.0" r="2619.0" b="2428.0">$3,700.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

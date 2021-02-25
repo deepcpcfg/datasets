@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "90452",
+    "IssuedDate": "October 31, 1990",
+    "TotalAmount": "9,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "1 COPY THE TMA INTERNATIONAL TOBACCO GUIDE (Non-Member)",
+            "ItemTotal": "$7,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$ 1,500.00",
+            "ItemDescription": "1991 UPDATE INCLUDED AT NO ADDITIONAL CHARGE 1992 UPDATE (Non-Member)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

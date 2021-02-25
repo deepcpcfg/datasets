@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "CH0186",
+    "IssuedDate": "Dec 12, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "One third of budgeted fee as approved by IM",
+            "ItemTotal": "18,079.20"
+        }
+    ]
+}

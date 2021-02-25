@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="20.0" fp="69.0" fn="34.0">
+    <IssuedDate tp="11.0" fp="1.0" fn="2.0">
+      <box l="2191.0" t="681.0" r="2327.0" b="735.0">JULY</box>
+      <box l="2377.0" t="651.0" r="2623.0" b="719.0">21,1982</box>
+    </IssuedDate>
+    <LineItem tp="9.0" fp="68.0" fn="26.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="529.0" t="2458.0" r="589.0" b="2502.0">13</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="659.0" t="2621.0" r="873.0" b="2680.0">LABOR-</box>
+          <box l="912.0" t="2575.0" r="1239.0" b="2651.0">0UTFIL1NG</box>
+          <box l="811.0" t="2658.0" r="1060.0" b="2724.0">RUNNING</box>
+          <box l="1101.0" t="2634.0" r="1284.0" b="2693.0">GREEN</box>
+          <box l="1280.0" t="2560.0" r="1387.0" b="2610.0">AND</box>
+          <box l="1324.0" t="2619.0" r="1434.0" b="2670.0">AND</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1473.0" t="2595.0" r="1651.0" b="2652.0">WHITE</box>
+          <box l="1692.0" t="2569.0" r="1874.0" b="2629.0">CARDS</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="2057.0" t="2456.0" r="2344.0" b="2524.0">CHECKIMG</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2656.0" t="2468.0" r="2840.0" b="2534.0">3^00.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="554.0" t="2695.0" r="762.0" b="2754.0">LISTS,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2618.0" t="2730.0" r="2847.0" b="2799.0">'$79.03</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

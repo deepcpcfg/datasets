@@ -1,0 +1,142 @@
+[
+    {
+        "IssuedDate": [
+            "13-Jun-95",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Nos; 1360/1 to 6 inclusive",
+                            {
+                                "tp": 0.0,
+                                "fp": 26.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 26.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Conduct of a study to measure environmental tobacco by personal monitoring in European as described in the Application for Research Contract",
+                            {
+                                "tp": 140.0,
+                                "fp": 0.0,
+                                "fn": 136.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 140.0,
+                        "fp": 0.0,
+                        "fn": 146.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "3rd quarterly",
+                            {
+                                "tp": 0.0,
+                                "fp": 13.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 13.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "302,200.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "94-08 cities",
+                            {
+                                "tp": 0.0,
+                                "fp": 12.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 22.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 140.0,
+                "fp": 61.0,
+                "fn": 146.0
+            }
+        ],
+        "InvoiceNumber": [
+            "277",
+            {
+                "tp": 3.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 10.0
+            }
+        ]
+    },
+    {
+        "tp": 152.0,
+        "fp": 61.0,
+        "fn": 156.0
+    }
+]

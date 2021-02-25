@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "02-0130 ",
+    "IssuedDate": "February 19. 1993",
+    "TotalAmount": "225,77",
+    "LineItem": [
+        {
+            "ItemTotal": "$10.116.96",
+            "ItemDescription": "*Data Entry - Tar Wars Bounceback Requests (21 ,498 pcs. @ S470.60/M)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9.0B4.42",
+            "ItemDescription": "'Data Entry - Redemption Coupons (193,039 pcs. @ S47.O6ZM)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7.225.36",
+            "ItemDescription": "’Data Entry - Redemption Coupons (153,535 pcs. @ $47.06/14)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "352.95",
+            "ItemDescription": "'Programming for data Entry ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "294.13",
+            "ItemDescription": "'Nixie/Promo Code Reports",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3.762.85",
+            "ItemDescription": "Managemeni fee covering supervision of data entry and reporting ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "796,97",
+            "ItemDescription": "*Misc. (copies, faxes, freight, etc.) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

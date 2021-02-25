@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "25443",
+    "IssuedDate": "1/31/94",
+    "LineItem": [
+        {
+            "ItemDescription": "FILLMENT. VOLUME: 1.247-",
+            "ItemTotal": "1462.00"
+        },
+        {
+            "ItemDescription": "POSTAGE MATERIALS- USED-",
+            "ItemTotal": "436.90"
+        }
+    ]
+}

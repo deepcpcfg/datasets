@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "July 9, 1984",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "12,300.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "L4-Day Subacute Toxicity Study in Rats with A-57, A-156. A-169, B-24, 6-71, and B-73",
+                            {
+                                "tp": 55.0,
+                                "fp": 29.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 64.0,
+                        "fp": 29.0,
+                        "fn": 2.0
+                    }
+                ]
+            ],
+            {
+                "tp": 64.0,
+                "fp": 29.0,
+                "fn": 2.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1599-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 82.0,
+        "fp": 29.0,
+        "fn": 2.0
+    }
+]

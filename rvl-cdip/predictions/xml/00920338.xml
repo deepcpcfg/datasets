@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="105.0" fp="5.0" fn="4.0">
+    <IssuedDate tp="14.0" fp="1.0" fn="1.0">
+      <box l="524.0" t="841.0" r="745.0" b="889.0">October</box>
+      <box l="779.0" t="844.0" r="833.0" b="897.0">3,</box>
+      <box l="874.0" t="843.0" r="995.0" b="891.0">1983</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="907.0" t="1667.0" r="1091.0" b="1714.0">1532-3</box>
+    </InvoiceNumber>
+    <LineItem tp="79.0" fp="1.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="527.0" t="2042.0" r="870.0" b="2098.0">Teratogenic</box>
+          <box l="907.0" t="2042.0" r="995.0" b="2088.0">and</box>
+          <box l="1032.0" t="2042.0" r="1615.0" b="2096.0">Perinatal/Postnatal</box>
+          <box l="1661.0" t="2044.0" r="1812.0" b="2101.0">Study</box>
+          <box l="625.0" t="2104.0" r="679.0" b="2153.0">in</box>
+          <box l="721.0" t="2107.0" r="807.0" b="2152.0">the</box>
+          <box l="845.0" t="2107.0" r="932.0" b="2153.0">Rat</box>
+          <box l="966.0" t="2107.0" r="1087.0" b="2155.0">with</box>
+          <box l="1125.0" t="2107.0" r="1248.0" b="2154.0">D-16</box>
+          <box l="1283.0" t="2109.0" r="1374.0" b="2155.0">and</box>
+          <box l="1408.0" t="2108.0" r="1561.0" b="2156.0">B-112</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2259.0" t="2109.0" r="2508.0" b="2167.0">6,625.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="3.0" fn="2.0">
+      <box l="1882.0" t="2364.0" r="2160.0" b="2420.0">26,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

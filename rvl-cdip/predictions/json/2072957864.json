@@ -1,0 +1,17 @@
+{
+    "TotalAmount": "INC.",
+    "InvoiceNumber": "6889",
+    "IssuedDate": "03-16-92",
+    "LineItem": [
+        {
+            "ItemDescription": "TRAVEL SHARON ^OVE",
+            "ItemTotal": "2274.73",
+            "ItemUnitValue": "2274.73"
+        },
+        {
+            "ItemDescription": "TRAVEL ROGER WINTER",
+            "ItemTotal": "2110.31",
+            "ItemUnitValue": "2110.31"
+        }
+    ]
+}

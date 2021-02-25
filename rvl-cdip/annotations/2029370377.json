@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "MQQ085",
+    "IssuedDate": "Sep 30, 1991",
+    "TotalAmount": "9,172.14",
+    "LineItem": [
+        {
+            "ItemDescription": "To the services of Svenska PR by ran in planning and distributing the HBI Magazine 14 and 5. Svenska Invoice 12011 of September 16, 1991 refers. 40,072 SEX C 6.14 SEE = $1",
+            "ItemTotal": "$ 6,526.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Daily services and advice plus magazine follow-ip activates in Simner on 1991 as per Invoice #2012 dated September 16th. 16,245 SEK £ 6.14 SEK = $1",
+            "ItemTotal": "$ 2,645.76",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

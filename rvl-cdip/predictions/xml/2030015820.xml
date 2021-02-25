@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="44.0" fp="19.0" fn="58.0">
+    <LineItem tp="44.0" fp="19.0" fn="52.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="735.0" t="1521.0" r="797.0" b="1556.0">l-JP</box>
+          <box l="840.0" t="1521.0" r="894.0" b="1557.0">3r</box>
+          <box l="939.0" t="1523.0" r="997.0" b="1556.0">LI</box>
+          <box l="1009.0" t="1522.0" r="1071.0" b="1557.0">MR</box>
+          <box l="735.0" t="1578.0" r="959.0" b="1615.0">l-25-°A</box>
+          <box l="729.0" t="1637.0" r="858.0" b="1673.0">UNIT</box>
+          <box l="908.0" t="1636.0" r="1034.0" b="1675.0">1323</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2482.0" t="1633.0" r="2544.0" b="1669.0">50</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="733.0" t="1695.0" r="1070.0" b="1731.0">SUPERVISOR</box>
+          <box l="727.0" t="1751.0" r="998.0" b="1790.0">OPERATOR</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2193.0" t="1692.0" r="2239.0" b="1725.0">9</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2486.0" t="1689.0" r="2656.0" b="1727.0">22.0C</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2484.0" t="1747.0" r="2650.0" b="1784.0">20.50</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

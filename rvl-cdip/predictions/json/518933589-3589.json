@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "014-0020",
+    "LineItem": [
+        {
+            "ItemUnitCount": "30",
+            "ItemDescription": "CAMLL FILTER BOX B1G1F",
+            "ItemUnitValue": "900.000",
+            "ItemTotal": "53,505.00"
+        },
+        {
+            "ItemUnitCount": "30",
+            "ItemDescription": "CAMEL LT BOX B1G1F",
+            "ItemUnitValue": "000.000",
+            "ItemTotal": "S3,505.00"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "S3.505,GO-"
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "1.730.92-"
+        }
+    ],
+    "IssuedDate": "24,",
+    "TotalAmount": "26,666.06"
+}

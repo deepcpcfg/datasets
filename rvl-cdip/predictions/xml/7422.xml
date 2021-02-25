@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="80.0" fp="25.0" fn="28.0">
+    <IssuedDate tp="0.0" fp="1.0" fn="8.0">
+      <box l="153.0" t="288.0" r="170.0" b="309.0">A</box>
+    </IssuedDate>
+    <InvoiceNumber tp="8.0" fp="4.0" fn="3.0">
+      <box l="2341.0" t="656.0" r="2594.0" b="684.0">PR09'05299fl</box>
+    </InvoiceNumber>
+    <LineItem tp="66.0" fp="18.0" fn="15.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="323.0" t="1184.0" r="752.0" b="1214.0">Non-Coraniosionable</box>
+          <box l="782.0" t="1186.0" r="944.0" b="1222.0">Cbaxgeo</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2406.0" t="1185.0" r="2590.0" b="1218.0">1,585.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="326.0" t="1272.0" r="660.0" b="1305.0">CocuLiasionable</box>
+          <box l="686.0" t="1273.0" r="847.0" b="1311.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2498.0" t="1272.0" r="2590.0" b="1301.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="326.0" t="1366.0" r="468.0" b="1397.0">agency</box>
+          <box l="494.0" t="1361.0" r="731.0" b="1391.0">Coraadsaion</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2498.0" t="1364.0" r="2589.0" b="1389.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="2.0" fn="2.0">
+      <box l="2406.0" t="1451.0" r="2589.0" b="1482.0">I,535.80</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

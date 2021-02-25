@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "07-0137",
+    "IssuedDate": "July 26, 1990",
+    "TotalAmount": "524.09",
+    "LineItem": [
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "$450.94",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Stats",
+            "ItemTotal": "13,50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "*Messengar",
+            "ItemTotal": "22.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

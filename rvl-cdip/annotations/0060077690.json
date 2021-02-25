@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "87628D",
+    "IssuedDate": "December 28, 1994",
+    "TotalAmount": "36,250.00",
+    "LineItem": [
+        {
+            "ItemDescription": "42,000# of 80# Sterling C2S-36 1/2”",
+            "ItemTotal": "$20,580.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "31,000# of 80# Sterling C2S-26 1/2\"",
+            "ItemTotal": "15,190.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "48. 75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

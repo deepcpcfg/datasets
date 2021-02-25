@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "8/1/98",
+    "InvoiceNumber": "966",
+    "LineItem": [
+        {
+            "ItemDescription": "Telecommunications",
+            "ItemTotal": "911.17"
+        },
+        {
+            "ItemDescription": "Other Magazine",
+            "ItemTotal": "3.70"
+        }
+    ],
+    "TotalAmount": "$914.87"
+}

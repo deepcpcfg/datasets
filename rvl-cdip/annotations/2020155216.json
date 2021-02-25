@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "8-17-90",
+    "InvoiceNumber": "AP521",
+    "TotalAmount": "86,250.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CONDUCT DEVELOPMENT EFF¬ ORTS NECESSARY TO PRODUCE 100 PROTOTYPES ELECTRONIC CONTROL PACKAGES IN ACCORDANCE WITH THE TERNS OF THE PHX AGREEMENT DATED APRIL 23,1990",
+            "ItemTotal": "$ 86,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "ACCOUNT PRINCIPAL SO HRS",
+            "ItemTotal": "10000.00",
+            "ItemUnitValue": "10000.oc"
+        },
+        {
+            "ItemDescription": "ACCOUNT SUPERVISOR 35 HRS",
+            "ItemTotal": "3850.00",
+            "ItemUnitValue": "3850.00"
+        },
+        {
+            "ItemDescription": "CREATIVE DIRECTOR sQ HRS",
+            "ItemUnitValue": "^500.00",
+            "ItemTotal": "7500.OC"
+        },
+        {
+            "ItemDescription": "ACCOUNT EXECUTIVE 30 HRS",
+            "ItemTotal": "2250.00",
+            "ItemUnitValue": "2250,00"
+        },
+        {
+            "ItemDescription": "ART DIRECTOR 35 HRS",
+            "ItemUnitValue": "3850.00",
+            "ItemTotal": "7850.OC"
+        }
+    ]
+}

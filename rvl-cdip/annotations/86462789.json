@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3089",
+    "IssuedDate": "December 20, 1999",
+    "TotalAmount": "18,520.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Newport Non-Menthol Study",
+            "ItemTotal": "$18,520.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "March 4,1993",
+            {
+                "tp": 11.0,
+                "fp": 1.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "$29,249.00",
+            {
+                "tp": 7.0,
+                "fp": 3.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "30",
+                            {
+                                "tp": 1.0,
+                                "fp": 1.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "4lh Payment for Research Entitled \"Comparative Evaluation of Displacement Ventilation Conventional VAV Systems for Indoor Air Quality Control.\" (\"2H5/93 Progress Report' Contract No. \"Agreement 2\"",
+                            {
+                                "tp": 195.0,
+                                "fp": 1.0,
+                                "fn": 65.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 196.0,
+                        "fp": 2.0,
+                        "fn": 73.0
+                    }
+                ]
+            ],
+            {
+                "tp": 196.0,
+                "fp": 2.0,
+                "fn": 73.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1099",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 218.0,
+        "fp": 6.0,
+        "fn": 77.0
+    }
+]

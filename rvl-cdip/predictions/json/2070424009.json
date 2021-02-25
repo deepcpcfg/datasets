@@ -1,0 +1,11 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Magazine",
+            "ItemTotal": "$20,500.00"
+        }
+    ],
+    "IssuedDate": "5/15/90",
+    "TotalAmount": "$17,425.00",
+    "InvoiceNumber": "18041"
+}

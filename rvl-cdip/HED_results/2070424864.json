@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "04/02/87",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "59145",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "DETROIT TIGERS NEW YORK YANKEES CHICAGO WHITE SOX",
+                            {
+                                "tp": 49.0,
+                                "fp": 0.0,
+                                "fn": 132.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 54.0,
+                        "fp": 0.0,
+                        "fn": 135.0
+                    }
+                ]
+            ],
+            {
+                "tp": 54.0,
+                "fp": 0.0,
+                "fn": 135.0
+            }
+        ],
+        "InvoiceNumber": [
+            "104264-00",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 62.0,
+        "fp": 9.0,
+        "fn": 144.0
+    }
+]

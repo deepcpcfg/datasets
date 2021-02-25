@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "D5X7111",
+    "IssuedDate": "03/30/04",
+    "LineItem": [
+        {
+            "ItemDescription": "SYSTEM ENGINEER LABOR, PER HOUR",
+            "ItemUnitCount": "150'00",
+            "ItemTotal": "1.600100"
+        },
+        {
+            "ItemDescription": "1 HOUR PER MQNffl-QJMPAQ SYSTEMPRQ.",
+            "ItemTotal": "1.800,00"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "October 6, 1978",
+            {
+                "tp": 15.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "260.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "rendered in connection with 8 focused group interviews: Boston/Syracuse/Old Gold Filters",
+                            {
+                                "tp": 88.0,
+                                "fp": 0.0,
+                                "fn": 42.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 94.0,
+                        "fp": 0.0,
+                        "fn": 47.0
+                    }
+                ]
+            ],
+            {
+                "tp": 94.0,
+                "fp": 0.0,
+                "fn": 47.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 109.0,
+        "fp": 0.0,
+        "fn": 47.0
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="72.0" fp="4.0" fn="15.0">
+    <TotalAmount tp="2.0" fp="2.0" fn="3.0">
+      <box l="2072.0" t="630.0" r="2208.0" b="667.0">2500</box>
+    </TotalAmount>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="509.0" t="1026.0" r="791.0" b="1076.0">February</box>
+      <box l="833.0" t="1030.0" r="921.0" b="1076.0">15,</box>
+      <box l="975.0" t="1030.0" r="1105.0" b="1066.0">1996</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="1.0" fn="0.0">
+      <box l="2283.0" t="1025.0" r="2526.0" b="1066.0">#376685</box>
+    </InvoiceNumber>
+    <LineItem tp="47.0" fp="1.0" fn="12.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="692.0" t="2781.0" r="933.0" b="2834.0">Parking</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2679.0" t="2802.0" r="2809.0" b="2838.0">3_00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="688.0" t="2901.0" r="825.0" b="2938.0">MCPS</box>
+          <box l="863.0" t="2902.0" r="1179.0" b="2951.0">Messenger</box>
+          <box l="1217.0" t="2905.0" r="1496.0" b="2947.0">Services</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2676.0" t="2922.0" r="2805.0" b="2955.0">2.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="688.0" t="3018.0" r="858.0" b="3055.0">Faxes</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2638.0" t="3037.0" r="2805.0" b="3073.0">13.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "12. .432",
+    "IssuedDate": "76 DEC 17 ",
+    "TotalAmount": "3,354.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CTR - SUPPLEMENTAL SHORE MONITORING STUDIES",
+            "ItemTotal": "3,354.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="141.0" fp="104.0" fn="47.0">
+    <InvoiceNumber tp="0.0" fp="5.0" fn="4.0">
+      <box l="2503.0" t="643.0" r="2741.0" b="709.0">51400</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="322.0" t="1693.0" r="534.0" b="1734.0">10/20/89</box>
+    </IssuedDate>
+    <LineItem tp="133.0" fp="85.0" fn="43.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="430.0" t="1861.0" r="646.0" b="1911.0">Compound</box>
+          <box l="380.0" t="1803.0" r="813.0" b="1852.0">iMlunoraodulatory</box>
+          <box l="675.0" t="1860.0" r="758.0" b="1902.0">A35</box>
+          <box l="846.0" t="1803.0" r="1092.0" b="1853.0">Screening</box>
+          <box l="1118.0" t="1799.0" r="1230.0" b="1840.0">Test</box>
+          <box l="1264.0" t="1799.0" r="1321.0" b="1840.0">ini</box>
+          <box l="1342.0" t="1799.0" r="1455.0" b="1840.0">Mice</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2167.0" t="1855.0" r="2383.0" b="1900.0">7,533.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="430.0" t="1918.0" r="645.0" b="1968.0">Compound</box>
+          <box l="675.0" t="1919.0" r="758.0" b="1959.0">A36</box>
+          <box l="380.0" t="2031.0" r="816.0" b="2081.0">Inmuficmodulatory</box>
+          <box l="849.0" t="2028.0" r="1092.0" b="2078.0">Screening</box>
+          <box l="1121.0" t="2028.0" r="1230.0" b="2069.0">Test</box>
+          <box l="1267.0" t="2029.0" r="1313.0" b="2069.0">in</box>
+          <box l="1346.0" t="2029.0" r="1458.0" b="2066.0">Mice</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2167.0" t="1909.0" r="2386.0" b="1959.0">7,533.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="380.0" t="2089.0" r="454.0" b="2130.0">and</box>
+          <box l="487.0" t="2089.0" r="624.0" b="2127.0">Phase</box>
+          <box l="656.0" t="2086.0" r="670.0" b="2127.0">I</box>
+          <box l="705.0" t="2086.0" r="844.0" b="2135.0">Range</box>
+          <box l="875.0" t="2086.0" r="1063.0" b="2136.0">Finding</box>
+          <box l="1096.0" t="2084.0" r="1230.0" b="2134.0">Study</box>
+          <box l="1263.0" t="2083.0" r="1480.0" b="2132.0">Compound</box>
+          <box l="1514.0" t="2083.0" r="1620.0" b="2121.0">B233</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2167.0" t="2080.0" r="2385.0" b="2126.0">8,355.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1250.0" t="2140.0" r="1471.0" b="2188.0">Compound</box>
+          <box l="1500.0" t="2138.0" r="1611.0" b="2179.0">A143</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2167.0" t="2134.0" r="2387.0" b="2184.0">8,355.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1259.0" t="2195.0" r="1475.0" b="2244.0">Conpound</box>
+          <box l="1510.0" t="2195.0" r="1615.0" b="2234.0">B219</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2167.0" t="2192.0" r="2384.0" b="2243.0">8,355.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="14.0" fn="0.0">
+      <box l="1949.0" t="2636.0" r="2331.0" b="2684.0">Due/$40,131.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

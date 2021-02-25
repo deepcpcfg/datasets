@@ -1,0 +1,158 @@
+[
+    {
+        "TotalAmount": [
+            "(393,750.00}",
+            {
+                "tp": 9.0,
+                "fp": 3.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "5«0K£ IWRAIATIOW STUDY 1-5087.026; 90-day SuicAromc 1b Rats to compare Respiratory",
+                            {
+                                "tp": 0.0,
+                                "fp": 82.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 82.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "of Lavayo Fluids, Sntfpointg uslnp Test",
+                            {
+                                "tp": 0.0,
+                                "fp": 39.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 39.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "500.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "187,500.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SSsoJte Infsalation Tract ^IscopstAy. Selected BiocTiem- D34) anti",
+                            {
+                                "tp": 9.0,
+                                "fp": 57.0,
+                                "fn": 13.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 23.0,
+                        "fp": 59.0,
+                        "fn": 20.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 16.0
+                    }
+                ]
+            ],
+            {
+                "tp": 23.0,
+                "fp": 180.0,
+                "fn": 36.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1377125",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 39.0,
+        "fp": 183.0,
+        "fn": 45.0
+    }
+]

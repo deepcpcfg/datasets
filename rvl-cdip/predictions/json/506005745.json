@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "*65iD104_",
+    "LineItem": [
+        {
+            "ItemDescription": "Columbia Construction (your POf 86-1939)",
+            "ItemTotal": "$142,807.1"
+        },
+        {
+            "ItemDescription": "Aiken Construction (your POf 86-1939)",
+            "ItemTotal": "54,467.1"
+        }
+    ],
+    "TotalAmount": "$197,274.1"
+}

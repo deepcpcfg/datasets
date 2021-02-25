@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2331.0" t="963.0" r="2531.0" b="1031.0">2616</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2225.0" t="1105.0" r="2423.0" b="1147.0">9/30/93</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="512.0" t="1401.0" r="921.0" b="1445.0">Implementation</box>
+          <box l="954.0" t="1401.0" r="1004.0" b="1438.0">of</box>
+          <box l="1042.0" t="1396.0" r="1301.0" b="1438.0">Portfolio</box>
+          <box l="1338.0" t="1401.0" r="1571.0" b="1438.0">Research</box>
+          <box l="1605.0" t="1401.0" r="1684.0" b="1438.0">for</box>
+          <box l="1722.0" t="1396.0" r="1946.0" b="1438.0">Riviera.</box>
+          <box l="512.0" t="1456.0" r="712.0" b="1504.0">Testing</box>
+          <box l="747.0" t="1456.0" r="862.0" b="1496.0">with</box>
+          <box l="897.0" t="1459.0" r="978.0" b="1496.0">150</box>
+          <box l="1013.0" t="1462.0" r="1183.0" b="1504.0">target</box>
+          <box l="1218.0" t="1459.0" r="1446.0" b="1496.0">smokers-</box>
+          <box l="1513.0" t="1455.0" r="1775.0" b="1496.0">Estimated</box>
+          <box l="1809.0" t="1455.0" r="2009.0" b="1504.0">project</box>
+          <box l="514.0" t="1520.0" r="629.0" b="1554.0">cost</box>
+          <box l="663.0" t="1513.0" r="862.0" b="1558.0">$34,500</box>
+          <box l="1012.0" t="1517.0" r="1121.0" b="1554.0">10%.</box>
+          <box l="1338.0" t="1630.0" r="1479.0" b="1671.0">First</box>
+          <box l="1513.0" t="1630.0" r="1717.0" b="1671.0">Partial</box>
+          <box l="1751.0" t="1630.0" r="1954.0" b="1675.0">Billing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2139.0" t="1630.0" r="2339.0" b="1671.0">$17,250</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2493.0" t="1629.0" r="2689.0" b="1671.0">$17,250</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

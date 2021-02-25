@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "100049",
+    "IssuedDate": "10 18-87",
+    "TotalAmount": "459.00",
+    "LineItem": [
+        {
+            "ItemDescription": "OUT-OF-POCKET EXPENSES",
+            "ItemTotal": "U.S. $459.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

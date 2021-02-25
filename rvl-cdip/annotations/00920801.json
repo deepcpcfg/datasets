@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1503-1",
+    "IssuedDate": "April 25. 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "Induction of Hepatic Micro¬ somal Enzymes with A-44, B-149 and B-145",
+            "ItemTotal": "$7,650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

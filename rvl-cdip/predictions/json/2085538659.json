@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "59276-1",
+    "IssuedDate": "October 19. 2001",
+    "TotalAmount": "12,667.55.'.",
+    "LineItem": [
+        {
+            "ItemDescription": "Selanes and Wages",
+            "ItemTotal": "$7,859.83"
+        },
+        {
+            "ItemDescription": "Supplies and Expanses",
+            "ItemTotal": "$43.23"
+        },
+        {
+            "ItemDescription": "iTrovei Employee Benefits",
+            "ItemTotal": "$656.19"
+        }
+    ]
+}

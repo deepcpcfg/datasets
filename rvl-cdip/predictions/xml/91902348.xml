@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="137.0" fp="13.0" fn="87.0">
+    <LineItem tp="118.0" fp="13.0" fn="79.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="501.0" t="1930.0" r="742.0" b="1976.0">TYPEStl</box>
+          <box l="770.0" t="1930.0" r="892.0" b="1976.0">IING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2083.0" t="1930.0" r="2280.0" b="1976.0">5576.61</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="504.0" t="1996.0" r="905.0" b="2042.0">MECHANICALS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2084.0" t="2001.0" r="2204.0" b="2042.0">1376</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="504.0" t="2063.0" r="880.0" b="2109.0">PHOTOSTATS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2116.0" t="2067.0" r="2284.0" b="2113.0">188.24</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="504.0" t="2134.0" r="1054.0" b="2180.0">KEYLINE/ASSEMBLY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2080.0" t="2136.0" r="2283.0" b="2180.0">2030.64</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="504.0" t="2201.0" r="764.0" b="2247.0">PRINTING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2021.0" t="2205.0" r="2283.0" b="2248.0">123866.04</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="501.0" t="2270.0" r="820.0" b="2317.0">COMPUTER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2083.0" t="2272.0" r="2283.0" b="2317.0">1140.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="501.0" t="2338.0" r="834.0" b="2384.0">ENGRAVING</box>
+          <box l="500.0" t="2405.0" r="762.0" b="2451.0">SHIPPING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2052.0" t="2341.0" r="2283.0" b="2384.0">14535.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="10.0" fp="0.0" fn="0.0">
+      <box l="2216.0" t="1251.0" r="2513.0" b="1297.0">D-06-01112</box>
+    </InvoiceNumber>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2016.0" t="2613.0" r="2283.0" b="2656.0">160197.29</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

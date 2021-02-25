@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "11810012",
+    "IssuedDate": "11/06/87",
+    "TotalAmount": "18.281.83",
+    "LineItem": [
+        {
+            "ItemUnitCount": "12",
+            "ItemTotal": "1.738.40",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "152",
+            "ItemTotal": "16.543.53",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

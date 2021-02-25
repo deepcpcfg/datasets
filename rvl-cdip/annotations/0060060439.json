@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "118.1",
+    "IssuedDate": "24 September, 1993",
+    "TotalAmount": "7,467.50",
+    "LineItem": [
+        {
+            "ItemTotal": "$7,000.00",
+            "ItemDescription": "FEE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$180.00",
+            "ItemDescription": "Iris Prints",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$120.00",
+            "ItemDescription": "QMS Output",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$80.00",
+            "ItemDescription": "Electronic Typesetting",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$47.00",
+            "ItemDescription": "An and Computer Supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$28.50",
+            "ItemDescription": "Ground Messenger",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$12.00",
+            "ItemDescription": "Facsimile, modem, telephone, b/w output",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

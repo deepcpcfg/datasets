@@ -1,0 +1,15 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Fees (2nd half of billing for Phase I)",
+            "ItemTotal": "80,000,00"
+        },
+        {
+            "ItemDescription": "Cambridge Brand Reimbursable Expenses (August and September 1995)",
+            "ItemTotal": "4,655.27"
+        }
+    ],
+    "TotalAmount": "84,655.27",
+    "InvoiceNumber": "10050",
+    "IssuedDate": "10/12/95"
+}

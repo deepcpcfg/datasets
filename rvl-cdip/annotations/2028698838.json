@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "30 Jun.91",
+    "TotalAmount": "7,336,200",
+    "LineItem": [
+        {
+            "ItemDescription": "biological Activity of A 245",
+            "ItemTotal": "88,800",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "biological Activity of FRSS and ELSS",
+            "ItemTotal": "5,883,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Biological Activity of New Smoke",
+            "ItemTotal": "133,200",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Scientific and Technical Improvements",
+            "ItemTotal": "281,200",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Project Management",
+            "ItemTotal": "950,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

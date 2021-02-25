@@ -1,0 +1,183 @@
+[
+    {
+        "IssuedDate": [
+            "January 9, 1991",
+            {
+                "tp": 15.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "8,080.00",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Price to have BOM A insert 11,705 copies of the",
+                            {
+                                "tp": 46.0,
+                                "fp": 1.0,
+                                "fn": 162.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 46.0,
+                        "fp": 1.0,
+                        "fn": 172.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Note: price is for",
+                            {
+                                "tp": 0.0,
+                                "fp": 18.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 18.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "7,500 Australian C$1 Australian $0.8 ISA) Government Equipment News (GEN)",
+                            {
+                                "tp": 0.0,
+                                "fp": 73.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 73.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "6,000.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "January/February version",
+                            {
+                                "tp": 0.0,
+                                "fp": 24.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 32.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2,080.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Price to insert 14,500 copies in GEN. 2,600 Australian Australian $0.8 USA)",
+                            {
+                                "tp": 73.0,
+                                "fp": 2.0,
+                                "fn": 75.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 81.0,
+                        "fp": 2.0,
+                        "fn": 77.0
+                    }
+                ]
+            ],
+            {
+                "tp": 127.0,
+                "fp": 126.0,
+                "fn": 249.0
+            }
+        ],
+        "InvoiceNumber": [
+            "MO0016",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 156.0,
+        "fp": 126.0,
+        "fn": 249.0
+    }
+]

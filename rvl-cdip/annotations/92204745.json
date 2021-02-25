@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "106171",
+    "IssuedDate": "07/18/93",
+    "LineItem": [
+        {
+            "ItemDescription": "P.O.#: CONTRACT 199 DATE: 04/22/93 ISSUE: AUGUST 10. 1993 ONE FURNISHED CARD",
+            "ItemTotal": "33.100.00",
+            "ItemUnitValue": "33.100.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "NEGOTIATED RATE",
+            "ItemTotal": "20.880.00",
+            "ItemUnitValue": "12.220.00-",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "AGENCY COMMISSION",
+            "ItemTotal": "17.748.00",
+            "ItemUnitValue": "3.132.00-",
+            "ItemUnitCount": ""
+        }
+    ],
+    "TotalAmount": ""
+}

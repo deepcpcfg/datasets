@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="66.0" fp="0.0" fn="0.0">
+    <IssuedDate tp="18.0" fp="0.0" fn="0.0">
+      <box l="1403.0" t="800.0" r="1673.0" b="862.0">September</box>
+      <box l="1698.0" t="800.0" r="1774.0" b="858.0">12,</box>
+      <box l="1803.0" t="799.0" r="1923.0" b="846.0">1996</box>
+    </IssuedDate>
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="896.0" t="1538.0" r="1177.0" b="1590.0">960808002</box>
+    </InvoiceNumber>
+    <LineItem tp="30.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="616.0" t="2211.0" r="837.0" b="2272.0">Monthly</box>
+          <box l="862.0" t="2217.0" r="958.0" b="2259.0">rate</box>
+          <box l="983.0" t="2209.0" r="1066.0" b="2259.0">flat</box>
+          <box l="1086.0" t="2209.0" r="1164.0" b="2259.0">fee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="2209.0" r="2405.0" b="2267.0">15,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2502.0" t="2430.0" r="2760.0" b="2497.0">15,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

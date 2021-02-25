@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "15445",
+    "IssuedDate": "12-31-97",
+    "TotalAmount": "7630.00",
+    "LineItem": [
+        {
+            "ItemUnitValue": "640.00",
+            "ItemTotal": "640.00",
+            "ItemDescription": "ACCOUNT EXECUTIVE (8 HRS 8 »80)",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "1050.00",
+            "ItemTotal": "1050.OC",
+            "ItemDescription": "CREATIVE DIRECTOR {7 HRS 8 *150)",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "1530.00",
+            "ItemTotal": "1530.0C",
+            "ItemDescription": "ART DIRECTOR (18 HRS 8 885)",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "3290.00",
+            "ItemTotal": "3290.00",
+            "ItemDescription": "COMPUTER ARTIST (47 HRS 8 870)",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "1120.00",
+            "ItemTotal": "1120.00",
+            "ItemDescription": "MECHANICAL (16 HRS 8 870)",
+            "ItemUnitCount": ""
+        }
+    ]
+}

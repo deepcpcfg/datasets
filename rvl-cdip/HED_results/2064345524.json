@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "04- 14-95",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "20,000.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "\"Analysis of Origin of Rasld-ual Stresses in Phillip Morris U.S.A. Superalloy Proprietary Components*1 Advance Payment",
+                            {
+                                "tp": 112.0,
+                                "fp": 6.0,
+                                "fn": 29.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 121.0,
+                        "fp": 6.0,
+                        "fn": 31.0
+                    }
+                ]
+            ],
+            {
+                "tp": 121.0,
+                "fp": 6.0,
+                "fn": 31.0
+            }
+        ],
+        "InvoiceNumber": [
+            "ERP-94-1207",
+            {
+                "tp": 11.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 140.0,
+        "fp": 7.0,
+        "fn": 32.0
+    }
+]

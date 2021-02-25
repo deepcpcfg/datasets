@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="279.0" fp="82.0" fn="155.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="9.0">
+      <box l="2520.0" t="1032.0" r="2604.0" b="1073.0">22,</box>
+      <box l="2662.0" t="1035.0" r="2787.0" b="1068.0">1995</box>
+    </IssuedDate>
+    <LineItem tp="271.0" fp="82.0" fn="146.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="389.0" t="1717.0" r="763.0" b="1780.0">Duplicating</box>
+          <box l="390.0" t="1788.0" r="551.0" b="1826.0">Local</box>
+          <box l="593.0" t="1791.0" r="1072.0" b="1837.0">Transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2485.0" t="1739.0" r="2752.0" b="1782.0">5,015.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="392.0" t="1847.0" r="522.0" b="1894.0">Long</box>
+          <box l="561.0" t="1846.0" r="827.0" b="1885.0">Distance</box>
+          <box l="872.0" t="1845.0" r="1176.0" b="1895.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2556.0" t="1852.0" r="2752.0" b="1889.0">327.32</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="389.0" t="1901.0" r="518.0" b="1941.0">Mail</box>
+          <box l="562.0" t="1901.0" r="660.0" b="1941.0">and</box>
+          <box l="694.0" t="1904.0" r="1002.0" b="1952.0">Messenger</box>
+          <box l="1044.0" t="1902.0" r="1309.0" b="1941.0">Services</box>
+          <box l="389.0" t="1959.0" r="827.0" b="1999.0">Miscellaneous</box>
+          <box l="387.0" t="2015.0" r="1002.0" b="2054.0">Telecommunications</box>
+          <box l="389.0" t="2074.0" r="586.0" b="2110.0">Travel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2590.0" t="1910.0" r="2644.0" b="1945.0">33</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="391.0" t="2360.0" r="761.0" b="2413.0">Duplicating</box>
+          <box l="391.0" t="2418.0" r="549.0" b="2459.0">Local</box>
+          <box l="595.0" t="2419.0" r="1071.0" b="2468.0">Transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2591.0" t="2424.0" r="2749.0" b="2461.0">37.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="391.0" t="2481.0" r="519.0" b="2525.0">Long</box>
+          <box l="562.0" t="2480.0" r="828.0" b="2517.0">Distance</box>
+          <box l="870.0" t="2474.0" r="1174.0" b="2524.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2588.0" t="2482.0" r="2749.0" b="2519.0">62.62</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="387.0" t="2533.0" r="517.0" b="2572.0">Mail</box>
+          <box l="563.0" t="2534.0" r="659.0" b="2571.0">and</box>
+          <box l="696.0" t="2538.0" r="1003.0" b="2583.0">Messenger</box>
+          <box l="1042.0" t="2533.0" r="1309.0" b="2573.0">Services</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2625.0" t="2539.0" r="2750.0" b="2577.0">9.32</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="387.0" t="2592.0" r="827.0" b="2630.0">Miscellaneous</box>
+          <box l="388.0" t="2646.0" r="1000.0" b="2686.0">Telecommunications</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2555.0" t="2652.0" r="2750.0" b="2690.0">235.71</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="388.0" t="2701.0" r="584.0" b="2742.0">Travel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2488.0" t="2709.0" r="2750.0" b="2751.0">1,343.49</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="389.0" t="2995.0" r="760.0" b="3043.0">Duplicating</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2589.0" t="3002.0" r="2751.0" b="3036.0">40.65</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="392.0" t="3055.0" r="521.0" b="3100.0">Long</box>
+          <box l="563.0" t="3051.0" r="826.0" b="3091.0">Distance</box>
+          <box l="868.0" t="3049.0" r="1172.0" b="3099.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2589.0" t="3057.0" r="2747.0" b="3092.0">53.13</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="389.0" t="3106.0" r="1001.0" b="3146.0">Telecommunications</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2590.0" t="3114.0" r="2751.0" b="3149.0">51.27</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

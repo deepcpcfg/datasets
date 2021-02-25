@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "December 14, 1995",
+    "InvoiceNumber": "#45258-B",
+    "LineItem": [
+        {
+            "ItemDescription": "Philip"
+        },
+        {
+            "ItemDescription": "for Meetings"
+        },
+        {
+            "ItemDescription": "Per Contract Dated August 1, 1995 Final reconcialiation billing, as per attached detail",
+            "ItemTotal": "66.47"
+        }
+    ]
+}

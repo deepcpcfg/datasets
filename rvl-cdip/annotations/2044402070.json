@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "08347",
+    "IssuedDate": "30 AUGUST 1985",
+    "TotalAmount": "12,095.00",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL SERVICES FEES",
+            "ItemTotal": "$21,345.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS PREVIOUSLY BILLED",
+            "ItemTotal": "9,250.00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

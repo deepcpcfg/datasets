@@ -1,0 +1,91 @@
+{
+    "IssuedDate": "2/26/89",
+    "TotalAmount": "840.00",
+    "LineItem": [
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "WE ; 2/22 60 9; 05A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "HE ! 2 \"22 60 3 : 17P",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "th ; 2/23 60 6 : 42A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "TH 2/2 3 60 4: 39P",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "TH ! 2/23 6 0 6 : 41P",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6 0.00",
+            "ItemDescription": ". i 2/24 60 7; 36A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": " 1 2/24 60 5:56P",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "ER 1 1 2/24 60 7: 37P",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "SA 2/25 60 7: 15A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "Sa 2/25 60 8 : 26A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "SA ! 2/25 60 11120A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "su : 2/26 60 7: 2 (J A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "Su ; 2/26 60 9 :20A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "su 1 1 1 1 1 1 1 J 2/26 o 0 11 s 2 0 A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "10/12/90",
+    "TotalAmount": "3,420.00",
+    "LineItem": [
+        {
+            "ItemDescription": "HLA Typing on 3/28/90 57 honors £ $50.00 each",
+            "ItemTotal": "$3,420.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

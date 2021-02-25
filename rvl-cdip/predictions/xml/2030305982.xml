@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="87.0" fp="0.0" fn="8.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2261.0" t="854.0" r="2495.0" b="901.0">10-31-91</box>
+    </IssuedDate>
+    <LineItem tp="79.0" fp="0.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="391.0" t="1352.0" r="630.0" b="1404.0">Billing</box>
+          <box l="679.0" t="1352.0" r="775.0" b="1395.0">for</box>
+          <box l="820.0" t="1355.0" r="1136.0" b="1406.0">retainage</box>
+          <box l="1178.0" t="1356.0" r="1308.0" b="1398.0">held</box>
+          <box l="1354.0" t="1367.0" r="1416.0" b="1399.0">on</box>
+          <box l="1461.0" t="1356.0" r="1599.0" b="1399.0">Line</box>
+          <box l="1641.0" t="1356.0" r="1703.0" b="1401.0">#5</box>
+          <box l="1749.0" t="1359.0" r="1882.0" b="1399.0">Stem</box>
+          <box l="1928.0" t="1359.0" r="2132.0" b="1401.0">Feeder</box>
+          <box l="392.0" t="1414.0" r="451.0" b="1453.0">in</box>
+          <box l="497.0" t="1412.0" r="772.0" b="1464.0">Blending</box>
+          <box l="818.0" t="1416.0" r="881.0" b="1455.0">at</box>
+          <box l="927.0" t="1414.0" r="1063.0" b="1456.0">Park</box>
+          <box l="1105.0" t="1414.0" r="1231.0" b="1460.0">500.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2604.0" t="1422.0" r="2770.0" b="1471.0">3,019</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

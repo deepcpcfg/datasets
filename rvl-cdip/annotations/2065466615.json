@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "9001173533",
+    "IssuedDate": "05/19/1993",
+    "TotalAmount": "1,990.00",
+    "LineItem": [
+        {
+            "ItemDescription": "MARCH MARL pares off-MRM 52,50 P",
+            "ItemUnitCount": "1,396",
+            "ItemUnitValue": "$2 .50",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "MARCH MARL PRICE OfF-HBH $2. SO P",
+            "ItemUnitCount": "(600)",
+            "ItemUnitValue": "2.50",
+            "ItemTotal": "($1500.00)"
+        }
+    ]
+}

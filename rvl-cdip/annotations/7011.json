@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR03-007142",
+    "IssuedDate": "MAR17/00",
+    "TotalAmount": "1,039.67",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Commissionable Charges",
+            "ItemTotal": "1,039.6 7",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0-00",
+            "ItemDescription": "Commissionable charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Commission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

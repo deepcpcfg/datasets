@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="342.0" fp="255.0" fn="142.0">
+    <InvoiceNumber tp="0.0" fp="3.0" fn="0.0">
+      <box l="531.0" t="852.0" r="630.0" b="902.0">791</box>
+    </InvoiceNumber>
+    <IssuedDate tp="14.0" fp="2.0" fn="2.0">
+      <box l="2119.0" t="1275.0" r="2355.0" b="1317.0">October</box>
+      <box l="2394.0" t="1273.0" r="2485.0" b="1323.0">13.</box>
+      <box l="2531.0" t="1272.0" r="2664.0" b="1323.0">19??</box>
+    </IssuedDate>
+    <TotalAmount tp="0.0" fp="6.0" fn="8.0">
+      <box l="2190.0" t="1500.0" r="2282.0" b="1542.0">thirty</box>
+    </TotalAmount>
+    <LineItem tp="328.0" fp="244.0" fn="132.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="535.0" t="1866.0" r="742.0" b="1917.0">Design</box>
+          <box l="781.0" t="1862.0" r="1156.0" b="1915.0">exploration</box>
+          <box l="1189.0" t="1862.0" r="1293.0" b="1906.0">and</box>
+          <box l="1331.0" t="1861.0" r="1705.0" b="1912.0">development</box>
+          <box l="1743.0" t="1861.0" r="1806.0" b="1903.0">of</box>
+          <box l="1847.0" t="1870.0" r="2017.0" b="1904.0">eoven</box>
+          <box l="534.0" t="1923.0" r="984.0" b="1975.0">comprehensive</box>
+          <box l="1022.0" t="1923.0" r="1259.0" b="1972.0">systole</box>
+          <box l="1297.0" t="1922.0" r="1400.0" b="1963.0">for</box>
+          <box l="1439.0" t="1919.0" r="1670.0" b="1972.0">*Square</box>
+          <box l="1713.0" t="1918.0" r="1905.0" b="1969.0">Shape*</box>
+          <box l="1951.0" t="1920.0" r="2187.0" b="1969.0">oonoept</box>
+          <box l="536.0" t="2038.0" r="740.0" b="2088.0">Design</box>
+          <box l="780.0" t="2035.0" r="1157.0" b="2086.0">exploration</box>
+          <box l="1191.0" t="2034.0" r="1294.0" b="2075.0">and</box>
+          <box l="1333.0" t="2033.0" r="1704.0" b="2083.0">development</box>
+          <box l="1744.0" t="2033.0" r="1807.0" b="2074.0">of</box>
+          <box l="1844.0" t="2042.0" r="1949.0" b="2076.0">new</box>
+          <box l="1982.0" t="2031.0" r="2324.0" b="2077.0">directlone</box>
+          <box l="537.0" t="2097.0" r="706.0" b="2142.0">based</box>
+          <box l="744.0" t="2107.0" r="811.0" b="2140.0">on</box>
+          <box l="848.0" t="2093.0" r="1048.0" b="2139.0">•Oral*</box>
+          <box l="1090.0" t="2095.0" r="1193.0" b="2137.0">rod</box>
+          <box l="1228.0" t="2095.0" r="1493.0" b="2144.0">concept,</box>
+          <box l="1540.0" t="2092.0" r="1635.0" b="2134.0">and</box>
+          <box l="1674.0" t="2093.0" r="1877.0" b="2145.0">design</box>
+          <box l="1915.0" t="2092.0" r="1979.0" b="2134.0">of</box>
+          <box l="2019.0" t="2091.0" r="2186.0" b="2141.0">eight</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2431.0" t="1915.0" r="2702.0" b="1966.0">1,500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="535.0" t="2156.0" r="880.0" b="2200.0">variations</box>
+          <box l="918.0" t="2154.0" r="985.0" b="2197.0">of</box>
+          <box l="1023.0" t="2155.0" r="1122.0" b="2197.0">two</box>
+          <box l="1161.0" t="2153.0" r="1353.0" b="2204.0">logos.</box>
+          <box l="535.0" t="2213.0" r="671.0" b="2263.0">faok</box>
+          <box l="781.0" t="2212.0" r="1046.0" b="2263.0">Segulart</box>
+          <box l="1089.0" t="2211.0" r="1363.0" b="2255.0">Fourteen</box>
+          <box l="1404.0" t="2211.0" r="2013.0" b="2259.0">semi-comprehensive</box>
+          <box l="2055.0" t="2209.0" r="2322.0" b="2259.0">concepts</box>
+          <box l="534.0" t="2283.0" r="670.0" b="2315.0">ware</box>
+          <box l="712.0" t="2271.0" r="1020.0" b="2325.0">presented</box>
+          <box l="1059.0" t="2265.0" r="1262.0" b="2318.0">(Earth</box>
+          <box l="1296.0" t="2267.0" r="1526.0" b="2315.0">Colors)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2434.0" t="2266.0" r="2704.0" b="2319.0">3.900.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="537.0" t="2331.0" r="674.0" b="2381.0">pack</box>
+          <box l="782.0" t="2326.0" r="1044.0" b="2379.0">^eptholi</box>
+          <box l="1091.0" t="2327.0" r="1291.0" b="2371.0">Twelve</box>
+          <box l="1337.0" t="2328.0" r="1945.0" b="2379.0">Beml-ooaprahenslva</box>
+          <box l="1987.0" t="2330.0" r="2254.0" b="2379.0">concepts</box>
+          <box l="535.0" t="2399.0" r="673.0" b="2430.0">were</box>
+          <box l="712.0" t="2387.0" r="1019.0" b="2439.0">presantou</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2433.0" t="2380.0" r="2703.0" b="2433.0">1,800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="534.0" t="2504.0" r="741.0" b="2554.0">Carton</box>
+          <box l="852.0" t="2501.0" r="1114.0" b="2552.0">Regulari</box>
+          <box l="1161.0" t="2500.0" r="1330.0" b="2545.0">Three</box>
+          <box l="1368.0" t="2501.0" r="1947.0" b="2545.0">three-dimensional</box>
+          <box l="1985.0" t="2502.0" r="2118.0" b="2543.0">flat</box>
+          <box l="538.0" t="2560.0" r="1159.0" b="2611.0">semi-comprehensive</box>
+          <box l="1197.0" t="2560.0" r="1467.0" b="2609.0">concepts</box>
+          <box l="1505.0" t="2568.0" r="1637.0" b="2601.0">were</box>
+          <box l="1679.0" t="2559.0" r="1983.0" b="2609.0">presented</box>
+          <box l="533.0" t="2677.0" r="739.0" b="2729.0">Barrel</box>
+          <box l="850.0" t="2676.0" r="1115.0" b="2726.0">Boggieri</box>
+          <box l="1161.0" t="2674.0" r="1261.0" b="2720.0">Ton</box>
+          <box l="1303.0" t="2675.0" r="1941.0" b="2725.0">semi-comprehensive,</box>
+          <box l="1986.0" t="2674.0" r="2187.0" b="2716.0">three-</box>
+          <box l="476.0" t="2740.0" r="481.0" b="2761.0">1</box>
+          <box l="540.0" t="2737.0" r="913.0" b="2782.0">dimensional</box>
+          <box l="953.0" t="2735.0" r="1123.0" b="2786.0">dummy</box>
+          <box l="1162.0" t="2735.0" r="1432.0" b="2784.0">concepts</box>
+          <box l="1471.0" t="2745.0" r="1605.0" b="2779.0">were</box>
+          <box l="1644.0" t="2734.0" r="1948.0" b="2784.0">presented</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2433.0" t="2552.0" r="2705.0" b="2604.0">1,200.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

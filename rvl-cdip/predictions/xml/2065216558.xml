@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="518.0" t="1190.0" r="771.0" b="1247.0">Thursday,</box>
+      <box l="796.0" t="1191.0" r="1026.0" b="1246.0">February</box>
+      <box l="1050.0" t="1189.0" r="1271.0" b="1242.0">13,1997</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="521.0" t="2115.0" r="880.0" b="2162.0">Entertainment</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="2205.0" t="2373.0" r="2465.0" b="2426.0">$5,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "10624",
+    "IssuedDate": "Oct 11,196",
+    "TotalAmount": "862",
+    "LineItem": [
+        {
+            "ItemDescription": "To select by computer and to print your envelopes to..A., CD, GE, PATH, PUD. PH, R, i TS,under 65 in private practice in U.S., Secondary PUD, PH, TS, fill ages in private practice in U.S., TR., aLl ages in p/p in U.S.",
+            "ItemTotal": "184",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EDICAL. SCHOOL LIBRARIES.",
+            "ItemTotal": "6",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Enclosing: The Council's Annual Report; sealing.",
+            "ItemTotal": "117",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Sorting in accordance with postal regulation! tying, bagging and mailing.",
+            "ItemTotal": "56",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postal Service Charge",
+            "ItemTotal": "2",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FEE",
+            "ItemTotal": "34",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

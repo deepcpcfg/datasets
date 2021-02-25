@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="178.0" fp="63.0" fn="31.0">
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="2205.0" t="1257.0" r="2430.0" b="1297.0">D-10-0501</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="2.0" fn="10.0">
+      <box l="2267.0" t="1318.0" r="2463.0" b="1361.0">21,1994</box>
+    </IssuedDate>
+    <LineItem tp="155.0" fp="60.0" fn="20.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="243.0" t="1849.0" r="507.0" b="1890.0">INSERTING</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1482.0" t="1846.0" r="1706.0" b="1890.0">62,386.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2579.0" t="1845.0" r="2800.0" b="1889.0">73,397.83</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="243.0" t="1909.0" r="598.0" b="1949.0">MECHANICALS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2607.0" t="1905.0" r="2800.0" b="1947.0">5,719.55</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="242.0" t="1969.0" r="416.0" b="2008.0">COLOR</box>
+          <box l="434.0" t="1967.0" r="605.0" b="2008.0">XEROX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1557.0" t="1966.0" r="1705.0" b="2004.0">118.65</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2655.0" t="1962.0" r="2802.0" b="2003.0">139.59</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="239.0" t="2028.0" r="459.0" b="2068.0">TYPEStl</box>
+          <box l="482.0" t="2026.0" r="589.0" b="2068.0">FING</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1488.0" t="2023.0" r="1705.0" b="2070.0">11.484.CK)</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2584.0" t="2022.0" r="2801.0" b="2068.0">13,510.93</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="241.0" t="2087.0" r="537.0" b="2129.0">ENGRAVING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2579.0" t="2081.0" r="2801.0" b="2127.0">27,603.04</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="245.0" t="2149.0" r="270.0" b="2189.0">P</box>
+          <box l="278.0" t="2146.0" r="520.0" b="2189.0">ERSONALl</box>
+          <box l="529.0" t="2147.0" r="671.0" b="2188.0">zatio</box>
+          <box l="679.0" t="2145.0" r="947.0" b="2187.0">n/keycodi</box>
+          <box l="954.0" t="2147.0" r="985.0" b="2186.0">n</box>
+          <box l="991.0" t="2147.0" r="1024.0" b="2185.0">g</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1483.0" t="2143.0" r="1707.0" b="2183.0">54.014.08</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2579.0" t="2141.0" r="2801.0" b="2185.0">63,547.57</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="245.0" t="2207.0" r="474.0" b="2246.0">PRINTING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2557.0" t="2201.0" r="2800.0" b="2247.0">121,585.99</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="244.0" t="2267.0" r="481.0" b="2307.0">POSTAGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2556.0" t="2259.0" r="2799.0" b="2306.0">110,273.64</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="238.0" t="2325.0" r="475.0" b="2365.0">SHIPPING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2651.0" t="2318.0" r="2799.0" b="2357.0">588.97</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="1.0">
+      <box l="2551.0" t="2498.0" r="2801.0" b="2541.0">419,136.88</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

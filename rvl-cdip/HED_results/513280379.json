@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "October 14, 1992",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$3,200.00",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$3,200.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MAINTENANCE FEES FOR SPECIAL OWNED VEHICLES USED TN THE PROGRAM 1992: TRACTOR 10 TIRES PER x $400.00 8 TIRES",
+                            {
+                                "tp": 52.0,
+                                "fp": 56.0,
+                                "fn": 30.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 61.0,
+                        "fp": 56.0,
+                        "fn": 30.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "EVENT PRODUCTION, INC. CAMEL/WINSTON TRACTOR RACING PER TIRE",
+                            {
+                                "tp": 0.0,
+                                "fp": 60.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 60.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 61.0,
+                "fp": 116.0,
+                "fn": 30.0
+            }
+        ],
+        "InvoiceNumber": [
+            "92-754_",
+            {
+                "tp": 0.0,
+                "fp": 7.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 85.0,
+        "fp": 124.0,
+        "fn": 30.0
+    }
+]

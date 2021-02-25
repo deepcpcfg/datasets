@@ -1,0 +1,67 @@
+{
+    "InvoiceNumber": "1765",
+    "IssuedDate": "April 16, 1973",
+    "TotalAmount": "5,921.60",
+    "LineItem": [
+        {
+            "ItemTotal": "1,222.89",
+            "ItemDescription": "Estimate\" #>33-R-l-73 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,442.68",
+            "ItemDescription": "Estimate ?r539-R“2-73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "321.00",
+            "ItemDescription": "Estimate #544-H-?0P-l-T3",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "32* 10",
+            "ItemDescription": "Estimate #547-^-3-73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,360.33",
+            "ItemDescription": "Estimate #548“R-4-73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "129.53",
+            "ItemDescription": "Estimate #549",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4-1. co",
+            "ItemDescription": "Estimate #550-50-3-73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "58.00",
+            "ItemDescription": "Estimate #552-R0-5-73",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "277.67",
+            "ItemDescription": "Estimate #554",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "36.40",
+            "ItemDescription": "Travel & Transportation",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

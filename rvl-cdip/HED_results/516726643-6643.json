@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "February 3,1997",
+            {
+                "tp": 15.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$75,000.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Fee includes overall marketing consulting and account management, field marketing, direct marketing and in-market exploration and ongoing monitoring. Forlhe month of January, 1997.",
+                            {
+                                "tp": 179.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 189.0,
+                        "fp": 1.0,
+                        "fn": 2.0
+                    }
+                ]
+            ],
+            {
+                "tp": 189.0,
+                "fp": 1.0,
+                "fn": 2.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2910",
+            {
+                "tp": 3.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 207.0,
+        "fp": 2.0,
+        "fn": 3.0
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "IssuedDate": "February 19. 1993",
+    "InvoiceNumber": "#02-0130",
+    "LineItem": [
+        {
+            "ItemDescription": "*Data Entry Tar Wars Bounceback Requests (21 ,498 pcs. S470.60/M)",
+            "ItemTotal": "$10.116.96"
+        },
+        {
+            "ItemDescription": "’Data Entry Redemption Coupons (193,039 pcs. $47.06/14)",
+            "ItemTotal": "9,084.42"
+        },
+        {
+            "ItemDescription": "’Data Entry Redemption Coupons (153,535 pcs. $47.06/14)",
+            "ItemTotal": "7.225.36"
+        },
+        {
+            "ItemDescription": "*Programming for data Entry",
+            "ItemTotal": "352.95"
+        },
+        {
+            "ItemDescription": "'■Nixie/Promo Code Reports",
+            "ItemTotal": "294.13"
+        },
+        {
+            "ItemDescription": "Managameni fee covering supervision of data entry and reporting",
+            "ItemTotal": "3.762.85"
+        },
+        {
+            "ItemDescription": "D. Srnolen (27,25."
+        },
+        {
+            "ItemDescription": "L. Warnecke"
+        },
+        {
+            "ItemDescription": "•Misc. (copies, faxes, freight, etc.)",
+            "ItemTotal": "796,97"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "6-345",
+    "IssuedDate": "6/25/70",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost of conducting Scrap Chowing Tobacco Product Tost",
+            "ItemTotal": "1,235.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Supervisory expense",
+            "ItemTotal": "185.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemTotal": "15.71",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

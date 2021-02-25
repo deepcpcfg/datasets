@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="97.0" fp="34.0" fn="39.0">
+    <InvoiceNumber tp="3.0" fp="3.0" fn="4.0">
+      <box l="2731.0" t="890.0" r="2961.0" b="929.0">IO42M4</box>
+    </InvoiceNumber>
+    <LineItem tp="85.0" fp="31.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1365.0" t="1527.0" r="1750.0" b="1570.0">NOV.29,1993</box>
+          <box l="1793.0" t="1527.0" r="1892.0" b="1568.0">JET</box>
+          <box l="2218.0" t="1527.0" r="2321.0" b="1569.0">4TH</box>
+          <box l="2360.0" t="1531.0" r="2526.0" b="1569.0">COVER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2751.0" t="1533.0" r="3060.0" b="1574.0">18,14D.OO</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="910.0" t="1578.0" r="935.0" b="1616.0">k</box>
+          <box l="976.0" t="1577.0" r="1151.0" b="1618.0">COLOR</box>
+          <box l="1190.0" t="1576.0" r="1360.0" b="1619.0">ORDER</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="906.0" t="1749.0" r="1252.0" b="1794.0">COMMISSION</box>
+          <box l="1295.0" t="1752.0" r="1427.0" b="1794.0">FROM</box>
+          <box l="1470.0" t="1752.0" r="1640.0" b="1794.0">ABOVE</box>
+          <box l="1686.0" t="1751.0" r="1819.0" b="1794.0">ITEM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2783.0" t="1754.0" r="3127.0" b="1799.0">Z,721.00CR</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1790.0" t="1811.0" r="1890.0" b="1853.0">JET</box>
+          <box l="2215.0" t="1812.0" r="2315.0" b="1857.0">4TH</box>
+          <box l="2357.0" t="1814.0" r="2523.0" b="1856.0">COVER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2783.0" t="1815.0" r="3058.0" b="1861.0">1,104.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1187.0" t="1871.0" r="1354.0" b="1913.0">ORDER</box>
+          <box l="1399.0" t="1870.0" r="1603.0" b="1912.0">NUMBER</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2741.0" t="2579.0" r="3049.0" b="2625.0">16,523.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "6355",
+    "IssuedDate": "JULY 9, 1979",
+    "TotalAmount": "113,15",
+    "LineItem": [
+        {
+            "ItemDescription": "DELIVERED JULY 5, 1979",
+            "ItemTotal": "$112.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

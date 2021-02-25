@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "113.288.82",
+    "LineItem": [
+        {
+            "ItemUnitCount": "10970",
+            "ItemTotal": "$23,037.00",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "27631",
+            "ItemUnitValue": "2.95",
+            "ItemTotal": "",
+            "ItemDescription": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

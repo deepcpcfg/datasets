@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "B3A 83",
+    "IssuedDate": "12/15/33",
+    "TotalAmount": "97,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Description of Invoice ft 82A 83 Hmnber Price-Per Amour i L First Quarter Installment for the 1983 Lucky Strike Series of Dart Tournaments",
+            "ItemTotal": "97,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

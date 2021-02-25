@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "^Ug 1991",
+            {
+                "tp": 6.0,
+                "fp": 2.0,
+                "fn": 5.0
+            }
+        ],
+        "TotalAmount": [
+            "5,910.00",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "3,000.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Three days at $1,000 per day",
+                            {
+                                "tp": 28.0,
+                                "fp": 0.0,
+                                "fn": 13.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 36.0,
+                        "fp": 0.0,
+                        "fn": 15.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2,910.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Air fare, hotel and taxis",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 0.0,
+                        "fn": 11.0
+                    }
+                ]
+            ],
+            {
+                "tp": 69.0,
+                "fp": 0.0,
+                "fn": 26.0
+            }
+        ],
+        "InvoiceNumber": [
+            "CHOI",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 87.0,
+        "fp": 2.0,
+        "fn": 35.0
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1)101",
+    "IssuedDate": "March 8, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Materials",
+            "ItemTotal": "$11,374.12"
+        },
+        {
+            "ItemDescription": "Services",
+            "ItemTotal": "1,191.00"
+        },
+        {
+            "ItemDescription": "Shipping 8 Communications",
+            "ItemTotal": "246.00"
+        }
+    ],
+    "TotalAmount": "$1,489.88"
+}

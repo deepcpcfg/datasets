@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="86.0" fp="82.0" fn="161.0">
+    <InvoiceNumber tp="6.0" fp="2.0" fn="2.0">
+      <box l="2313.0" t="195.0" r="2513.0" b="229.0">080-0054</box>
+    </InvoiceNumber>
+    <IssuedDate tp="4.0" fp="1.0" fn="4.0">
+      <box l="76.0" t="1363.0" r="204.0" b="1396.0">04/03</box>
+    </IssuedDate>
+    <LineItem tp="68.0" fp="79.0" fn="155.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="312.0" t="1501.0" r="437.0" b="1533.0">22362</box>
+          <box l="570.0" t="1501.0" r="620.0" b="1534.0">6M</box>
+          <box l="650.0" t="1501.0" r="700.0" b="1534.0">30</box>
+          <box l="755.0" t="1501.0" r="879.0" b="1534.0">DORAL</box>
+          <box l="912.0" t="1504.0" r="958.0" b="1534.0">FF</box>
+          <box l="988.0" t="1505.0" r="1066.0" b="1537.0">BOX</box>
+          <box l="1095.0" t="1505.0" r="1220.0" b="1537.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1926.0" t="1509.0" r="2075.0" b="1545.0">98,000</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2155.0" t="1510.0" r="2358.0" b="1543.0">283.7000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2488.0" t="1512.0" r="2691.0" b="1551.0">4,219,20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="1638.0" r="854.0" b="1671.0">LESS</box>
+          <box l="884.0" t="1638.0" r="1038.0" b="1671.0">CREDIT</box>
+          <box l="1070.0" t="1641.0" r="1145.0" b="1671.0">FOR</box>
+          <box l="1171.0" t="1642.0" r="1272.0" b="1671.0">FREE</box>
+          <box l="1301.0" t="1642.0" r="1480.0" b="1675.0">PRODUCT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2488.0" t="1651.0" r="2630.0" b="1685.0">2.109.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="1776.0" r="854.0" b="1809.0">LESS</box>
+          <box l="884.0" t="1776.0" r="1092.0" b="1809.0">HANDLING</box>
+          <box l="1121.0" t="1776.0" r="1350.0" b="1809.0">ALLOWANCE</box>
+          <box l="755.0" t="1820.0" r="829.0" b="1851.0">EFT</box>
+          <box l="859.0" t="1820.0" r="1166.0" b="1855.0">DISCOUNTABLE</box>
+          <box l="1201.0" t="1821.0" r="1271.0" b="1855.0">AMT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2497.0" t="1830.0" r="2688.0" b="1867.0">1,872,43</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="1866.0" r="828.0" b="1896.0">EFT</box>
+          <box l="858.0" t="1866.0" r="984.0" b="1900.0">TERMS</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2496.0" t="3685.0" r="2691.0" b="3726.0">1,153.04</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

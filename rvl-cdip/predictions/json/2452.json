@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "HARTFORD",
+            "ItemTotal": "139.703.00"
+        },
+        {
+            "ItemDescription": "Hartford",
+            "ItemUnitValue": "11,007.00",
+            "ItemTotal": "11,007.00"
+        }
+    ]
+}

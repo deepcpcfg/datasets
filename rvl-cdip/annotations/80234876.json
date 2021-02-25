@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1377125",
+    "IssuedDate": "01-31-87",
+    "TotalAmount": "93, 750.00",
+    "LineItem": [
+        {
+            "ItemDescription": "SMOKE INHALATION STUDY",
+            "ItemTotal": "187.500.40",
+            "ItemUnitValue": "187,500.00",
+            "ItemUnitCount": "1"
+        },
+        {
+            "ItemDescription": "LESS",
+            "ItemTotal": "($93,750.00}",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

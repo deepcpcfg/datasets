@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "Wednesday 6th October 1993",
+    "TotalAmount": "1,000.00",
+    "InvoiceNumber": "2089",
+    "LineItem": [
+        {
+            "ItemDescription": "SPECIAL NOMINAL FEE",
+            "ItemTotal": "$3,20000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "VIRGINIA SLIMS CONTRIBUTION AS PER AGREEMENT",
+            "ItemTotal": "$1,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

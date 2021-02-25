@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "1285",
+    "IssuedDate": "DATE: September 30, 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Service:",
+            "ItemTotal": "1930.."
+        },
+        {
+            "ItemDescription": "Mag Tape TI. I 4 12",
+            "ItemTotal": "332.06"
+        },
+        {
+            "ItemDescription": "Tape Reel",
+            "ItemTotal": "35.00"
+        },
+        {
+            "ItemDescription": "Postage",
+            "ItemTotal": "3.16"
+        }
+    ]
+}

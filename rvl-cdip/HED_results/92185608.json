@@ -1,0 +1,182 @@
+[
+    {
+        "IssuedDate": [
+            "MAY 6,1991",
+            {
+                "tp": 10.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "\"—16,016.40",
+            {
+                "tp": 9.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "17,549.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "1 PAGE MAY 13,1991 JET 4 COLOR ORDER NUMBER LMR3089",
+                            {
+                                "tp": 49.0,
+                                "fp": 2.0,
+                                "fn": 16.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 58.0,
+                        "fp": 2.0,
+                        "fn": 16.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 26.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 34.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            ",2,631<6CCP",
+                            {
+                                "tp": 2.0,
+                                "fp": 9.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MAY 13,1991 JET 4 COLOR ORDER NUMBER LMR3089",
+                            {
+                                "tp": 44.0,
+                                "fp": 0.0,
+                                "fn": 23.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 46.0,
+                        "fp": 9.0,
+                        "fn": 29.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "COLOR PREM",
+                            {
+                                "tp": 0.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 10.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 104.0,
+                "fp": 21.0,
+                "fn": 79.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1036508",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 130.0,
+        "fp": 23.0,
+        "fn": 80.0
+    }
+]

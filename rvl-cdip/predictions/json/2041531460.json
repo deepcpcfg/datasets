@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "April 3. 1995",
+    "InvoiceNumber": "12241",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL SERVICE FEE\"",
+            "ItemTotal": "$2,550"
+        },
+        {
+            "ItemDescription": "OPC's (OUT OF POCKET COSTS!",
+            "ItemTotal": "$1,388"
+        }
+    ],
+    "TotalAmount": "$4,438"
+}

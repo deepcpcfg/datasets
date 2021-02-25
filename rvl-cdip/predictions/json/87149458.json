@@ -1,0 +1,17 @@
+{
+    "InvoiceNumber": "1869106",
+    "IssuedDate": "03/03/09",
+    "LineItem": [
+        {
+            "ItemDescription": "UD6 SINGLE STRAND BREAKS",
+            "ItemUnitValue": "000.00",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemUnitCount": "01.000",
+            "ItemDescription": "SHIPPING",
+            "ItemTotal": "100.00",
+            "ItemUnitValue": "100.00"
+        }
+    ]
+}

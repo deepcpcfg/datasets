@@ -1,0 +1,33 @@
+{
+    "LineItem": [
+        {
+            "ItemUnitCount": "20",
+            "ItemDescription": "{JLb FJ.'Er'fILT PPR 4.7CM",
+            "ItemUnitValue": "16.49",
+            "ItemTotal": "329.80"
+        },
+        {
+            "ItemDescription": "SPIGOT QUICK ACTION PP/TF",
+            "ItemUnitValue": "7.38",
+            "ItemTotal": "44.28"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "MERCURY SPILL CLEAN-UP",
+            "ItemTotal": "215.00",
+            "ItemUnitValue": "215.00"
+        },
+        {
+            "ItemDescription": "PIPET 10ML SERO WIDETIP",
+            "ItemUnitValue": "84.11",
+            "ItemTotal": "168.22"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "EPP PIPETE 4810UM 100UL-1",
+            "ItemUnitValue": "247.00",
+            "ItemTotal": "494.00"
+        }
+    ],
+    "TotalAmount": "1251-30"
+}

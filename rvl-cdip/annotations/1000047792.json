@@ -1,0 +1,37 @@
+{
+    "TotalAmount": "460.40",
+    "LineItem": [
+        {
+            "ItemDescription": "Gothecborg/Copenhagen",
+            "ItemTotal": "2/23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copenhagen/Dussaldorf",
+            "ItemTotal": "2/23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dusseldorf/Brussels",
+            "ItemTotal": "Surface",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Drussels/Cbpen gen",
+            "ItemTotal": "2/25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copenhagen/Gothenborg",
+            "ItemTotal": "2/26",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

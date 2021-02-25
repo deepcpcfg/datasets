@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="60.0" fp="10.0" fn="26.0">
+    <LineItem tp="43.0" fp="9.0" fn="26.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1385.0" t="1624.0" r="1490.0" b="1667.0">JAN.</box>
+          <box l="1532.0" t="1623.0" r="1640.0" b="1667.0">1982</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2349.0" t="1618.0" r="2482.0" b="1664.0">93.31</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1385.0" t="1683.0" r="1489.0" b="1726.0">FEB.</box>
+          <box l="1385.0" t="1742.0" r="1527.0" b="1784.0">MARCH</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2349.0" t="1677.0" r="2482.0" b="1720.0">93.31</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1385.0" t="1799.0" r="1527.0" b="1842.0">APRIL</box>
+          <box l="1385.0" t="1858.0" r="1468.0" b="1900.0">MAY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2349.0" t="1852.0" r="2490.0" b="1894.0">95.62</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1385.0" t="1917.0" r="1498.0" b="1959.0">JUNE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2349.0" t="1908.0" r="2490.0" b="1952.0">95.62</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2690.0" t="386.0" r="2802.0" b="432.0">9068</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2694.0" t="502.0" r="2890.0" b="553.0">9/20/82</box>
+    </IssuedDate>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2290.0" t="2082.0" r="2490.0" b="2132.0">$647.43</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

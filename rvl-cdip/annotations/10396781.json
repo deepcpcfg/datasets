@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "0632",
+    "IssuedDate": "NOVEMBER 12, 1973",
+    "TotalAmount": "13.52",
+    "LineItem": [
+        {
+            "ItemDescription": "25 COPIES OF 2 PAGE RELEASE PRINTED IN BLACK INK COLLATE, STAPLE AND FOLD TWO FOLDS * ADDRESS flIO ENVELOPES TO CTR-6 LIST, INSERT SHEETS AND MAIL FIRST CLASS MAIL,",
+            "ItemTotal": "12.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE",
+            "ItemTotal": "1.52",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

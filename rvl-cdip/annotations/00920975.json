@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1486-1",
+    "IssuedDate": "January 7, 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "A 5-Day Multidose Range Finding Study in the Mouse with A-39 ",
+            "ItemTotal": "850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

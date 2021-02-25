@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "D-06-01112",
+    "IssuedDate": "JUN02/94",
+    "TotalAmount": "160197.29",
+    "LineItem": [
+        {
+            "ItemDescription": "TYPESETTING",
+            "ItemUnitValue": "4740.00",
+            "ItemTotal": "5576.61",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "MECHANICALS",
+            "ItemUnitValue": "1170.00",
+            "ItemTotal": "1376.51",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "PHOTOSTATS",
+            "ItemUnitValue": "160.00",
+            "ItemTotal": "188.24",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "KE YLINE/ASSEM BLY",
+            "ItemUnitValue": "1726.00",
+            "ItemTotal": "2030.64",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "PRINTING",
+            "ItemUnitValue": "107160,00",
+            "ItemTotal": "123866.04",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "COMPUTER",
+            "ItemUnitValue": "1000.00",
+            "ItemTotal": "1140.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "ENGRAVING",
+            "ItemUnitValue": "12750.00",
+            "ItemTotal": "14535.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemUnitValue": "600.00",
+            "ItemTotal": "800.00",
+            "ItemUnitCount": ""
+        }
+    ]
+}

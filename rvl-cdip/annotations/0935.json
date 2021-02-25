@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "April 5, 1993",
+    "TotalAmount": "1,714.09",
+    "LineItem": [
+        {
+            "ItemTotal": "$1,300.00",
+            "ItemDescription": "Airplane",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "184.98",
+            "ItemDescription": "Hotel",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "86.56",
+            "ItemDescription": "Car Rental",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "Taxi",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "11255",
+            "ItemDescription": "Meals",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

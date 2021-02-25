@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="21.0" fp="9.0" fn="115.0">
+    <InvoiceNumber tp="10.0" fp="1.0" fn="1.0">
+      <box l="2361.0" t="671.0" r="2641.0" b="722.0">CTR-10028-9</box>
+    </InvoiceNumber>
+    <LineItem tp="11.0" fp="8.0" fn="106.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1044.0" t="1911.0" r="1185.0" b="1948.0">Fixed</box>
+          <box l="1215.0" t="1911.0" r="1294.0" b="1948.0">Fee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2778.0" t="1793.0" r="3031.0" b="1847.0">^2;13T.1»3</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

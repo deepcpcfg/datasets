@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="89.0" fp="2.0" fn="13.0">
+    <IssuedDate tp="18.0" fp="0.0" fn="0.0">
+      <box l="1453.0" t="359.0" r="1683.0" b="392.0">December</box>
+      <box l="1718.0" t="359.0" r="1741.0" b="392.0">2</box>
+      <box l="1754.0" t="356.0" r="1794.0" b="396.0">0,</box>
+      <box l="1841.0" t="356.0" r="1945.0" b="392.0">1982</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="1.0" fn="0.0">
+      <box l="1693.0" t="885.0" r="1893.0" b="922.0">S805748</box>
+    </InvoiceNumber>
+    <LineItem tp="65.0" fp="1.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="127.0" t="1656.0" r="302.0" b="1692.0">Travel</box>
+          <box l="398.0" t="1656.0" r="782.0" b="1698.0">out-of-pocket</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1136.0" t="1649.0" r="1395.0" b="1691.0">$2,516.28</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2583.0" t="1645.0" r="2842.0" b="1687.0">$2,516.28</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="132.0" t="1714.0" r="453.0" b="1759.0">Sponsorship</box>
+          <box l="487.0" t="1719.0" r="628.0" b="1747.0">costa</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1228.0" t="1709.0" r="1365.0" b="1742.0">347.7</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2671.0" t="1706.0" r="2846.0" b="1740.0">347.70</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

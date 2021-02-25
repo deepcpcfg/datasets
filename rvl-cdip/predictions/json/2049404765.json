@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "JAN 01,84",
+    "InvoiceNumber": "A52734",
+    "LineItem": [
+        {
+            "ItemDescription": "1984 VIRGINIA SLIMS CONSULTANT AGREEMENT DATED DECEMBER 08/ 1983 WITH FUTURE/ INC FOR FIRST HALF CONSULTING FEE DUE PER AGREEMENT FROM; JAN 01/84 THRU: DEC 31,84"
+        },
+        {
+            "ItemDescription": "S DOLLARS",
+            "ItemTotal": "25/000.QO"
+        }
+    ],
+    "TotalAmount": "25,000.00"
+}

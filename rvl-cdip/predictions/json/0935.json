@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "April J, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Service!",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Airplane Hotel",
+            "ItemTotal": "184.98"
+        },
+        {
+            "ItemDescription": "Car Rental",
+            "ItemTotal": "86.56"
+        },
+        {
+            "ItemDescription": "Taxi Meals",
+            "ItemTotal": "30.00"
+        }
+    ],
+    "TotalAmount": "$1,714.09"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="116.0" fp="19.0" fn="17.0">
+    <InvoiceNumber tp="0.0" fp="5.0" fn="4.0">
+      <box l="2745.0" t="281.0" r="3007.0" b="349.0">48950</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="394.0" t="1410.0" r="635.0" b="1458.0">11/23/88</box>
+    </IssuedDate>
+    <LineItem tp="108.0" fp="14.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="515.0" t="1788.0" r="663.0" b="1819.0">Kimir</box>
+          <box l="701.0" t="1786.0" r="874.0" b="1832.0">Study,</box>
+          <box l="915.0" t="1784.0" r="1037.0" b="1823.0">LD50</box>
+          <box l="1072.0" t="1783.0" r="1246.0" b="1829.0">Study,</box>
+          <box l="1292.0" t="1783.0" r="1380.0" b="1820.0">and</box>
+          <box l="1417.0" t="1788.0" r="1595.0" b="1830.0">repeat</box>
+          <box l="576.0" t="1848.0" r="697.0" b="1886.0">LD50</box>
+          <box l="731.0" t="1848.0" r="880.0" b="1896.0">Study</box>
+          <box l="981.0" t="1845.0" r="1224.0" b="1894.0">Compound</box>
+          <box l="1255.0" t="1843.0" r="1379.0" b="1883.0">A183</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2182.0" t="1840.0" r="2420.0" b="1887.0">7,120.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="519.0" t="1942.0" r="638.0" b="1981.0">LD50</box>
+          <box l="672.0" t="1943.0" r="817.0" b="1990.0">Study</box>
+          <box l="856.0" t="1943.0" r="945.0" b="1982.0">and</box>
+          <box l="980.0" t="1946.0" r="1158.0" b="1990.0">repeat</box>
+          <box l="1196.0" t="1940.0" r="1319.0" b="1979.0">LD50</box>
+          <box l="1355.0" t="1941.0" r="1503.0" b="1987.0">Study</box>
+          <box l="581.0" t="2003.0" r="820.0" b="2048.0">Compound</box>
+          <box l="855.0" t="2003.0" r="974.0" b="2040.0">A208</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2182.0" t="1994.0" r="2423.0" b="2043.0">6,400.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "March. 30, 1995",
+    "TotalAmount": "90,000",
+    "LineItem": [
+        {
+            "ItemTotal": "15,000",
+            "ItemDescription": "Ten Commissioned Articles",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Editor",
+            "ItemTotal": "25,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printing (15,000 Copies)",
+            "ItemTotal": "40,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mailing (15,000 Copies)",
+            "ItemTotal": "10,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

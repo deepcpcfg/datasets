@@ -1,0 +1,21 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Air travel",
+            "ItemUnitCount": "2",
+            "ItemTotal": "59."
+        },
+        {
+            "ItemDescription": "Train",
+            "ItemTotal": "3.43"
+        },
+        {
+            "ItemDescription": "Taxi Hotel Meals",
+            "ItemTotal": "1.97"
+        },
+        {
+            "ItemDescription": "Ml s c",
+            "ItemTotal": "5.79"
+        }
+    ]
+}

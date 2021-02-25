@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <TotalAmount>
+      <box l="908.0" t="321.0" r="1000.0" b="359.0">INC.</box>
+    </TotalAmount>
+    <IssuedDate>
+      <box l="533.0" t="817.0" r="779.0" b="867.0">November</box>
+      <box l="816.0" t="818.0" r="866.0" b="875.0">1,</box>
+      <box l="912.0" t="820.0" r="1028.0" b="866.0">1982</box>
+    </IssuedDate>
+    <InvoiceNumber>
+      <box l="1067.0" t="1538.0" r="1279.0" b="1587.0">1419-10</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="533.0" t="1826.0" r="687.0" b="1871.0">Mouse</box>
+          <box l="720.0" t="1825.0" r="841.0" b="1871.0">Skin</box>
+          <box l="879.0" t="1825.0" r="1120.0" b="1880.0">Painting</box>
+          <box l="1158.0" t="1821.0" r="1308.0" b="1880.0">Study</box>
+          <box l="1341.0" t="1822.0" r="1462.0" b="1870.0">with</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2345.0" t="1820.0" r="2620.0" b="1880.0">$15,000.0</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="537.0" t="1885.0" r="808.0" b="1942.0">Compounds</box>
+          <box l="849.0" t="1885.0" r="936.0" b="1930.0">0-3</box>
+          <box l="971.0" t="1885.0" r="1061.0" b="1930.0">and</box>
+          <box l="1098.0" t="1884.0" r="1183.0" b="1930.0">0-4</box>
+          <box l="1063.0" t="2075.0" r="1216.0" b="2121.0">AWARD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1820.0" t="2067.0" r="2184.0" b="2129.0">.$178,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

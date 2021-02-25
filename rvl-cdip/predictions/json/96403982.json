@@ -1,0 +1,25 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "RETOUCHING- ELECTRONIC",
+            "ItemUnitValue": "2t625.00",
+            "ItemTotal": "2.841.56"
+        },
+        {
+            "ItemDescription": "LAYOUT GOWS",
+            "ItemUnitValue": "5^400.00",
+            "ItemTotal": "5,845.50"
+        },
+        {
+            "ItemDescription": "illustration",
+            "ItemTotal": "2.219.13"
+        },
+        {
+            "ItemDescription": "OTHER (SF-EGIFY)",
+            "ItemUnitCount": "75",
+            "ItemUnitValue": "102.73",
+            "ItemTotal": "177.73"
+        }
+    ],
+    "TotalAmount": "11,083.92"
+}

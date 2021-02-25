@@ -1,0 +1,124 @@
+[
+    {
+        "TotalAmount": [
+            "$197,274.1",
+            {
+                "tp": 8.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$142,807.1",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Columbia Construction (your POf 86-1939)",
+                            {
+                                "tp": 40.0,
+                                "fp": 0.0,
+                                "fn": 54.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 50.0,
+                        "fp": 0.0,
+                        "fn": 54.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "54,467.1",
+                            {
+                                "tp": 5.0,
+                                "fp": 3.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Aiken Construction (your POf 86-1939)",
+                            {
+                                "tp": 35.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 40.0,
+                        "fp": 5.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 90.0,
+                "fp": 5.0,
+                "fn": 57.0
+            }
+        ],
+        "InvoiceNumber": [
+            "*65iD104_",
+            {
+                "tp": 5.0,
+                "fp": 4.0,
+                "fn": 2.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 103.0,
+        "fp": 11.0,
+        "fn": 67.0
+    }
+]

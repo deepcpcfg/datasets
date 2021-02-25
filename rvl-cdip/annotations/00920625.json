@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1462-1",
+    "IssuedDate": "August 30, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "INDUCTION OF HEPATIC MICROSOMAL ENZYMES WITH COMPOUNDS B-13, B-26 and B-77",
+            "ItemTotal": "$10,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

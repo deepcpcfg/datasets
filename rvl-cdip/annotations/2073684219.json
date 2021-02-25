@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "C98054-1",
+    "IssuedDate": "November 20. 1998",
+    "TotalAmount": "10,200.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost for interviewing 300 respondents",
+            "ItemTotal": "$10,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

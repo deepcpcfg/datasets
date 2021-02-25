@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "October 1, 1990",
+    "TotalAmount": "316,087.32",
+    "LineItem": [
+        {
+            "ItemDescription": "September Assessment for CIAR (not received as of 10-1-90)",
+            "ItemTotal": "$158,043.66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "October Assessment for CIAR",
+            "ItemTotal": "$158.043.66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,49 @@
+{
+    "TotalAmount": "13,137.76",
+    "LineItem": [
+        {
+            "ItemDescription": "Digital Production",
+            "ItemTotal": "100,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Downloads",
+            "ItemTotal": "200,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": "6.400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mounting Studio",
+            "ItemTotal": "220,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printouts",
+            "ItemTotal": "1,329.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Retouching",
+            "ItemTotal": "687.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Revisions",
+            "ItemTotal": "3,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

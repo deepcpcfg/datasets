@@ -1,0 +1,33 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "PHGTOGRPHRS FEE",
+            "ItemTotal": "500.00"
+        },
+        {
+            "ItemDescription": "CLR PRNT-DYE TR RETOUCHING",
+            "ItemTotal": "290.00",
+            "ItemUnitValue": "600.00"
+        },
+        {
+            "ItemDescription": "photostats MECHANICALS",
+            "ItemTotal": "150.",
+            "ItemUnitValue": "655.00"
+        },
+        {
+            "ItemDescription": "PACK PHOTOGRPHY",
+            "ItemUnitValue": "500.",
+            "ItemTotal": "900.00"
+        },
+        {
+            "ItemDescription": "TRANSPARENCIES",
+            "ItemUnitValue": "00.00",
+            "ItemTotal": "400.00"
+        },
+        {
+            "ItemDescription": "POGRAPHY",
+            "ItemTotal": "640.93,^"
+        }
+    ],
+    "InvoiceNumber": "AC14"
+}

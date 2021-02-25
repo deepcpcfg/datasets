@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "October 24, 1997",
+    "InvoiceNumber": "5BOS25",
+    "LineItem": [
+        {
+            "ItemDescription": "Total For Disbursements and Service Charges",
+            "ItemTotal": "$370.22"
+        }
+    ],
+    "TotalAmount": "$370.22"
+}

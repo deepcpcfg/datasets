@@ -1,0 +1,12 @@
+{
+    "IssuedDate": "February 22,1994",
+    "InvoiceNumber": "1010",
+    "LineItem": [
+        {
+            "ItemDescription": "Chattanooga",
+            "ItemUnitCount": "55",
+            "ItemTotal": "S13351.00"
+        }
+    ],
+    "TotalAmount": "91971241"
+}

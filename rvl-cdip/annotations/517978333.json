@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "274-0899 ",
+    "IssuedDate": "10/01/93",
+    "TotalAmount": "413.23",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "647.4000",
+            "ItemTotal": "647.40",
+            "ItemDescription": "WINSTON SELECT B5G5F"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "647.4000",
+            "ItemTotal": "647.40",
+            "ItemDescription": "WINSTON SELECT BX B5G5F"
+        }
+    ]
+}

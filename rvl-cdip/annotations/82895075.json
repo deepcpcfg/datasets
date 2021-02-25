@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1568",
+    "IssuedDate": "November 20, 1992",
+    "TotalAmount": "62.495.00",
+    "LineItem": [
+        {
+            "ItemDescription": "118-1570 Pittsburgh 11/09/92 78",
+            "ItemTotal": "$ 50,580.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "3 Markets 10/12/92 Additional Cost Set-Up",
+            "ItemTotal": "5,335.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "3 Markets 10/26/92 Additional Cost Sales Check #",
+            "ItemTotal": "6,580.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

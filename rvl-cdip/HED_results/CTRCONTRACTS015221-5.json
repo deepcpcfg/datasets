@@ -1,0 +1,83 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "3,354.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "3,354.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CTR SUPPLEMENTAL SMOKE MONITORING STUDIES NOVEMBER, 1976",
+                            {
+                                "tp": 39.0,
+                                "fp": 17.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 47.0,
+                        "fp": 25.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 47.0,
+                "fp": 25.0,
+                "fn": 4.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 10.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 47.0,
+        "fp": 25.0,
+        "fn": 30.0
+    }
+]

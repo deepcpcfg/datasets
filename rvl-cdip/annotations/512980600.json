@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "05-145",
+    "IssuedDate": "May 2, 1989",
+    "TotalAmount": "14,604.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Security 201 hrs 6 16.00",
+            "ItemTotal": "3,216.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Sampler 949 hrs @ 12.00",
+            "ItemTotal": "11,388,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

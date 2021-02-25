@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "11/18/94",
+    "InvoiceNumber": "D-11-0313",
+    "TotalAmount": "841.19",
+    "LineItem": [
+        {
+            "ItemTotal": "535.30",
+            "ItemUnitValue": "455.00",
+            "ItemDescription": "C90506",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "305,39",
+            "ItemUnitValue": "260.00",
+            "ItemDescription": "100377",
+            "ItemUnitCount": ""
+        }
+    ]
+}

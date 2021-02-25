@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "November 29, 1984",
+            {
+                "tp": 17.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "13,900.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Evaluation of Immunosuppression in B6C3F1 Mice with A-153, A-154 and 6-168.",
+                            {
+                                "tp": 73.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 80.0,
+                        "fp": 4.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 80.0,
+                "fp": 4.0,
+                "fn": 3.0
+            }
+        ],
+        "InvoiceNumber": [
+            "7016-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 103.0,
+        "fp": 4.0,
+        "fn": 3.0
+    }
+]

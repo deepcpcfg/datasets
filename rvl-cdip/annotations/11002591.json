@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3-07025",
+    "IssuedDate": "7-13-67",
+    "LineItem": [
+        {
+            "ItemDescription": "For Services Rendered",
+            "ItemTotal": "$2,755-55",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

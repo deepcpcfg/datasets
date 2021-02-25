@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "#193",
+    "IssuedDate": "December 12,1996",
+    "LineItem": [
+        {
+            "ItemDescription": "Focus groups (including incentives)",
+            "ItemTotal": "$25,642"
+        },
+        {
+            "ItemDescription": "Travel expenses L. Rust T. Dupont",
+            "ItemTotal": "2,828"
+        },
+        {
+            "ItemDescription": "Questionnaire Design, Planning, Focus Group Attendance Dupont)",
+            "ItemTotal": "$17,325"
+        }
+    ],
+    "TotalAmount": "$45,795"
+}

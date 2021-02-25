@@ -1,0 +1,61 @@
+{
+    "TotalAmount": "2,786.10",
+    "LineItem": [
+        {
+            "ItemTotal": "262.68",
+            "ItemDescription": "Laboratory Supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "13.71",
+            "ItemDescription": "Animal Feed and Bedding",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "80.75",
+            "ItemDescription": "Pharmacologist (Emil R. Smith, Ph.D.)",
+            "ItemUnitCount": "9 1/2",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "27.83",
+            "ItemDescription": "Biochemist (Harris Rosen bran tz, Ph.D,)",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "177.95",
+            "ItemDescription": "Pathologist (Marcus M. Mason",
+            "ItemUnitCount": "15",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "794.36",
+            "ItemDescription": "Technician - pharmacology",
+            "ItemUnitCount": "306",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "24.71",
+            "ItemDescription": "Technician - biochemistry",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,105.60",
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "298.51",
+            "ItemDescription": "Fee (12%)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

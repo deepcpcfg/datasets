@@ -1,0 +1,83 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "23,258.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "23,258.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "STUDIES OF SMOKING MACHINE CHARACTERISTICS OCTOBER, 1975",
+                            {
+                                "tp": 42.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 51.0,
+                        "fp": 23.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 51.0,
+                "fp": 23.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 10.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ]
+    },
+    {
+        "tp": 51.0,
+        "fp": 23.0,
+        "fn": 26.0
+    }
+]

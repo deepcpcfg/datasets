@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "February 24, 1993",
+    "InvoiceNumber": "#02-0230",
+    "LineItem": [
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "$224.29"
+        },
+        {
+            "ItemDescription": "Mechanic^ Photostats",
+            "ItemTotal": "11.50"
+        },
+        {
+            "ItemDescription": "Travel*",
+            "ItemTotal": "6.60"
+        }
+    ],
+    "TotalAmount": "$2,160.22"
+}

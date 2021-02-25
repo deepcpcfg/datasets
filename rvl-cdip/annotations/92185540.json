@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1039^06",
+    "IssuedDate": "CCT.14.1991",
+    "TotalAmount": "20,367.30",
+    "LineItem": [
+        {
+            "ItemTotal": "1104.00",
+            "ItemDescription": "□CT.2111991 JET 4 COLOR ORDER NUMBER LH8733 STH COLOR PREH NEWPORT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "22,896.00",
+            "ItemDescription": "1 PAGE 0CT.2UL991 JET 4 COLOR ORDER NUMBER LH0733 BLEED NEWPORT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3434.70",
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

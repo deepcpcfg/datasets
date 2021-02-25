@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "103713",
+    "IssuedDate": "31 OCT (IDER 1996",
+    "LineItem": [
+        {
+            "ItemDescription": "SL.sUlCES",
+            "ItemTotal": "$3,740.00"
+        },
+        {
+            "ItemDescription": "TO",
+            "ItemTotal": "$346*00"
+        }
+    ]
+}

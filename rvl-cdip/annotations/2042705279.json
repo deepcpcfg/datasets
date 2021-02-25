@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "R-09195",
+    "IssuedDate": "12/17/90",
+    "TotalAmount": "7,270.00",
+    "LineItem": [
+        {
+            "ItemTotal": "7,270.00",
+            "ItemDescription": "R-172-001 PREPRIETARY QUESTIONS OCTOBER 1990",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "#01098",
+    "IssuedDate": "October 5, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "1996 AAF Corporate Membership Dues",
+            "ItemTotal": "$17,500.00"
+        }
+    ]
+}

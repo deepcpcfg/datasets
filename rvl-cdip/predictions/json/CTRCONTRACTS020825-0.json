@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "CTR-j25-2226-7",
+    "LineItem": [
+        {
+            "ItemDescription": "16,",
+            "ItemTotal": "6,229.15"
+        },
+        {
+            "ItemDescription": "Fixed Fee",
+            "ItemTotal": "670.00"
+        }
+    ],
+    "TotalAmount": "*>6,899.15"
+}

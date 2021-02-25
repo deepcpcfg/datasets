@@ -1,0 +1,49 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "rect",
+            "ItemUnitValue": "25.172.83"
+        },
+        {
+            "ItemDescription": "Prem. Cost for Overtime",
+            "ItemUnitValue": "125.19",
+            "ItemTotal": "409.15"
+        },
+        {
+            "ItemDescription": "Bldg. Utilities",
+            "ItemUnitValue": "6,329.33",
+            "ItemTotal": "30,312.87"
+        },
+        {
+            "ItemDescription": "Tech. Travel Mgmt. Cost",
+            "ItemUnitValue": "11,681.67",
+            "ItemTotal": "51,852.44"
+        },
+        {
+            "ItemDescription": "Org. Fadi ity/Equlp. Other Direct Costs",
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "7,083.64"
+        },
+        {
+            "ItemDescription": "s",
+            "ItemUnitValue": "6,592.28",
+            "ItemTotal": "261,906.07"
+        },
+        {
+            "ItemDescription": "Other Hanford Contractor Services",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "5 u bco nt ra ct s/ Con sul t ants",
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "26,063.63"
+        },
+        {
+            "ItemDescription": "Battelle Bldgs. DOE Bldgs.",
+            "ItemUnitValue": "2,685.23",
+            "ItemTotal": "12,863.81"
+        }
+    ],
+    "InvoiceNumber": "0669096",
+    "TotalAmount": "60,272.46"
+}

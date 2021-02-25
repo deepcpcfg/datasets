@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="103.0" fp="17.0" fn="36.0">
+    <IssuedDate tp="8.0" fp="2.0" fn="2.0">
+      <box l="1948.0" t="874.0" r="2160.0" b="912.0">09-21-2000</box>
+    </IssuedDate>
+    <LineItem tp="95.0" fp="15.0" fn="24.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="590.0" t="1705.0" r="603.0" b="1737.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="731.0" t="1784.0" r="860.0" b="1829.0">$50.00</box>
+        </ItemUnitValue>
+        <ItemDescription>
+          <box l="680.0" t="1830.0" r="796.0" b="1918.0">jleta</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2330.0" t="1850.0" r="2433.0" b="1888.0">90.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="714.0" t="1933.0" r="806.0" b="1973.0">0109</box>
+          <box l="822.0" t="1934.0" r="872.0" b="1972.0">CC</box>
+          <box l="711.0" t="2017.0" r="791.0" b="2050.0">3/4“</box>
+          <box l="808.0" t="2018.0" r="821.0" b="2052.0">1</box>
+          <box l="829.0" t="1997.0" r="938.0" b="2054.0">o’min</box>
+          <box l="954.0" t="2025.0" r="991.0" b="2052.0">cs</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2327.0" t="2016.0" r="2432.0" b="2052.0">30.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2734.0" t="2016.0" r="2838.0" b="2053.0">30.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="588.0" t="2183.0" r="600.0" b="2217.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="709.0" t="2191.0" r="916.0" b="2226.0">messenger</box>
+          <box l="930.0" t="2183.0" r="1100.0" b="2220.0">midtown</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2325.0" t="2181.0" r="2434.0" b="2219.0">20.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2732.0" t="2182.0" r="2839.0" b="2218.0">20.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="589.0" t="2271.0" r="602.0" b="2304.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="707.0" t="2268.0" r="731.0" b="2305.0">2</box>
+          <box l="747.0" t="2267.0" r="781.0" b="2304.0">Lb</box>
+          <box l="795.0" t="2268.0" r="973.0" b="2307.0">domestic</box>
+          <box l="990.0" t="2266.0" r="1120.0" b="2314.0">freight</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2328.0" t="2269.0" r="2432.0" b="2306.0">16.50</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2733.0" t="2269.0" r="2837.0" b="2307.0">16.50</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

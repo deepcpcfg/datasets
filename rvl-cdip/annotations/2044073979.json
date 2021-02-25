@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "November 30, 1994",
+    "InvoiceNumber": "2095",
+    "TotalAmount": "10,216.48",
+    "LineItem": [
+        {
+            "ItemDescription": "AMOUNT DUE (Remainder of project ",
+            "ItemTotal": "9,366.03",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Total moderator travel expenses",
+            "ItemTotal": "850,45",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

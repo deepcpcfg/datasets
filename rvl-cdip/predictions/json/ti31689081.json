@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "28892",
+    "IssuedDate": "9/30/94",
+    "LineItem": [
+        {
+            "ItemDescription": "DATA ENTRY-",
+            "ItemTotal": "99.10"
+        },
+        {
+            "ItemDescription": "UPDATE MASTER FILE----",
+            "ItemTotal": "<50.00"
+        },
+        {
+            "ItemDescription": "SORT/PRINT 3X5 CARDS: IM-",
+            "ItemTotal": "36.00"
+        }
+    ]
+}

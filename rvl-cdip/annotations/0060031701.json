@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "16555",
+    "IssuedDate": "August 11,1993",
+    "LineItem": [
+        {
+            "ItemDescription": "CROWN’S P.O.S, Creative Development, Account Management, Comps.",
+            "ItemTotal": "$ 9,750.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

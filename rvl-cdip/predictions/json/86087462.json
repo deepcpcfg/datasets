@@ -1,0 +1,15 @@
+{
+    "TotalAmount": "1540",
+    "IssuedDate": "4.30.98",
+    "InvoiceNumber": "98.033",
+    "LineItem": [
+        {
+            "ItemDescription": "Tola] design fees, proposal dated April 30,1998",
+            "ItemTotal": "16,000.00"
+        },
+        {
+            "ItemDescription": "project",
+            "ItemTotal": "2,500.00"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "10/15/93",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "S800",
+                            {
+                                "tp": 3.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Jte touch pbotos used for comprehensive layouts.: Fishernen on lake smooth exit and extend water Man in snow wilderness clean up snew and add trees Bayou scene extend background cn both sides",
+                            {
+                                "tp": 5.0,
+                                "fp": 186.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 8.0,
+                        "fp": 187.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 8.0,
+                "fp": 187.0,
+                "fn": 3.0
+            }
+        ],
+        "TotalAmount": [
+            "Inc",
+            {
+                "tp": 0.0,
+                "fp": 3.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2854D",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 21.0,
+        "fp": 190.0,
+        "fn": 3.0
+    }
+]

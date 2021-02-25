@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "90-3 .48",
+    "IssuedDate": "3/02/90",
+    "TotalAmount": "1,606,406.00",
+    "LineItem": [
+        {
+            "ItemDescription": "True",
+            "ItemTotal": "$ 1,392,775.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Spring Lemon Lights",
+            "ItemTotal": "209,838.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Product \"H\"",
+            "ItemTotal": "3,793.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

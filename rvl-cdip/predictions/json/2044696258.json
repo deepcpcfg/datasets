@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "331973",
+    "IssuedDate": "Date; 30 Apr 1990",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL FEE TO DATE",
+            "ItemTotal": "$15,970.00"
+        },
+        {
+            "ItemDescription": "TOTAL",
+            "ItemTotal": "$.00"
+        },
+        {
+            "ItemDescription": "OUT-OF-POCKET EXPENSES TO DATE",
+            "ItemTotal": "$897.00"
+        }
+    ],
+    "TotalAmount": "$758.00"
+}

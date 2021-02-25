@@ -1,0 +1,79 @@
+{
+    "InvoiceNumber": "35X-33572V",
+    "IssuedDate": "August 27, 19B2",
+    "TotalAmount": "19,000.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Schimatzu Glass Forming Machine, Property No. 119106",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "HP5840 Gas Cbrcraatc-graph, Property No. 126502",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "HP Autosarpler, Property No. 126503",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Liquid Scintillation Counter, Property No. 126504",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Dual Channel Chart Recorder, Property No. 126650",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Sample Oxidizer, Property No. 128830",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Waters DC Pump, Property No. 129707",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "VT105 Terminal, Property No. 130916",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "RX02 Disc Drive, Property No. 130917",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "DEC Writer II, Property No. 132215",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "LC Contxoller/Data Module",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Textronic Oscilliscope",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

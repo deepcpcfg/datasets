@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "June 30, 1998",
+    "InvoiceNumber": "354861",
+    "LineItem": [
+        {
+            "ItemDescription": "Expenses Processed to Date:",
+            "ItemTotal": "$362.89"
+        },
+        {
+            "ItemDescription": "Ground Transportation",
+            "ItemTotal": "25.00"
+        },
+        {
+            "ItemDescription": "Telephone Photocopy Facsimile",
+            "ItemTotal": "232.25"
+        }
+    ]
+}

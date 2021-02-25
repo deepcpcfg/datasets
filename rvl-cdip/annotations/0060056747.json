@@ -1,0 +1,91 @@
+{
+    "InvoiceNumber": "18619",
+    "IssuedDate": "5/13/91",
+    "TotalAmount": "{$1,301.34}",
+    "LineItem": [
+        {
+            "ItemDescription": "SERVICE (307 ? .25 - $76.75)",
+            "ItemUnitValue": "$0.25",
+            "ItemTotal": "50.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "MONTHLY MINIMUM",
+            "ItemUnitValue": "$100.00",
+            "ItemTotal": "5100.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "CHECK PROCESSING CHARGES",
+            "ItemUnitCount": "307",
+            "ItemUnitValue": "$0.12",
+            "ItemTotal": "$36.64"
+        },
+        {
+            "ItemDescription": "HAILER",
+            "ItemUnitCount": "307",
+            "ItemUnitValue": "$0,225",
+            "ItemTotal": "$69.03"
+        },
+        {
+            "ItemDescription": "INVALID REQUESTS SERVICE",
+            "ItemUnitCount": "0",
+            "ItemUnitValue": "$0.40",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "INVALID REQUESTS POSTAGE",
+            "ItemUnitCount": "0",
+            "ItemUnitValue": "$0.29",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "ZIP CODE LOOK UPS",
+            "ItemUnitCount": "0",
+            "ItemUnitValue": "$0.25",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "TO INSPECT RETD MDSE",
+            "ItemUnitCount": "0",
+            "ItemUnitValue": "$0.25",
+            "ItemTotal": "$0.00"
+        },
+        {
+            "ItemDescription": "TO FAX $1.59 PAGE",
+            "ItemUnitCount": "0",
+            "ItemUnitValue": "$1.50",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "BOUNCED CHECK",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "$5.00",
+            "ItemTotal": "$10.00"
+        },
+        {
+            "ItemDescription": "TO WRITE FOR NEW CHECK",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "$0.40",
+            "ItemTotal": "$0.80"
+        },
+        {
+            "ItemDescription": "POSTAGE",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "$0.29",
+            "ItemTotal": "$0.58"
+        },
+        {
+            "ItemTotal": "$10.00",
+            "ItemDescription": "SERVICE - 50 DUFFLE BAGS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$3.29",
+            "ItemDescription": "POSTAGE - UPS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

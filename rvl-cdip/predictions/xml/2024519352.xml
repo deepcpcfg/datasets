@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="453.0" fp="11.0" fn="85.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2515.0" t="1005.0" r="2624.0" b="1047.0">5910</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="4.0">
+      <box l="2635.0" t="1128.0" r="2712.0" b="1177.0">31,</box>
+      <box l="2758.0" t="1131.0" r="2870.0" b="1171.0">1994</box>
+    </IssuedDate>
+    <LineItem tp="433.0" fp="10.0" fn="80.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="606.0" t="1920.0" r="721.0" b="1962.0">Base</box>
+          <box l="760.0" t="1924.0" r="872.0" b="1962.0">rate</box>
+          <box l="914.0" t="1919.0" r="992.0" b="1964.0">for</box>
+          <box l="1035.0" t="1920.0" r="1264.0" b="1965.0">services</box>
+          <box l="1306.0" t="1922.0" r="1355.0" b="1964.0">of</box>
+          <box l="1393.0" t="1922.0" r="1606.0" b="1964.0">HBI-USA</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2635.0" t="1927.0" r="2873.0" b="1973.0">8,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="606.0" t="1983.0" r="721.0" b="2024.0">Base</box>
+          <box l="760.0" t="1987.0" r="872.0" b="2024.0">rate</box>
+          <box l="914.0" t="1982.0" r="993.0" b="2025.0">for</box>
+          <box l="1035.0" t="1982.0" r="1264.0" b="2027.0">services</box>
+          <box l="1306.0" t="1982.0" r="1355.0" b="2026.0">of</box>
+          <box l="1393.0" t="1984.0" r="1896.0" b="2030.0">HBI-International</box>
+          <box l="1938.0" t="1983.0" r="2142.0" b="2029.0">offices</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2639.0" t="1989.0" r="2873.0" b="2036.0">2,400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="601.0" t="2045.0" r="905.0" b="2097.0">Consulting</box>
+          <box l="951.0" t="2045.0" r="993.0" b="2086.0">in</box>
+          <box l="1035.0" t="2057.0" r="1203.0" b="2086.0">excess</box>
+          <box l="1244.0" t="2044.0" r="1294.0" b="2087.0">of</box>
+          <box l="1335.0" t="2047.0" r="1447.0" b="2088.0">base</box>
+          <box l="1489.0" t="2050.0" r="1597.0" b="2089.0">rate</box>
+          <box l="1639.0" t="2046.0" r="1717.0" b="2088.0">for</box>
+          <box l="1755.0" t="2047.0" r="1968.0" b="2088.0">HBI-IBA</box>
+          <box l="2001.0" t="2050.0" r="2051.0" b="2087.0">at</box>
+          <box l="2093.0" t="2045.0" r="2354.0" b="2094.0">$150/hour</box>
+          <box l="606.0" t="2104.0" r="630.0" b="2145.0">0</box>
+          <box l="665.0" t="2104.0" r="810.0" b="2145.0">hours</box>
+          <box l="848.0" t="2107.0" r="901.0" b="2144.0">at</box>
+          <box l="943.0" t="2103.0" r="1206.0" b="2152.0">$150/hour</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2760.0" t="2108.0" r="2873.0" b="2152.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1244.0" t="2165.0" r="1293.0" b="2210.0">of</box>
+          <box l="1336.0" t="2168.0" r="1448.0" b="2211.0">base</box>
+          <box l="1486.0" t="2172.0" r="1598.0" b="2213.0">rate</box>
+          <box l="1639.0" t="2167.0" r="1716.0" b="2213.0">for</box>
+          <box l="1756.0" t="2170.0" r="1989.0" b="2213.0">HBI-Intl</box>
+          <box l="2027.0" t="2175.0" r="2081.0" b="2212.0">at</box>
+          <box l="2122.0" t="2166.0" r="2385.0" b="2216.0">$125/hour</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="602.0" t="2466.0" r="686.0" b="2508.0">For</box>
+          <box l="607.0" t="2405.0" r="841.0" b="2458.0">Expenses</box>
+          <box l="732.0" t="2470.0" r="814.0" b="2508.0">the</box>
+          <box l="853.0" t="2466.0" r="1178.0" b="2511.0">translation</box>
+          <box l="1223.0" t="2468.0" r="1328.0" b="2510.0">into</box>
+          <box l="1362.0" t="2468.0" r="1540.0" b="2511.0">French</box>
+          <box l="1578.0" t="2471.0" r="1661.0" b="2510.0">and</box>
+          <box l="1693.0" t="2470.0" r="1903.0" b="2513.0">Flemish</box>
+          <box l="1940.0" t="2467.0" r="1993.0" b="2512.0">of</box>
+          <box l="2036.0" t="2470.0" r="2115.0" b="2512.0">the</box>
+          <box l="2154.0" t="2475.0" r="2356.0" b="2524.0">reports</box>
+          <box l="604.0" t="2538.0" r="661.0" b="2570.0">on</box>
+          <box l="698.0" t="2529.0" r="777.0" b="2570.0">air</box>
+          <box l="819.0" t="2528.0" r="1024.0" b="2582.0">quality</box>
+          <box l="1070.0" t="2528.0" r="1115.0" b="2570.0">in</box>
+          <box l="1154.0" t="2532.0" r="1266.0" b="2572.0">bars</box>
+          <box l="1304.0" t="2532.0" r="1391.0" b="2572.0">and</box>
+          <box l="1429.0" t="2535.0" r="1744.0" b="2576.0">restaurants</box>
+          <box l="1787.0" t="2542.0" r="1840.0" b="2576.0">as</box>
+          <box l="1878.0" t="2542.0" r="1961.0" b="2584.0">per</box>
+          <box l="1999.0" t="2533.0" r="2236.0" b="2575.0">attached</box>
+          <box l="615.0" t="2591.0" r="840.0" b="2633.0">invoice.</box>
+          <box l="908.0" t="2590.0" r="995.0" b="2632.0">The</box>
+          <box l="1037.0" t="2593.0" r="1387.0" b="2635.0">translations</box>
+          <box l="1420.0" t="2606.0" r="1540.0" b="2635.0">were</box>
+          <box l="1579.0" t="2596.0" r="1843.0" b="2644.0">completed</box>
+          <box l="1878.0" t="2596.0" r="1932.0" b="2645.0">by</box>
+          <box l="1969.0" t="2596.0" r="2111.0" b="2637.0">Peter</box>
+          <box l="2144.0" t="2594.0" r="2386.0" b="2645.0">Whippy's</box>
+          <box l="603.0" t="2650.0" r="840.0" b="2700.0">Company,</box>
+          <box l="878.0" t="2652.0" r="1033.0" b="2691.0">ROBAD</box>
+          <box l="1058.0" t="2653.0" r="1237.0" b="2693.0">Common</box>
+          <box l="1250.0" t="2652.0" r="1262.0" b="2691.0">i</box>
+          <box l="1274.0" t="2657.0" r="1354.0" b="2693.0">eat</box>
+          <box l="1370.0" t="2652.0" r="1475.0" b="2693.0">ions</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2639.0" t="2656.0" r="2875.0" b="2703.0">3,236.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="1.0">
+      <box l="2608.0" t="2778.0" r="2875.0" b="2827.0">13,636-00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

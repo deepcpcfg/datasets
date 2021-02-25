@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="59.0" fp="50.0" fn="66.0">
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="1671.0" t="1134.0" r="1921.0" b="1180.0">P98043-2</box>
+    </InvoiceNumber>
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="1338.0" t="1205.0" r="1604.0" b="1259.0">Octobers,</box>
+      <box l="1633.0" t="1208.0" r="1754.0" b="1254.0">1998</box>
+    </IssuedDate>
+    <LineItem tp="37.0" fp="50.0" fn="66.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2357.0" r="516.0" b="2403.0">Cost</box>
+          <box l="534.0" t="2358.0" r="604.0" b="2402.0">for</box>
+          <box l="620.0" t="2358.0" r="929.0" b="2413.0">interviewing</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="955.0" t="2356.0" r="1096.0" b="2401.0">1.000</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1117.0" t="2356.0" r="1434.0" b="2413.0">respondents</box>
+          <box l="1260.0" t="2498.0" r="1470.0" b="2547.0">October</box>
+          <box l="1492.0" t="2501.0" r="1579.0" b="2553.0">1-4,</box>
+          <box l="1608.0" t="2501.0" r="1729.0" b="2547.0">1998</box>
+          <box l="651.0" t="2642.0" r="2625.0" b="2700.0">prepayment-——--——</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="630.0" t="2784.0" r="2682.0" b="2837.0">due-$75,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

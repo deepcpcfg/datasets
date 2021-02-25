@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "JULDD/01 JUL29/31",
+    "InvoiceNumber": "016565",
+    "TotalAmount": "7,214.31",
+    "LineItem": [
+        {
+            "ItemDescription": "Commission",
+            "ItemTotal": "0.00"
+        }
+    ]
+}

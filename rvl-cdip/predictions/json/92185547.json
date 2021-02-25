@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "1039016",
+    "IssuedDate": "SEP. 2,1991",
+    "LineItem": [
+        {
+            "ItemDescription": "SEP,09t1991 JET ORDER NUMBER LM8534",
+            "ItemTotal": "104.00"
+        },
+        {
+            "ItemDescription": "1 PAGE SEP*09,1991 JET",
+            "ItemTotal": "17,544-00"
+        },
+        {
+            "ItemDescription": "LM8534"
+        }
+    ],
+    "TotalAmount": "16,016.40"
+}

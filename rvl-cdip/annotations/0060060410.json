@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "117.4",
+    "IssuedDate": "20 January, 1994",
+    "TotalAmount": "1,324,50",
+    "LineItem": [
+        {
+            "ItemDescription": "FEE",
+            "ItemTotal": "$1,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses",
+            "ItemTotal": "$252.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Iris Prints",
+            "ItemTotal": "$40.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Qms Output",
+            "ItemTotal": "$32.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

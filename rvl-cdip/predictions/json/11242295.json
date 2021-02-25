@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "30 1976",
+    "InvoiceNumber": "7606078",
+    "LineItem": [
+        {
+            "ItemDescription": "30,00/hr",
+            "ItemTotal": "120,00"
+        },
+        {
+            "ItemDescription": "ffiVEWPlSWT: TIMEi",
+            "ItemTotal": "23U.OO"
+        },
+        {
+            "ItemDescription": "TIME: 30,00/hr",
+            "ItemUnitCount": "9",
+            "ItemTotal": "205*00"
+        },
+        {
+            "ItemDescription": "TRIPS TO",
+            "ItemTotal": "78*72"
+        },
+        {
+            "ItemDescription": "TH®: 30,00/hr",
+            "ItemUnitCount": "16",
+            "ItemTotal": "U80.00"
+        },
+        {
+            "ItemDescription": "EXPENSES:",
+            "ItemTotal": "201.00"
+        },
+        {
+            "ItemDescription": "ON IWS II ($991*22) HI ($588.50)",
+            "ItemTotal": "126*38"
+        }
+    ],
+    "TotalAmount": "160,58__"
+}

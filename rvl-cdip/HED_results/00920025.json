@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "April 12, 1984",
+            {
+                "tp": 13.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "12,300.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "14-Day Subacute Toxicity Study in Rats with A-2, A-7, A-8, A-9, A-ll, and A-14 @$2,050.00/cpd.",
+                            {
+                                "tp": 53.0,
+                                "fp": 41.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 61.0,
+                        "fp": 42.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 61.0,
+                "fp": 42.0,
+                "fn": 3.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 74.0,
+        "fp": 43.0,
+        "fn": 10.0
+    }
+]

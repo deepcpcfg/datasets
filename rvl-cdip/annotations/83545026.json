@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "DPW99-198",
+    "LineItem": [
+        {
+            "ItemDescription": "For expenses in connection with tobacco settlement attorney fee arbitrations through February 28, 1999",
+            "ItemTotal": "$22,355.19",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Lorillard 9.1% share",
+            "ItemTotal": "2,034.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

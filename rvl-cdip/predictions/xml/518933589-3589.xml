@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="74.0" fp="92.0" fn="31.0">
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="2402.0" t="154.0" r="2606.0" b="183.0">014-0020</box>
+    </InvoiceNumber>
+    <LineItem tp="62.0" fp="84.0" fn="18.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="749.0" t="1450.0" r="795.0" b="1479.0">30</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="853.0" t="1449.0" r="974.0" b="1481.0">CAMLL</box>
+          <box l="1008.0" t="1451.0" r="1157.0" b="1481.0">FILTER</box>
+          <box l="1187.0" t="1451.0" r="1262.0" b="1481.0">BOX</box>
+          <box l="1291.0" t="1451.0" r="1412.0" b="1480.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1987.0" t="1452.0" r="2160.0" b="1485.0">900.000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2550.0" t="1454.0" r="2779.0" b="1490.0">53,505.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="749.0" t="1495.0" r="796.0" b="1524.0">30</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="850.0" t="1494.0" r="974.0" b="1524.0">CAMEL</box>
+          <box l="1008.0" t="1495.0" r="1049.0" b="1524.0">LT</box>
+          <box l="1079.0" t="1495.0" r="1155.0" b="1527.0">BOX</box>
+          <box l="1187.0" t="1496.0" r="1309.0" b="1526.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1987.0" t="1497.0" r="2158.0" b="1531.0">000.000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2550.0" t="1498.0" r="2779.0" b="1533.0">S3,505.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="854.0" t="1629.0" r="949.0" b="1662.0">LESS</box>
+          <box l="979.0" t="1631.0" r="1128.0" b="1662.0">CREDIT</box>
+          <box l="1162.0" t="1631.0" r="1234.0" b="1662.0">FOR</box>
+          <box l="1264.0" t="1630.0" r="1359.0" b="1664.0">FREE</box>
+          <box l="1392.0" t="1634.0" r="1567.0" b="1664.0">PRODUCT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2550.0" t="1636.0" r="2797.0" b="1670.0">S3.505,GO-</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="851.0" t="1767.0" r="947.0" b="1799.0">LESS</box>
+          <box l="977.0" t="1769.0" r="1180.0" b="1799.0">HANDLING</box>
+          <box l="1210.0" t="1770.0" r="1436.0" b="1801.0">ALLOWANCE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2582.0" t="1773.0" r="2797.0" b="1809.0">1.730.92-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="1.0" fp="2.0" fn="7.0">
+      <box l="2544.0" t="3595.0" r="2606.0" b="3629.0">24,</box>
+    </IssuedDate>
+    <TotalAmount tp="3.0" fp="6.0" fn="6.0">
+      <box l="2544.0" t="3638.0" r="2769.0" b="3674.0">26,666.06</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

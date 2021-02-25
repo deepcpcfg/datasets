@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "MAY01/00",
+    "InvoiceNumber": "PROS-607835",
+    "LineItem": [
+        {
+            "ItemDescription": "Nan-Coinedasionable Charges",
+            "ItemTotal": "7,325-00"
+        },
+        {
+            "ItemDescription": "Conciliaionable Charges",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Agency Conrni salon",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "7,325.00"
+}

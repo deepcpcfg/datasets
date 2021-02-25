@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="496.0" fp="350.0" fn="281.0">
+    <InvoiceNumber tp="3.0" fp="2.0" fn="8.0">
+      <box l="2426.0" t="1387.0" r="2552.0" b="1418.0">11025</box>
+    </InvoiceNumber>
+    <LineItem tp="487.0" fp="348.0" fn="268.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="165.0" t="1888.0" r="389.0" b="1918.0">ATLANTA</box>
+          <box l="432.0" t="1889.0" r="585.0" b="1919.0">JRNL.</box>
+          <box l="635.0" t="1890.0" r="659.0" b="1918.0">L</box>
+          <box l="701.0" t="1886.0" r="856.0" b="1918.0">CONST</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2904.0" t="1885.0" r="3165.0" b="1917.0">3.677.70</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="165.0" t="1943.0" r="451.0" b="1972.0">dALllMORt</box>
+          <box l="501.0" t="1944.0" r="593.0" b="1972.0">SuN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2900.0" t="1939.0" r="3165.0" b="1971.0">2.985.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="165.0" t="1997.0" r="357.0" b="2030.0">BOSTON</box>
+          <box l="397.0" t="1997.0" r="594.0" b="2028.0">HERALD</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="975.0" t="1998.0" r="1034.0" b="2029.0">40</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2903.0" t="1993.0" r="3165.0" b="2025.0">2.416.S3</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="164.0" t="2052.0" r="392.0" b="2081.0">BUFFALO</box>
+          <box l="431.0" t="2052.0" r="556.0" b="2082.0">NEWS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="939.0" t="2049.0" r="1034.0" b="2081.0">065</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2903.0" t="2047.0" r="3165.0" b="2079.0">2.786.30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="164.0" t="2106.0" r="393.0" b="2138.0">CHICAGO</box>
+          <box l="438.0" t="2106.0" r="659.0" b="2136.0">TRUJUNE</box>
+          <box l="946.0" t="2108.0" r="959.0" b="2137.0">I</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2428.0" t="2104.0" r="2690.0" b="2133.0">9.563.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2905.0" t="2101.0" r="3165.0" b="2134.0">a,128.55</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="161.0" t="2160.0" r="485.0" b="2192.0">CINCINNATI</box>
+          <box l="531.0" t="2161.0" r="796.0" b="2192.0">c.NQUlRtR</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="943.0" t="2162.0" r="1030.0" b="2195.0">140</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2904.0" t="2156.0" r="3165.0" b="2190.0">3.235.95</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="164.0" t="2214.0" r="459.0" b="2248.0">CLEVELAND</box>
+          <box l="496.0" t="2215.0" r="659.0" b="2248.0">PLAIN</box>
+          <box l="699.0" t="2215.0" r="895.0" b="2248.0">DEALER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2903.0" t="2210.0" r="3165.0" b="2243.0">3.663.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="163.0" t="2268.0" r="425.0" b="2302.0">COLUMBUS</box>
+          <box l="463.0" t="2268.0" r="730.0" b="2302.0">DISPATCH</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="946.0" t="2269.0" r="1030.0" b="2300.0">150</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2428.0" t="2266.0" r="2690.0" b="2298.0">*.490.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2907.0" t="2264.0" r="3167.0" b="2296.0">3.816.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="167.0" t="2327.0" r="222.0" b="2356.0">FT</box>
+          <box l="333.0" t="2327.0" r="592.0" b="2357.0">UULHUACt.</box>
+          <box l="634.0" t="2328.0" r="763.0" b="2357.0">NEWS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2906.0" t="2321.0" r="3168.0" b="2351.0">2.989.45</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="166.0" t="2382.0" r="359.0" b="2414.0">DALLAS</box>
+          <box l="401.0" t="2382.0" r="421.0" b="2410.0">T</box>
+          <box l="438.0" t="2382.0" r="449.0" b="2414.0">i</box>
+          <box l="468.0" t="2382.0" r="559.0" b="2411.0">Me.S</box>
+          <box l="600.0" t="2382.0" r="846.0" b="2429.0">MERALQ^</box>
+          <box l="163.0" t="2435.0" r="359.0" b="2467.0">OAYTON</box>
+          <box l="396.0" t="2436.0" r="558.0" b="2468.0">DAILY</box>
+          <box l="600.0" t="2436.0" r="729.0" b="2465.0">NEWS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="945.0" t="2434.0" r="1033.0" b="2469.0">102</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2902.0" t="2431.0" r="3164.0" b="2464.0">2.632.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="163.0" t="2490.0" r="354.0" b="2523.0">DENVER</box>
+          <box l="396.0" t="2490.0" r="524.0" b="2523.0">POST</box>
+          <box l="166.0" t="2548.0" r="387.0" b="2578.0">DuTROIT</box>
+          <box l="433.0" t="2552.0" r="560.0" b="2579.0">NlW.’&gt;</box>
+          <box l="166.0" t="2602.0" r="424.0" b="2636.0">HARTFORD</box>
+          <box l="466.0" t="2603.0" r="695.0" b="2636.0">COURANT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2903.0" t="2487.0" r="3030.0" b="2518.0">2.67</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="166.0" t="2656.0" r="395.0" b="2688.0">HOUSTON</box>
+          <box l="433.0" t="2656.0" r="561.0" b="2686.0">POST</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="937.0" t="2654.0" r="1033.0" b="2690.0">260</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2902.0" t="2651.0" r="3168.0" b="2684.0">4,242.35</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="162.0" t="2710.0" r="358.0" b="2739.0">KANSAS</box>
+          <box l="399.0" t="2710.0" r="524.0" b="2739.0">CITY</box>
+          <box l="570.0" t="2710.0" r="698.0" b="2740.0">STAR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2902.0" t="2706.0" r="3168.0" b="2738.0">4.287.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="162.0" t="2766.0" r="487.0" b="2798.0">LUUiJVli_Lt.</box>
+          <box l="532.0" t="2765.0" r="762.0" b="2794.0">CLIURILR</box>
+          <box l="808.0" t="2766.0" r="1032.0" b="2795.0">JOUWJZO</box>
+          <box l="1211.0" t="2767.0" r="1265.0" b="2792.0">PA</box>
+          <box l="1279.0" t="2767.0" r="1328.0" b="2796.0">Gt</box>
+          <box l="165.0" t="2818.0" r="258.0" b="2852.0">LOi</box>
+          <box l="299.0" t="2819.0" r="524.0" b="2852.0">ANGuLES</box>
+          <box l="569.0" t="2820.0" r="765.0" b="2857.0">HtFiALQ</box>
+          <box l="805.0" t="2820.0" r="1035.0" b="2853.0">EXAHJ2A</box>
+          <box l="1214.0" t="2820.0" r="1265.0" b="2851.0">3/</box>
+          <box l="1278.0" t="2830.0" r="1304.0" b="2851.0">D</box>
+          <box l="1340.0" t="2825.0" r="1369.0" b="2846.0">H</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2060.0" t="2766.0" r="2076.0" b="2794.0">1</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="166.0" t="2873.0" r="394.0" b="2905.0">MEMPHIS</box>
+          <box l="429.0" t="2873.0" r="763.0" b="2906.0">COMMERCIAL</box>
+          <box l="807.0" t="2874.0" r="1035.0" b="2905.0">APPE330</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2905.0" t="2869.0" r="3168.0" b="2901.0">3.165.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="166.0" t="2931.0" r="319.0" b="2960.0">MIAMI</box>
+          <box l="365.0" t="2931.0" r="561.0" b="2960.0">HERALD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2905.0" t="2926.0" r="3167.0" b="2958.0">5.703.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="169.0" t="2985.0" r="448.0" b="3014.0">MILWAUKEL</box>
+          <box l="504.0" t="2986.0" r="727.0" b="3014.0">JllUPNAL</box>
+          <box l="956.0" t="2984.0" r="1035.0" b="3013.0">JSD</box>
+          <box l="1218.0" t="2984.0" r="1268.0" b="3013.0">3/</box>
+          <box l="1282.0" t="2991.0" r="1306.0" b="3013.0">a&gt;</box>
+          <box l="169.0" t="3039.0" r="528.0" b="3069.0">MINNEAPOLIS</box>
+          <box l="572.0" t="3037.0" r="698.0" b="3068.0">STAR</box>
+          <box l="740.0" t="3045.0" r="763.0" b="3068.0">t,</box>
+          <box l="811.0" t="3037.0" r="1034.0" b="3069.0">TR1H360</box>
+          <box l="1210.0" t="3038.0" r="1339.0" b="3067.0">PAGE</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="168.0" t="3093.0" r="328.0" b="3123.0">□MAHA</box>
+          <box l="369.0" t="3093.0" r="528.0" b="3124.0">WORLD</box>
+          <box l="569.0" t="3091.0" r="764.0" b="3124.0">HERALD</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="940.0" t="3092.0" r="1035.0" b="3124.0">460</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2908.0" t="3088.0" r="3171.0" b="3121.0">3,033.65</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="165.0" t="3148.0" r="394.0" b="3177.0">ORLANDO</box>
+          <box l="436.0" t="3148.0" r="693.0" b="3178.0">5FNTTNEL</box>
+          <box l="940.0" t="3146.0" r="1035.0" b="3179.0">OO</box>
+          <box l="1210.0" t="3146.0" r="1335.0" b="3178.0">PAGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2905.0" t="3143.0" r="3170.0" b="3176.0">2,963.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="169.0" t="3203.0" r="227.0" b="3231.0">PH</box>
+          <box l="240.0" t="3205.0" r="252.0" b="3232.0">I</box>
+          <box l="265.0" t="3207.0" r="289.0" b="3235.0">L</box>
+          <box l="302.0" t="3206.0" r="381.0" b="3231.0">ALjL</box>
+          <box l="398.0" t="3206.0" r="411.0" b="3231.0">1</box>
+          <box l="432.0" t="3204.0" r="522.0" b="3232.0">RH1</box>
+          <box l="540.0" t="3207.0" r="561.0" b="3228.0">A</box>
+          <box l="610.0" t="3203.0" r="865.0" b="3233.0">INQUIRER</box>
+          <box l="943.0" t="3205.0" r="1035.0" b="3233.0">49U</box>
+          <box l="1218.0" t="3205.0" r="1306.0" b="3234.0">3/5</box>
+          <box l="1343.0" t="3205.0" r="1400.0" b="3230.0">PC</box>
+          <box l="1585.0" t="3203.0" r="1644.0" b="3232.0">UP</box>
+          <box l="1655.0" t="3203.0" r="1713.0" b="3232.0">Ehl</box>
+          <box l="168.0" t="3260.0" r="492.0" b="3289.0">PhOVIOLNCL</box>
+          <box l="535.0" t="3258.0" r="764.0" b="3293.0">JOURNAL</box>
+          <box l="943.0" t="3258.0" r="1036.0" b="3296.0">=12(3</box>
+          <box l="1214.0" t="3259.0" r="1306.0" b="3296.0">3/3</box>
+          <box l="1347.0" t="3259.0" r="1400.0" b="3288.0">PC</box>
+          <box l="1584.0" t="3257.0" r="1713.0" b="3289.0">OPEN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2909.0" t="3198.0" r="3171.0" b="3231.0">7.344.fib</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="168.0" t="3313.0" r="463.0" b="3343.0">ROCHESTER</box>
+          <box l="505.0" t="3312.0" r="602.0" b="3344.0">DEM</box>
+          <box l="639.0" t="3314.0" r="664.0" b="3344.0">t</box>
+          <box l="706.0" t="3312.0" r="896.0" b="3344.0">CHRON.</box>
+          <box l="943.0" t="3312.0" r="1038.0" b="3345.0">530</box>
+          <box l="1214.0" t="3313.0" r="1309.0" b="3342.0">3/5</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="172.0" t="3368.0" r="260.0" b="3398.0">SAN</box>
+          <box l="305.0" t="3368.0" r="531.0" b="3398.0">ANTONIO</box>
+          <box l="571.0" t="3366.0" r="1038.0" b="3399.0">EXPRCS5-NEWS50</box>
+          <box l="1214.0" t="3367.0" r="1339.0" b="3396.0">PACE</box>
+          <box l="1584.0" t="3365.0" r="1716.0" b="3396.0">OPEN</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="172.0" t="3477.0" r="327.0" b="3510.0">TULSA</box>
+          <box l="368.0" t="3477.0" r="530.0" b="3508.0">WORLD</box>
+          <box l="171.0" t="3535.0" r="359.0" b="3564.0">TOLEDO</box>
+          <box l="402.0" t="3536.0" r="560.0" b="3565.0">BLADE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2853.0" t="3517.0" r="3170.0" b="3560.0">11.594.60</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="5.0">
+      <box l="2978.0" t="3748.0" r="3173.0" b="3781.0">739.65</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "1, 1990",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ],
+        "TotalAmount": [
+            "$316,087.32",
+            {
+                "tp": 10.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$158,043.66",
+                            {
+                                "tp": 11.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "September Assessment for CIAR",
+                            {
+                                "tp": 29.0,
+                                "fp": 0.0,
+                                "fn": 29.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 40.0,
+                        "fp": 0.0,
+                        "fn": 29.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$158.043.66",
+                            {
+                                "tp": 11.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "October Assessment for CIAR",
+                            {
+                                "tp": 27.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 38.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 78.0,
+                "fp": 0.0,
+                "fn": 29.0
+            }
+        ],
+        "InvoiceNumber": [
+            "41930",
+            {
+                "tp": 0.0,
+                "fp": 5.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 95.0,
+        "fp": 6.0,
+        "fn": 37.0
+    }
+]

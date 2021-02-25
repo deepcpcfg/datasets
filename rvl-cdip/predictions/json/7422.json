@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "A",
+    "InvoiceNumber": "PR09'05299fl",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Coraniosionable Cbaxgeo",
+            "ItemTotal": "1,585.80"
+        },
+        {
+            "ItemDescription": "CocuLiasionable Charges",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "agency Coraadsaion",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "I,535.80"
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "5870",
+    "IssuedDate": "May 6, 1994",
+    "TotalAmount": "153.30",
+    "LineItem": [
+        {
+            "ItemDescription": "Price for books ",
+            "ItemTotal": "$ 150.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemTotal": "3.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

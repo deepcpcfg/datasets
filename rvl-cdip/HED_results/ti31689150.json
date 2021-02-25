@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "9/15/94",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "2429.16",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "1737.40",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "FILL 276 ORDERS; METER AND SHIP A5 SPECIFIED-",
+                            {
+                                "tp": 43.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 50.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "620.81",
+                            {
+                                "tp": 1.0,
+                                "fp": 5.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "POSTAGE MATERIALS- USED-",
+                            {
+                                "tp": 9.0,
+                                "fp": 15.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 10.0,
+                        "fp": 20.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 60.0,
+                "fp": 22.0,
+                "fn": 5.0
+            }
+        ],
+        "InvoiceNumber": [
+            "28356",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 79.0,
+        "fp": 22.0,
+        "fn": 5.0
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "5601",
+    "LineItem": [
+        {
+            "ItemDescription": "oz, \"sample\" Resinoid 0-50"
+        },
+        {
+            "ItemDescription": "no charge,.",
+            "ItemTotal": "$4,85"
+        },
+        {
+            "ItemDescription": "oz. \"sample\" Resinoid B-50 .no charge..",
+            "ItemTotal": "$1.50"
+        },
+        {
+            "ItemDescription": "oz. \"sample\" Resinoid F-50 .no charge..",
+            "ItemTotal": "$1.35"
+        }
+    ]
+}

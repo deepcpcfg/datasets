@@ -1,0 +1,66 @@
+{
+    "IssuedDate": "11/18/99",
+    "InvoiceNumber": "P0242263",
+    "LineItem": [
+        {
+            "ItemDescription": "PAJ w/Lt. Revise",
+            "ItemUnitCount": "1",
+            "ItemTotal": "300.00"
+        },
+        {
+            "ItemDescription": "Hatbod High Res Scan",
+            "ItemUnitCount": "1",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemDescription": "MAC Production Time",
+            "ItemUnitCount": "2",
+            "ItemTotal": "400.00"
+        },
+        {
+            "ItemDescription": "Zip Disk",
+            "ItemUnitCount": "4",
+            "ItemTotal": "120.00"
+        },
+        {
+            "ItemDescription": "Download 2 -100 MB",
+            "ItemUnitCount": "5",
+            "ItemTotal": "600.00"
+        },
+        {
+            "ItemDescription": "B&W Plotter 10X24",
+            "ItemUnitCount": "1",
+            "ItemTotal": "25.00"
+        },
+        {
+            "ItemDescription": "B&W Plotter 20X30",
+            "ItemUnitCount": "1",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "Color Plotter- 30X40",
+            "ItemUnitCount": "2",
+            "ItemTotal": "250.00"
+        },
+        {
+            "ItemDescription": "Color Fiery Output 11X17",
+            "ItemUnitCount": "9",
+            "ItemTotal": "135.00"
+        },
+        {
+            "ItemDescription": "E-Maii File",
+            "ItemUnitCount": "2",
+            "ItemTotal": "50.00"
+        },
+        {
+            "ItemDescription": "Handling Packaging",
+            "ItemUnitCount": "1",
+            "ItemTotal": "15.00"
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemTotal": "15.00"
+        }
+    ],
+    "TotalAmount": "2,060.00"
+}

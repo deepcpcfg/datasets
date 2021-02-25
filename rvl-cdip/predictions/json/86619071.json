@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "April 1, 1996",
+    "LineItem": [
+        {
+            "ItemDescription": "April assessment for CIAR",
+            "ItemTotal": "$43,316.00"
+        },
+        {
+            "ItemDescription": "Less monthly adjustment for Dunn research project (1996 contract)",
+            "ItemTotal": "(462.00)"
+        }
+    ]
+}

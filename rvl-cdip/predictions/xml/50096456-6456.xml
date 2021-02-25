@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="126.0" fp="64.0" fn="17.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="9.0">
+      <box l="2017.0" t="573.0" r="2101.0" b="618.0">12,</box>
+      <box l="2147.0" t="572.0" r="2271.0" b="610.0">1974</box>
+    </IssuedDate>
+    <InvoiceNumber tp="1.0" fp="0.0" fn="0.0">
+      <box l="2115.0" t="694.0" r="2136.0" b="735.0">1</box>
+    </InvoiceNumber>
+    <LineItem tp="109.0" fp="64.0" fn="8.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="210.0" t="1611.0" r="401.0" b="1652.0">SALARY</box>
+          <box l="503.0" t="1615.0" r="665.0" b="1653.0">WAGES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1686.0" t="1616.0" r="1944.0" b="1659.0">3,592.14</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2540.0" t="1619.0" r="2798.0" b="1664.0">3,592.14</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="210.0" t="1672.0" r="402.0" b="1712.0">FRINGE</box>
+          <box l="436.0" t="1674.0" r="698.0" b="1712.0">BENEFITS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1753.0" t="1676.0" r="1945.0" b="1717.0">237.80</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2607.0" t="1681.0" r="2799.0" b="1720.0">237.80</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="211.0" t="1736.0" r="502.0" b="1776.0">MATERIALS</box>
+          <box l="604.0" t="1736.0" r="861.0" b="1777.0">SUPPLIES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1753.0" t="1742.0" r="1946.0" b="1779.0">181,90</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2604.0" t="1746.0" r="2799.0" b="1784.0">181.90</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="208.0" t="1797.0" r="404.0" b="1835.0">TRAVEL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2714.0" t="1809.0" r="2799.0" b="1848.0">.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="212.0" t="1861.0" r="467.0" b="1900.0">STIPENDS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1688.0" t="1867.0" r="1942.0" b="1914.0">2,434.88</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2543.0" t="1869.0" r="2796.0" b="1922.0">2,434,88</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="210.0" t="1985.0" r="405.0" b="2026.0">DIRECT</box>
+          <box l="443.0" t="1987.0" r="568.0" b="2026.0">COST</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1689.0" t="1991.0" r="1945.0" b="2039.0">6,446.72</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2543.0" t="1994.0" r="2798.0" b="2040.0">6,446.72</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="207.0" t="2110.0" r="473.0" b="2148.0">OVERHEAD</box>
+          <box l="508.0" t="2111.0" r="602.0" b="2149.0">15%</box>
+          <box l="632.0" t="2111.0" r="731.0" b="2148.0">TDC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1753.0" t="2114.0" r="1944.0" b="2153.0">967.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2604.0" t="2117.0" r="2799.0" b="2156.0">967.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2537.0" t="2243.0" r="2796.0" b="2290.0">7,413.72</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

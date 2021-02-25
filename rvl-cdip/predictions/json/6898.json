@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "PR04-007S5L",
+    "IssuedDate": "fiscal",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-Cocirni aaionaJble Charges CoramisBionsble Chargee",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Agency Conaisaion",
+            "ItemTotal": "0.00"
+        }
+    ]
+}

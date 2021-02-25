@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "0000233",
+    "TotalAmount": " 153.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Deslgn/Pfodccdon Services",
+            "ItemUnitCount": "3.5",
+            "ItemUnitValue": "$60.00",
+            "ItemTotal": "$90.00"
+        },
+        {
+            "ItemDescription": "Canon Color Output J 1x17",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$15.00",
+            "ItemTotal": "$15.00"
+        },
+        {
+            "ItemDescription": "TektronixDigital Proof 11x17",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$48.00",
+            "ItemTotal": "$48.00"
+        }
+    ],
+    "IssuedDate": ""
+}

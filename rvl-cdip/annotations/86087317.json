@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "MG12-005024",
+    "IssuedDate": "DEC05/99",
+    "TotalAmount": "103,224.00",
+    "LineItem": [
+        {
+            "ItemDescription": "TIME 12/13/99 PG 4C BLD CASH DS CT a 1032,24",
+            "ItemTotal": "103,224.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

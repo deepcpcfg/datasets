@@ -1,0 +1,53 @@
+{
+    "IssuedDate": "April 30. 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Six days at SI,250/day..",
+            "ItemTotal": "7*500.00"
+        },
+        {
+            "ItemDescription": "Air fares. Hotels:",
+            "ItemTotal": "5,864.30"
+        },
+        {
+            "ItemDescription": "Bonaparte Hotel, Milan (335.000 lire 1213 lira/$l)",
+            "ItemTotal": "276.17"
+        },
+        {
+            "ItemDescription": "Hotel Steigenberger* Berlin (446,75 DM 0",
+            "ItemTotal": "270.76"
+        },
+        {
+            "ItemDescription": "Schweizerhof, Berlin (2074.9 DM (1",
+            "ItemTotal": "1,257.51"
+        },
+        {
+            "ItemDescription": "Taxis: Milan: Tolfran airport (46,000 lira 1213 lira/$l).",
+            "ItemTotal": "37.92"
+        },
+        {
+            "ItemDescription": "Germany: Tolfran airport (46 DM",
+            "ItemTotal": "27.88"
+        },
+        {
+            "ItemDescription": "Miscellaneous drinks/tips, etc...",
+            "ItemTotal": "20.00"
+        },
+        {
+            "ItemDescription": "Slides by Corporate Visions, #23069",
+            "ItemTotal": "533.31"
+        },
+        {
+            "ItemDescription": "Slides by Corporate Visions, #22538.",
+            "ItemTotal": "163.17"
+        },
+        {
+            "ItemDescription": "Hard copies of slides, #23101..",
+            "ItemTotal": "125.40"
+        },
+        {
+            "ItemDescription": "300 portfolio covers...",
+            "ItemTotal": "600.00"
+        }
+    ]
+}

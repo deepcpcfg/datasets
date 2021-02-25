@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "6415",
+    "IssuedDate": "February 9,2001",
+    "TotalAmount": "7,875.00",
+    "LineItem": [
+        {
+            "ItemTotal": "7,500.00",
+            "ItemDescription": "2001 ILS1 North America Technical Committee on Food Toxicology and Safety Assessment",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "375.00",
+            "ItemDescription": "2001 ILS I Research Foundation Contribution",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="225.0" fp="9.0" fn="31.0">
+    <IssuedDate tp="16.0" fp="1.0" fn="0.0">
+      <box l="725.0" t="784.0" r="955.0" b="822.0">December</box>
+      <box l="972.0" t="783.0" r="1033.0" b="825.0">30,</box>
+      <box l="1064.0" t="783.0" r="1164.0" b="825.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="201.0" fp="7.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="1813.0" r="904.0" b="1851.0">Produce</box>
+          <box l="921.0" t="1813.0" r="1008.0" b="1851.0">Trial</box>
+          <box l="1029.0" t="1813.0" r="1179.0" b="1859.0">Mailing</box>
+          <box l="1200.0" t="1813.0" r="1254.0" b="1851.0">#2</box>
+          <box l="1271.0" t="1810.0" r="1403.0" b="1851.0">Profile</box>
+          <box l="1422.0" t="1813.0" r="1568.0" b="1858.0">Report</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2430.0" t="1813.0" r="2650.0" b="1856.0">$4,91i.39</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="1884.0" r="796.0" b="1921.0">List</box>
+          <box l="815.0" t="1883.0" r="888.0" b="1921.0">PuU</box>
+          <box l="909.0" t="1883.0" r="1100.0" b="1926.0">(314,037</box>
+          <box l="1121.0" t="1884.0" r="1283.0" b="1921.0">records</box>
+          <box l="1355.0" t="1880.0" r="1547.0" b="1930.0">S5.88/M)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2463.0" t="1884.0" r="2646.0" b="1926.0">1,846.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="1955.0" r="1004.0" b="2005.0">Merge/Purge</box>
+          <box l="1025.0" t="1955.0" r="1083.0" b="2001.0">(31</box>
+          <box l="1096.0" t="1955.0" r="1212.0" b="1992.0">*037</box>
+          <box l="1233.0" t="1956.0" r="1396.0" b="1992.0">records</box>
+          <box l="1468.0" t="1955.0" r="1664.0" b="1996.0">S2.35/M)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="1955.0" r="2647.0" b="1992.0">737.99</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="2026.0" r="783.0" b="2063.0">Ink</box>
+          <box l="801.0" t="2027.0" r="866.0" b="2063.0">Jet</box>
+          <box l="887.0" t="2026.0" r="1067.0" b="2076.0">Program</box>
+          <box l="1088.0" t="2026.0" r="1325.0" b="2071.0">Processing</box>
+          <box l="1347.0" t="2026.0" r="1538.0" b="2071.0">(306,612</box>
+          <box l="1555.0" t="2026.0" r="1721.0" b="2064.0">records</box>
+          <box l="1793.0" t="2026.0" r="1988.0" b="2070.0">S2.35/M}</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="2026.0" r="2646.0" b="2064.0">725.24</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="2098.0" r="941.0" b="2147.0">Programm</box>
+          <box l="950.0" t="2097.0" r="1012.0" b="2147.0">Ing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2525.0" t="2097.0" r="2646.0" b="2135.0">S3.13</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2429.0" t="2242.0" r="2646.0" b="2287.0">$9,374.79</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

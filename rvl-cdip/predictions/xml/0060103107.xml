@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="256.0" fp="60.0" fn="94.0">
+    <IssuedDate tp="4.0" fp="0.0" fn="7.0">
+      <box l="919.0" t="833.0" r="1023.0" b="875.0">1993</box>
+    </IssuedDate>
+    <LineItem tp="244.0" fp="59.0" fn="79.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="1854.0" r="890.0" b="1894.0">Select</box>
+          <box l="908.0" t="1853.0" r="1108.0" b="1898.0">specified</box>
+          <box l="1129.0" t="1854.0" r="1291.0" b="1893.0">records</box>
+          <box l="1312.0" t="1850.0" r="1405.0" b="1893.0">from</box>
+          <box l="1425.0" t="1853.0" r="1551.0" b="1893.0">ATCo,</box>
+          <box l="1572.0" t="1853.0" r="1776.0" b="1893.0">database</box>
+          <box l="752.0" t="1925.0" r="948.0" b="1965.0">Minimum</box>
+          <box l="969.0" t="1927.0" r="1124.0" b="1974.0">charge</box>
+          <box l="1144.0" t="1926.0" r="1202.0" b="1963.0">lor</box>
+          <box l="1219.0" t="1925.0" r="1428.0" b="1965.0">Database</box>
+          <box l="1449.0" t="1926.0" r="1615.0" b="1973.0">passing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2466.0" t="1922.0" r="2683.0" b="1967.0">$1,764.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="1998.0" r="988.0" b="2039.0">Household</box>
+          <box l="1009.0" t="1998.0" r="1107.0" b="2037.0">level</box>
+          <box l="1126.0" t="1998.0" r="1414.0" b="2047.0">Merge/Purge</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2498.0" t="1996.0" r="2687.0" b="2041.0">1,051.87</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="2071.0" r="861.0" b="2110.0">Pass</box>
+          <box l="879.0" t="2070.0" r="940.0" b="2108.0">file</box>
+          <box l="958.0" t="2072.0" r="996.0" b="2108.0">to</box>
+          <box l="1015.0" t="2069.0" r="1361.0" b="2113.0">Nth/Split/Crea(e</box>
+          <box l="1379.0" t="2069.0" r="1533.0" b="2109.0">Control</box>
+          <box l="1553.0" t="2069.0" r="1812.0" b="2116.0">celis/Assign</box>
+          <box l="755.0" t="2142.0" r="909.0" b="2182.0">Source</box>
+          <box l="927.0" t="2142.0" r="1071.0" b="2182.0">Codes</box>
+          <box l="753.0" t="2213.0" r="1050.0" b="2261.0">Programming</box>
+          <box l="1121.0" t="2211.0" r="1274.0" b="2260.0">Project</box>
+          <box l="1288.0" t="2213.0" r="1575.0" b="2261.0">Management</box>
+          <box l="1625.0" t="2212.0" r="1651.0" b="2252.0">3</box>
+          <box l="1668.0" t="2214.0" r="1771.0" b="2260.0">days</box>
+          <box l="1847.0" t="2210.0" r="1996.0" b="2251.0">882.3B</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2537.0" t="2139.0" r="2686.0" b="2176.0">441.19</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="756.0" t="2296.0" r="827.0" b="2333.0">per</box>
+          <box l="845.0" t="2286.0" r="927.0" b="2332.0">day</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2496.0" t="2283.0" r="2688.0" b="2324.0">2.647.12</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="2356.0" r="900.0" b="2398.0">NCOA</box>
+          <box l="917.0" t="2358.0" r="1155.0" b="2408.0">Processing</box>
+          <box l="1213.0" t="2357.0" r="1389.0" b="2397.0">374.285</box>
+          <box l="1405.0" t="2357.0" r="1571.0" b="2397.0">records</box>
+          <box l="1643.0" t="2355.0" r="1722.0" b="2397.0">2/M</box>
+          <box l="756.0" t="2430.0" r="950.0" b="2479.0">Shipping</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2539.0" t="2353.0" r="2687.0" b="2396.0">880.69</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2472.0" t="2573.0" r="2693.0" b="2619.0">$6,639.12</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

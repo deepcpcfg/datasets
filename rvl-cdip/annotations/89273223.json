@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "April 1, 1994",
+    "TotalAmount": "51,048.02",
+    "LineItem": [
+        {
+            "ItemTotal": "$44,446.13",
+            "ItemDescription": "April assessment for CIAR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6.601.89",
+            "ItemDescription": "April supplemental assessment for Johns Hopkins, Dr. Mat&noskl, Confounders Study",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

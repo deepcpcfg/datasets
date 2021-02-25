@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "1560.75",
+    "LineItem": [
+        {
+            "ItemDescription": "CAMB FF 100b PROMO",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "46.2 0",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "camb Lights 100s promo ",
+            "ItemUnitCount": "12",
+            "ItemTotal": "554.40",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CAMB MEN LTS 100s PROMO",
+            "ItemUnitValue": "46.20",
+            "ItemUnitCount": "",
+            "ItemTotal": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

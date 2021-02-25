@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="165.0" fp="635.0" fn="63.0">
+    <LineItem tp="165.0" fp="635.0" fn="63.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="480.0" t="1913.0" r="641.0" b="1950.0">MYRON</box>
+          <box l="680.0" t="1913.0" r="730.0" b="1946.0">S.</box>
+          <box l="776.0" t="1913.0" r="1058.0" b="1955.0">WEINBERG,</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="908.0" t="2022.0" r="1134.0" b="2071.0">Develop</box>
+          <box l="1167.0" t="2021.0" r="1455.0" b="2071.0">potential</box>
+          <box l="1496.0" t="2022.0" r="1683.0" b="2071.0">agenda</box>
+          <box l="1725.0" t="2026.0" r="1816.0" b="2060.0">for</box>
+          <box l="1853.0" t="2020.0" r="2175.0" b="2061.0">scientific</box>
+          <box l="2209.0" t="2022.0" r="2533.0" b="2060.0">conference</box>
+          <box l="906.0" t="2080.0" r="1033.0" b="2117.0">Meet</box>
+          <box l="1071.0" t="2077.0" r="1196.0" b="2117.0">with</box>
+          <box l="1234.0" t="2076.0" r="1330.0" b="2117.0">Gio</box>
+          <box l="1363.0" t="2076.0" r="1488.0" b="2117.0">Gori</box>
+          <box l="1526.0" t="2080.0" r="1587.0" b="2117.0">to</box>
+          <box l="1625.0" t="2076.0" r="1847.0" b="2117.0">discuss</box>
+          <box l="1884.0" t="2076.0" r="2141.0" b="2117.0">chairmen</box>
+          <box l="2179.0" t="2079.0" r="2271.0" b="2117.0">and</box>
+          <box l="2309.0" t="2080.0" r="2500.0" b="2126.0">agenda</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="645.0" t="2184.0" r="870.0" b="2226.0">Witness</box>
+          <box l="905.0" t="2185.0" r="1230.0" b="2226.0">Activities</box>
+          <box l="912.0" t="2242.0" r="1166.0" b="2290.0">Identify</box>
+          <box l="1202.0" t="2239.0" r="1458.0" b="2289.0">possible</box>
+          <box l="1496.0" t="2242.0" r="1750.0" b="2280.0">chairmen</box>
+          <box l="909.0" t="2292.0" r="1166.0" b="2346.0">Identify</box>
+          <box l="1201.0" t="2298.0" r="1457.0" b="2346.0">speakers</box>
+          <box l="1496.0" t="2297.0" r="1590.0" b="2334.0">and</box>
+          <box l="1625.0" t="2297.0" r="1815.0" b="2346.0">topics</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1854.0" t="2188.0" r="1975.0" b="2223.0">7.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2113.0" t="2185.0" r="2333.0" b="2230.0">$275.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="905.0" t="2351.0" r="1101.0" b="2391.0">Review</box>
+          <box l="1138.0" t="2351.0" r="1488.0" b="2391.0">credentials</box>
+          <box l="1526.0" t="2352.0" r="1587.0" b="2391.0">of</box>
+          <box l="1625.0" t="2351.0" r="1911.0" b="2401.0">potential</box>
+          <box l="1950.0" t="2351.0" r="2204.0" b="2391.0">chairmen</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="646.0" t="2405.0" r="1459.0" b="2455.0">Writing/Contacts/Meetings</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1855.0" t="2409.0" r="1979.0" b="2447.0">3.90</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="650.0" t="2573.0" r="1004.0" b="2614.0">information</box>
+          <box l="1038.0" t="2579.0" r="1362.0" b="2626.0">Management</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1855.0" t="2579.0" r="1979.0" b="2613.0">5.75</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2147.0" t="2573.0" r="2337.0" b="2622.0">$65.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="909.0" t="2630.0" r="1104.0" b="2672.0">Review</box>
+          <box l="1138.0" t="2634.0" r="1362.0" b="2672.0">current</box>
+          <box l="1401.0" t="2630.0" r="1716.0" b="2672.0">literature</box>
+          <box l="1758.0" t="2630.0" r="1850.0" b="2668.0">for</box>
+          <box l="1888.0" t="2630.0" r="2175.0" b="2671.0">inclusion</box>
+          <box l="2213.0" t="2630.0" r="2271.0" b="2671.0">in</box>
+          <box l="2309.0" t="2630.0" r="2566.0" b="2671.0">database</box>
+          <box l="909.0" t="2684.0" r="1166.0" b="2734.0">Organize</box>
+          <box l="1204.0" t="2688.0" r="1458.0" b="2734.0">tracking</box>
+          <box l="1496.0" t="2688.0" r="1687.0" b="2734.0">system</box>
+          <box l="1726.0" t="2688.0" r="1816.0" b="2726.0">for</box>
+          <box l="1855.0" t="2685.0" r="2204.0" b="2726.0">information</box>
+          <box l="2242.0" t="2697.0" r="2305.0" b="2726.0">on</box>
+          <box l="2341.0" t="2685.0" r="2566.0" b="2726.0">science</box>
+          <box l="2601.0" t="2688.0" r="2696.0" b="2726.0">and</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="842.0" t="2742.0" r="1034.0" b="2790.0">public</box>
+          <box l="650.0" t="2801.0" r="970.0" b="2844.0">Management</box>
+          <box l="1071.0" t="2739.0" r="1262.0" b="2790.0">policy</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1857.0" t="2801.0" r="1979.0" b="2834.0">3.25</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2150.0" t="2798.0" r="2337.0" b="2841.0">$65.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="909.0" t="2855.0" r="1037.0" b="2891.0">Meet</box>
+          <box l="1071.0" t="2851.0" r="1200.0" b="2889.0">with</box>
+          <box l="1234.0" t="2855.0" r="1300.0" b="2889.0">MB</box>
+          <box l="1334.0" t="2855.0" r="1426.0" b="2889.0">and</box>
+          <box l="1463.0" t="2855.0" r="1559.0" b="2890.0">MSW</box>
+          <box l="1591.0" t="2863.0" r="1654.0" b="2889.0">on</box>
+          <box l="1691.0" t="2854.0" r="1879.0" b="2889.0">status</box>
+          <box l="909.0" t="2908.0" r="1134.0" b="2955.0">Respond</box>
+          <box l="1171.0" t="2909.0" r="1233.0" b="2947.0">to</box>
+          <box l="1267.0" t="2906.0" r="1555.0" b="2955.0">questions</box>
+          <box l="1596.0" t="2909.0" r="1721.0" b="2947.0">from</box>
+          <box l="1755.0" t="2909.0" r="1979.0" b="2955.0">experts</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1855.0" t="2964.0" r="1979.0" b="3001.0">4,25</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2151.0" t="2962.0" r="2337.0" b="3005.0">$65.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="909.0" t="3017.0" r="1133.0" b="3058.0">Contact</box>
+          <box l="1171.0" t="3022.0" r="1392.0" b="3064.0">experts</box>
+          <box l="1430.0" t="3027.0" r="1492.0" b="3058.0">on</box>
+          <box l="1530.0" t="3017.0" r="1754.0" b="3058.0">science</box>
+          <box l="1791.0" t="3017.0" r="1850.0" b="3055.0">In</box>
+          <box l="1887.0" t="3014.0" r="2075.0" b="3063.0">public</box>
+          <box l="2113.0" t="3017.0" r="2308.0" b="3064.0">policy</box>
+          <box l="909.0" t="3072.0" r="1104.0" b="3113.0">Review</box>
+          <box l="1138.0" t="3072.0" r="1522.0" b="3122.0">publications</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="650.0" t="3181.0" r="870.0" b="3222.0">Witness</box>
+          <box l="909.0" t="3181.0" r="1230.0" b="3222.0">Activities</box>
+          <box l="909.0" t="3239.0" r="1137.0" b="3287.0">Develop</box>
+          <box l="1171.0" t="3238.0" r="1329.0" b="3277.0">lists</box>
+          <box l="1366.0" t="3239.0" r="1425.0" b="3276.0">of</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1825.0" t="3185.0" r="1979.0" b="3222.0">11.75</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2150.0" t="3181.0" r="2337.0" b="3226.0">$65.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="901.0" t="3297.0" r="1029.0" b="3330.0">Meet</box>
+          <box l="1063.0" t="3293.0" r="1191.0" b="3330.0">with</box>
+          <box l="1221.0" t="3292.0" r="1445.0" b="3331.0">Frankie</box>
+          <box l="1476.0" t="3293.0" r="1630.0" b="3331.0">Trull</box>
+          <box l="1671.0" t="3292.0" r="2016.0" b="3339.0">(Biomedical</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="909.0" t="3351.0" r="1133.0" b="3387.0">Contact</box>
+          <box l="1168.0" t="3351.0" r="1330.0" b="3387.0">James</box>
+          <box l="1363.0" t="3350.0" r="1687.0" b="3397.0">Wyngaarden</box>
+          <box l="1729.0" t="3347.0" r="2109.0" b="3392.0">(ex-director</box>
+          <box l="2146.0" t="3351.0" r="2204.0" b="3388.0">of</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="649.0" t="3455.0" r="1459.0" b="3506.0">Writing/contaots/Meetings</box>
+          <box l="1822.0" t="3460.0" r="1980.0" b="3498.0">10.00</box>
+          <box l="909.0" t="3517.0" r="1133.0" b="3553.0">Letters</box>
+          <box l="1169.0" t="3517.0" r="1234.0" b="3554.0">to</box>
+          <box l="1267.0" t="3513.0" r="1555.0" b="3563.0">potential</box>
+          <box l="1592.0" t="3514.0" r="1850.0" b="3562.0">speakers</box>
+          <box l="913.0" t="3572.0" r="1104.0" b="3609.0">Follow</box>
+          <box l="1138.0" t="3580.0" r="1201.0" b="3617.0">up</box>
+          <box l="1238.0" t="3572.0" r="1458.0" b="3609.0">letters</box>
+          <box l="1496.0" t="3572.0" r="1558.0" b="3609.0">to</box>
+          <box l="1591.0" t="3572.0" r="1849.0" b="3609.0">contacts</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="3458.0" r="2333.0" b="3501.0">$65.DO</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

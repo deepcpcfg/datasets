@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "February 22,1994",
+    "InvoiceNumber": "1007",
+    "LineItem": [
+        {
+            "ItemDescription": "Chattanooga 1/17/94",
+            "ItemUnitCount": "55",
+            "ItemTotal": "$13,236.00"
+        },
+        {
+            "ItemDescription": "Summary Tables",
+            "ItemTotal": "250.00"
+        }
+    ],
+    "TotalAmount": "S13.486.0Q"
+}

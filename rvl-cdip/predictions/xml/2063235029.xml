@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="85.0" fp="23.0" fn="10.0">
+    <InvoiceNumber tp="3.0" fp="0.0" fn="3.0">
+      <box l="2760.0" t="346.0" r="2856.0" b="382.0">9-0</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2506.0" t="639.0" r="2742.0" b="684.0">1/19/79</box>
+    </IssuedDate>
+    <LineItem tp="68.0" fp="23.0" fn="7.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="473.0" t="1667.0" r="707.0" b="1707.0">Worker1a</box>
+          <box l="742.0" t="1672.0" r="1095.0" b="1719.0">Compensation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1804.0" t="1682.0" r="2069.0" b="1723.0">3,673,000</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2282.0" t="1685.0" r="2507.0" b="1730.0">3,673,00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="473.0" t="1905.0" r="678.0" b="1938.0">General</box>
+          <box l="711.0" t="1905.0" r="973.0" b="1953.0">Liability</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2187.0" t="1918.0" r="2449.0" b="1960.0">1,046,500</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="2142.0" r="762.0" b="2180.0">Automobile</box>
+          <box l="791.0" t="2142.0" r="1058.0" b="2191.0">Liability</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2655.0" t="2163.0" r="2854.0" b="2205.0">296,800</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="0.0" fn="0.0">
+      <box l="2655.0" t="2229.0" r="2855.0" b="2268.0">860,300</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

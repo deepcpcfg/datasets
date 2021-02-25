@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "205119",
+    "IssuedDate": "April 30, 2001",
+    "TotalAmount": "21,998.82",
+    "LineItem": [
+        {
+            "ItemTotal": "812.50",
+            "ItemDescription": "TeenHTP Awards",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,860.00",
+            "ItemDescription": "TeenHIP Grant Program",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,706.50",
+            "ItemDescription": "TeenHIP Cool News",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,847.00",
+            "ItemDescription": "But toutnow.c om",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6,123.00",
+            "ItemDescription": "Take 10 General",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "13,226.00",
+            "ItemDescription": "Parent 5-City Tour",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "13,361.50",
+            "ItemDescription": "Parent Influencer Outreach",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "360.00",
+            "ItemDescription": "2takelG.com",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,037.50",
+            "ItemDescription": "\"98 Degrees Sponsorship",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

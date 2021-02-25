@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "17565",
+    "IssuedDate": "06/03/90",
+    "TotalAmount": "3,322.03",
+    "LineItem": [
+        {
+            "ItemDescription": "l CP NAT",
+            "ItemTotal": "3,155.04",
+            "ItemUnitCount": "14.00",
+            "ItemUnitValue": "225.36"
+        },
+        {
+            "ItemDescription": "NEWPORT SPOT COLOR",
+            "ItemTotal": "765.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AGY COMMISSION",
+            "ItemTotal": "568.01",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "IssuedDate": "March 9, 1998",
+    "InvoiceNumber": "39865391",
+    "LineItem": [
+        {
+            "ItemDescription": "Expenses posted (February 1-28, 1958)",
+            "ItemTotal": "22,605.90"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354619",
+            "ItemTotal": "31,ooo.no"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354620",
+            "ItemTotal": "48,500.00"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354621",
+            "ItemTotal": "23,200.00"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354627",
+            "ItemTotal": "38,500.00"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354629",
+            "ItemTotal": "76.25"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354630",
+            "ItemTotal": "905.56"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group invoice 354631",
+            "ItemTotal": "10.25"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354632",
+            "ItemTotal": "60.80"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354633",
+            "ItemTotal": "124.53"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354634",
+            "ItemTotal": "23,842.52"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354635",
+            "ItemTotal": "8,605.34"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354636",
+            "ItemTotal": "23,678.41"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354637",
+            "ItemTotal": "18,934.20"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354638",
+            "ItemTotal": "22.80"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 394401",
+            "ItemTotal": "88,639.86"
+        },
+        {
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 394403",
+            "ItemTotal": "200,800,00"
+        },
+        {
+            "ItemDescription": "Joe R. Dabro Invoices 102 through 107",
+            "ItemTotal": "39,425,00"
+        },
+        {
+            "ItemDescription": "Barents Group L.L.C, Invoice 6",
+            "ItemTotal": "77,083.25"
+        }
+    ],
+    "TotalAmount": "645,214,67"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="71.0" fp="27.0" fn="29.0">
+    <InvoiceNumber tp="6.0" fp="1.0" fn="2.0">
+      <box l="2779.0" t="304.0" r="3008.0" b="336.0">&lt;371900</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="381.0" t="1421.0" r="645.0" b="1456.0">11/09/92</box>
+    </IssuedDate>
+    <LineItem tp="48.0" fp="26.0" fn="27.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1170.0" t="1427.0" r="1191.0" b="1460.0">1</box>
+          <box l="1236.0" t="1426.0" r="1367.0" b="1459.0">PAGE</box>
+          <box l="1404.0" t="1425.0" r="1469.0" b="1457.0">4C</box>
+          <box l="1579.0" t="1426.0" r="1677.0" b="1459.0">BLD</box>
+          <box l="1853.0" t="1427.0" r="1915.0" b="1460.0">IX</box>
+          <box l="1029.0" t="1483.0" r="1229.0" b="1518.0">AGENCY</box>
+          <box l="1271.0" t="1484.0" r="1538.0" b="1520.0">DISCOUNT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2199.0" t="1427.0" r="2496.0" b="1462.0">16.562.30</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2234.0" t="1486.0" r="2533.0" b="1523.0">2.484.35-</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1030.0" t="1541.0" r="1229.0" b="1578.0">•SPLIT</box>
+          <box l="1271.0" t="1543.0" r="1371.0" b="1579.0">RUN</box>
+          <box l="1476.0" t="1545.0" r="1505.0" b="1578.0">2</box>
+          <box l="1544.0" t="1544.0" r="1642.0" b="1577.0">WAY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2235.0" t="1545.0" r="2499.0" b="1580.0">1.700.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2754.0" t="2941.0" r="3054.0" b="2976.0">15.777.95</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

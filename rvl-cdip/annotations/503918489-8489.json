@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "0324 -08",
+    "IssuedDate": "August 9,1984",
+    "TotalAmount": "26,648.71",
+    "LineItem": [
+        {
+            "ItemDescription": "SERVICES: Editorial, Creative Direction, Art Direction, Production Art and Project Management through presentation on 7/26/64.",
+            "ItemTotal": "$20,275.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SERVIC8 DELATED EXPENSES* Type, Stats, ftibdown. Art Supplies",
+            "ItemTotal": "3,637.34",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EXPEDITING (at cost)",
+            "ItemTotal": "25.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PHONE (at cost)",
+            "ItemTotal": "66.37",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

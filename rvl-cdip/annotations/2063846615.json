@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "95-08229",
+    "IssuedDate": "September I, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "Barnett 02/10/95",
+            "ItemTotal": "$745.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fulton 07/14/95",
+            "ItemTotal": "$781.22",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Stringfellow 07/14/95",
+            "ItemTotal": "$790,211",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Valentine 02/11/95",
+            "ItemTotal": "$615.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Joseph's Limousine Service",
+            "ItemTotal": "$84.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "On-Line Dialog ( Computer Search)",
+            "ItemTotal": "$478.37",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Invention. Inc.",
+            "ItemTotal": "46.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AP - On Line Information",
+            "ItemTotal": "272.79",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SYS - On Line Information",
+            "ItemTotal": "22.45",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "December 14, 1983",
+    "InvoiceNumber": "1561-1",
+    "LineItem": [
+        {
+            "ItemDescription": "Acute"
+        },
+        {
+            "ItemDescription": "Effects"
+        },
+        {
+            "ItemDescription": "in Beagle Dogs with A-62 and B-166 A-62",
+            "ItemTotal": "$4,385.00"
+        }
+    ]
+}

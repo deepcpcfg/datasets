@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="204.0" fp="40.0" fn="138.0">
+    <LineItem tp="198.0" fp="40.0" fn="127.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="681.0" t="1450.0" r="701.0" b="1483.0">R</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2344.0" t="1465.0" r="2543.0" b="1504.0">4.5985</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2656.0" t="1468.0" r="2922.0" b="1507.0">8,304.89</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="793.0" t="1509.0" r="847.0" b="1542.0">IT</box>
+          <box l="893.0" t="1510.0" r="1048.0" b="1546.0">TASTE</box>
+          <box l="1094.0" t="1514.0" r="1184.0" b="1547.0">TOO</box>
+          <box l="1227.0" t="1503.0" r="1468.0" b="1549.0">GOOD‘/kS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2347.0" t="1521.0" r="2546.0" b="1559.0">4.5985</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2661.0" t="1523.0" r="2923.0" b="1561.0">8,304.89</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="793.0" t="1563.0" r="847.0" b="1596.0">IT</box>
+          <box l="890.0" t="1563.0" r="1080.0" b="1601.0">TASTES</box>
+          <box l="1123.0" t="1566.0" r="1215.0" b="1601.0">TOO</box>
+          <box l="1260.0" t="1568.0" r="1444.0" b="1602.0">GOOD'Z*</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2343.0" t="1575.0" r="2543.0" b="1614.0">4.5985</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="684.0" t="1620.0" r="705.0" b="1653.0">R</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2347.0" t="1633.0" r="2546.0" b="1672.0">4.1480</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2660.0" t="1635.0" r="2922.0" b="1674.0">7,491.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="789.0" t="1675.0" r="943.0" b="1710.0">BLIND</box>
+          <box l="959.0" t="1676.0" r="976.0" b="1710.0">F</box>
+          <box l="993.0" t="1676.0" r="1079.0" b="1711.0">ORD</box>
+          <box l="1105.0" t="1677.0" r="1159.0" b="1701.0">v-v</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2347.0" t="1689.0" r="2546.0" b="1727.0">4.1480</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2660.0" t="1690.0" r="2922.0" b="1731.0">7,491.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="792.0" t="1730.0" r="913.0" b="1766.0">DECK</box>
+          <box l="959.0" t="1734.0" r="1180.0" b="1769.0">CHAIRES</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2346.0" t="1743.0" r="2542.0" b="1784.0">4.1480</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2660.0" t="1747.0" r="2742.0" b="1784.0">7,4</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="792.0" t="1790.0" r="946.0" b="1825.0">LUNCH</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2346.0" t="1803.0" r="2546.0" b="1842.0">4.1480</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2663.0" t="1805.0" r="2925.0" b="1844.0">7,491.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="793.0" t="1846.0" r="913.0" b="1881.0">CAFE</box>
+          <box l="958.0" t="1848.0" r="1018.0" b="1881.0">AD</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2346.0" t="1858.0" r="2545.0" b="1897.0">4.1480</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2660.0" t="1860.0" r="2924.0" b="1899.0">7,491.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="795.0" t="1900.0" r="846.0" b="1934.0">IT</box>
+          <box l="892.0" t="1901.0" r="1050.0" b="1939.0">TASTE</box>
+          <box l="1096.0" t="1906.0" r="1187.0" b="1938.0">TOO</box>
+          <box l="1229.0" t="1907.0" r="1354.0" b="1940.0">GOOD</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2349.0" t="1913.0" r="2546.0" b="1951.0">4.1480</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2663.0" t="1915.0" r="2924.0" b="1953.0">7,491.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="793.0" t="1959.0" r="878.0" b="1996.0">SGN</box>
+          <box l="924.0" t="1963.0" r="1017.0" b="1997.0">CON</box>
+          <box l="794.0" t="2017.0" r="815.0" b="2050.0">S</box>
+          <box l="828.0" t="2017.0" r="878.0" b="2050.0">GN</box>
+          <box l="924.0" t="2017.0" r="1019.0" b="2051.0">CON</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2662.0" t="1973.0" r="2949.0" b="2015.0">1,657.891</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="3.0">
+      <box l="2733.0" t="3782.0" r="2927.0" b="3820.0">167.30</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

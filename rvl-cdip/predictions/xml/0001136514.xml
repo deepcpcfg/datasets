@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="90.0" fp="71.0" fn="28.0">
+    <LineItem tp="90.0" fp="67.0" fn="21.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="501.0" t="1494.0" r="776.0" b="1524.0">PHGTOGRPHRS</box>
+          <box l="805.0" t="1494.0" r="872.0" b="1524.0">FEE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1898.0" t="1489.0" r="2040.0" b="1519.0">500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="500.0" t="1578.0" r="575.0" b="1608.0">CLR</box>
+          <box l="604.0" t="1576.0" r="797.0" b="1606.0">PRNT-DYE</box>
+          <box l="830.0" t="1576.0" r="869.0" b="1606.0">TR</box>
+          <box l="500.0" t="1660.0" r="749.0" b="1691.0">RETOUCHING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1497.0" t="1577.0" r="1639.0" b="1602.0">290.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1498.0" t="1660.0" r="1638.0" b="1686.0">600.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="503.0" t="1743.0" r="746.0" b="1774.0">photostats</box>
+          <box l="503.0" t="1829.0" r="774.0" b="1858.0">MECHANICALS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1500.0" t="1741.0" r="1587.0" b="1769.0">150.</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1499.0" t="1825.0" r="1641.0" b="1854.0">655.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="502.0" t="1913.0" r="594.0" b="1942.0">PACK</box>
+          <box l="628.0" t="1913.0" r="873.0" b="1942.0">PHOTOGRPHY</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1499.0" t="1911.0" r="1587.0" b="1940.0">500.</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1895.0" t="1908.0" r="2040.0" b="1938.0">900.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="502.0" t="1994.0" r="848.0" b="2025.0">TRANSPARENCIES</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1524.0" t="1994.0" r="1640.0" b="2023.0">00.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1895.0" t="1993.0" r="2041.0" b="2021.0">400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2080.0" r="747.0" b="2109.0">POGRAPHY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1897.0" t="2055.0" r="2098.0" b="2105.0">640.93,^</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="0.0" fp="4.0" fn="0.0">
+      <box l="2415.0" t="947.0" r="2514.0" b="975.0">AC14</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="2267.0" t="643.0" r="2573.0" b="701.0">S/6/8T_</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="437.0" t="1764.0" r="646.0" b="1813.0">Single</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="884.0" t="1764.0" r="1175.0" b="1802.0">Subacute</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="175.0" t="1955.0" r="314.0" b="1992.0">Test</box>
+          <box l="363.0" t="1952.0" r="680.0" b="1992.0">Material:</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber>
+      <box l="2647.0" t="648.0" r="2858.0" b="696.0">711016</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

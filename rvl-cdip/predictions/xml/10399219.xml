@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="121.0" fp="138.0" fn="296.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2266.0" t="862.0" r="2414.0" b="903.0">10624</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="5.0" fn="5.0">
+      <box l="2323.0" t="1208.0" r="2631.0" b="1258.0">Oct.lltL96</box>
+    </IssuedDate>
+    <LineItem tp="111.0" fp="133.0" fn="288.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="416.0" t="1640.0" r="640.0" b="1688.0">TS,under</box>
+          <box l="678.0" t="1639.0" r="728.0" b="1674.0">65</box>
+          <box l="765.0" t="1635.0" r="819.0" b="1674.0">in</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="419.0" t="1743.0" r="637.0" b="1793.0">practice</box>
+          <box l="678.0" t="1740.0" r="727.0" b="1782.0">in</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="858.0" t="1633.0" r="1065.0" b="1683.0">private</box>
+          <box l="978.0" t="1687.0" r="1062.0" b="1737.0">TS,</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1097.0" t="1738.0" r="1188.0" b="1779.0">all</box>
+          <box l="1222.0" t="1746.0" r="1339.0" b="1789.0">ages</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="419.0" t="1797.0" r="473.0" b="1838.0">in</box>
+          <box l="499.0" t="1798.0" r="607.0" b="1839.0">t.S.</box>
+          <box l="382.0" t="1852.0" r="587.0" b="1890.0">EED1CAL</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1373.0" t="1630.0" r="1431.0" b="1671.0">in</box>
+          <box l="1373.0" t="1684.0" r="1431.0" b="1725.0">in</box>
+          <box l="1465.0" t="1681.0" r="1672.0" b="1732.0">private</box>
+          <box l="1372.0" t="1735.0" r="1431.0" b="1776.0">in</box>
+          <box l="1468.0" t="1731.0" r="1551.0" b="1784.0">p/p</box>
+          <box l="1339.0" t="1900.0" r="1542.0" b="1946.0">Report;</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2539.0" t="1784.0" r="2629.0" b="1825.0">184</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="419.0" t="1953.0" r="632.0" b="2007.0">eealing*</box>
+          <box l="386.0" t="2007.0" r="585.0" b="2057.0">Sorting</box>
+          <box l="615.0" t="2006.0" r="672.0" b="2047.0">in</box>
+          <box l="705.0" t="2007.0" r="1006.0" b="2048.0">accordance</box>
+          <box l="1040.0" t="2005.0" r="1155.0" b="2045.0">with</box>
+          <box l="1192.0" t="2005.0" r="1364.0" b="2054.0">postal</box>
+          <box l="1405.0" t="2001.0" r="1730.0" b="2055.0">regulation;;</box>
+          <box l="419.0" t="2061.0" r="580.0" b="2111.0">tying,</box>
+          <box l="615.0" t="2061.0" r="818.0" b="2111.0">bagging</box>
+          <box l="857.0" t="2061.0" r="943.0" b="2100.0">and</box>
+          <box l="977.0" t="2058.0" r="1210.0" b="2110.0">Bailing.</box>
+          <box l="386.0" t="2115.0" r="551.0" b="2156.0">Postal</box>
+          <box l="583.0" t="2112.0" r="785.0" b="2156.0">Service</box>
+          <box l="818.0" t="2113.0" r="1006.0" b="2164.0">Charge</box>
+          <box l="381.0" t="2273.0" r="546.0" b="2311.0">A.M.A,</box>
+          <box l="585.0" t="2274.0" r="672.0" b="2310.0">FEE</box>
+          <box l="385.0" t="2373.0" r="584.0" b="2412.0">POSTAGE</box>
+          <box l="606.0" t="2374.0" r="850.0" b="2411.0">ADVANCED</box>
+          <box l="1009.0" t="2370.0" r="1183.0" b="2412.0">445.44</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2535.0" t="2164.0" r="2632.0" b="2199.0">366</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="385.0" t="2424.0" r="609.0" b="2477.0">Trucking</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2536.0" t="2418.0" r="2631.0" b="2456.0">460</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="85.0" fp="124.0" fn="30.0">
+    <InvoiceNumber tp="0.0" fp="7.0" fn="0.0">
+      <box l="2282.0" t="318.0" r="2805.0" b="364.0">92-754_</box>
+    </InvoiceNumber>
+    <LineItem tp="61.0" fp="116.0" fn="30.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="378.0" t="1489.0" r="723.0" b="1527.0">MAINTENANCE</box>
+          <box l="762.0" t="1489.0" r="879.0" b="1527.0">FEES</box>
+          <box l="920.0" t="1488.0" r="1010.0" b="1525.0">FOR</box>
+          <box l="1045.0" t="1487.0" r="1262.0" b="1524.0">SPECIAL</box>
+          <box l="382.0" t="1614.0" r="535.0" b="1652.0">OWNED</box>
+          <box l="569.0" t="1614.0" r="817.0" b="1653.0">VEHICLES</box>
+          <box l="854.0" t="1615.0" r="978.0" b="1653.0">USED</box>
+          <box l="1016.0" t="1615.0" r="1073.0" b="1653.0">TN</box>
+          <box l="1108.0" t="1615.0" r="1198.0" b="1653.0">THE</box>
+          <box l="382.0" t="1739.0" r="598.0" b="1777.0">PROGRAM</box>
+          <box l="640.0" t="1739.0" r="778.0" b="1778.0">1992:</box>
+          <box l="1015.0" t="1740.0" r="1232.0" b="1778.0">TRACTOR</box>
+          <box l="798.0" t="1865.0" r="852.0" b="1903.0">10</box>
+          <box l="982.0" t="1865.0" r="1136.0" b="1899.0">TIRES</box>
+          <box l="1172.0" t="1865.0" r="1264.0" b="1899.0">PER</box>
+          <box l="982.0" t="1940.0" r="1007.0" b="1965.0">x</box>
+          <box l="1048.0" t="1924.0" r="1261.0" b="1969.0">$400.00</box>
+          <box l="827.0" t="1988.0" r="852.0" b="2027.0">8</box>
+          <box l="982.0" t="1989.0" r="1135.0" b="2025.0">TIRES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="668.0" t="2114.0" r="946.0" b="2157.0">$3,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1300.0" t="1487.0" r="1453.0" b="1524.0">EVENT</box>
+          <box l="1488.0" t="1487.0" r="1824.0" b="1530.0">PRODUCTION,</box>
+          <box l="1870.0" t="1488.0" r="1981.0" b="1525.0">INC.</box>
+          <box l="1237.0" t="1609.0" r="1640.0" b="1658.0">CAMEL/WINSTON</box>
+          <box l="1299.0" t="1863.0" r="1516.0" b="1900.0">TRACTOR</box>
+          <box l="1678.0" t="1613.0" r="1861.0" b="1650.0">RACING</box>
+          <box l="1299.0" t="1925.0" r="1390.0" b="1962.0">PER</box>
+          <box l="1425.0" t="1925.0" r="1549.0" b="1962.0">TIRE</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="2281.0" t="581.0" r="2493.0" b="618.0">October</box>
+      <box l="2539.0" t="578.0" r="2618.0" b="623.0">14,</box>
+      <box l="2665.0" t="578.0" r="2780.0" b="618.0">1992</box>
+    </IssuedDate>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2472.0" t="2424.0" r="2751.0" b="2469.0">$3,200.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

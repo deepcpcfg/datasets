@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "IIF5071-6",
+    "IssuedDate": "12/15/93",
+    "TotalAmount": "10,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "ADVANCE FUNDS FOR BOHDS",
+            "ItemTotal": "$10,000,00'",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

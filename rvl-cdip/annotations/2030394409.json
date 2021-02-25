@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "920905",
+    "IssuedDate": "SEPT 14, 1992",
+    "TotalAmount": "2,500.00",
+    "LineItem": [
+        {
+            "ItemDescription": "WORK IN PROGRESS",
+            "ItemTotal": "$ 7,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS PREVIOUS BILLING",
+            "ItemTotal": "$ 4,580.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

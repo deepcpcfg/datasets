@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR07-01GS72",
+    "TotalAmount": "3,600,00",
+    "LineItem": [
+        {
+            "ItemDescription": "Charges",
+            "ItemTotal": "3,600,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Commissionable Charges",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Agency Commission",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

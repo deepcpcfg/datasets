@@ -1,0 +1,30 @@
+{
+    "InvoiceNumber": "1407",
+    "IssuedDate": "03/11/93",
+    "LineItem": [
+        {
+            "ItemDescription": "CALL HOURS",
+            "ItemUnitCount": "110.00",
+            "ItemUnitValue": "$30.00",
+            "ItemTotal": "$3,300.00"
+        },
+        {
+            "ItemDescription": "ADMINISTRATIVE HOURS",
+            "ItemUnitCount": "11",
+            "ItemUnitValue": "$15",
+            "ItemTotal": "$165.00"
+        },
+        {
+            "ItemDescription": "COMPUTER PROGRAMING",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": ".50",
+            "ItemTotal": "$30.00"
+        },
+        {
+            "ItemDescription": "MAILINGS",
+            "ItemUnitValue": ".05",
+            "ItemTotal": "$5.25"
+        }
+    ],
+    "TotalAmount": "$3,500.25"
+}

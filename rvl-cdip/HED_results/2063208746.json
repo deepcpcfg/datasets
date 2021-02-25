@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "12/20/79",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "AS PER ATTACHED STATEMENT OF ACCOUNT DATED 12/19/79",
+                            {
+                                "tp": 51.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 51.0,
+                        "fp": 0.0,
+                        "fn": 9.0
+                    }
+                ]
+            ],
+            {
+                "tp": 51.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ],
+        "TotalAmount": [
+            "1,936,606",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "C",
+            {
+                "tp": 0.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 59.0,
+        "fp": 10.0,
+        "fn": 9.0
+    }
+]

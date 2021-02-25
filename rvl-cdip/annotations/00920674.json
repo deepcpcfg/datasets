@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1449-2",
+    "IssuedDate": "September 21, 1982",
+    "LineItem": [
+        {
+            "ItemTotal": "1.167.0",
+            "ItemDescription": "Evaluation of Immunosuppression in B6C3F1 Mice with B-107",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

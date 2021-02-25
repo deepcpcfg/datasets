@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "10426452a",
+    "LineItem": [
+        {
+            "ItemDescription": "PROF SERVICES-OVERTIME CHEVALIER, STEPHEM",
+            "ItemTotal": "2.2000",
+            "ItemUnitCount": "1.0000"
+        },
+        {
+            "ItemDescription": "13.50",
+            "ItemUnitCount": "13.5",
+            "ItemTotal": "779?63"
+        }
+    ]
+}

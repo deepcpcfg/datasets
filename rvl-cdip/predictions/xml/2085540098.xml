@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="46.0" fp="135.0" fn="16.0">
+    <IssuedDate tp="15.0" fp="0.0" fn="0.0">
+      <box l="2176.0" t="1159.0" r="2316.0" b="1201.0">August</box>
+      <box l="2330.0" t="1155.0" r="2388.0" b="1193.0">23.</box>
+      <box l="2405.0" t="1155.0" r="2496.0" b="1192.0">2001</box>
+    </IssuedDate>
+    <LineItem tp="22.0" fp="135.0" fn="9.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="387.0" t="1770.0" r="441.0" b="1805.0">5d</box>
+          <box l="450.0" t="1767.0" r="529.0" b="1804.0">5/01</box>
+          <box l="616.0" t="1767.0" r="704.0" b="1805.0">First</box>
+          <box l="717.0" t="1767.0" r="870.0" b="1804.0">Quarter</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2514.0" t="1763.0" r="2712.0" b="1805.0">21,996.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="616.0" t="1826.0" r="766.0" b="1862.0">Second</box>
+          <box l="784.0" t="1826.0" r="934.0" b="1859.0">Quarter</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1721.0" t="1826.0" r="1921.0" b="1863.0">21,996.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2513.0" t="1821.0" r="2712.0" b="1863.0">21,996.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="616.0" t="1884.0" r="716.0" b="1918.0">Third</box>
+          <box l="730.0" t="1884.0" r="884.0" b="1920.0">Quarter</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2513.0" t="1881.0" r="2713.0" b="1921.0">21,996.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="617.0" t="1942.0" r="745.0" b="1979.0">Fourth</box>
+          <box l="759.0" t="1942.0" r="912.0" b="1979.0">Quarter</box>
+          <box l="985.0" t="1942.0" r="1109.0" b="1976.0">22.5%</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2513.0" t="1939.0" r="2651.0" b="1980.0">21,996</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="616.0" t="2005.0" r="720.0" b="2043.0">Upon</box>
+          <box l="738.0" t="2001.0" r="900.0" b="2046.0">Delivery</box>
+          <box l="913.0" t="2001.0" r="954.0" b="2038.0">of</box>
+          <box l="966.0" t="2001.0" r="1113.0" b="2038.0">Second</box>
+          <box l="1130.0" t="2001.0" r="1308.0" b="2044.0">Progress</box>
+          <box l="1326.0" t="2001.0" r="1460.0" b="2042.0">Report</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2542.0" t="1996.0" r="2713.0" b="2038.0">9,776.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="1726.0" t="2413.0" r="1925.0" b="2451.0">21,996.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

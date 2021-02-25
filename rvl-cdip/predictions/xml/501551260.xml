@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="83.0" fp="27.0" fn="17.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2829.0" t="734.0" r="2974.0" b="779.0">2099</box>
+    </InvoiceNumber>
+    <IssuedDate tp="13.0" fp="1.0" fn="0.0">
+      <box l="2550.0" t="884.0" r="2692.0" b="933.0">Aug.</box>
+      <box l="2753.0" t="880.0" r="2850.0" b="930.0">29,</box>
+      <box l="2909.0" t="879.0" r="3088.0" b="926.0">1969.</box>
+    </IssuedDate>
+    <LineItem tp="58.0" fp="25.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="558.0" t="1621.0" r="824.0" b="1676.0">Project</box>
+          <box l="871.0" t="1621.0" r="975.0" b="1666.0">208</box>
+          <box l="1100.0" t="1621.0" r="1367.0" b="1676.0">Topical</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2280.0" t="1621.0" r="2625.0" b="1675.0">$1,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="559.0" t="1766.0" r="824.0" b="1821.0">Project</box>
+          <box l="872.0" t="1767.0" r="975.0" b="1811.0">209</box>
+          <box l="1104.0" t="1763.0" r="1567.0" b="1809.0">Subcutaneous</box>
+          <box l="558.0" t="1909.0" r="1087.0" b="1956.0">Disbursements:</box>
+          <box l="675.0" t="2055.0" r="1017.0" b="2109.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2400.0" t="1767.0" r="2625.0" b="1813.0">700.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2283.0" t="2197.0" r="2628.0" b="2251.0">$1,903.55</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

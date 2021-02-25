@@ -1,0 +1,108 @@
+[
+    {
+        "IssuedDate": [
+            "July 5, 1983",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            ".$19,875.00",
+            {
+                "tp": 9.0,
+                "fp": 2.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$6,625.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Teratogenic and Perinatal/ Postnatal Study 1n the Rat",
+                            {
+                                "tp": 52.0,
+                                "fp": 1.0,
+                                "fn": 21.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 61.0,
+                        "fp": 1.0,
+                        "fn": 21.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            ".$26,500.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 11.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "with D-16 and B-112 Award",
+                            {
+                                "tp": 0.0,
+                                "fp": 25.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 36.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 61.0,
+                "fp": 37.0,
+                "fn": 21.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1532-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 88.0,
+        "fp": 39.0,
+        "fn": 21.0
+    }
+]

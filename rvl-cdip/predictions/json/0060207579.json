@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "September 1, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "12 poster panels",
+            "ItemUnitCount": "U1",
+            "ItemTotal": "$5736.00"
+        },
+        {
+            "ItemDescription": "attached",
+            "ItemTotal": "-956.19"
+        }
+    ],
+    "TotalAmount": "$4779.81"
+}

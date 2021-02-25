@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "255-1713",
+    "IssuedDate": "08/23/98",
+    "LineItem": [
+        {
+            "ItemDescription": "WINSTON BOX S1/2PKS",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "293.4000",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "WINSTON LT BOX S1/2PKS",
+            "ItemUnitCount": "25",
+            "ItemUnitValue": "283.4000",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "WINSTON UL LT EX S1/2PKS",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "263.4000",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTABLE GROSS",
+            "ItemTotal": "14,863.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STD TERMS DISCOUNT OF 3.25%",
+            "ItemTotal": "496.31-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "14,477.08",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT TERMS DISCOUNT OF .50%",
+            "ItemTotal": "72.38-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

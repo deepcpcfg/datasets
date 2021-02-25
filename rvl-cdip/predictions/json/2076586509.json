@@ -1,0 +1,12 @@
+{
+    "InvoiceNumber": "9701009166",
+    "IssuedDate": "4/4/97",
+    "LineItem": [
+        {
+            "ItemDescription": "11 dA AAVflK? PAYKEWl",
+            "ItemUnitCount": "69",
+            "ItemUnitValue": "142.46",
+            "ItemTotal": "52,929.79"
+        }
+    ]
+}

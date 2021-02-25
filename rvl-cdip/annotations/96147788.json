@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "03/16/93",
+    "TotalAmount": "657.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$432.00",
+            "ItemUnitValue": "4.00",
+            "ItemUnitCount": "108",
+            "ItemDescription": "NUMBER OF 50(1 + 36 + 36 -r 36 = "
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "3.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "VM.I/E ROWS 300-499 0 0 + 0 "
+        },
+        {
+            "ItemTotal": "$150.00",
+            "ItemUnitValue": "50.00",
+            "ItemUnitCount": "3",
+            "ItemDescription": "NUMBER OF 9T0RE3 MODULAR A"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "60.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "NUMBER OF STORES MODULAR 0"
+        },
+        {
+            "ItemTotal": "$75.00",
+            "ItemUnitValue": "25.00",
+            "ItemUnitCount": "3",
+            "ItemDescription": "NUMBER OFPACKAGE/CARTON FLOOR DISPLAYS ”” - - - - 1 1 + 1 + 1 ="
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="984.0" t="2114.0" r="1201.0" b="2155.0">California</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber>
+      <box l="2347.0" t="755.0" r="2689.0" b="883.0">0^9</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="1946.0" t="996.0" r="2129.0" b="1037.0">APRIL</box>
+      <box l="2151.0" t="999.0" r="2229.0" b="1046.0">28,</box>
+      <box l="2262.0" t="999.0" r="2371.0" b="1041.0">1980</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

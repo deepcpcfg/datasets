@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "M501535",
+    "IssuedDate": "08/17/90",
+    "TotalAmount": "47,500.00",
+    "LineItem": [
+        {
+            "ItemDescription": "SUPERSLIMS WEEK 35 TRACKING",
+            "ItemTotal": "$ 47,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+[
+    {
+        "IssuedDate": [
+            "August 9, 1904",
+            {
+                "tp": 12.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "$26,649.71",
+            {
+                "tp": 8.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$20,275.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SEFVICES: Editorial, Creative Direction, Art Direction, Production Art and Project Management through presentation on 7/26/64.",
+                            {
+                                "tp": 125.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 135.0,
+                        "fp": 1.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,637.34",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SERVICE FELMBD EXPEJ Type, Stats, Ribdown, EXPEDITING (at OOfft) Art Supplies",
+                            {
+                                "tp": 48.0,
+                                "fp": 29.0,
+                                "fn": 13.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 56.0,
+                        "fp": 29.0,
+                        "fn": 13.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "66.37",
+                            {
+                                "tp": 1.0,
+                                "fp": 4.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PHONE (at cost)",
+                            {
+                                "tp": 12.0,
+                                "fp": 3.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 13.0,
+                        "fp": 7.0,
+                        "fn": 12.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "2,645.00",
+                            {
+                                "tp": 2.0,
+                                "fp": 6.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "TRAVEI/PER DUH (at OOSt)",
+                            {
+                                "tp": 9.0,
+                                "fp": 15.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 11.0,
+                        "fp": 21.0,
+                        "fn": 9.0
+                    }
+                ]
+            ],
+            {
+                "tp": 215.0,
+                "fp": 58.0,
+                "fn": 35.0
+            }
+        ],
+        "InvoiceNumber": [
+            "0324",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 239.0,
+        "fp": 62.0,
+        "fn": 41.0
+    }
+]

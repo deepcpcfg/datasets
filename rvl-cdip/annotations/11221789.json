@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "17,589.03",
+    "LineItem": [
+        {
+            "ItemTotal": "15,628.03",
+            "ItemDescription": "This Voucher represents reasonable   Costs  from  27 March 1571 thru 23 April 1971",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,961.00",
+            "ItemDescription": "Fixed Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

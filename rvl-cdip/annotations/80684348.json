@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "6th September, 1971",
+    "TotalAmount": "301.85",
+    "LineItem": [
+        {
+            "ItemDescription": "supplying 2'4 full portions of meat at an additional fee of £1,00",
+            "ItemTotal": "£252.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "supplying",
+            "ItemTotal": "£12.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "supplying",
+            "ItemTotal": "£17.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "supplying",
+            "ItemTotal": "£8.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "supplying and serving supper and drinks to coach driver",
+            "ItemTotal": "£1.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "supplying pre-dinner drinks, minerals, etc",
+            "ItemTotal": "£18.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

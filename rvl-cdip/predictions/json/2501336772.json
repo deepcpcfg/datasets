@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "23th April, 1989",
+    "InvoiceNumber": "5046",
+    "LineItem": [
+        {
+            "ItemDescription": "TO reporting and advising on a further official action, preparing new main claim and arguments and reporting the filing of an amendment.",
+            "ItemTotal": "£225.00"
+        },
+        {
+            "ItemDescription": "payment of Associates charges.....",
+            "ItemTotal": "£227.40"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "1",
+    "IssuedDate": "March 22,1996",
+    "LineItem": [
+        {
+            "ItemDescription": "Support of NYACS",
+            "ItemTotal": "520,000.00"
+        }
+    ],
+    "TotalAmount": "S20.000.00"
+}

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "M 1 4 4 9 6",
+    "IssuedDate": "July 21.1994",
+    "LineItem": [
+        {
+            "ItemUnitCount": "5,000",
+            "ItemTotal": "$9,4 97.00",
+            "ItemDescription": "PRIVATE STOCK Spanish Package Display Cards, 13-1 i 2\" x 9-1J2\" MATERIAL CODE; COA-03000-PS-SP",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "3,000",
+            "ItemDescription": "PRIME Spanish Package Display Cards, 13-1/2“ x 9-1/2\" MATERIAL CODE: CDA-03000-PE-SP",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "2,000",
+            "ItemDescription": "SUMMIT Spanish Package Display Cards, 13-1/2\" x 9-1/2“ MATERIAL CODE: CDA-O30OO-SUM-SP j Materials arc printed four color process plus two additional PMS colors plus varnish on .024 pt. SBS (Starcotc), die cut, rubber banded in 100's, packed 500 per carton. Confirmation of verbal order to Mr* Michael Workstel. PLEASE DO NOT DUPLICATE. Please return artwork and mecfranrcals along with 30 production run samples of each item to Mr. C. J. Curt for approval prior to any shipment being made*",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

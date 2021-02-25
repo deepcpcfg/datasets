@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="542.0" fp="5.0" fn="2.0">
+    <IssuedDate tp="6.0" fp="0.0" fn="0.0">
+      <box l="2282.0" t="507.0" r="2427.0" b="549.0">6/3/99</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2624.0" t="510.0" r="2824.0" b="552.0">MSA002</box>
+    </InvoiceNumber>
+    <LineItem tp="530.0" fp="5.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="191.0" t="2054.0" r="295.0" b="2098.0">4/22</box>
+          <box l="421.0" t="2052.0" r="662.0" b="2109.0">Reviewing</box>
+          <box l="679.0" t="2055.0" r="812.0" b="2105.0">email,</box>
+          <box l="829.0" t="2053.0" r="1204.0" b="2109.0">correspondence,</box>
+          <box l="1225.0" t="2053.0" r="1499.0" b="2099.0">consultation</box>
+          <box l="1534.0" t="2052.0" r="1595.0" b="2094.0">1.5</box>
+          <box l="1616.0" t="2052.0" r="1695.0" b="2094.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2684.0" t="2047.0" r="2837.0" b="2090.0">262.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="192.0" t="2192.0" r="294.0" b="2236.0">5/20</box>
+          <box l="409.0" t="2193.0" r="649.0" b="2243.0">Reviewing</box>
+          <box l="667.0" t="2192.0" r="796.0" b="2242.0">email,</box>
+          <box l="817.0" t="2191.0" r="1192.0" b="2246.0">correspondence,</box>
+          <box l="1210.0" t="2191.0" r="1484.0" b="2233.0">consultation</box>
+          <box l="1521.0" t="2190.0" r="1579.0" b="2232.0">1.5</box>
+          <box l="1600.0" t="2190.0" r="1680.0" b="2232.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2684.0" t="2185.0" r="2838.0" b="2228.0">262.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="189.0" t="2538.0" r="292.0" b="2578.0">4/14</box>
+          <box l="405.0" t="2536.0" r="651.0" b="2589.0">Processing</box>
+          <box l="669.0" t="2536.0" r="735.0" b="2576.0">fee</box>
+          <box l="752.0" t="2535.0" r="893.0" b="2576.0">award</box>
+          <box l="911.0" t="2534.0" r="1182.0" b="2588.0">applications</box>
+          <box l="1219.0" t="2536.0" r="1231.0" b="2579.0">1</box>
+          <box l="1256.0" t="2534.0" r="1335.0" b="2578.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2691.0" t="2527.0" r="2840.0" b="2569.0">150.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="190.0" t="2674.0" r="293.0" b="2716.0">4/15</box>
+          <box l="406.0" t="2673.0" r="652.0" b="2726.0">Processing</box>
+          <box l="670.0" t="2672.0" r="735.0" b="2715.0">fee</box>
+          <box l="752.0" t="2672.0" r="890.0" b="2714.0">award</box>
+          <box l="911.0" t="2671.0" r="1182.0" b="2725.0">applications</box>
+          <box l="1215.0" t="2671.0" r="1236.0" b="2714.0">5</box>
+          <box l="1256.0" t="2670.0" r="1335.0" b="2713.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2687.0" t="2660.0" r="2840.0" b="2705.0">750.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="190.0" t="2811.0" r="293.0" b="2853.0">4/16</box>
+          <box l="406.0" t="2811.0" r="652.0" b="2864.0">Processing</box>
+          <box l="670.0" t="2807.0" r="736.0" b="2851.0">fee</box>
+          <box l="752.0" t="2810.0" r="890.0" b="2851.0">award</box>
+          <box l="907.0" t="2808.0" r="1182.0" b="2863.0">applications</box>
+          <box l="1215.0" t="2809.0" r="1281.0" b="2849.0">4.5</box>
+          <box l="1300.0" t="2808.0" r="1377.0" b="2849.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2687.0" t="2796.0" r="2840.0" b="2840.0">675.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="191.0" t="2948.0" r="294.0" b="2991.0">4/19</box>
+          <box l="406.0" t="2948.0" r="652.0" b="3001.0">Processing</box>
+          <box l="671.0" t="2946.0" r="736.0" b="2989.0">fee</box>
+          <box l="753.0" t="2947.0" r="891.0" b="2989.0">award</box>
+          <box l="907.0" t="2946.0" r="1182.0" b="3000.0">applications</box>
+          <box l="1216.0" t="2947.0" r="1237.0" b="2987.0">2</box>
+          <box l="1257.0" t="2946.0" r="1333.0" b="2987.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2687.0" t="2932.0" r="2841.0" b="2977.0">300.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="188.0" t="3087.0" r="294.0" b="3128.0">4/20</box>
+          <box l="404.0" t="3087.0" r="623.0" b="3140.0">Response</box>
+          <box l="641.0" t="3094.0" r="684.0" b="3126.0">to</box>
+          <box l="704.0" t="3085.0" r="907.0" b="3139.0">inquiries,</box>
+          <box l="929.0" t="3084.0" r="1063.0" b="3134.0">email,</box>
+          <box l="1083.0" t="3083.0" r="1437.0" b="3138.0">correspondence</box>
+          <box l="1471.0" t="3084.0" r="1492.0" b="3123.0">2</box>
+          <box l="1513.0" t="3083.0" r="1591.0" b="3124.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2688.0" t="3069.0" r="2841.0" b="3112.0">300.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="191.0" t="3225.0" r="294.0" b="3267.0">4/27</box>
+          <box l="404.0" t="3224.0" r="624.0" b="3277.0">Response</box>
+          <box l="642.0" t="3232.0" r="684.0" b="3268.0">to</box>
+          <box l="704.0" t="3222.0" r="908.0" b="3277.0">inquiries,</box>
+          <box l="929.0" t="3222.0" r="1124.0" b="3276.0">planning</box>
+          <box l="1142.0" t="3221.0" r="1220.0" b="3266.0">and</box>
+          <box l="1238.0" t="3220.0" r="1583.0" b="3274.0">implementation</box>
+          <box l="1613.0" t="3220.0" r="1641.0" b="3262.0">2</box>
+          <box l="1659.0" t="3219.0" r="1738.0" b="3262.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2688.0" t="3206.0" r="2842.0" b="3250.0">300.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="189.0" t="3365.0" r="296.0" b="3408.0">4/30</box>
+          <box l="405.0" t="3364.0" r="529.0" b="3414.0">Calls,</box>
+          <box l="550.0" t="3364.0" r="925.0" b="3418.0">correspondence,</box>
+          <box l="943.0" t="3360.0" r="1139.0" b="3417.0">planning</box>
+          <box l="1155.0" t="3361.0" r="1234.0" b="3404.0">and</box>
+          <box l="1255.0" t="3361.0" r="1599.0" b="3416.0">implementation</box>
+          <box l="1638.0" t="3360.0" r="1697.0" b="3402.0">L5</box>
+          <box l="1721.0" t="3357.0" r="1800.0" b="3402.0">hrs.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2689.0" t="3344.0" r="2843.0" b="3386.0">225.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

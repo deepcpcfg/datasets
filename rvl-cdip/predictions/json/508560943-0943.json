@@ -1,0 +1,10 @@
+{
+    "IssuedDate": "September 30, 1988",
+    "InvoiceNumber": "14507-0",
+    "LineItem": [
+        {
+            "ItemDescription": "POSTAGE: 3466 MAILED X $.65 each",
+            "ItemTotal": "$2,252.90"
+        }
+    ]
+}

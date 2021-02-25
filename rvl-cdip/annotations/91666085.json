@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1040136 ",
+    "IssuedDate": "MAY 18.1992",
+    "TotalAmount": "14,823.00",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE MAY 25*1992 JET 9 COLOR ORDER HUMBER LN7975 BLEED HENPORT",
+            "ItemTotal": "16.140.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemTotal": "2,421.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

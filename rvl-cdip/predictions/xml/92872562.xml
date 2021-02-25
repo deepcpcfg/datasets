@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="419.0" fp="79.0" fn="83.0">
+    <InvoiceNumber tp="4.0" fp="1.0" fn="1.0">
+      <box l="2634.0" t="745.0" r="2813.0" b="798.0">7202U</box>
+    </InvoiceNumber>
+    <IssuedDate tp="3.0" fp="3.0" fn="5.0">
+      <box l="2833.0" t="327.0" r="2865.0" b="391.0">7</box>
+      <box l="2887.0" t="335.0" r="3005.0" b="407.0">2002</box>
+    </IssuedDate>
+    <LineItem tp="412.0" fp="75.0" fn="71.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="556.0" t="1413.0" r="646.0" b="1451.0">4.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1000.0" t="1413.0" r="1416.0" b="1463.0">T‘DUPLICrtTE(S)-1</box>
+          <box l="1433.0" t="1415.0" r="1574.0" b="1454.0">SPOT*</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2274.0" t="1419.0" r="2382.0" b="1457.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2820.0" t="1422.0" r="2937.0" b="1463.0">58.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="557.0" t="1531.0" r="646.0" b="1568.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1001.0" t="1532.0" r="1358.0" b="1584.0">r'DUPLlCATE(S)</box>
+          <box l="1372.0" t="1534.0" r="1416.0" b="1573.0">-1</box>
+          <box l="1433.0" t="1534.0" r="1558.0" b="1575.0">SPOT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2271.0" t="1537.0" r="2383.0" b="1575.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2821.0" t="1539.0" r="2939.0" b="1580.0">29,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="555.0" t="1650.0" r="647.0" b="1689.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1002.0" t="1653.0" r="1111.0" b="1691.0">10:00</box>
+          <box l="1127.0" t="1653.0" r="1344.0" b="1692.0">BETACAM</box>
+          <box l="1352.0" t="1655.0" r="1409.0" b="1692.0">SP</box>
+          <box l="1423.0" t="1653.0" r="1721.0" b="1702.0">CASSETTES)</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2268.0" t="1656.0" r="2382.0" b="1695.0">50.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2798.0" t="1660.0" r="2939.0" b="1697.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="557.0" t="1818.0" r="645.0" b="1856.0">4.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="995.0" t="1765.0" r="1224.0" b="1804.0">Z8JE-t309</box>
+          <box l="1244.0" t="1767.0" r="1300.0" b="1803.0">:30</box>
+          <box l="999.0" t="1820.0" r="1413.0" b="1873.0">1“DUPLICA1E(S)-1</box>
+          <box l="1433.0" t="1823.0" r="1574.0" b="1861.0">SPOT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2270.0" t="1824.0" r="2382.0" b="1863.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2820.0" t="1826.0" r="2937.0" b="1865.0">58.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="555.0" t="1938.0" r="642.0" b="1976.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1000.0" t="1940.0" r="1413.0" b="1989.0">1"DUPLfCATE(3)-1</box>
+          <box l="1433.0" t="1941.0" r="1558.0" b="1980.0">SPOT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2272.0" t="1944.0" r="2380.0" b="1979.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2821.0" t="1947.0" r="2934.0" b="1985.0">29.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="555.0" t="2056.0" r="643.0" b="2093.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="998.0" t="2056.0" r="1110.0" b="2095.0">10:00</box>
+          <box l="1123.0" t="2057.0" r="1339.0" b="2098.0">BETACAM</box>
+          <box l="1348.0" t="2059.0" r="1409.0" b="2097.0">SP</box>
+          <box l="1423.0" t="2056.0" r="1719.0" b="2106.0">CASSETTE(S)</box>
+          <box l="994.0" t="2171.0" r="1299.0" b="2211.0">ZBJE-1322:30</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2264.0" t="2061.0" r="2381.0" b="2099.0">50.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2799.0" t="2064.0" r="2935.0" b="2103.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="553.0" t="2226.0" r="644.0" b="2264.0">4.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1000.0" t="2227.0" r="1412.0" b="2277.0">1MDUPLfCATE(S]-1</box>
+          <box l="1433.0" t="2229.0" r="1575.0" b="2268.0">SPOT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2271.0" t="2228.0" r="2382.0" b="2267.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2816.0" t="2232.0" r="2936.0" b="2268.0">58.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="554.0" t="2346.0" r="643.0" b="2381.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1001.0" t="2347.0" r="1038.0" b="2385.0">t“</box>
+          <box l="1046.0" t="2347.0" r="1355.0" b="2395.0">DUPLICATE'S)</box>
+          <box l="1368.0" t="2351.0" r="1413.0" b="2384.0">-1</box>
+          <box l="1430.0" t="2348.0" r="1559.0" b="2384.0">SPOT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2272.0" t="2348.0" r="2380.0" b="2384.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2817.0" t="2352.0" r="2934.0" b="2388.0">29.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="556.0" t="2460.0" r="643.0" b="2501.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="997.0" t="2462.0" r="1110.0" b="2502.0">10:00</box>
+          <box l="1122.0" t="2462.0" r="1406.0" b="2503.0">BGTACAMSP</box>
+          <box l="1419.0" t="2462.0" r="1718.0" b="2510.0">CASSETTES</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2264.0" t="2465.0" r="2381.0" b="2503.0">50.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2798.0" t="2468.0" r="2935.0" b="2507.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="553.0" t="2635.0" r="644.0" b="2672.0">4.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="991.0" t="2579.0" r="1224.0" b="2620.0">ZBJE-1358</box>
+          <box l="1241.0" t="2581.0" r="1299.0" b="2620.0">:30</box>
+          <box l="995.0" t="2636.0" r="1574.0" b="2686.0">VDUPLICATEfSblSPOr</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2270.0" t="2638.0" r="2379.0" b="2676.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2816.0" t="2641.0" r="2933.0" b="2678.0">58.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="555.0" t="2752.0" r="642.0" b="2789.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="997.0" t="2753.0" r="1356.0" b="2803.0">1"DUPLICATE(SJ</box>
+          <box l="1371.0" t="2756.0" r="1410.0" b="2793.0">-1</box>
+          <box l="1431.0" t="2754.0" r="1556.0" b="2793.0">SPOT</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2271.0" t="2753.0" r="2380.0" b="2794.0">14.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2818.0" t="2756.0" r="2935.0" b="2798.0">29.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="552.0" t="2868.0" r="643.0" b="2906.0">2.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="998.0" t="2872.0" r="1107.0" b="2908.0">10:00</box>
+          <box l="1123.0" t="2872.0" r="1340.0" b="2908.0">BETACAM</box>
+          <box l="1348.0" t="2871.0" r="1717.0" b="2919.0">SPCASSETIE(S)</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="553.0" t="2981.0" r="644.0" b="3018.0">4.00</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1473.0" t="2984.0" r="1558.0" b="3021.0">3RD</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

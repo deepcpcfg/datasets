@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "4/22/82",
+    "TotalAmount": "286.40",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemTotal": "296.40",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "first 10.00 free of ch arge",
+            "ItemTotal": "- 10.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,85 @@
+{
+    "IssuedDate": "16 April 1970",
+    "TotalAmount": "11,481.15",
+    "LineItem": [
+        {
+            "ItemTotal": "$288,66",
+            "ItemDescription": "Animals",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "401.85",
+            "ItemDescription": "Laboratory supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "Food and Bedding",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "865.18",
+            "ItemDescription": "Project Manager(H. RosenkrantzPh.D.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,161.74",
+            "ItemDescription": "Analytical Chemist (M. Hagopian, Ph.D.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "446 J4",
+            "ItemDescription": "Pathologist (J. Baker)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,796.19",
+            "ItemDescription": "Laboratory Technicians",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "114.00",
+            "ItemDescription": "Animal Care Technicians",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.34",
+            "ItemDescription": "Clerk-Data Processing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Overhead (100% of (2) above)",
+            "ItemTotal": "4,385.59",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9,491.69",
+            "ItemDescription": "Total (1) (2) and (3) above",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,139.00",
+            "ItemDescription": "GAA (12% of (4) above)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee (8%)",
+            "ItemTotal": "850.46",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

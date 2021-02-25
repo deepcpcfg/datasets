@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "001526",
+    "IssuedDate": "06/3D/93",
+    "TotalAmount": "10380",
+    "LineItem": [
+        {
+            "ItemDescription": "CALL HOURS",
+            "ItemUnitCount": "13.00",
+            "ItemUnitValue": "30.00",
+            "ItemTotal": "390.00"
+        },
+        {
+            "ItemDescription": "DATA PROCESSING",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "15.00",
+            "ItemUnitValue": "15."
+        },
+        {
+            "ItemDescription": "MIS SET-UP",
+            "ItemUnitCount": "0.50",
+            "ItemUnitValue": "20.00",
+            "ItemTotal": "10.00"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="38.0" fp="54.0" fn="13.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2455.0" t="663.0" r="2655.0" b="735.0">1616</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2315.0" t="792.0" r="2548.0" b="842.0">11/29/88</box>
+    </IssuedDate>
+    <LineItem tp="20.0" fp="53.0" fn="13.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="670.0" t="1200.0" r="870.0" b="1253.0">product</box>
+          <box l="962.0" t="1201.0" r="1246.0" b="1246.0">Montclair.</box>
+          <box l="1312.0" t="1203.0" r="1487.0" b="1246.0">Tested</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1550.0" t="1141.0" r="1633.0" b="1182.0">for</box>
+          <box l="1671.0" t="1152.0" r="1691.0" b="1181.0">a</box>
+          <box l="1725.0" t="1151.0" r="1812.0" b="1185.0">new</box>
+          <box l="1846.0" t="1142.0" r="2107.0" b="1195.0">cigarette</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="668.0" t="1262.0" r="870.0" b="1304.0">smokers</box>
+          <box l="905.0" t="1261.0" r="991.0" b="1303.0">via</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2260.0" t="1432.0" r="2462.0" b="1482.0">$16,500</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1436.0" t="1490.0" r="1756.0" b="1544.0">Photography</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2615.0" t="1605.0" r="2818.0" b="1658.0">$17,800</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

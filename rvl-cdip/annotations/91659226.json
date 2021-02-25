@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1025620",
+    "IssuedDate": "MAY 14,1984",
+    "LineItem": [
+        {
+            "ItemTotal": "11,048.00",
+            "ItemDescription": "1 PAGE MAY 21.19B4 JET 4 COLOR ORDER NUMBER 0 BLEED",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemTotal": "1,657.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

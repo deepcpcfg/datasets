@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="196.0" fp="8.0" fn="8.0">
+    <IssuedDate tp="15.0" fp="1.0" fn="1.0">
+      <box l="2003.0" t="1257.0" r="2134.0" b="1299.0">23th</box>
+      <box l="2172.0" t="1262.0" r="2368.0" b="1308.0">April,</box>
+      <box l="2418.0" t="1260.0" r="2547.0" b="1301.0">1989</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2176.0" t="1375.0" r="2305.0" b="1416.0">5046</box>
+    </InvoiceNumber>
+    <LineItem tp="177.0" fp="7.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="455.0" t="1779.0" r="521.0" b="1813.0">TO</box>
+          <box l="559.0" t="1776.0" r="861.0" b="1823.0">reporting</box>
+          <box l="903.0" t="1774.0" r="999.0" b="1812.0">and</box>
+          <box l="1037.0" t="1775.0" r="1310.0" b="1822.0">advising</box>
+          <box l="1349.0" t="1785.0" r="1415.0" b="1811.0">on</box>
+          <box l="1453.0" t="1786.0" r="1481.0" b="1811.0">a</box>
+          <box l="1524.0" t="1774.0" r="1753.0" b="1813.0">further</box>
+          <box l="558.0" t="1831.0" r="825.0" b="1871.0">official</box>
+          <box l="867.0" t="1832.0" r="1094.0" b="1875.0">action,</box>
+          <box l="1141.0" t="1831.0" r="1448.0" b="1879.0">preparing</box>
+          <box l="1486.0" t="1837.0" r="1586.0" b="1870.0">new</box>
+          <box l="1620.0" t="1829.0" r="1756.0" b="1867.0">main</box>
+          <box l="1798.0" t="1830.0" r="1965.0" b="1869.0">claim</box>
+          <box l="561.0" t="1889.0" r="657.0" b="1926.0">and</box>
+          <box l="696.0" t="1891.0" r="998.0" b="1935.0">arguments</box>
+          <box l="1040.0" t="1887.0" r="1139.0" b="1925.0">and</box>
+          <box l="1177.0" t="1887.0" r="1481.0" b="1935.0">reporting</box>
+          <box l="1523.0" t="1887.0" r="1619.0" b="1924.0">the</box>
+          <box l="1661.0" t="1888.0" r="1861.0" b="1934.0">filing</box>
+          <box l="1898.0" t="1885.0" r="1961.0" b="1924.0">of</box>
+          <box l="561.0" t="1955.0" r="624.0" b="1982.0">an</box>
+          <box l="661.0" t="1942.0" r="1472.0" b="1982.0">amendment.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2385.0" t="1943.0" r="2617.0" b="1981.0">£225.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="560.0" t="2057.0" r="794.0" b="2105.0">payment</box>
+          <box l="831.0" t="2056.0" r="898.0" b="2094.0">of</box>
+          <box l="935.0" t="2054.0" r="1271.0" b="2095.0">Associates</box>
+          <box l="1314.0" t="2055.0" r="1954.0" b="2102.0">charges.....</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2384.0" t="2056.0" r="2616.0" b="2095.0">£227.40</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="17.0" fn="38.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="877.0" t="1725.0" r="1006.0" b="1762.0">14th</box>
+      <box l="1047.0" t="1725.0" r="1143.0" b="1766.0">May</box>
+      <box l="1189.0" t="1722.0" r="1314.0" b="1762.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="59.0" fp="13.0" fn="35.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="876.0" t="2250.0" r="1076.0" b="2296.0">TOTAL?</box>
+          <box l="880.0" t="2363.0" r="1281.0" b="2404.0">Professional</box>
+          <box l="1331.0" t="2367.0" r="1456.0" b="2403.0">Fees</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2092.0" t="2363.0" r="2430.0" b="2408.0">£11,550.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="880.0" t="2425.0" r="1143.0" b="2467.0">Expenses</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2092.0" t="2480.0" r="2429.0" b="2525.0">£22,529.44</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="876.0" t="2537.0" r="1076.0" b="2575.0">Office</box>
+          <box l="1118.0" t="2542.0" r="1285.0" b="2575.0">Costs</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2163.0" t="2538.0" r="2430.0" b="2581.0">3,216.19</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="4.0" fn="3.0">
+      <box l="2134.0" t="2826.0" r="2463.0" b="2870.0">110,731.32</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

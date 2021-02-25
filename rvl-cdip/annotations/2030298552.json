@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "5/21/91",
+    "InvoiceNumber": "0476",
+    "TotalAmount": "1105.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Examination and Load Test for Certification of Crane S/tf 79694 on April 15; 1991",
+            "ItemTotal": "$ 250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Furnish & deliver test weights for Load Test (2) Trucks",
+            "ItemTotal": "445.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Examination and Load Test of spreader beam",
+            "ItemTotal": "200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "1 only Rigger 5 Hr. <3 $42.00 per Hr",
+            "ItemTotal": "210.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

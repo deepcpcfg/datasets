@@ -1,0 +1,63 @@
+{
+    "IssuedDate": "02-Aug-93",
+    "LineItem": [
+        {
+            "ItemDescription": "SCHEDULE SCHEDULE SCHEDULE"
+        },
+        {
+            "ItemDescription": "C D",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "$7.50",
+            "ItemTotal": "$90.00"
+        },
+        {
+            "ItemDescription": "OVER 2,000",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "535,00",
+            "ItemTotal": "$420.00"
+        },
+        {
+            "ItemDescription": "1,000-2,000",
+            "ItemUnitValue": "$19.50"
+        },
+        {
+            "ItemDescription": "OVER 2.000",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "$10.00"
+        },
+        {
+            "ItemDescription": "1,000-2,000",
+            "ItemUnitValue": "S7.50"
+        },
+        {
+            "ItemDescription": "SCHEDULE F",
+            "ItemUnitValue": "$1500"
+        },
+        {
+            "ItemDescription": "SCHEDULE H",
+            "ItemUnitValue": "$20.00"
+        },
+        {
+            "ItemDescription": "SCHEDULE",
+            "ItemUnitValue": "$22.50"
+        },
+        {
+            "ItemDescription": "SELF-SERVICE",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "525.00",
+            "ItemTotal": "$75.00"
+        },
+        {
+            "ItemDescription": "NON SFJT SERVICE",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "$15.00",
+            "ItemTotal": "$90.00"
+        },
+        {
+            "ItemDescription": "SPECIAL A",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$15.00",
+            "ItemTotal": "$45.00"
+        }
+    ]
+}

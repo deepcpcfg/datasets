@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="176.0" fp="11.0" fn="25.0">
+    <LineItem tp="170.0" fp="10.0" fn="16.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="438.0" t="1197.0" r="496.0" b="1236.0">20</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1409.0" t="1194.0" r="1513.0" b="1236.0">{JLb</box>
+          <box l="1559.0" t="1178.0" r="1876.0" b="1235.0">FJ.'Er'fILT</box>
+          <box l="1917.0" t="1196.0" r="2021.0" b="1234.0">PPR</box>
+          <box l="2064.0" t="1193.0" r="2238.0" b="1235.0">4.7CM</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2468.0" t="1191.0" r="2634.0" b="1232.0">16.49</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2756.0" t="1192.0" r="2963.0" b="1233.0">329.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1413.0" t="1257.0" r="1622.0" b="1295.0">SPIGOT</box>
+          <box l="1663.0" t="1254.0" r="1842.0" b="1299.0">QUICK</box>
+          <box l="1884.0" t="1254.0" r="2092.0" b="1296.0">ACTION</box>
+          <box l="2138.0" t="1251.0" r="2313.0" b="1300.0">PP/TF</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2505.0" t="1252.0" r="2634.0" b="1294.0">7.38</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2792.0" t="1251.0" r="2963.0" b="1292.0">44.28</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="474.0" t="1322.0" r="495.0" b="1361.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1413.0" t="1319.0" r="1659.0" b="1360.0">MERCURY</box>
+          <box l="1705.0" t="1319.0" r="1874.0" b="1359.0">SPILL</box>
+          <box l="1917.0" t="1317.0" r="2204.0" b="1359.0">CLEAN-UP</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2430.0" t="1316.0" r="2634.0" b="1356.0">215.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2755.0" t="1314.0" r="2963.0" b="1357.0">215.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1413.0" t="1378.0" r="1587.0" b="1419.0">PIPET</box>
+          <box l="1633.0" t="1378.0" r="1768.0" b="1419.0">10ML</box>
+          <box l="1813.0" t="1379.0" r="1949.0" b="1417.0">SERO</box>
+          <box l="1991.0" t="1379.0" r="2239.0" b="1418.0">WIDETIP</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2467.0" t="1377.0" r="2633.0" b="1416.0">84.11</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2759.0" t="1375.0" r="2962.0" b="1417.0">168.22</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="470.0" t="1441.0" r="495.0" b="1482.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1412.0" t="1441.0" r="1512.0" b="1482.0">EPP</box>
+          <box l="1558.0" t="1441.0" r="1766.0" b="1482.0">PIPETE</box>
+          <box l="1812.0" t="1438.0" r="2020.0" b="1479.0">4810UM</box>
+          <box l="2067.0" t="1439.0" r="2306.0" b="1481.0">100UL-1</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2430.0" t="1437.0" r="2634.0" b="1478.0">247.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2755.0" t="1438.0" r="2962.0" b="1479.0">494.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="1.0">
+      <box l="2720.0" t="1683.0" r="2961.0" b="1722.0">1251-30</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

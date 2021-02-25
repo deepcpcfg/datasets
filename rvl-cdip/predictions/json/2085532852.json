@@ -1,0 +1,48 @@
+{
+    "IssuedDate": "October 22, 2001",
+    "LineItem": [
+        {
+            "ItemDescription": "Salaries",
+            "ItemTotal": "14,943.04"
+        },
+        {
+            "ItemDescription": "Fringe Benefits",
+            "ItemUnitValue": "25,125.00",
+            "ItemTotal": "2,455.82"
+        },
+        {
+            "ItemDescription": "Travel Domestic",
+            "ItemUnitCount": "2,500.00",
+            "ItemTotal": "320.08",
+            "ItemUnitValue": "320.08"
+        },
+        {
+            "ItemDescription": "Animal Care",
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "0.00"
+        },
+        {
+            "ItemDescription": "Supplies",
+            "ItemUnitValue": "2,068.09",
+            "ItemTotal": "2.068.09"
+        },
+        {
+            "ItemDescription": "Equipment",
+            "ItemUnitValue": "2,616.00",
+            "ItemTotal": "2.616.00"
+        },
+        {
+            "ItemDescription": "Other Expense",
+            "ItemUnitCount": "7,000.00",
+            "ItemTotal": "199.65",
+            "ItemUnitValue": "199.65"
+        },
+        {
+            "ItemDescription": "Indirect Cost",
+            "ItemUnitCount": "109,681,00",
+            "ItemTotal": "9,820.07",
+            "ItemUnitValue": "9,820.07"
+        }
+    ],
+    "TotalAmount": "$32,422.75"
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="130.0" fp="23.0" fn="80.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2501.0" t="1446.0" r="2730.0" b="1484.0">1036508</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="2150.0" t="1616.0" r="2250.0" b="1655.0">MAY</box>
+      <box l="2322.0" t="1616.0" r="2525.0" b="1659.0">6,1991</box>
+    </IssuedDate>
+    <LineItem tp="104.0" fp="21.0" fn="79.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="859.0" t="2092.0" r="879.0" b="2130.0">1</box>
+          <box l="926.0" t="2092.0" r="1058.0" b="2130.0">PAGE</box>
+          <box l="1167.0" t="2092.0" r="1267.0" b="2130.0">MAY</box>
+          <box l="1313.0" t="2096.0" r="1542.0" b="2134.0">13,1991</box>
+          <box l="1590.0" t="2092.0" r="1683.0" b="2133.0">JET</box>
+          <box l="713.0" t="2142.0" r="741.0" b="2183.0">4</box>
+          <box l="783.0" t="2142.0" r="950.0" b="2183.0">COLOR</box>
+          <box l="996.0" t="2142.0" r="1158.0" b="2183.0">ORDER</box>
+          <box l="1205.0" t="2142.0" r="1406.0" b="2185.0">NUMBER</box>
+          <box l="1446.0" t="2142.0" r="1683.0" b="2184.0">LMR3089</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2534.0" t="2092.0" r="2838.0" b="2135.0">17,549.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1167.0" t="2376.0" r="1266.0" b="2413.0">MAY</box>
+          <box l="1313.0" t="2376.0" r="1546.0" b="2416.0">13,1991</box>
+          <box l="1591.0" t="2376.0" r="1684.0" b="2413.0">JET</box>
+          <box l="716.0" t="2434.0" r="745.0" b="2472.0">4</box>
+          <box l="784.0" t="2434.0" r="954.0" b="2473.0">COLOR</box>
+          <box l="996.0" t="2434.0" r="1163.0" b="2472.0">ORDER</box>
+          <box l="1209.0" t="2434.0" r="1409.0" b="2472.0">NUMBER</box>
+          <box l="1451.0" t="2433.0" r="1687.0" b="2472.0">LMR3089</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2567.0" t="2313.0" r="2905.0" b="2358.0">,2,631&lt;6CCP</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="855.0" t="2492.0" r="1025.0" b="2532.0">COLOR</box>
+          <box l="1067.0" t="2488.0" r="1200.0" b="2531.0">PREM</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="2.0" fn="1.0">
+      <box l="2468.0" t="3131.0" r="2842.0" b="3171.0">"—16,016.40</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

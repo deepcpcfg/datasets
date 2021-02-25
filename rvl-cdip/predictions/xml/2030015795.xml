@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="89.0" fp="1.0" fn="39.0">
+    <LineItem tp="81.0" fp="1.0" fn="23.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="735.0" t="1594.0" r="968.0" b="1632.0">2-17-94</box>
+          <box l="734.0" t="1652.0" r="864.0" b="1689.0">UNIT</box>
+          <box l="910.0" t="1651.0" r="1037.0" b="1688.0">1E24</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2081.0" t="1645.0" r="2243.0" b="1681.0">10.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2490.0" t="1640.0" r="2659.0" b="1679.0">50.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2906.0" t="1639.0" r="3106.0" b="1677.0">500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="738.0" t="1708.0" r="1076.0" b="1745.0">SUPERVISOR</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2088.0" t="1702.0" r="2247.0" b="1739.0">10.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2497.0" t="1699.0" r="2664.0" b="1735.0">22.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2909.0" t="1696.0" r="3110.0" b="1734.0">220.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="733.0" t="1765.0" r="1004.0" b="1803.0">OPERATOR</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2079.0" t="1760.0" r="2245.0" b="1798.0">20.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2492.0" t="1757.0" r="2659.0" b="1793.0">20.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2947.0" t="1756.0" r="3109.0" b="1792.0">10.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2845.0" t="1986.0" r="3111.0" b="2034.0">1,130.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

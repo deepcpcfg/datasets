@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "00024",
+    "IssuedDate": "March 21, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "the cost of air freighting 33,000 issues of the second"
+        },
+        {
+            "ItemDescription": "edition of the HBI Magazine to Australia."
+        },
+        {
+            "ItemDescription": "3,264 Ite"
+        }
+    ],
+    "TotalAmount": "11,712.70"
+}

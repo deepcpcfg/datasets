@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "CH0215",
+    "IssuedDate": "Mar 31, 1992",
+    "TotalAmount": "6,748.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Sydney, HBI-Austral ia invoice #498",
+            "ItemTotal": "$ 1,098.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Melbourne, HRI-Austral ia invoice #499",
+            "ItemTotal": "$ 1,950.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Brisbane, HBI-Aust ral ia invoice #500",
+            "ItemTotal": "$ 1,950.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Melbourne, HBI-Australia invoice #501",
+            "ItemTotal": "$ 1,750.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

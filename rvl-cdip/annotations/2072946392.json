@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "45258-B",
+    "IssuedDate": "December 14, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "Final reconcialiation billing, as per attached detail",
+            "ItemTotal": "8,166.47",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

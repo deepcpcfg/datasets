@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="800.0" t="1638.0" r="1054.0" b="1680.0">Services</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber>
+      <box l="2377.0" t="321.0" r="2607.0" b="391.0">29625</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

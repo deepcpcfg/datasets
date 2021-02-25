@@ -1,0 +1,15 @@
+{
+    "TotalAmount": "704",
+    "InvoiceNumber": "63145",
+    "IssuedDate": "1ft/77",
+    "LineItem": [
+        {
+            "ItemDescription": "MARLBORO KING SOFT",
+            "ItemTotal": "4.76"
+        },
+        {
+            "ItemDescription": "MENTHOL MARLBORO KING FILL AS SAND",
+            "ItemTotal": "4*76"
+        }
+    ]
+}

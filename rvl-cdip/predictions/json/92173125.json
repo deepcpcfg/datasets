@@ -1,0 +1,9 @@
+{
+    "InvoiceNumber": "02345",
+    "TotalAmount": "84.7",
+    "LineItem": [
+        {
+            "ItemDescription": "NEWSPAPER"
+        }
+    ]
+}

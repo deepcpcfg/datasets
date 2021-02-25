@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "September 20, 1995",
+    "TotalAmount": "92,521.03",
+    "LineItem": [
+        {
+            "ItemDescription": "For services rendered in connection with Lawrence v. Philip Morris in the U.S. District Court for the Eastern District of New York for August 1995",
+            "ItemTotal": "$94,393.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "20% Discount",
+            "ItemTotal": "-18,878.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

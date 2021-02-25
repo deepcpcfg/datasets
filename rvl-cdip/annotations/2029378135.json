@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "MD0070",
+    "IssuedDate": "Aug 6, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "To the costs of translation of Issue #5 from German by Rosenbaum Translations.",
+            "ItemTotal": "$ 1,732.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

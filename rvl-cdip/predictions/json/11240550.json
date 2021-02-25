@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "C'Hl-0025-12",
+    "IssuedDate": "2.020 '75",
+    "LineItem": [
+        {
+            "ItemDescription": "represents",
+            "ItemTotal": "$7,965.86"
+        },
+        {
+            "ItemDescription": "Fixed Flee",
+            "ItemTotal": "670.00"
+        }
+    ],
+    "TotalAmount": "$8,635-86"
+}

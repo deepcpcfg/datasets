@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1040116",
+    "IssuedDate": "RAY 18*1992",
+    "LineItem": [
+        {
+            "ItemDescription": "MAY 25,1992 JET 4 COLOR ORDER NUMBER LH7975",
+            "ItemUnitCount": "UT1",
+            "ItemTotal": "11104.00"
+        },
+        {
+            "ItemDescription": "PREM"
+        },
+        {
+            "ItemDescription": "1 PAGE MAY 25*1992 JET 4 COLOR ORDER HUMBER LN7975",
+            "ItemTotal": "16«140-00"
+        }
+    ],
+    "TotalAmount": "14.623.00"
+}

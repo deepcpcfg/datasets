@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1289087",
+    "IssuedDate": "01/24/89",
+    "LineItem": [
+        {
+            "ItemDescription": "UNSCHEDULED DNA SYNTHESIS/RAT HEPATOCYTE",
+            "ItemUnitCount": "01.000",
+            "ItemUnitValue": "5,000.00",
+            "ItemTotal": "5,000.00"
+        }
+    ],
+    "TotalAmount": ""
+}

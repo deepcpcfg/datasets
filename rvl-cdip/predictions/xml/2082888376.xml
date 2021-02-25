@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="110.0" fp="0.0" fn="9.0">
+    <IssuedDate tp="11.0" fp="0.0" fn="5.0">
+      <box l="387.0" t="1513.0" r="641.0" b="1562.0">December</box>
+      <box l="663.0" t="1517.0" r="696.0" b="1565.0">1.</box>
+    </IssuedDate>
+    <LineItem tp="99.0" fp="0.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="386.0" t="2247.0" r="466.0" b="2305.0">My</box>
+          <box l="483.0" t="2247.0" r="745.0" b="2305.0">consulting</box>
+          <box l="762.0" t="2247.0" r="834.0" b="2289.0">fee</box>
+          <box l="855.0" t="2247.0" r="925.0" b="2291.0">for</box>
+          <box l="938.0" t="2247.0" r="1216.0" b="2304.0">moderating</box>
+          <box l="1235.0" t="2247.0" r="1334.0" b="2289.0">four</box>
+          <box l="1351.0" t="2247.0" r="1484.0" b="2291.0">focus</box>
+          <box l="1501.0" t="2258.0" r="1662.0" b="2305.0">groups</box>
+          <box l="1683.0" t="2247.0" r="1725.0" b="2289.0">in</box>
+          <box l="1746.0" t="2247.0" r="1854.0" b="2289.0">New</box>
+          <box l="1872.0" t="2247.0" r="1997.0" b="2290.0">York</box>
+          <box l="2016.0" t="2247.0" r="2129.0" b="2301.0">City,</box>
+          <box l="2150.0" t="2259.0" r="2212.0" b="2288.0">on</box>
+          <box l="2230.0" t="2247.0" r="2488.0" b="2289.0">November</box>
+          <box l="2505.0" t="2247.0" r="2659.0" b="2293.0">23-24,</box>
+          <box l="391.0" t="2309.0" r="520.0" b="2355.0">1998.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2059.0" t="2552.0" r="2229.0" b="2601.0">$4,000</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

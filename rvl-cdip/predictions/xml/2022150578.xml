@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="124.0" fp="16.0" fn="43.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2021.0" t="1179.0" r="2137.0" b="1217.0">June</box>
+      <box l="2172.0" t="1178.0" r="2254.0" b="1221.0">20,</box>
+      <box l="2295.0" t="1176.0" r="2405.0" b="1216.0">1986</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="1141.0" t="1833.0" r="1281.0" b="1877.0">33157</box>
+    </InvoiceNumber>
+    <LineItem tp="101.0" fp="15.0" fn="42.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="518.0" t="2130.0" r="542.0" b="2172.0">4</box>
+          <box l="577.0" t="2130.0" r="722.0" b="2182.0">pairs</box>
+          <box l="756.0" t="2133.0" r="873.0" b="2172.0">Beta</box>
+          <box l="902.0" t="2132.0" r="1052.0" b="2170.0">Boots</box>
+          <box l="1081.0" t="2125.0" r="1198.0" b="2170.0">size</box>
+          <box l="1232.0" t="2127.0" r="1256.0" b="2168.0">9</box>
+          <box l="1285.0" t="2131.0" r="1347.0" b="2169.0">at</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1501.0" t="2126.0" r="1640.0" b="2169.0">12.96</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2148.0" t="2125.0" r="2293.0" b="2166.0">51.84</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="521.0" t="2248.0" r="546.0" b="2290.0">3</box>
+          <box l="576.0" t="2246.0" r="725.0" b="2298.0">pairs</box>
+          <box l="755.0" t="2250.0" r="871.0" b="2289.0">Beta</box>
+          <box l="901.0" t="2249.0" r="1050.0" b="2289.0">Boots</box>
+          <box l="1084.0" t="2246.0" r="1198.0" b="2289.0">size</box>
+          <box l="1234.0" t="2248.0" r="1283.0" b="2286.0">10</box>
+          <box l="1318.0" t="2249.0" r="1376.0" b="2287.0">at</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1530.0" t="2244.0" r="1671.0" b="2285.0">12.96</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2150.0" t="2241.0" r="2293.0" b="2284.0">38.88</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="520.0" t="2369.0" r="548.0" b="2407.0">2</box>
+          <box l="579.0" t="2366.0" r="724.0" b="2419.0">pairs</box>
+          <box l="754.0" t="2367.0" r="874.0" b="2406.0">Beta</box>
+          <box l="903.0" t="2369.0" r="1053.0" b="2407.0">Boots</box>
+          <box l="1086.0" t="2364.0" r="1200.0" b="2406.0">size</box>
+          <box l="1233.0" t="2364.0" r="1286.0" b="2405.0">12</box>
+          <box l="1321.0" t="2369.0" r="1378.0" b="2406.0">at</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1529.0" t="2364.0" r="1670.0" b="2405.0">12.96</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2149.0" t="2358.0" r="2299.0" b="2401.0">2S.92</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="1.0" fn="1.0">
+      <box l="2120.0" t="2477.0" r="2297.0" b="2521.0">116,64</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

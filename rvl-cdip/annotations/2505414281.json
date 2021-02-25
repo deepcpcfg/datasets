@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2508",
+    "IssuedDate": "March 26, 1998",
+    "TotalAmount": "45,742.66",
+    "LineItem": [
+        {
+            "ItemUnitCount": "500,000",
+            "ItemTotal": "$20,000.00",
+            "ItemUnitValue": "$40.00",
+            "ItemDescription": "Code 1R4F Research Cigarettes"
+        },
+        {
+            "ItemUnitCount": "550,000",
+            "ItemTotal": "$22,000.00",
+            "ItemUnitValue": "$40.00",
+            "ItemDescription": "Code 1R5F Research Cigarettes"
+        }
+    ]
+}

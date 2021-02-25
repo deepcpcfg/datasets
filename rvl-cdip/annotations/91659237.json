@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1025968",
+    "IssuedDate": "JUL.16,1984",
+    "TotalAmount": "9,390.80",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE JUL.23,1984 JET 4 COLOR ORDER NUMBER 7513 BLEED NEWPORT",
+            "ItemTotal": "11,048.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemTotal": "1,657.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

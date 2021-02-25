@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "354874",
+    "IssuedDate": "June 30, 1998",
+    "TotalAmount": "5,211.71",
+    "LineItem": [
+        {
+            "ItemDescription": "Total Equipment Purchase",
+            "ItemTotal": "121.78",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "221.00",
+            "ItemDescription": "Ground Transportation",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "895.00",
+            "ItemDescription": "Equipment Rental",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3,600,00",
+            "ItemDescription": "Respondent Incentives",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "180.00",
+            "ItemDescription": "Client Meals at Focus Groups",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "47.40",
+            "ItemDescription": "Overnight Courier",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.83",
+            "ItemDescription": "Telephone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "94.70",
+            "ItemDescription": "Photocopy",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "21.00",
+            "ItemDescription": "Facsimile",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "IssuedDate": "Sep 18, 1995",
+    "InvoiceNumber": "509194",
+    "LineItem": [
+        {
+            "ItemDescription": "116-01 MH30",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "780,00"
+        },
+        {
+            "ItemDescription": "Nicotine Content",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "19.00",
+            "ItemTotal": "247.00"
+        },
+        {
+            "ItemDescription": "Reducing Sugars",
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "7.00",
+            "ItemTotal": "91.00"
+        },
+        {
+            "ItemDescription": "MH 30",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "120.00"
+        },
+        {
+            "ItemDescription": "Reducing Sugars",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "7.00",
+            "ItemTotal": "14.00"
+        },
+        {
+            "ItemDescription": "Nicotine Content",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "19.00",
+            "ItemTotal": "38.00"
+        }
+    ]
+}

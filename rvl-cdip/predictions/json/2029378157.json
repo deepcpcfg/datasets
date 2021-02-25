@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "CHOI",
+    "IssuedDate": "^Ug 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Three days at $1,000 per day",
+            "ItemTotal": "3,000.00"
+        },
+        {
+            "ItemDescription": "Air fare, hotel and taxis",
+            "ItemTotal": "2,910.00"
+        }
+    ],
+    "TotalAmount": "5,910.00"
+}

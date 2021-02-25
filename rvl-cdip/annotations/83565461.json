@@ -1,0 +1,55 @@
+{
+    "TotalAmount": "83,111",
+    "LineItem": [
+        {
+            "ItemDescription": "Fees September I, 1998 - September 30. 1998",
+            "ItemUnitCount": "345",
+            "ItemUnitValue": "$158",
+            "ItemTotal": "$54,510"
+        },
+        {
+            "ItemDescription": "Airfare",
+            "ItemTotal": "$ 3,918",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Lodging",
+            "ItemTotal": "2,912",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Ground Travel",
+            "ItemTotal": "854",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Per Diems",
+            "ItemTotal": "561",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Courier Charges",
+            "ItemTotal": "66",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Computer Processing Capacity",
+            "ItemTotal": "20,022",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Other Charges",
+            "ItemTotal": "268",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

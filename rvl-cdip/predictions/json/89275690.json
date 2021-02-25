@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "December 1, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "December assessment for CIAR December supplemental assessment for Johns Hopkins,",
+            "ItemTotal": "$35,531.42"
+        },
+        {
+            "ItemDescription": "Dr. Matanoski, Confounders Study",
+            "ItemTotal": "7,922.27"
+        }
+    ],
+    "TotalAmount": "$43,453.69"
+}

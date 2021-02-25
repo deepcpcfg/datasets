@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Digital Production",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemDescription": "Downloads Mechanicals",
+            "ItemTotal": "200,00"
+        },
+        {
+            "ItemDescription": "Mounting Printouts Studio Retouching Revisions",
+            "ItemTotal": "220,00"
+        }
+    ],
+    "TotalAmount": "$13,137.76"
+}

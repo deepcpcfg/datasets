@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "February 4, 1993",
+    "InvoiceNumber": "02-4609",
+    "LineItem": [
+        {
+            "ItemDescription": "Charges for Focus Groups on the Crown’s of London Study (Final Payment)",
+            "ItemTotal": "$6,649,70"
+        },
+        {
+            "ItemDescription": "Research Charges",
+            "ItemTotal": "$6,500.00"
+        },
+        {
+            "ItemDescription": "Product Purchases",
+            "ItemTotal": "$149.70"
+        }
+    ]
+}

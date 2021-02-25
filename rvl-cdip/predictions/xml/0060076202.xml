@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="129.0" fp="30.0" fn="94.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="758.0" t="780.0" r="850.0" b="826.0">May</box>
+      <box l="875.0" t="779.0" r="933.0" b="825.0">13,</box>
+      <box l="959.0" t="780.0" r="1062.0" b="817.0">1992</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="1.0" fn="1.0">
+      <box l="966.0" t="1584.0" r="1217.0" b="1629.0">#05-0096</box>
+    </InvoiceNumber>
+    <LineItem tp="102.0" fp="28.0" fn="93.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="750.0" t="2172.0" r="926.0" b="2215.0">340,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="966.0" t="2172.0" r="1096.0" b="2210.0">Phase</box>
+          <box l="1118.0" t="2175.0" r="1125.0" b="2209.0">I</box>
+          <box l="1146.0" t="2172.0" r="1317.0" b="2217.0">Coupon</box>
+          <box l="1337.0" t="2172.0" r="1606.0" b="2213.0">Distributions</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2468.0" t="2173.0" r="2688.0" b="2214.0">$3,233.03</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="750.0" t="2317.0" r="927.0" b="2359.0">330,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="962.0" t="2322.0" r="1096.0" b="2355.0">Phase</box>
+          <box l="1118.0" t="2322.0" r="1138.0" b="2355.0">II</box>
+          <box l="1162.0" t="2317.0" r="1333.0" b="2364.0">Coupon</box>
+          <box l="1354.0" t="2322.0" r="1622.0" b="2358.0">Distributions</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2493.0" t="2321.0" r="2615.0" b="2363.0">3,135</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="748.0" t="2467.0" r="925.0" b="2509.0">330,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="962.0" t="2466.0" r="1096.0" b="2505.0">Phase</box>
+          <box l="1117.0" t="2466.0" r="1151.0" b="2502.0">III</box>
+          <box l="1175.0" t="2466.0" r="1347.0" b="2510.0">Coupon</box>
+          <box l="1367.0" t="2467.0" r="1634.0" b="2505.0">Dislribulions</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2493.0" t="2466.0" r="2685.0" b="2509.0">3,135.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2464.0" t="2684.0" r="2685.0" b="2726.0">59,500.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

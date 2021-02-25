@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "11906",
+    "IssuedDate": "September 7, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "Fall Board Meeting Sponsorship",
+            "ItemTotal": "5,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

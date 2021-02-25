@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="58.0" fp="161.0" fn="23.0">
+    <LineItem tp="55.0" fp="156.0" fn="11.0">
+      <lineItem>
+        <ItemTotal>
+          <box l="497.0" t="1581.0" r="634.0" b="1615.0">42140</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="693.0" t="1579.0" r="900.0" b="1613.0">Mhx-lbccro</box>
+          <box l="922.0" t="1578.0" r="1049.0" b="1613.0">Hilda</box>
+          <box l="1072.0" t="1578.0" r="1200.0" b="1621.0">King*</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1221.0" t="1581.0" r="1300.0" b="1612.0">Bant</box>
+          <box l="1326.0" t="1581.0" r="1454.0" b="1613.0">B1CHP</box>
+          <box l="1547.0" t="1582.0" r="1608.0" b="1617.0">6M</box>
+          <box l="1672.0" t="1582.0" r="1730.0" b="1616.0">20</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1971.0" t="1573.0" r="2155.0" b="1626.0">i2|ooa</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2259.0" t="1584.0" r="2442.0" b="1617.0">129.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2622.0" t="1585.0" r="2875.0" b="1623.0">1,554.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="696.0" t="1639.0" r="806.0" b="1669.0">LRSB</box>
+          <box l="843.0" t="1638.0" r="954.0" b="1670.0">COMP</box>
+          <box l="989.0" t="1638.0" r="1128.0" b="1670.0">CIGTB</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2660.0" t="1636.0" r="2875.0" b="1672.0">-778.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="693.0" t="1753.0" r="901.0" b="1784.0">Marlboro</box>
+          <box l="919.0" t="1752.0" r="1098.0" b="1785.0">Mrifrhol</box>
+          <box l="1123.0" t="1754.0" r="1198.0" b="1786.0">Lta</box>
+          <box l="1219.0" t="1756.0" r="1298.0" b="1786.0">Box</box>
+          <box l="1326.0" t="1755.0" r="1455.0" b="1785.0">B1GLP</box>
+          <box l="1548.0" t="1760.0" r="1609.0" b="1793.0">6M</box>
+          <box l="1672.0" t="1760.0" r="1730.0" b="1793.0">20</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1972.0" t="1761.0" r="2051.0" b="1806.0">12j</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2257.0" t="1760.0" r="2440.0" b="1796.0">129.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2623.0" t="1762.0" r="2873.0" b="1803.0">1,554.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="485.0" t="1815.0" r="651.0" b="1847.0">IXXXXX</box>
+          <box l="694.0" t="1811.0" r="805.0" b="1843.0">UB88</box>
+          <box l="840.0" t="1813.0" r="952.0" b="1843.0">COMP</box>
+          <box l="990.0" t="1813.0" r="1127.0" b="1844.0">CIGT8</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2660.0" t="1816.0" r="2873.0" b="1852.0">-778.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="495.0" t="1927.0" r="633.0" b="1964.0">42150</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2257.0" t="1923.0" r="2440.0" b="1959.0">129.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2684.0" t="1927.0" r="2873.0" b="1961.0">778.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="485.0" t="1986.0" r="641.0" b="2019.0">mxn</box>
+          <box l="694.0" t="1984.0" r="806.0" b="2015.0">LSSB</box>
+          <box l="841.0" t="1984.0" r="952.0" b="2014.0">COMP</box>
+          <box l="987.0" t="1986.0" r="1127.0" b="2016.0">CIGZ8</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2658.0" t="1979.0" r="2874.0" b="2015.0">-389.10</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="5.0" fn="4.0">
+      <box l="2631.0" t="3587.0" r="2882.0" b="3627.0">1,945.50</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

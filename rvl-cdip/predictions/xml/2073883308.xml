@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="171.0" fp="49.0" fn="62.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2010.0" t="713.0" r="2127.0" b="745.0">June</box>
+      <box l="2164.0" t="713.0" r="2239.0" b="753.0">30,</box>
+      <box l="2286.0" t="715.0" r="2402.0" b="748.0">1998</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2326.0" t="1369.0" r="2496.0" b="1403.0">354874</box>
+    </InvoiceNumber>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2606.0" t="1782.0" r="2877.0" b="1822.0">$5,211.71</box>
+    </TotalAmount>
+    <LineItem tp="144.0" fp="48.0" fn="62.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="565.0" t="1958.0" r="806.0" b="2001.0">Supplies</box>
+          <box l="845.0" t="1958.0" r="935.0" b="1994.0">for</box>
+          <box l="969.0" t="1962.0" r="1027.0" b="1994.0">FA</box>
+          <box l="1061.0" t="1961.0" r="1244.0" b="2002.0">Groups</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1960.0" t="1958.0" r="2136.0" b="1991.0">121.70</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="565.0" t="2134.0" r="748.0" b="2170.0">Ground</box>
+          <box l="782.0" t="2132.0" r="1215.0" b="2179.0">Transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2330.0" t="2136.0" r="2507.0" b="2168.0">221.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="569.0" t="2255.0" r="840.0" b="2298.0">Equipment</box>
+          <box l="876.0" t="2254.0" r="1058.0" b="2288.0">Rental</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2333.0" t="2254.0" r="2508.0" b="2286.0">895.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="570.0" t="2371.0" r="870.0" b="2417.0">Respondent</box>
+          <box l="912.0" t="2373.0" r="1216.0" b="2408.0">Incentives</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2270.0" t="2374.0" r="2508.0" b="2412.0">3,600.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="570.0" t="2488.0" r="749.0" b="2525.0">Client</box>
+          <box l="787.0" t="2487.0" r="934.0" b="2524.0">Meals</box>
+          <box l="973.0" t="2495.0" r="1028.0" b="2524.0">at</box>
+          <box l="1067.0" t="2491.0" r="1216.0" b="2524.0">Focus</box>
+          <box l="1254.0" t="2490.0" r="1438.0" b="2532.0">Groups</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2334.0" t="2490.0" r="2508.0" b="2524.0">180.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="570.0" t="2608.0" r="843.0" b="2654.0">Overnight</box>
+          <box l="571.0" t="2722.0" r="846.0" b="2770.0">Telephone</box>
+          <box l="879.0" t="2608.0" r="1096.0" b="2642.0">Courier</box>
+          <box l="576.0" t="2842.0" r="850.0" b="2888.0">Photocopy</box>
+          <box l="576.0" t="2958.0" r="847.0" b="2996.0">Facsimile</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2363.0" t="2610.0" r="2512.0" b="2640.0">47.40</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

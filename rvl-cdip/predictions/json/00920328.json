@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "246638",
+    "IssuedDate": "June 30, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "Teratogenic and Peri natal/Postnatal Study in the Rat with D-8, and D-9",
+            "ItemTotal": "$6,625.00"
+        },
+        {
+            "ItemDescription": "1st Installment of four AWARD",
+            "ItemTotal": "6,625.00)"
+        }
+    ]
+}

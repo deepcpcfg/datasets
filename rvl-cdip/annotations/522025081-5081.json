@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1",
+    "IssuedDate": "17-Dec-92",
+    "TotalAmount": "77,234.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Payment in accordance with terms of the above referenced agreement between The Florida State University and R. J. Reynolds Tobacco Company under the direction of Dr. Dennl W. Duke.",
+            "ItemTotal": "$77,234.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

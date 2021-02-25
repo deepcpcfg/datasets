@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "05-0035 ",
+    "IssuedDate": "May 4, 1993",
+    "TotalAmount": "6,639.12",
+    "LineItem": [
+        {
+            "ItemTotal": "$1,764.75",
+            "ItemDescription": "Select specified records from ATCo, database - Minimum charge lor Database passing ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,051.67",
+            "ItemDescription": "Household level MergeyPurge ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "441.19",
+            "ItemDescription": "Pass file to Nlh/Spltt/Create Control cells/Assign Source Codes ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.647.12",
+            "ItemDescription": "Programming & Project Management - 3 days @ 862.38 per day ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "880.69",
+            "ItemDescription": "NCOA Processing - 374.285 records @ 2/M",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "53.50",
+            "ItemDescription": "Shipping",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "May 1,2002",
+    "LineItem": [
+        {
+            "ItemDescription": "Review of medical records and deposition of J. Shannon 3 hours @ $350/hour",
+            "ItemTotal": "$1,050",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Conference call with Mr. Andy Wattleworth 40 minutes",
+            "ItemTotal": "$ 233",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

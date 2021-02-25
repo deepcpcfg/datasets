@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="92.0" fp="16.0" fn="11.0">
+    <IssuedDate tp="5.0" fp="3.0" fn="3.0">
+      <box l="704.0" t="696.0" r="894.0" b="728.0">5EPOS/99</box>
+    </IssuedDate>
+    <InvoiceNumber tp="10.0" fp="1.0" fn="1.0">
+      <box l="2408.0" t="698.0" r="2665.0" b="727.0">PR09-&amp;030S4</box>
+    </InvoiceNumber>
+    <LineItem tp="71.0" fp="12.0" fn="7.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="388.0" t="1229.0" r="817.0" b="1259.0">Non-CornmissionaJble</box>
+          <box l="846.0" t="1229.0" r="1009.0" b="1266.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2522.0" t="1235.0" r="2659.0" b="1260.0">302.03</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="388.0" t="1314.0" r="551.0" b="1343.0">Commies</box>
+          <box l="559.0" t="1314.0" r="721.0" b="1343.0">ioneihle</box>
+          <box l="747.0" t="1317.0" r="913.0" b="1353.0">Chargee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2572.0" t="1322.0" r="2660.0" b="1348.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="385.0" t="1405.0" r="530.0" b="1439.0">Agency</box>
+          <box l="556.0" t="1404.0" r="792.0" b="1435.0">Concussion</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2572.0" t="1410.0" r="2660.0" b="1436.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="0.0">
+      <box l="2519.0" t="1497.0" r="2656.0" b="1523.0">302.03</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

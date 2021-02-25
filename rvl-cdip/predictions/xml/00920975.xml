@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="81.0" fp="1.0" fn="7.0">
+    <IssuedDate tp="15.0" fp="0.0" fn="0.0">
+      <box l="524.0" t="859.0" r="741.0" b="917.0">January</box>
+      <box l="780.0" t="858.0" r="833.0" b="916.0">7,</box>
+      <box l="876.0" t="858.0" r="995.0" b="907.0">1983</box>
+    </IssuedDate>
+    <LineItem tp="66.0" fp="1.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="524.0" t="2286.0" r="553.0" b="2330.0">A</box>
+          <box l="591.0" t="2285.0" r="741.0" b="2342.0">5-Day</box>
+          <box l="777.0" t="2283.0" r="924.0" b="2333.0">Multi</box>
+          <box l="937.0" t="2284.0" r="1058.0" b="2333.0">dose</box>
+          <box l="1095.0" t="2286.0" r="1247.0" b="2344.0">Range</box>
+          <box l="1283.0" t="2285.0" r="1498.0" b="2342.0">Finding</box>
+          <box l="524.0" t="2348.0" r="678.0" b="2405.0">Study</box>
+          <box l="717.0" t="2347.0" r="774.0" b="2395.0">in</box>
+          <box l="812.0" t="2350.0" r="899.0" b="2396.0">the</box>
+          <box l="933.0" t="2349.0" r="1090.0" b="2395.0">Mouse</box>
+          <box l="1121.0" t="2349.0" r="1245.0" b="2395.0">with</box>
+          <box l="1283.0" t="2348.0" r="1404.0" b="2397.0">A-39</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1883.0" t="2349.0" r="2070.0" b="2398.0">850.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

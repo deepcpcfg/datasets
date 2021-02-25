@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "Nov 15, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Printing by Mercury Press Transportation to Finland, estimate",
+            "ItemTotal": "8,500.00"
+        },
+        {
+            "ItemDescription": "Talouselama fee for 16 page advertisement*",
+            "ItemTotal": "26,829.27"
+        }
+    ],
+    "TotalAmount": "46r329.27"
+}

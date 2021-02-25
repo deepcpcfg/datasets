@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "G—7372. 115",
+    "IssuedDate": "11/25/91",
+    "TotalAmount": "9,360.00",
+    "LineItem": [
+        {
+            "ItemDescription": "EA 18-999 ADVANCE BILLING",
+            "ItemUnitValue": "9,360,00",
+            "ItemTotal": "9,360.00",
+            "ItemUnitCount": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "IssuedDate": "April 20, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Materials",
+            "ItemTotal": "$11,880.78"
+        },
+        {
+            "ItemDescription": "Services",
+            "ItemTotal": "1,191.00"
+        },
+        {
+            "ItemDescription": "Shipping G Communicat ions",
+            "ItemUnitValue": "40.25",
+            "ItemTotal": "286.25"
+        },
+        {
+            "ItemDescription": "Omasa Oil Prmv",
+            "ItemUnitValue": "65.63",
+            "ItemTotal": "1,540.88"
+        }
+    ]
+}

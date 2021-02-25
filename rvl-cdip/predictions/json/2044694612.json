@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "100008",
+    "IssuedDate": "10-18-87",
+    "LineItem": [
+        {
+            "ItemDescription": "OUT-OF-POCKET EXPENSES",
+            "ItemTotal": "$1,806.00"
+        }
+    ]
+}

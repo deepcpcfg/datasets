@@ -1,0 +1,108 @@
+[
+    {
+        "IssuedDate": [
+            "Oct 18, 1991",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "for Harris Research 21,950 Pounds Sterling.",
+                            {
+                                "tp": 43.0,
+                                "fp": 0.0,
+                                "fn": 232.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 11.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 43.0,
+                        "fp": 0.0,
+                        "fn": 243.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "38,412.50",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "21 ,950 Pounds Sterling $1.75",
+                            {
+                                "tp": 0.0,
+                                "fp": 29.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 38.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 43.0,
+                "fp": 38.0,
+                "fn": 243.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 55.0,
+        "fp": 38.0,
+        "fn": 249.0
+    }
+]

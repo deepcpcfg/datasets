@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "166",
+    "IssuedDate": "April 1st, 1993",
+    "TotalAmount": "18500.00",
+    "LineItem": [
+        {
+            "ItemTotal": "17000.00",
+            "ItemDescription": "Membership fee ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1500.00",
+            "ItemDescription": "Subscription to Bulletin",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

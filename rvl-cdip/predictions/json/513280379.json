@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "92-754_",
+    "LineItem": [
+        {
+            "ItemDescription": "MAINTENANCE FEES FOR SPECIAL OWNED VEHICLES USED TN THE PROGRAM 1992: TRACTOR 10 TIRES PER x $400.00 8 TIRES",
+            "ItemTotal": "$3,200.00"
+        },
+        {
+            "ItemDescription": "EVENT PRODUCTION, INC. CAMEL/WINSTON TRACTOR RACING PER TIRE"
+        }
+    ],
+    "IssuedDate": "October 14, 1992",
+    "TotalAmount": "$3,200.00"
+}

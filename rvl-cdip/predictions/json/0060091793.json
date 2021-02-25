@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "September 11,1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Select universe from database min.",
+            "ItemTotal": "$882.38"
+        },
+        {
+            "ItemDescription": "Dedupe records (merge/ourge) 44B.5B8 $Z94/M",
+            "ItemTotal": "1.318.85"
+        },
+        {
+            "ItemDescription": "Select control cells Programming",
+            "ItemTotal": "882.38"
+        },
+        {
+            "ItemDescription": "Produce ouiput tapes reports",
+            "ItemTotal": "882.38"
+        }
+    ],
+    "TotalAmount": "$4,889.12"
+}

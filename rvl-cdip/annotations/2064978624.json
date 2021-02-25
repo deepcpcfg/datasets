@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "0004217-IN",
+    "IssuedDate": "08/28/98",
+    "TotalAmount": "5,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Sales Advertising Division Light Box Pier If 4 Outdoor Terrace size: 34 1/2\" W x 46 l/2,r H Covering Period: February 1, 1998 thru January 31, 1999",
+            "ItemTotal": "5,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

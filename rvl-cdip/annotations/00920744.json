@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1439-1",
+    "IssuedDate": "July 1. 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of Final Report Cardiovascular testing of Compound A-59 in the Beagle Dog @ $3,700.00 per compound plus $230.00 for Statistical re-evaluation.",
+            "ItemTotal": "$3,930.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

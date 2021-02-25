@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "8-17-90",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "86,250.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            ",250.00/M0",
+                            {
+                                "tp": 7.0,
+                                "fp": 3.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CONDUCT DEVELOPMENT EFF¬ ORTS NECESSARY TO PRODUCE 100 PROTOTYPES ELECTRONIC CONTROL PACKAGES IN ACCORDANCE WITH THE TERNS OF THE PHX AGREEMENT DATED APRIL 23,1990",
+                            {
+                                "tp": 163.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 170.0,
+                        "fp": 3.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 170.0,
+                "fp": 3.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "AP521",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 191.0,
+        "fp": 3.0,
+        "fn": 4.0
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "7142",
+    "IssuedDate": "4/15/63",
+    "LineItem": [
+        {
+            "ItemUnitCount": "33,300",
+            "ItemDescription": "of \"1962 Report of the Scientific Director*' by Dr. Little"
+        }
+    ],
+    "TotalAmount": "$5930.00"
+}

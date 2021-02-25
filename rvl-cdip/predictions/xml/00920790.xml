@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="205.0" fp="3.0" fn="5.0">
+    <IssuedDate tp="11.0" fp="1.0" fn="1.0">
+      <box l="502.0" t="1035.0" r="627.0" b="1084.0">June</box>
+      <box l="661.0" t="1035.0" r="718.0" b="1088.0">8»</box>
+      <box l="761.0" t="1034.0" r="881.0" b="1084.0">1983</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="983.0" t="1792.0" r="1166.0" b="1843.0">1513-2</box>
+    </InvoiceNumber>
+    <LineItem tp="188.0" fp="2.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="513.0" t="2023.0" r="788.0" b="2072.0">INDUCTION</box>
+          <box l="821.0" t="2022.0" r="884.0" b="2072.0">OF</box>
+          <box l="917.0" t="2022.0" r="1134.0" b="2072.0">HEPATIC</box>
+          <box l="1167.0" t="2021.0" r="1479.0" b="2071.0">MICROSOMAL</box>
+          <box l="509.0" t="2085.0" r="721.0" b="2135.0">ENZYMES</box>
+          <box l="759.0" t="2089.0" r="884.0" b="2135.0">WITH</box>
+          <box l="918.0" t="2088.0" r="1071.0" b="2135.0">B-151</box>
+          <box l="1105.0" t="2088.0" r="1196.0" b="2133.0">and</box>
+          <box l="1234.0" t="2087.0" r="1383.0" b="2138.0">B-153</box>
+          <box l="1422.0" t="2088.0" r="1449.0" b="2137.0">0</box>
+          <box l="510.0" t="2148.0" r="788.0" b="2206.0">$2,550.00</box>
+          <box l="825.0" t="2164.0" r="914.0" b="2209.0">per</box>
+          <box l="950.0" t="2153.0" r="1196.0" b="2209.0">compound</box>
+          <box l="513.0" t="2248.0" r="788.0" b="2298.0">INDUCTION</box>
+          <box l="822.0" t="2248.0" r="884.0" b="2297.0">OF</box>
+          <box l="918.0" t="2248.0" r="1135.0" b="2298.0">HEPATIC</box>
+          <box l="1168.0" t="2250.0" r="1480.0" b="2298.0">MICROSOMAL</box>
+          <box l="510.0" t="2315.0" r="722.0" b="2364.0">ENZYMES</box>
+          <box l="760.0" t="2314.0" r="885.0" b="2364.0">WITH</box>
+          <box l="918.0" t="2309.0" r="1076.0" b="2364.0">B-104</box>
+          <box l="1114.0" t="2309.0" r="1385.0" b="2371.0">(IN-VITRO</box>
+          <box l="505.0" t="2377.0" r="659.0" b="2427.0">ASSAY</box>
+          <box l="697.0" t="2375.0" r="847.0" b="2434.0">only)</box>
+          <box l="951.0" t="2376.0" r="1230.0" b="2434.0">$1,700.00</box>
+          <box l="1268.0" t="2392.0" r="1355.0" b="2438.0">per</box>
+          <box l="1390.0" t="2378.0" r="1635.0" b="2438.0">compound</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2339.0" t="2015.0" r="2617.0" b="2076.0">$6,800.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

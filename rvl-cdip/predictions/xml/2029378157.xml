@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="87.0" fp="2.0" fn="35.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="4.0">
+      <box l="2629.0" t="909.0" r="2754.0" b="951.0">CHOI</box>
+    </InvoiceNumber>
+    <IssuedDate tp="6.0" fp="2.0" fn="5.0">
+      <box l="2629.0" t="1037.0" r="2728.0" b="1088.0">^Ug</box>
+      <box l="2866.0" t="1038.0" r="2982.0" b="1080.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="69.0" fp="0.0" fn="26.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="558.0" t="2113.0" r="720.0" b="2158.0">Three</box>
+          <box l="758.0" t="2113.0" r="879.0" b="2167.0">days</box>
+          <box l="925.0" t="2117.0" r="976.0" b="2159.0">at</box>
+          <box l="1025.0" t="2110.0" r="1208.0" b="2164.0">$1,000</box>
+          <box l="1250.0" t="2126.0" r="1336.0" b="2171.0">per</box>
+          <box l="1380.0" t="2115.0" r="1470.0" b="2171.0">day</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2758.0" t="2117.0" r="3012.0" b="2167.0">3,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="558.0" t="2305.0" r="649.0" b="2351.0">Air</box>
+          <box l="699.0" t="2301.0" r="844.0" b="2359.0">fare,</box>
+          <box l="888.0" t="2306.0" r="1038.0" b="2351.0">hotel</box>
+          <box l="1084.0" t="2307.0" r="1176.0" b="2351.0">and</box>
+          <box l="1221.0" t="2305.0" r="1370.0" b="2352.0">taxis</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2758.0" t="2313.0" r="3008.0" b="2364.0">2,910.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2759.0" t="2440.0" r="3008.0" b="2491.0">5,910.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

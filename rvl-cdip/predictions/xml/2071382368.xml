@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="219.0" fp="49.0" fn="3.0">
+    <IssuedDate tp="14.0" fp="1.0" fn="0.0">
+      <box l="1919.0" t="1238.0" r="2094.0" b="1275.0">March</box>
+      <box l="2136.0" t="1239.0" r="2228.0" b="1285.0">23,</box>
+      <box l="2275.0" t="1239.0" r="2437.0" b="1276.0">1994.</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="1602.0" t="1689.0" r="1839.0" b="1729.0">1994-24</box>
+    </InvoiceNumber>
+    <LineItem tp="189.0" fp="48.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="680.0" t="2028.0" r="992.0" b="2072.0">Estimated</box>
+          <box l="1031.0" t="2032.0" r="1201.0" b="2073.0">Total</box>
+          <box l="1243.0" t="2035.0" r="1381.0" b="2074.0">cost</box>
+          <box l="1415.0" t="2033.0" r="1485.0" b="2074.0">of</box>
+          <box l="1522.0" t="2030.0" r="1967.0" b="2083.0">Project......</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2230.0" t="2035.0" r="2577.0" b="2085.0">§24,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="721.0" t="2086.0" r="813.0" b="2135.0">£40</box>
+          <box l="851.0" t="2099.0" r="1201.0" b="2131.0">one-on-one</box>
+          <box l="1243.0" t="2087.0" r="1613.0" b="2139.0">interviews)</box>
+          <box l="675.0" t="2143.0" r="875.0" b="2188.0">Minus:</box>
+          <box l="675.0" t="2202.0" r="847.0" b="2244.0">First</box>
+          <box l="889.0" t="2204.0" r="1271.0" b="2245.0">Installment</box>
+          <box l="1307.0" t="2203.0" r="1514.0" b="2245.0">Billed</box>
+          <box l="1556.0" t="2208.0" r="1792.0" b="2246.0">2-14-94</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2259.0" t="2207.0" r="2571.0" b="2256.0">12,100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="679.0" t="2264.0" r="705.0" b="2302.0">2</box>
+          <box l="746.0" t="2269.0" r="813.0" b="2302.0">no</box>
+          <box l="851.0" t="2261.0" r="1025.0" b="2303.0">shows</box>
+          <box l="1071.0" t="2262.0" r="1200.0" b="2311.0">(one</box>
+          <box l="1239.0" t="2262.0" r="1306.0" b="2304.0">in</box>
+          <box l="1347.0" t="2262.0" r="1480.0" b="2305.0">each</box>
+          <box l="1517.0" t="2263.0" r="1754.0" b="2312.0">market)</box>
+          <box l="671.0" t="2319.0" r="838.0" b="2361.0">Plus:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2296.0" t="2265.0" r="2571.0" b="2314.0">1,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="674.0" t="2377.0" r="812.0" b="2418.0">Food</box>
+          <box l="850.0" t="2376.0" r="955.0" b="2419.0">and</box>
+          <box l="992.0" t="2375.0" r="1267.0" b="2429.0">Shipping</box>
+          <box l="1309.0" t="2375.0" r="1372.0" b="2420.0">in</box>
+          <box l="1410.0" t="2380.0" r="1513.0" b="2421.0">New</box>
+          <box l="1551.0" t="2380.0" r="1688.0" b="2421.0">York</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2363.0" t="2382.0" r="2571.0" b="2419.0">515.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="674.0" t="2433.0" r="812.0" b="2477.0">Food</box>
+          <box l="850.0" t="2433.0" r="955.0" b="2477.0">and</box>
+          <box l="992.0" t="2432.0" r="1270.0" b="2486.0">Shipping</box>
+          <box l="1309.0" t="2433.0" r="1375.0" b="2476.0">in</box>
+          <box l="1413.0" t="2437.0" r="1513.0" b="2475.0">San</box>
+          <box l="1551.0" t="2433.0" r="1725.0" b="2487.0">Diego</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2401.0" t="2436.0" r="2570.0" b="2477.0">31.48</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2256.0" t="2552.0" r="2567.0" b="2599.0">11,946.48</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

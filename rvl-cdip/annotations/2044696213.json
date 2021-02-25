@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "332643",
+    "IssuedDate": "22 Jun 1990",
+    "TotalAmount": "6,045.00",
+    "LineItem": [
+        {
+            "ItemDescription": "TOTAL PROFESSIONAL FEE DUE",
+            "ItemTotal": "$5,950.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TOTAL OUT-OF-POCKET EXPENSES DUE",
+            "ItemTotal": "$95.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

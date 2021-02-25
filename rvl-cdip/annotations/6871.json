@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": " PR0S-007835",
+    "IssuedDate": "MAY01/00",
+    "TotalAmount": "7,325.00",
+    "LineItem": [
+        {
+            "ItemTotal": "7,325.00",
+            "ItemDescription": "Non-Comissionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Commissionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Commission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

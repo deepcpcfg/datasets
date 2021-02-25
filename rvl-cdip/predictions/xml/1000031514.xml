@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="77.0" fp="0.0" fn="1.0">
+    <InvoiceNumber tp="10.0" fp="0.0" fn="1.0">
+      <box l="1889.0" t="875.0" r="2269.0" b="935.0">411-9/1780</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="0.0" fn="0.0">
+      <box l="2497.0" t="879.0" r="2609.0" b="931.0">May</box>
+      <box l="2653.0" t="875.0" r="2713.0" b="927.0">2,</box>
+      <box l="2767.0" t="871.0" r="2909.0" b="921.0">1980</box>
+    </IssuedDate>
+    <LineItem tp="53.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="495.0" t="1820.0" r="876.0" b="1863.0">Production</box>
+          <box l="917.0" t="1813.0" r="984.0" b="1859.0">of</box>
+          <box l="1026.0" t="1816.0" r="1176.0" b="1859.0">work</box>
+          <box l="1217.0" t="1821.0" r="1405.0" b="1868.0">paper</box>
+          <box l="500.0" t="1896.0" r="570.0" b="1929.0">on</box>
+          <box l="612.0" t="1884.0" r="984.0" b="1938.0">byssinosis</box>
+          <box l="1030.0" t="1879.0" r="1138.0" b="1921.0">and</box>
+          <box l="1184.0" t="1880.0" r="1441.0" b="1930.0">smoking</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2859.0" t="1863.0" r="2963.0" b="1908.0">550</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="0.0" fn="0.0">
+      <box l="2872.0" t="3192.0" r="2979.0" b="3238.0">550</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

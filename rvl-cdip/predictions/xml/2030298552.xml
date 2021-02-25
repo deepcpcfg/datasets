@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="192.0" fp="4.0" fn="66.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2934.0" t="165.0" r="3096.0" b="223.0">0476</box>
+    </InvoiceNumber>
+    <IssuedDate tp="6.0" fp="1.0" fn="1.0">
+      <box l="2865.0" t="765.0" r="3057.0" b="809.0">5/2J/91</box>
+    </IssuedDate>
+    <LineItem tp="177.0" fp="2.0" fn="63.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="455.0" t="1668.0" r="543.0" b="1715.0">S/N</box>
+          <box l="580.0" t="1672.0" r="721.0" b="1710.0">79694</box>
+          <box l="760.0" t="1685.0" r="814.0" b="1711.0">on</box>
+          <box l="847.0" t="1669.0" r="993.0" b="1719.0">April</box>
+          <box l="1034.0" t="1670.0" r="1117.0" b="1715.0">15;</box>
+          <box l="1155.0" t="1669.0" r="1263.0" b="1708.0">1991</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2772.0" t="1668.0" r="2943.0" b="1706.0">250.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="451.0" t="1792.0" r="663.0" b="1831.0">Furnish</box>
+          <box l="759.0" t="1790.0" r="963.0" b="1832.0">deliver</box>
+          <box l="1006.0" t="1799.0" r="1117.0" b="1832.0">test</box>
+          <box l="1151.0" t="1791.0" r="1356.0" b="1840.0">weights</box>
+          <box l="1398.0" t="1791.0" r="1480.0" b="1829.0">for</box>
+          <box l="1514.0" t="1792.0" r="1630.0" b="1829.0">Load</box>
+          <box l="1668.0" t="1792.0" r="1784.0" b="1830.0">Test</box>
+          <box l="1943.0" t="1792.0" r="2118.0" b="1827.0">Trucks</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2768.0" t="1786.0" r="2944.0" b="1827.0">445.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="459.0" t="1914.0" r="785.0" b="1956.0">Examination</box>
+          <box l="821.0" t="1918.0" r="905.0" b="1954.0">and</box>
+          <box l="942.0" t="1915.0" r="1055.0" b="1953.0">Load</box>
+          <box l="1092.0" t="1916.0" r="1208.0" b="1953.0">Test</box>
+          <box l="1242.0" t="1915.0" r="1297.0" b="1953.0">of</box>
+          <box l="1338.0" t="1916.0" r="1572.0" b="1962.0">spreader</box>
+          <box l="1609.0" t="1916.0" r="1726.0" b="1954.0">beam</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2772.0" t="1911.0" r="2947.0" b="1948.0">200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="459.0" t="2039.0" r="479.0" b="2077.0">1</box>
+          <box l="518.0" t="2039.0" r="633.0" b="2086.0">only</box>
+          <box l="671.0" t="2036.0" r="845.0" b="2085.0">Rigger</box>
+          <box l="888.0" t="2036.0" r="906.0" b="2073.0">5</box>
+          <box l="942.0" t="2040.0" r="1018.0" b="2073.0">Hr.</box>
+          <box l="1063.0" t="2036.0" r="1087.0" b="2079.0">&lt;3</box>
+          <box l="1126.0" t="2034.0" r="1300.0" b="2077.0">$42.00</box>
+          <box l="1338.0" t="2049.0" r="1421.0" b="2084.0">per</box>
+          <box l="1455.0" t="2037.0" r="1534.0" b="2074.0">Hr.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2772.0" t="2032.0" r="2946.0" b="2069.0">210.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="1.0" fn="2.0">
+      <box l="2747.0" t="2280.0" r="2951.0" b="2323.0">U05.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

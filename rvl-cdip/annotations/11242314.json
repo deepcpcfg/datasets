@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "5392.18",
+    "LineItem": [
+        {
+            "ItemDescription": "labor met 9 @ 30.00/hr 32",
+            "ItemTotal": "960.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MATERIAL",
+            "ItemTotal": "1908.76",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

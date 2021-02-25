@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "844502",
+    "IssuedDate": "December 19, 2000",
+    "LineItem": [
+        {
+            "ItemDescription": "For Legal Services Rendered through November 30,",
+            "ItemTotal": "10,369.50"
+        },
+        {
+            "ItemDescription": "Less; Discount",
+            "ItemTotal": "2,073*90"
+        },
+        {
+            "ItemDescription": "Local Transportation",
+            "ItemTotal": "11.15"
+        },
+        {
+            "ItemDescription": "Publications Telephone westlaw Research",
+            "ItemTotal": "424.74"
+        }
+    ],
+    "TotalAmount": "8,720.34"
+}

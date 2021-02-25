@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "24 May 1970",
+    "TotalAmount": "15,509.07",
+    "LineItem": [
+        {
+            "ItemDescription": "Supplies Animals $131.77 Loboratory Supplies.... 712.06 Animal Feed* 5.13",
+            "ItemTotal": "848.98",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Direct Labar Froiact Manager(H. Rtxenkrarrtz, Ph.DJ $ 655.00 Analytical Chetnhtf?* . Hagoplan, Ph.D.) 937.51 Immunol ogistfH. Esber, Ph.D.) 36.05 . Pathologist (J. Baker) 496.15 ■J PathoJoglit(R. W. Fleischman, O.V.M.) 38.17 Laboratory Technlclone 3,597.45 Animal Core Technician 226.00",
+            "ItemTotal": "5,986.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Overhead (100% of (2) abwt)",
+            "ItemTotal": "5,986.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "G&A (12% of (4) above)",
+            "ItemTotal": "1,538.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee (8%)",
+            "ItemTotal": "1,148.82",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

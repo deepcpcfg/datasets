@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "1999",
+            {
+                "tp": 0.0,
+                "fp": 4.0,
+                "fn": 8.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "0.00",
+                            {
+                                "tp": 3.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Coomiasionable Chargee",
+                            {
+                                "tp": 19.0,
+                                "fp": 3.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 4.0,
+                        "fn": 10.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "0.00",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Agency Cwanissipn",
+                            {
+                                "tp": 6.0,
+                                "fp": 11.0,
+                                "fn": 17.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 10.0,
+                        "fp": 11.0,
+                        "fn": 17.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "209-00",
+                            {
+                                "tp": 4.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Invoice Aiwunz",
+                            {
+                                "tp": 5.0,
+                                "fp": 9.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 11.0,
+                        "fn": 12.0
+                    }
+                ]
+            ],
+            {
+                "tp": 41.0,
+                "fp": 26.0,
+                "fn": 39.0
+            }
+        ],
+        "InvoiceNumber": [
+            "Pft0l-0D5936",
+            {
+                "tp": 9.0,
+                "fp": 3.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 50.0,
+        "fp": 33.0,
+        "fn": 55.0
+    }
+]

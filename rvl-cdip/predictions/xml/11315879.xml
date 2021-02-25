@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="45.0" fp="141.0" fn="6.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="2192.0" t="724.0" r="2326.0" b="765.0">JULY</box>
+      <box l="2372.0" t="730.0" r="2417.0" b="771.0">9,</box>
+      <box l="2480.0" t="728.0" r="2601.0" b="772.0">1979</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2299.0" t="843.0" r="2428.0" b="890.0">6355</box>
+    </InvoiceNumber>
+    <LineItem tp="29.0" fp="141.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="762.0" t="1913.0" r="854.0" b="1954.0">800</box>
+          <box l="901.0" t="1914.0" r="1102.0" b="1954.0">COPIES</box>
+          <box l="1145.0" t="1917.0" r="1211.0" b="1953.0">OF</box>
+          <box l="1253.0" t="1917.0" r="1274.0" b="1952.0">2</box>
+          <box l="1320.0" t="1917.0" r="1453.0" b="1957.0">PAGE</box>
+          <box l="1496.0" t="1920.0" r="1761.0" b="1971.0">RELEASE,</box>
+          <box l="1811.0" t="1923.0" r="2082.0" b="1964.0">COLLATED</box>
+          <box l="2121.0" t="1925.0" r="2219.0" b="1965.0">ANO</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1009.0" t="1974.0" r="1311.0" b="2018.0">61/2X9</box>
+          <box l="1359.0" t="1975.0" r="1450.0" b="2018.0">1/2</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="657.0" t="2096.0" r="752.0" b="2133.0">FOR</box>
+          <box l="790.0" t="2094.0" r="1036.0" b="2135.0">MAILING</box>
+          <box l="1077.0" t="2099.0" r="1209.0" b="2136.0">WITH</box>
+          <box l="1252.0" t="2099.0" r="1343.0" b="2135.0">CTR</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="471.0" t="2276.0" r="680.0" b="2314.0">MONDAY</box>
+          <box l="726.0" t="2277.0" r="855.0" b="2315.0">JULY</box>
+          <box l="901.0" t="2277.0" r="954.0" b="2323.0">2,</box>
+          <box l="1016.0" t="2279.0" r="1136.0" b="2321.0">1979</box>
+          <box l="471.0" t="2336.0" r="576.0" b="2373.0">NEW</box>
+          <box l="617.0" t="2335.0" r="751.0" b="2375.0">YORK</box>
+          <box l="792.0" t="2335.0" r="1001.0" b="2376.0">OFFICE</box>
+          <box l="473.0" t="2395.0" r="572.0" b="2435.0">FOR</box>
+          <box l="618.0" t="2395.0" r="856.0" b="2435.0">MAILING</box>
+          <box l="902.0" t="2397.0" r="1093.0" b="2445.0">EARLY,</box>
+          <box l="1146.0" t="2398.0" r="1278.0" b="2436.0">JULY</box>
+          <box l="1321.0" t="2398.0" r="1372.0" b="2447.0">2,</box>
+          <box l="1434.0" t="2400.0" r="1554.0" b="2445.0">1979</box>
+          <box l="473.0" t="2515.0" r="786.0" b="2555.0">DELIVERED</box>
+          <box l="829.0" t="2516.0" r="964.0" b="2556.0">JULY</box>
+          <box l="1011.0" t="2517.0" r="1061.0" b="2564.0">5,</box>
+          <box l="1114.0" t="2518.0" r="1269.0" b="2561.0">1979.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2476.0" t="2525.0" r="2705.0" b="2575.0">$112.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

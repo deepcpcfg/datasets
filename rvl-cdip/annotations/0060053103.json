@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "05-0119",
+    "IssuedDate": "May 20. 1993",
+    "TotalAmount": "74.12",
+    "LineItem": [
+        {
+            "ItemDescription": "Data Entry 'Influential Person' (140 pcs. © S529.43/M)",
+            "ItemTotal": "$74.12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

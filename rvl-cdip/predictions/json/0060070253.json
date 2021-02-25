@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "5/93-0439",
+    "IssuedDate": "Date May 28, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "No"
+        },
+        {
+            "ItemDescription": "To: AVA Check Presentation and Conceepts copy and design mock-ups",
+            "ItemTotal": "4.620.00"
+        }
+    ],
+    "TotalAmount": "54,897.20"
+}

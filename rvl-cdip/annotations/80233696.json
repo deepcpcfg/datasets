@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "7001-1",
+    "IssuedDate": "July 18, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "14-Day Subacute Toxicity in Rats With A-63, A-122",
+            "ItemTotal": "$ 10,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

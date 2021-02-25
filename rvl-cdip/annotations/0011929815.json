@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "12,171.02",
+    "LineItem": [
+        {
+            "ItemDescription": "Per Capita Disbursement",
+            "ItemTotal": "3,633.52",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Market Share",
+            "ItemTotal": "8,537.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

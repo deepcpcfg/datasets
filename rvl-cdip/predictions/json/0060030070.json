@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "May 20. 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Direct"
+        },
+        {
+            "ItemDescription": "Data Entry March. 1993"
+        },
+        {
+            "ItemDescription": "Data Entry \"BSL392\" (10 pcs. $58.82 min, chg.)",
+            "ItemTotal": "$58.82"
+        }
+    ],
+    "TotalAmount": "$56.82"
+}

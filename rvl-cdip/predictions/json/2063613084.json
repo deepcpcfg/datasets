@@ -1,0 +1,21 @@
+{
+    "IssuedDate": "April 17,1998",
+    "LineItem": [
+        {
+            "ItemDescription": "Air travel Toronto/Atlanta/Toronto (Apr 15/17}",
+            "ItemTotal": "$1495.61"
+        },
+        {
+            "ItemDescription": "Hole! Accommodation (April 16,17,1998)",
+            "ItemTotal": "$453.72"
+        },
+        {
+            "ItemDescription": "Meeting preparation, travel and meeting attendance 2 days $1500.00/day ($US200/hour)",
+            "ItemTotal": "$3,000.00"
+        },
+        {
+            "ItemDescription": "Incidentals days $50.00/day",
+            "ItemTotal": "$100.00"
+        }
+    ]
+}

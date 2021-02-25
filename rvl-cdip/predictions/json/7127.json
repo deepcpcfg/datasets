@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "PR07-01GS72",
+    "IssuedDate": "2001",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-coaiiLLrnionable Charges",
+            "ItemTotal": "3,600.00"
+        },
+        {
+            "ItemDescription": "CcamiasionablB Charges",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Agency Corraleaion",
+            "ItemTotal": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="85.0" fp="39.0" fn="29.0">
+    <LineItem tp="76.0" fp="39.0" fn="16.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="562.0" t="2180.0" r="862.0" b="2213.0">RETOUCHING-</box>
+          <box l="896.0" t="2181.0" r="1179.0" b="2213.0">ELECTRONIC</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2083.0" t="2184.0" r="2304.0" b="2217.0">2t625.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2703.0" t="2183.0" r="2922.0" b="2216.0">2.841.56</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="562.0" t="2227.0" r="726.0" b="2259.0">LAYOUT</box>
+          <box l="813.0" t="2229.0" r="950.0" b="2258.0">GOWS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2080.0" t="2230.0" r="2304.0" b="2263.0">5^400.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2705.0" t="2230.0" r="2925.0" b="2262.0">5,845.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="2273.0" r="893.0" b="2305.0">illustration</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2705.0" t="2276.0" r="2925.0" b="2307.0">2.219.13</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="2322.0" r="695.0" b="2351.0">OTHER</box>
+          <box l="734.0" t="2322.0" r="971.0" b="2351.0">(SF-EGIFY)</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1858.0" t="2322.0" r="1908.0" b="2350.0">75</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2142.0" t="2322.0" r="2304.0" b="2351.0">102.73</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2763.0" t="2322.0" r="2922.0" b="2351.0">177.73</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2676.0" t="2551.0" r="2922.0" b="2585.0">11,083.92</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

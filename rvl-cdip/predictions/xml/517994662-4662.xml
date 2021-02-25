@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="158.0" fp="32.0" fn="5.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2740.0" t="552.0" r="2899.0" b="592.0">600470</box>
+    </InvoiceNumber>
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="2528.0" t="615.0" r="2698.0" b="661.0">August</box>
+      <box l="2712.0" t="614.0" r="2900.0" b="660.0">30,1996</box>
+    </IssuedDate>
+    <LineItem tp="138.0" fp="32.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="673.0" t="1693.0" r="811.0" b="1730.0">Camel</box>
+          <box l="832.0" t="1692.0" r="923.0" b="1730.0">Coll.</box>
+          <box l="941.0" t="1692.0" r="990.0" b="1729.0">40</box>
+          <box l="1008.0" t="1695.0" r="1057.0" b="1742.0">pk</box>
+          <box l="1073.0" t="1693.0" r="1166.0" b="1741.0">D-isp</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2791.0" t="1697.0" r="2882.0" b="1735.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="436.0" t="1806.0" r="452.0" b="1845.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="477.0" t="1809.0" r="545.0" b="1848.0">cm</box>
+          <box l="673.0" t="1810.0" r="811.0" b="1847.0">Camel</box>
+          <box l="832.0" t="1810.0" r="937.0" b="1849.0">Filler</box>
+          <box l="953.0" t="1809.0" r="1145.0" b="1850.0">Collector</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2416.0" t="1813.0" r="2532.0" b="1854.0">15.53</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2766.0" t="1814.0" r="2883.0" b="1855.0">1553</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="437.0" t="1929.0" r="452.0" b="1965.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="474.0" t="1928.0" r="545.0" b="1966.0">Ctn</box>
+          <box l="670.0" t="1930.0" r="809.0" b="1968.0">Cannel</box>
+          <box l="828.0" t="1930.0" r="912.0" b="1968.0">Box</box>
+          <box l="928.0" t="1934.0" r="1116.0" b="1970.0">Collector</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2416.0" t="1933.0" r="2532.0" b="1973.0">15.53</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2767.0" t="1935.0" r="2883.0" b="1972.0">15.53</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="437.0" t="2049.0" r="450.0" b="2086.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="474.0" t="2048.0" r="545.0" b="2089.0">Ctn</box>
+          <box l="670.0" t="2050.0" r="811.0" b="2089.0">Camel</box>
+          <box l="829.0" t="2051.0" r="929.0" b="2097.0">Light</box>
+          <box l="946.0" t="2051.0" r="1138.0" b="2092.0">Collector</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2413.0" t="2054.0" r="2529.0" b="2094.0">15.53</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2764.0" t="2056.0" r="2880.0" b="2093.0">15.53</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="437.0" t="2169.0" r="450.0" b="2207.0">i</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="474.0" t="2169.0" r="546.0" b="2207.0">cm</box>
+          <box l="671.0" t="2168.0" r="809.0" b="2210.0">Camel</box>
+          <box l="829.0" t="2169.0" r="875.0" b="2210.0">LI.</box>
+          <box l="896.0" t="2172.0" r="978.0" b="2209.0">Box</box>
+          <box l="992.0" t="2171.0" r="1184.0" b="2212.0">Collector</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2413.0" t="2174.0" r="2530.0" b="2214.0">15.53</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2764.0" t="2174.0" r="2880.0" b="2214.0">15.53</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

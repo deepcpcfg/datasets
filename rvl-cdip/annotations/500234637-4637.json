@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2-36",
+    "TotalAmount": "1,035.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Coat of conducting Salem Box Concept Study",
+            "ItemTotal": "900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Supervisory Expense",
+            "ItemTotal": "135.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

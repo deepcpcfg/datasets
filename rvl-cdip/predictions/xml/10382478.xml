@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="1762.0" t="1023.0" r="1874.0" b="1061.0">dULY</box>
+      <box l="1904.0" t="1024.0" r="1982.0" b="1069.0">30,</box>
+      <box l="2029.0" t="1021.0" r="2133.0" b="1061.0">19B2</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="316.0" t="1243.0" r="387.0" b="1281.0">110</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="506.0" t="1984.0" r="757.0" b="2024.0">ENVELOPES</box>
+          <box l="791.0" t="1984.0" r="991.0" b="2022.0">PRINTED</box>
+          <box l="1029.0" t="1985.0" r="1078.0" b="2019.0">IN</box>
+          <box l="1115.0" t="1983.0" r="1255.0" b="2020.0">BLACK</box>
+          <box l="1294.0" t="1983.0" r="1398.0" b="2020.0">INK-</box>
+          <box l="1486.0" t="1980.0" r="1519.0" b="2017.0">X</box>
+          <box l="1561.0" t="1980.0" r="1644.0" b="2018.0">ID-</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="312.0" t="2038.0" r="470.0" b="2086.0">IB,000</box>
+          <box l="504.0" t="2041.0" r="620.0" b="2079.0">WITH</box>
+          <box l="649.0" t="2038.0" r="757.0" b="2075.0">BULK</box>
+          <box l="795.0" t="2038.0" r="1020.0" b="2075.0">INDICIA-</box>
+          <box l="1057.0" t="2036.0" r="1194.0" b="2082.0">4,000</box>
+          <box l="1231.0" t="2034.0" r="1427.0" b="2074.0">WITHOUT</box>
+          <box l="1465.0" t="2034.0" r="1697.0" b="2073.0">INDICIA.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1788.0" t="2294.0" r="2046.0" b="2348.0">$1,565.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="1879.0" t="2407.0" r="2045.0" b="2448.0">370.84</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

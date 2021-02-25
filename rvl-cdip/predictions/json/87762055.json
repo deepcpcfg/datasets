@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "5004",
+    "IssuedDate": "November 1, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "Greensboro Special Election Two-thirde of Campaign Consulting Fee (Total Consul tine Fee 615,000.00)",
+            "ItemTotal": "$10,000.00"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "M00065",
+    "IssuedDate": "Jul 31, 1991",
+    "TotalAmount": "7,577.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Svenska invoice 91106 refers ",
+            "ItemTotal": "$ 4,093.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Svenska invoice 91107 refers ",
+            "ItemTotal": "$ 3,484.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "12058",
+    "LineItem": [
+        {
+            "ItemDescription": "Press Screw Cage Top",
+            "ItemTotal": "38,600.00"
+        },
+        {
+            "ItemDescription": "Bottom Sections",
+            "ItemTotal": "115,80C.00"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemDescription": "Lot of Press Screw",
+            "ItemTotal": "2,050.00"
+        },
+        {
+            "ItemDescription": "Cage Fasteners",
+            "ItemTotal": "6,150.00"
+        }
+    ],
+    "TotalAmount": ".111,950,00"
+}

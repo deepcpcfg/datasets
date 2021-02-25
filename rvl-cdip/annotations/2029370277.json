@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "M00037",
+    "IssuedDate": "May 8, 1991",
+    "TotalAmount": "920.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Issue TWo, 3,000 copies",
+            "ItemTotal": "$ 460.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Issue Three, 3,000 copies",
+            "ItemTotal": "$ 460.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

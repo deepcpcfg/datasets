@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "October IL 1994",
+    "InvoiceNumber": "M3 84905",
+    "TotalAmount": "187,380.37",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES FOR PROFESSIONAL SERVICES:",
+            "ItemTotal": "80,524.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CHARGES:",
+            "ItemTotal": "6,209.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TOTAL CURRENT FEES AND CHARGES:",
+            "ItemTotal": "86,734.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

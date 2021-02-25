@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "September 11,",
+    "TotalAmount": "$20,090*",
+    "LineItem": [
+        {
+            "ItemTotal": "$3,500",
+            "ItemDescription": "attending"
+        },
+        {
+            "ItemDescription": "meetings",
+            "ItemTotal": "$16/500"
+        }
+    ]
+}

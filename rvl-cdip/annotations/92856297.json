@@ -1,0 +1,13 @@
+{
+    "TotalAmount": "4,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Miscellaneous ROOM RENTAL",
+            "ItemTotal": "4,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

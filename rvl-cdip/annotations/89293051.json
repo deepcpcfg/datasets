@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "June 22, 1986",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Services Rendered Re« TRUE PORTFOLIO STUDY",
+            "ItemTotal": "$1350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Amount Billed at Previous Date(6/1/86}",
+            "ItemTotal": "650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

@@ -1,0 +1,103 @@
+{
+    "TotalAmount": "12791.09",
+    "LineItem": [
+        {
+            "ItemDescription": "Retrieval of comments in OST-96-1880.",
+            "ItemUnitCount": "5.00",
+            "ItemTotal": "275.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Review latest DOT docket submissions; draft memo to M. Pottorff on ICAO meetings, Airbus draft and related matters.",
+            "ItemUnitCount": "1.50",
+            "ItemTotal": "472.50",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "3.00",
+            "ItemTotal": "945.00",
+            "ItemDescription": "Draft memo to Ambassador Peissik; prepare summary of FAA funding process and Aviation Trust Fund; send to Peissik; draft and send memo to N. Bertrand (Air France) on ICAO meeting",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "315.00",
+            "ItemDescription": "Telephone conference with M. Pottorfr on DOT statistics, Airbus draft, NYC meeting and related matters.",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "315.00",
+            "ItemDescription": "Review latest DOT docket submissions; discuss with M. Crews.",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemTotal": "1260.00",
+            "ItemDescription": "Travel DCA/NYC",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "3.00",
+            "ItemTotal": "945.00",
+            "ItemDescription": "Meeting with N. Pottorff, M. Winokur 120 Park Ave on various matters",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemTotal": "1260.00",
+            "ItemDescription": "Travel NYC/DCA",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Messenger",
+            "ItemTotal": "120.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxi",
+            "ItemTotal": "7.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Air Express",
+            "ItemTotal": "521.68",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "4835.83",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Publications",
+            "ItemTotal": "37.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Xerox",
+            "ItemTotal": "1429.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "46.3 8",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telecopy",
+            "ItemTotal": "6.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

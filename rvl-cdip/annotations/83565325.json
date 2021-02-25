@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "8397",
+    "IssuedDate": "11-25-98",
+    "TotalAmount": "114.55",
+    "LineItem": [
+        {
+            "ItemDescription": "HP C4127X Toner $108.00 ea",
+            "ItemUnitCount": "1",
+            "ItemTotal": "$108.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Freight",
+            "ItemTotal": "$ 6.55",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "00365a",
+    "LineItem": [
+        {
+            "ItemDescription": "RETAIL COUPON PROCESSING S23.75/M",
+            "ItemTotal": "89,400.27"
+        },
+        {
+            "ItemDescription": "CHARGE",
+            "ItemTotal": "2,315.00"
+        }
+    ],
+    "TotalAmount": "97,265.67"
+}

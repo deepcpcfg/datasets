@@ -1,0 +1,47 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Laboratory Supplies",
+            "ItemTotal": "235.33"
+        },
+        {
+            "ItemDescription": "Animal Animals Feed and Bedding",
+            "ItemTotal": "520.73"
+        },
+        {
+            "ItemDescription": "Biochemist (Harris Rosenkrnnte, Ph.D.)",
+            "ItemUnitCount": "20",
+            "ItemTotal": "203.17"
+        },
+        {
+            "ItemDescription": "Pathologist (Marcus M» Mason,",
+            "ItemUnitCount": "43",
+            "ItemTotal": "555.61"
+        },
+        {
+            "ItemDescription": "Technician pharmacology",
+            "ItemUnitCount": "44",
+            "ItemTotal": "86.16"
+        },
+        {
+            "ItemDescription": "Technician histology",
+            "ItemUnitCount": "249",
+            "ItemTotal": "728.93"
+        },
+        {
+            "ItemDescription": "Technician biochemistry",
+            "ItemTotal": "233.45"
+        },
+        {
+            "ItemDescription": "Clerk data processing",
+            "ItemUnitCount": "17",
+            "ItemUnitValue": "38.53",
+            "ItemTotal": "1,845.35"
+        },
+        {
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemTotal": "1,845.85"
+        }
+    ],
+    "TotalAmount": "$4,717.92"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="62.0" fp="4.0" fn="8.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2283.0" t="1218.0" r="2525.0" b="1264.0">10/12/90</box>
+    </IssuedDate>
+    <LineItem tp="46.0" fp="3.0" fn="8.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="458.0" t="1464.0" r="548.0" b="1502.0">HLA</box>
+          <box l="579.0" t="1465.0" r="762.0" b="1514.0">Typing</box>
+          <box l="792.0" t="1475.0" r="849.0" b="1506.0">on</box>
+          <box l="884.0" t="1464.0" r="1091.0" b="1510.0">3/28/90</box>
+          <box l="579.0" t="1590.0" r="634.0" b="1635.0">57</box>
+          <box l="671.0" t="1590.0" r="849.0" b="1634.0">Donors</box>
+          <box l="884.0" t="1589.0" r="912.0" b="1635.0">0</box>
+          <box l="946.0" t="1589.0" r="1121.0" b="1638.0">$60.00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2280.0" t="1595.0" r="2555.0" b="1648.0">$3,420.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2280.0" t="1848.0" r="2551.0" b="1903.0">$3,420.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

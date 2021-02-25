@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="104.0" fp="12.0" fn="27.0">
+    <IssuedDate tp="14.0" fp="6.0" fn="0.0">
+      <box l="426.0" t="2427.0" r="600.0" b="2463.0">DATE:</box>
+      <box l="646.0" t="2426.0" r="829.0" b="2463.0">March</box>
+      <box l="871.0" t="2430.0" r="962.0" b="2475.0">26,</box>
+      <box l="1016.0" t="2430.0" r="1150.0" b="2466.0">1998</box>
+    </IssuedDate>
+    <LineItem tp="82.0" fp="4.0" fn="22.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="470.0" t="2922.0" r="720.0" b="2963.0">500,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="909.0" t="2922.0" r="1050.0" b="2959.0">Code</box>
+          <box l="1089.0" t="2922.0" r="1226.0" b="2960.0">1R4F</box>
+          <box l="1263.0" t="2923.0" r="1543.0" b="2960.0">Research</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1658.0" t="2922.0" r="1938.0" b="2968.0">$40.00/M</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2230.0" t="2922.0" r="2583.0" b="2967.0">$20,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="467.0" t="3088.0" r="720.0" b="3134.0">550,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="909.0" t="3089.0" r="1046.0" b="3127.0">Code</box>
+          <box l="1092.0" t="3092.0" r="1229.0" b="3130.0">1R5F</box>
+          <box l="1263.0" t="3092.0" r="1545.0" b="3130.0">Research</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1658.0" t="3092.0" r="1937.0" b="3138.0">$40.00/M</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2233.0" t="3089.0" r="2583.0" b="3138.0">$22,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="2.0" fn="1.0">
+      <box l="2233.0" t="3477.0" r="2580.0" b="3526.0">$45,742-66</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

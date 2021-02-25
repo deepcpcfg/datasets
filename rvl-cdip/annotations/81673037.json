@@ -1,0 +1,145 @@
+{
+    "InvoiceNumber": "86660",
+    "IssuedDate": "12  28  99",
+    "TotalAmount": "41,517.63",
+    "LineItem": [
+        {
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "637.20",
+            "ItemDescription": "KNTI1I 100BX"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40",
+            "ItemDescription": "KENT III 100"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40",
+            "ItemDescription": "TRUE FIL KNG"
+        },
+        {
+            "ItemUnitCount": "108",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "11,469.60",
+            "ItemDescription": "NEWPORT BOX"
+        },
+        {
+            "ItemUnitCount": "€",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "637.20",
+            "ItemDescription": "NPT LITE BX"
+        },
+        {
+            "ItemUnitCount": "24",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "2,548.80",
+            "ItemDescription": "NEWPORT KING"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40",
+            "ItemDescription": "KENT 100"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40",
+            "ItemDescription": "KENT KING"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40",
+            "ItemDescription": "KENT GL KS"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40",
+            "ItemDescription": "KENT GL 100"
+        },
+        {
+            "ItemUnitCount": "48",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "5, 097.50",
+            "ItemDescription": "NPT 100 BOX"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.4 0",
+            "ItemDescription": "MAV SP MBX100 LP"
+        },
+        {
+            "ItemUnitValue": "92,7000",
+            "ItemTotal": "556.20",
+            "ItemDescription": "MAV SP M 80BX LP",
+            "ItemUnitCount": "6"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.40",
+            "ItemDescription": "MV SP LTM100BXLP"
+        },
+        {
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "92,7000",
+            "ItemTotal": "556.20",
+            "ItemDescription": "MAV S? LTM80BXLP"
+        },
+        {
+            "ItemUnitCount": "36",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "3,337.20",
+            "ItemDescription": "MAV 100 BOX"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.40",
+            "ItemDescription": "MAV LT IUD BOX"
+        },
+        {
+            "ItemUnitCount": "e",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "637.20",
+            "ItemDescription": "TRUE BOX"
+        },
+        {
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "556.20",
+            "ItemDescription": "MAVSP 35 LP",
+            "ItemUnitCount": "6"
+        },
+        {
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "556.20",
+            "ItemDescription": "MAVSP LT 85 LP"
+        },
+        {
+            "ItemUnitCount": "30",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "2,781.00",
+            "ItemDescription": "MAVSP 80 BX LF"
+        },
+        {
+            "ItemUnitCount": "18",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,668.60",
+            "ItemDescription": "MAVSP IOC LP"
+        },
+        {
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.40",
+            "ItemDescription": "MAVSP LT 100 LP"
+        }
+    ]
+}

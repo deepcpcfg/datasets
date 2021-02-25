@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "806262",
+    "IssuedDate": "March 18, 1983",
+    "TotalAmount": "6,204.21",
+    "LineItem": [
+        {
+            "ItemUnitValue": "$5,453.37",
+            "ItemTotal": "55,453.37",
+            "ItemDescription": "Sponsorship costs",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "750.84",
+            "ItemTotal": "750.84",
+            "ItemDescription": "Travel & Out-of-pocket",
+            "ItemUnitCount": ""
+        }
+    ]
+}

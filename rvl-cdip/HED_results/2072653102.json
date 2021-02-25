@@ -1,0 +1,223 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "1156'000",
+                            {
+                                "tp": 1.0,
+                                "fp": 7.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "3,471-00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "URAF1 ROYALE KS LIGHTS COST. UPC 11141-93508",
+                            {
+                                "tp": 35.0,
+                                "fp": 9.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 43.0,
+                        "fp": 17.0,
+                        "fn": 11.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "22.25",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2,136-00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "AHI RQYALE KS LIGHTS MEN GUST. UPC 11141-98509",
+                            {
+                                "tp": 41.0,
+                                "fp": 5.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 53.0,
+                        "fp": 6.0,
+                        "fn": 4.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "156",
+                            {
+                                "tp": 3.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "3,666.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "A JI ROYALE 100S LIGHTS COST. UPC 11141-98510",
+                            {
+                                "tp": 38.0,
+                                "fp": 7.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 49.0,
+                        "fp": 7.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,974.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "ROYALE 10OS LIGHTS MEN",
+                            {
+                                "tp": 20.0,
+                                "fp": 2.0,
+                                "fn": 24.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 2.0,
+                        "fn": 29.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "UPC 11141-985L1",
+                            {
+                                "tp": 0.0,
+                                "fp": 15.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 15.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 173.0,
+                "fp": 47.0,
+                "fn": 52.0
+            }
+        ],
+        "TotalAmount": [
+            "11,022.06",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 173.0,
+        "fp": 56.0,
+        "fn": 52.0
+    }
+]

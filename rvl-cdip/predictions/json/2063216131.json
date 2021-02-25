@@ -1,0 +1,25 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Her-521 ZUW)66.013 TD93",
+            "ItemTotal": "18285.00-"
+        },
+        {
+            "ItemDescription": "LG1-621-004066-023 TD93",
+            "ItemTotal": "2225.00"
+        },
+        {
+            "ItemDescription": "AEl-621-004066-033 RICHMOND TD93",
+            "ItemTotal": "111.00"
+        },
+        {
+            "ItemDescription": "Wt*-62t-004066-013 T093",
+            "ItemTotal": "6120.00"
+        },
+        {
+            "ItemDescription": "LG!-621-004066-023 AE1-621-004066-033",
+            "ItemTotal": "2650.00"
+        }
+    ],
+    "TotalAmount": "30331"
+}

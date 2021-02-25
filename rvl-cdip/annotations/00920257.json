@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1500-6",
+    "IssuedDate": "September 1, 1983",
+    "TotalAmount": "84,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "MOUSE SKIN PAINTING STUDY WITH 0-1 and D-10 S ",
+            "ItemTotal": "$ 15,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Award",
+            "ItemTotal": "$ 174,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

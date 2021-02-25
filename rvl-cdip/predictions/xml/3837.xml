@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="112.0" fp="4.0" fn="101.0">
+    <LineItem tp="102.0" fp="3.0" fn="81.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="691.0" t="1901.0" r="854.0" b="1944.0">Ongoing</box>
+          <box l="870.0" t="1901.0" r="1033.0" b="1934.0">Variable</box>
+          <box l="1042.0" t="1901.0" r="1221.0" b="1945.0">Expenses</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1359.0" t="1901.0" r="1571.0" b="1940.0">154,615.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="691.0" t="1955.0" r="888.0" b="1991.0">Additional</box>
+          <box l="905.0" t="1955.0" r="1005.0" b="1990.0">AWS</box>
+          <box l="1021.0" t="1955.0" r="1116.0" b="1991.0">Gftos</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1384.0" t="1955.0" r="1571.0" b="1995.0">10,833.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="688.0" t="2010.0" r="821.0" b="2046.0">Frozen</box>
+          <box l="830.0" t="2010.0" r="1008.0" b="2046.0">Database</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1409.0" t="2010.0" r="1571.0" b="2050.0">1.500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="871.0" t="2238.0" r="1037.0" b="2284.0">Ongoing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1688.0" t="2238.0" r="1931.0" b="2279.0">$200,559.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="10.0" fp="1.0" fn="0.0">
+      <box l="2627.0" t="2580.0" r="2871.0" b="2619.0">$171.037.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

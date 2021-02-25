@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="218.0" fp="92.0" fn="498.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="2093.0" t="536.0" r="2197.0" b="583.0">July</box>
+      <box l="2218.0" t="536.0" r="2422.0" b="579.0">21.1994</box>
+    </IssuedDate>
+    <LineItem tp="206.0" fp="92.0" fn="487.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="950.0" t="1669.0" r="1046.0" b="1709.0">13-1</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="952.0" t="1485.0" r="1179.0" b="1521.0">PRIVATE</box>
+          <box l="1201.0" t="1487.0" r="1400.0" b="1529.0">STOCK,</box>
+          <box l="1426.0" t="1484.0" r="1600.0" b="1526.0">PRIME,</box>
+          <box l="1626.0" t="1484.0" r="1833.0" b="1521.0">SUMMIT</box>
+          <box l="1856.0" t="1487.0" r="2055.0" b="1533.0">Spanish</box>
+          <box l="2083.0" t="1485.0" r="2404.0" b="1521.0">Point-or-Sale</box>
+          <box l="951.0" t="1609.0" r="1179.0" b="1646.0">PRIVATE</box>
+          <box l="1200.0" t="1609.0" r="1383.0" b="1646.0">STOCK</box>
+          <box l="1408.0" t="1609.0" r="1608.0" b="1655.0">Spanish</box>
+          <box l="1634.0" t="1609.0" r="1842.0" b="1655.0">Package</box>
+          <box l="1867.0" t="1609.0" r="2054.0" b="1658.0">Display</box>
+          <box l="2072.0" t="1609.0" r="2235.0" b="1651.0">Cards,</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2530.0" t="1609.0" r="2627.0" b="1650.0">$9,4</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="387.0" t="1859.0" r="511.0" b="1900.0">3,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="950.0" t="1734.0" r="1221.0" b="1772.0">MATERIAL</box>
+          <box l="1247.0" t="1734.0" r="1413.0" b="1775.0">CODE:</box>
+          <box l="1455.0" t="1734.0" r="1904.0" b="1775.0">COA-03000-PS-SP</box>
+          <box l="950.0" t="1859.0" r="1113.0" b="1896.0">PRIME</box>
+          <box l="1137.0" t="1859.0" r="1337.0" b="1905.0">Spanish</box>
+          <box l="1363.0" t="1859.0" r="1571.0" b="1905.0">Package</box>
+          <box l="1597.0" t="1859.0" r="1783.0" b="1906.0">Display</box>
+          <box l="1805.0" t="1859.0" r="1964.0" b="1905.0">Cards,</box>
+          <box l="1989.0" t="1859.0" r="2160.0" b="1896.0">13-1/2"</box>
+          <box l="2180.0" t="1867.0" r="2205.0" b="1896.0">x</box>
+          <box l="951.0" t="1917.0" r="1221.0" b="1955.0">MATERIAL</box>
+          <box l="1246.0" t="1917.0" r="1413.0" b="1955.0">CODE:</box>
+          <box l="1455.0" t="1917.0" r="1904.0" b="1955.0">CDA-03000-PE-SP</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="383.0" t="2039.0" r="511.0" b="2084.0">2,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="950.0" t="2041.0" r="1154.0" b="2080.0">SUMMIT</box>
+          <box l="1179.0" t="2042.0" r="1380.0" b="2084.0">Spanish</box>
+          <box l="1405.0" t="2042.0" r="1613.0" b="2088.0">Package</box>
+          <box l="1639.0" t="2042.0" r="1826.0" b="2088.0">Display</box>
+          <box l="1844.0" t="2042.0" r="2005.0" b="2087.0">Cards,</box>
+          <box l="2033.0" t="2042.0" r="2200.0" b="2080.0">13-1/2"</box>
+          <box l="947.0" t="2101.0" r="1218.0" b="2142.0">MATERIAL</box>
+          <box l="1242.0" t="2102.0" r="1412.0" b="2142.0">CODE:</box>
+          <box l="1454.0" t="2102.0" r="1954.0" b="2142.0">CDA-O30OC-SUM-SP</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

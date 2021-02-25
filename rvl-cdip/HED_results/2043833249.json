@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "1ft/77",
+            {
+                "tp": 0.0,
+                "fp": 6.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "4.76",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MARLBORO KING SOFT",
+                            {
+                                "tp": 18.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 22.0,
+                        "fp": 0.0,
+                        "fn": 1.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "4*76",
+                            {
+                                "tp": 3.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MENTHOL MARLBORO KING FILL AS SAND",
+                            {
+                                "tp": 21.0,
+                                "fp": 13.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 24.0,
+                        "fp": 14.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 46.0,
+                "fp": 14.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "704",
+            {
+                "tp": 0.0,
+                "fp": 3.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "63145",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 51.0,
+        "fp": 23.0,
+        "fn": 2.0
+    }
+]

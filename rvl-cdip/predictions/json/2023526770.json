@@ -1,0 +1,64 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "SALARIES WAGES",
+            "ItemUnitValue": "3,361.79",
+            "ItemTotal": "17,048.47"
+        },
+        {
+            "ItemDescription": "BENEFITS"
+        },
+        {
+            "ItemDescription": "EQUIPMENT",
+            "ItemTotal": "19,267.96"
+        },
+        {
+            "ItemDescription": "COMMUNICATIONS",
+            "ItemUnitValue": "269.34",
+            "ItemTotal": "981.04"
+        },
+        {
+            "ItemDescription": "TRAVEL",
+            "ItemUnitValue": "3.29",
+            "ItemTotal": "944.29"
+        },
+        {
+            "ItemDescription": "FILT",
+            "ItemTotal": "0",
+            "ItemUnitValue": "0.00"
+        },
+        {
+            "ItemDescription": "LEASE RENTAL",
+            "ItemUnitValue": "32.00",
+            "ItemTotal": "160.00"
+        },
+        {
+            "ItemDescription": "REPAIR MAINTENANCE",
+            "ItemTotal": "120.00"
+        },
+        {
+            "ItemDescription": "SERVICES PRINTING",
+            "ItemUnitValue": "33.65",
+            "ItemTotal": "629.40"
+        },
+        {
+            "ItemDescription": "SUPPLIES",
+            "ItemTotal": "2,076.70"
+        },
+        {
+            "ItemDescription": "CONFERENCES",
+            "ItemTotal": "70,00"
+        },
+        {
+            "ItemDescription": "OTHER",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "INDIRECT COSTS",
+            "ItemUnitValue": ",280.58",
+            "ItemTotal": "6,563.86"
+        }
+    ],
+    "TotalAmount": "6,402.88",
+    "IssuedDate": "01/22/90"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1017",
+    "IssuedDate": "July 12, 1991",
+    "TotalAmount": "2668-75",
+    "LineItem": [
+        {
+            "ItemDescription": "Lienzo Charro—  Riverside, July, 14, 1991 Ramon Ayala",
+            "ItemTotal": "2500-00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

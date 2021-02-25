@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "024289",
+    "IssuedDate": "1/19/90",
+    "TotalAmount": "28,880.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1900",
+            "ItemUnitValue": "15.2000",
+            "ItemTotal": "28,680.00",
+            "ItemDescription": "MISTY SLIMS (ATC-MTY-09-756) \"TODAY'S FASHION'’ (30 #12B / 1870 #12A) 30-SHEET BLEED"
+        }
+    ]
+}

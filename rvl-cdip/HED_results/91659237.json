@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "JUL.16,1984",
+            {
+                "tp": 11.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "9,390.80",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "11,048.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "1 PAGE JUL.23,1984 JET 4 COLOR ORDER NUMBER T513",
+                            {
+                                "tp": 47.0,
+                                "fp": 1.0,
+                                "fn": 15.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 56.0,
+                        "fp": 1.0,
+                        "fn": 15.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,657",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "COMMISSI ON FROM ABOVE ITEM",
+                            {
+                                "tp": 26.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 31.0,
+                        "fp": 1.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 87.0,
+                "fp": 2.0,
+                "fn": 18.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1025968",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 113.0,
+        "fp": 2.0,
+        "fn": 18.0
+    }
+]

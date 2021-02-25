@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "30235",
+    "IssuedDate": "January 2, 1991",
+    "TotalAmount": "448,929.32",
+    "LineItem": [
+        {
+            "ItemTotal": "51.515.10 ",
+            "ItemDescription": "K23 312 ■ Z8&,600 ‘ 17.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "95.1C4.B0 ",
+            "ItemDescription": "K23L 576 . 532,800 ■ 17.85 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "96,425,70",
+            "ItemDescription": "K45 504 ' 540,200 * 17.85 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "88,987.43",
+            "ItemDescription": "K45L 539 . 498,529 ’ 17.85 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "42,929.25",
+            "ItemDescription": "67L 260 ' 240,500 • 17.85 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "38,281.39",
+            "ItemDescription": "R£ STEH 768 ' 715,540 ' 5.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "11,566.80",
+            "ItemDescription": "RC SCRAP 106 ’ 64, BOO > 17.8",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,392.30 ",
+            "ItemDescription": "3K FINES 13 ■ 7,800 ' 17.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "39000",
+    "TotalAmount": "53.25",
+    "LineItem": [
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "6.8800",
+            "ItemTotal": "13.76",
+            "ItemDescription": "Harley-Davidson "
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "6.8860",
+            "ItemTotal": "13.76",
+            "ItemDescription": "Harley RS Flit"
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "6.8800",
+            "ItemTotal": "13.76",
+            "ItemDescription": "Davidson K S Flit "
+        },
+        {
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "6.8800",
+            "ItemTotal": "13.76",
+            "ItemDescription": "KS Flit"
+        }
+    ],
+    "IssuedDate": ""
+}

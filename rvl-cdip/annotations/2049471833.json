@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "SJE 3-51",
+    "IssuedDate": "March 31 ",
+    "LineItem": [
+        {
+            "ItemDescription": "To charge your account For 1st quarter 1980 Advertising Research",
+            "ItemTotal": "$ 118,125 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

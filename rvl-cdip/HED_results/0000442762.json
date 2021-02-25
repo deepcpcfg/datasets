@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "January 6, 1981",
+            {
+                "tp": 15.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$15,000.00",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Brown",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 5.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Kool Milds Truck Stoppers Program 1980 Partial Billing February 1, 1981 February 28 1981",
+                            {
+                                "tp": 88.0,
+                                "fp": 0.0,
+                                "fn": 50.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 11.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 88.0,
+                        "fp": 0.0,
+                        "fn": 61.0
+                    }
+                ]
+            ],
+            {
+                "tp": 88.0,
+                "fp": 5.0,
+                "fn": 61.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 112.0,
+        "fp": 6.0,
+        "fn": 65.0
+    }
+]

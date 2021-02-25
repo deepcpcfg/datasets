@@ -1,0 +1,39 @@
+{
+    "InvoiceNumber": "0690",
+    "LineItem": [
+        {
+            "ItemDescription": "Audited Premium",
+            "ItemUnitCount": "1,357,774",
+            "ItemTotal": "1,856,659"
+        },
+        {
+            "ItemDescription": "Retrospective Premium",
+            "ItemUnitValue": "1,711,070",
+            "ItemTotal": "2,572,595"
+        },
+        {
+            "ItemDescription": "Previously Billed Premium",
+            "ItemUnitValue": "1,728,156",
+            "ItemTotal": "2,589,681"
+        },
+        {
+            "ItemDescription": "Gross Adjustment (2 3) 17,O86CR",
+            "ItemTotal": "17,086CR"
+        },
+        {
+            "ItemDescription": "Dividend on Retro. Premium",
+            "ItemUnitCount": "1",
+            "ItemTotal": "256,660"
+        },
+        {
+            "ItemDescription": "Previously Billed Dividend",
+            "ItemTotal": "259,223",
+            "ItemUnitValue": "259,223"
+        },
+        {
+            "ItemDescription": "Dividend Offset",
+            "ItemTotal": "2,563"
+        }
+    ],
+    "IssuedDate": "11/19/85"
+}

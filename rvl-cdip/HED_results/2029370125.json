@@ -1,0 +1,117 @@
+[
+    {
+        "IssuedDate": [
+            "March 21, 1991",
+            {
+                "tp": 14.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "the cost of air freighting 33,000 issues of the second",
+                            {
+                                "tp": 54.0,
+                                "fp": 0.0,
+                                "fn": 259.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 54.0,
+                        "fp": 0.0,
+                        "fn": 268.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "edition of the HBI Magazine to Australia.",
+                            {
+                                "tp": 0.0,
+                                "fp": 41.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 41.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "3,264 Ite",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 9.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 54.0,
+                "fp": 50.0,
+                "fn": 268.0
+            }
+        ],
+        "TotalAmount": [
+            "11,712.70",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "00024",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 73.0,
+        "fp": 59.0,
+        "fn": 269.0
+    }
+]

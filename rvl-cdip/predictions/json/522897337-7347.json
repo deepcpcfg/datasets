@@ -1,0 +1,29 @@
+{
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "WINSTON 20 KS EX NOS(000001-000025)",
+            "ItemTotal": "25.7"
+        },
+        {
+            "ItemDescription": "IN 18 X 09 X 11 KT 0.457X0.238X0.277",
+            "ItemTotal": ".756"
+        },
+        {
+            "ItemDescription": "8530 204-PI INS POL(ASIA PAC INC",
+            "ItemTotal": "25.7"
+        },
+        {
+            "ItemDescription": "MUNICIPALITY OF DEDEDO TANUNING, RJR PAPERS GUAM 96911 11&-P.1. INV* (ASIA PACIFIC IN 804-N/N/ B/L"
+        },
+        {
+            "ItemDescription": "204-PI INS POL(ASIA PAC INC"
+        },
+        {
+            "ItemDescription": "116-P.I. INV. (ASIA PACIFIC IN"
+        },
+        {
+            "ItemDescription": "804-N/N/ 300-2149 B/L 301-7525 204-PI INS POL(AS IA PAC INC 204-PI INS POL(ASIA PAC INC"
+        }
+    ]
+}

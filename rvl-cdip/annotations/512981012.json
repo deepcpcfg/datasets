@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "05-151",
+    "IssuedDate": "May 2, 1989",
+    "TotalAmount": "752.00",
+    "LineItem": [
+        {
+            "ItemDescription": "36 hours Labor @ 12.00 per hour",
+            "ItemTotal": "432.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "20 \" Security\" 16.00 ",
+            "ItemTotal": "320.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

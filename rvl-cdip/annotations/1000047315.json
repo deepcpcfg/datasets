@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "16645 ",
+    "LineItem": [
+        {
+            "ItemDescription": "Gotheuburg/Copenhagen/Dusaeldorf",
+            "ItemTotal": "14.12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dusseldorf / Geneva",
+            "ItemTotal": "15-12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Brneva/ Copenhagen/Gothenbuxg",
+            "ItemTotal": "18.12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

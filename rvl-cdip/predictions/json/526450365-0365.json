@@ -1,0 +1,32 @@
+{
+    "InvoiceNumber": "97465",
+    "IssuedDate": "7/23/97",
+    "LineItem": [
+        {
+            "ItemDescription": "Expert Testimony Development as detailed on attached Task Worksheet",
+            "ItemUnitCount": "58",
+            "ItemUnitValue": "300.00",
+            "ItemTotal": "17.400,00"
+        },
+        {
+            "ItemDescription": "Hotel in Miami",
+            "ItemTotal": "317.42",
+            "ItemUnitValue": "317.42"
+        },
+        {
+            "ItemDescription": "Airfare to and from Miami",
+            "ItemUnitValue": "1759.00",
+            "ItemTotal": "1,759.00"
+        },
+        {
+            "ItemDescription": "Taxi to and from Hotel",
+            "ItemTotal": "40.00",
+            "ItemUnitValue": "40.00"
+        },
+        {
+            "ItemDescription": "Travel Expenses: Miami, FL 7/30/97 7/22/97",
+            "ItemTotal": "2.116.42"
+        }
+    ],
+    "TotalAmount": "$1W16.42"
+}

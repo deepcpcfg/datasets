@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "9919706",
+    "IssuedDate": "October 15, 1999",
+    "TotalAmount": "52,589.99",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES",
+            "ItemTotal": "$40,712.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COSTS related thereto",
+            "ItemTotal": "$11,877.99",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

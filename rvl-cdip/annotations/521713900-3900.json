@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "193",
+    "IssuedDate": "December 12,1996",
+    "TotalAmount": "45,795",
+    "LineItem": [
+        {
+            "ItemDescription": "Focus groups (including incentives)",
+            "ItemTotal": "$25,642",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,828",
+            "ItemDescription": "ravel expenses - L. Rust & T. Dupont",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$17,325",
+            "ItemDescription": "Questionnaire Design, Planning, Focus Group Attendance (T. Dupont)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

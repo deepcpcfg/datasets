@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2201.0" t="1030.0" r="2379.0" b="1071.0">28892</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2201.0" t="1092.0" r="2446.0" b="1133.0">9/30/94</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="363.0" t="1684.0" r="495.0" b="1729.0">DATA</box>
+          <box l="520.0" t="1684.0" r="833.0" b="1729.0">ENTRY-</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2663.0" t="1692.0" r="2825.0" b="1734.0">99.10</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="365.0" t="1751.0" r="566.0" b="1791.0">UPDATE</box>
+          <box l="595.0" t="1751.0" r="804.0" b="1791.0">MASTER</box>
+          <box l="829.0" t="1751.0" r="1090.0" b="1791.0">FILE----</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2663.0" t="1753.0" r="2823.0" b="1796.0">&lt;50.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="363.0" t="1809.0" r="691.0" b="1851.0">SORT/PRINT</box>
+          <box l="721.0" t="1809.0" r="820.0" b="1851.0">3X5</box>
+          <box l="846.0" t="1810.0" r="1030.0" b="1851.0">CARDS:</box>
+          <box l="1067.0" t="1812.0" r="1320.0" b="1851.0">IM-</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2660.0" t="1805.0" r="2825.0" b="1858.0">36.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

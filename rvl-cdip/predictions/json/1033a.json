@@ -1,0 +1,34 @@
+{
+    "IssuedDate": "October 20 r 1988",
+    "LineItem": [
+        {
+            "ItemDescription": "Golf fees to play in the"
+        },
+        {
+            "ItemDescription": "Candy Political Action"
+        },
+        {
+            "ItemDescription": "Committee's Third Annual Golf Tournament that will be held during"
+        },
+        {
+            "ItemDescription": "the Bob convention Ave on November 5, 1988 for:",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "Lou Gordon*",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "Dick",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "Jim McCann.",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "Frank Henigman"
+        }
+    ],
+    "TotalAmount": "900.00"
+}

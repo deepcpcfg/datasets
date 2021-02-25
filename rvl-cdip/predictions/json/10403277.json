@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "MARCH nt 1981",
+    "InvoiceNumber": "1379",
+    "LineItem": [
+        {
+            "ItemDescription": "ADDRESSING",
+            "ItemTotal": ".80"
+        },
+        {
+            "ItemDescription": "50",
+            "ItemTotal": "5.60"
+        }
+    ]
+}

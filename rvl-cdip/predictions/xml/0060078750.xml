@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="80.0" fp="20.0" fn="15.0">
+    <InvoiceNumber tp="2.0" fp="10.0" fn="3.0">
+      <box l="2443.0" t="944.0" r="2781.0" b="986.0">M1119S4frlO4</box>
+    </InvoiceNumber>
+    <LineItem tp="69.0" fp="9.0" fn="4.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="217.0" t="1519.0" r="296.0" b="1559.0">155</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="414.0" t="1519.0" r="585.0" b="1557.0">STRIKE</box>
+          <box l="618.0" t="1519.0" r="669.0" b="1556.0">IT</box>
+          <box l="702.0" t="1518.0" r="872.0" b="1557.0">RICHER</box>
+          <box l="965.0" t="1518.0" r="1140.0" b="1559.0">STRIKE</box>
+          <box l="1174.0" t="1521.0" r="1227.0" b="1559.0">IT</box>
+          <box l="1257.0" t="1520.0" r="1428.0" b="1559.0">SMOOTH</box>
+          <box l="1461.0" t="1519.0" r="1660.0" b="1558.0">DESIGNS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2271.0" t="1520.0" r="2471.0" b="1559.0">223.530</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2617.0" t="1519.0" r="2899.0" b="1564.0">$34,647.15</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="268.0" t="1579.0" r="293.0" b="1613.0">7</box>
+          <box l="411.0" t="1577.0" r="611.0" b="1616.0">OVERRUN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2674.0" t="1578.0" r="2896.0" b="1624.0">1,544.71</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2625.0" t="2618.0" r="2907.0" b="2661.0">$36,211.86</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

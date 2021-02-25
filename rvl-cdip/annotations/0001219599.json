@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "5957",
+    "IssuedDate": "5/23/72",
+    "TotalAmount": "473.00",
+    "LineItem": [
+        {
+            "ItemDescription": "RUBI N5THN.",
+            "ItemTotal": "171.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RUBINSTEIN",
+            "ItemTotal": "160.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AMER BLUE",
+            "ItemTotal": "2.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

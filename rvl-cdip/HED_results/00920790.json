@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "June 8» 1983",
+            {
+                "tp": 11.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$6,800.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INDUCTION OF HEPATIC MICROSOMAL ENZYMES WITH B-151 and B-153 0 $2,550.00 per compound INDUCTION OF HEPATIC MICROSOMAL ENZYMES WITH B-104 (IN-VITRO ASSAY only) $1,700.00 per compound",
+                            {
+                                "tp": 179.0,
+                                "fp": 2.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 188.0,
+                        "fp": 2.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 188.0,
+                "fp": 2.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1513-2",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 205.0,
+        "fp": 3.0,
+        "fn": 5.0
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "IssuedDate": [
+            "10-Jun-9£",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Wages, FICA Pay-period",
+                            {
+                                "tp": 0.0,
+                                "fp": 22.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 22.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "and Task Force related expenses",
+                            {
+                                "tp": 0.0,
+                                "fp": 31.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 31.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "for: FICA 7.65",
+                            {
+                                "tp": 0.0,
+                                "fp": 14.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 14.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$7,517.30",
+                            {
+                                "tp": 8.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Additional Expenses: Advance Deposit for October Race",
+                            {
+                                "tp": 53.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 61.0,
+                        "fp": 1.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 61.0,
+                "fp": 68.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$7,517.30",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "9440",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 65.0,
+        "fp": 86.0,
+        "fn": 0.0
+    }
+]

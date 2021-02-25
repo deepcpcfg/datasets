@@ -1,0 +1,26 @@
+{
+    "InvoiceNumber": "5910",
+    "IssuedDate": "31, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "Base rate for services of HBI-USA",
+            "ItemTotal": "8,000.00"
+        },
+        {
+            "ItemDescription": "Base rate for services of HBI-International offices",
+            "ItemTotal": "2,400.00"
+        },
+        {
+            "ItemDescription": "Consulting in excess of base rate for HBI-IBA at $150/hour 0 hours at $150/hour",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "of base rate for HBI-Intl at $125/hour"
+        },
+        {
+            "ItemDescription": "For Expenses the translation into French and Flemish of the reports on air quality in bars and restaurants as per attached invoice. The translations were completed by Peter Whippy's Company, ROBAD Common i eat ions",
+            "ItemTotal": "3,236.00"
+        }
+    ],
+    "TotalAmount": "13,636-00"
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "March 31",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "10049",
+                            {
+                                "tp": 3.0,
+                                "fp": 2.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "To charge your account for 1st quarter 1980 Advertising Research",
+                            {
+                                "tp": 63.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 66.0,
+                        "fp": 3.0,
+                        "fn": 10.0
+                    }
+                ]
+            ],
+            {
+                "tp": 66.0,
+                "fp": 3.0,
+                "fn": 10.0
+            }
+        ],
+        "TotalAmount": [
+            "118,125",
+            {
+                "tp": 0.0,
+                "fp": 7.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "3-51",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 78.0,
+        "fp": 10.0,
+        "fn": 15.0
+    }
+]

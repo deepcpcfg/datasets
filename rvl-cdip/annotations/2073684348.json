@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "P98027-4",
+    "IssuedDate": "June 1, 1998",
+    "TotalAmount": "9,900.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost for 7 questions on AVP Natl Monitor",
+            "ItemTotal": "$9,900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Less any prepayment",
+            "ItemTotal": "0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

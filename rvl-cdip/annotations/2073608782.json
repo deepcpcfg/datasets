@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "2278",
+    "IssuedDate": "10/16/97 ",
+    "TotalAmount": "2,671.10",
+    "LineItem": [
+        {
+            "ItemDescription": "To transcript, daily copy, deposition of",
+            "ItemTotal": "3.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Extra copy of transcript above for Mr. Nunley",
+            "ItemTotal": "0.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "To production of Min-U-Script with Key Word",
+            "ItemTotal": "10.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "To reproduction of deposi tion exhibits",
+            "ItemTotal": "0.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "To reproduction of deposition exhibits;",
+            "ItemTotal": "0.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Federal Express shipping charges",
+            "ItemTotal": "74.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

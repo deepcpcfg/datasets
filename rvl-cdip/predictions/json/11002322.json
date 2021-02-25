@@ -1,0 +1,61 @@
+{
+    "IssuedDate": "May 1967",
+    "LineItem": [
+        {
+            "ItemDescription": "Laboratory Animal Animals Feed"
+        },
+        {
+            "ItemDescription": "and Bedding",
+            "ItemTotal": "372.66"
+        },
+        {
+            "ItemDescription": "DIRECT",
+            "ItemTotal": "604.22"
+        },
+        {
+            "ItemDescription": "Pharmacologist (Emil R. Smith, Biochemist",
+            "ItemUnitCount": "10",
+            "ItemTotal": "85*00"
+        },
+        {
+            "ItemDescription": "(Harris Rosenkrantz, Pfi.D.) Pathologist",
+            "ItemUnitCount": "14",
+            "ItemTotal": "124.03"
+        },
+        {
+            "ItemDescription": "(Marcus M. Mason,",
+            "ItemUnitCount": "47",
+            "ItemTotal": "521.38"
+        },
+        {
+            "ItemDescription": "Histochemist Gouvelis,",
+            "ItemUnitCount": "48",
+            "ItemTotal": "161*56"
+        },
+        {
+            "ItemDescription": "Technician pharmacology",
+            "ItemUnitCount": "32",
+            "ItemTotal": "58.25"
+        },
+        {
+            "ItemDescription": "Technician histology",
+            "ItemTotal": "I,193.57"
+        },
+        {
+            "ItemDescription": "Technician animal care",
+            "ItemUnitCount": "40",
+            "ItemTotal": "60.00"
+        },
+        {
+            "ItemDescription": "Clerk data processing",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "16.06",
+            "ItemTotal": "2,369.85"
+        },
+        {
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemTotal": "2,369.85"
+        }
+    ],
+    "TotalAmount": "$5,985.19"
+}

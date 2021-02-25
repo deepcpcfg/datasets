@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "3161",
+    "LineItem": [
+        {
+            "ItemDescription": "indoor pollutants.",
+            "ItemTotal": "$3,600."
+        }
+    ],
+    "IssuedDate": "January 31. 1990",
+    "TotalAmount": "3,600.00"
+}

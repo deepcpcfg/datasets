@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3496",
+    "IssuedDate": "8|31| 70",
+    "TotalAmount": "12 60",
+    "LineItem": [
+        {
+            "ItemDescription": "Drugs A Z, CBS TV NY 11 pm",
+            "ItemTotal": "12 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

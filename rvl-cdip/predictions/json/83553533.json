@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "3712016",
+    "TotalAmount": "2929",
+    "LineItem": [
+        {
+            "ItemDescription": "Labor",
+            "ItemTotal": "3,326.49"
+        },
+        {
+            "ItemDescription": "Duplicating Other",
+            "ItemTotal": "$143.34"
+        }
+    ]
+}

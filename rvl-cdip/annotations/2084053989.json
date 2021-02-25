@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "00010",
+    "IssuedDate": "August 15, 2000",
+    "TotalAmount": "7,500.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "50% of fee",
+            "ItemTotal": "7,500.00",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

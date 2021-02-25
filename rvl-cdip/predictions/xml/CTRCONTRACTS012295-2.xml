@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="0.0" fp="2.0" fn="141.0">
+    <LineItem tp="0.0" fp="2.0" fn="114.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="2084.0" t="726.0" r="2120.0" b="764.0">OH</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

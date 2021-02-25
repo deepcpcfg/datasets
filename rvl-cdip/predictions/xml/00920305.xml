@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="86.0" fp="33.0" fn="2.0">
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="490.0" t="783.0" r="733.0" b="840.0">February</box>
+      <box l="773.0" t="786.0" r="824.0" b="837.0">1,</box>
+      <box l="869.0" t="781.0" r="985.0" b="831.0">1984</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="927.0" t="1568.0" r="1107.0" b="1616.0">1560-1</box>
+    </InvoiceNumber>
+    <LineItem tp="64.0" fp="33.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="484.0" t="1883.0" r="540.0" b="1929.0">14</box>
+          <box l="575.0" t="1883.0" r="666.0" b="1937.0">Day</box>
+          <box l="703.0" t="1882.0" r="887.0" b="1940.0">Single</box>
+          <box l="924.0" t="1886.0" r="1045.0" b="1930.0">Dose</box>
+          <box l="1079.0" t="1884.0" r="1328.0" b="1938.0">Toxicity</box>
+          <box l="1366.0" t="1884.0" r="1519.0" b="1940.0">Study</box>
+          <box l="1559.0" t="1887.0" r="1612.0" b="1928.0">in</box>
+          <box l="1649.0" t="1886.0" r="1770.0" b="1932.0">Rats</box>
+          <box l="1804.0" t="1885.0" r="1929.0" b="1932.0">with</box>
+          <box l="1965.0" t="1885.0" r="2116.0" b="1938.0">8-77,</box>
+          <box l="2155.0" t="1884.0" r="2336.0" b="1937.0">B-109,</box>
+          <box l="479.0" t="1945.0" r="662.0" b="1999.0">B-134,</box>
+          <box l="700.0" t="1945.0" r="791.0" b="1991.0">and</box>
+          <box l="829.0" t="1947.0" r="983.0" b="1994.0">B-164</box>
+          <box l="1116.0" t="1946.0" r="1487.0" b="2002.0">2,050.00/cpd</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2629.0" t="1885.0" r="2879.0" b="1936.0">8,200,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

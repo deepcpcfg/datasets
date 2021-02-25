@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1575-1",
+    "IssuedDate": "January 23 1984",
+    "TotalAmount": "20,940",
+    "LineItem": [
+        {
+            "ItemDescription": "Smoke Condensate Collection with 0-7 and 0-14 § $2,500/10,OOu cigarettes smoked",
+            "ItemTotal": "5,235.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "C-1604",
+            "ItemTotal": "10,290",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "D-7",
+            "ItemTotal": "10,650",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

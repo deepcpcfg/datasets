@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "3137034",
+    "LineItem": [
+        {
+            "ItemDescription": "Inhalation Study",
+            "ItemUnitValue": "55085*00",
+            "ItemTotal": "55085.00"
+        }
+    ],
+    "TotalAmount": "55085,00"
+}

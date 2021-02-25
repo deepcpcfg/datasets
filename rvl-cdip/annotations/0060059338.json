@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "808414",
+    "IssuedDate": "August 10, 1984",
+    "TotalAmount": "1,080.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Miscellaneous",
+            "ItemTotal": "$1,080.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

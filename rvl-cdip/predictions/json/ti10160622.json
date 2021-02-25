@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "5499",
+    "IssuedDate": "DATE Sep 30, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Hotels",
+            "ItemTotal": "277.69"
+        },
+        {
+            "ItemDescription": "Dinner Lunch",
+            "ItemTotal": "13.61"
+        },
+        {
+            "ItemDescription": "Park ing",
+            "ItemTotal": "20.50"
+        },
+        {
+            "ItemDescription": "Hotels",
+            "ItemTotal": "314.57"
+        },
+        {
+            "ItemDescription": "MiJ cage",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemDescription": "Mea 1 s",
+            "ItemTotal": "45.40"
+        },
+        {
+            "ItemDescription": "Tol Is",
+            "ItemTotal": "13.90"
+        },
+        {
+            "ItemDescription": "C:",
+            "ItemTotal": "425.91"
+        },
+        {
+            "ItemDescription": "Park ing",
+            "ItemTotal": "475.57"
+        }
+    ],
+    "TotalAmount": "901.78"
+}

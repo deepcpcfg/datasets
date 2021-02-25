@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "November 23. 1992",
+    "InvoiceNumber": "#11-0197",
+    "LineItem": [
+        {
+            "ItemDescription": "Art/Meciianicate Type",
+            "ItemTotal": "$5,602.84"
+        },
+        {
+            "ItemDescription": "Lisi Pull/database Services",
+            "ItemTotal": "4,463.95"
+        },
+        {
+            "ItemDescription": "Slate Copies Faxes creight (Mair tapes)* Messenger* Miscellaneous*",
+            "ItemTotal": "27.00"
+        }
+    ],
+    "TotalAmount": "$11,264.65"
+}

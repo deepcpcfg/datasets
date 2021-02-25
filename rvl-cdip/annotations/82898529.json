@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1088",
+    "IssuedDate": "June 18, 1993",
+    "TotalAmount": "19,200.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Minneapolis",
+            "ItemTotal": "$19,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

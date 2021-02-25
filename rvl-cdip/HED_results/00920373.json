@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "February 1, 1984",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "153,900.00",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "183,900.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 3.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Mouse Skin Painting Study With 0-6 and D-17 2nd of 11 Monthly Installments",
+                            {
+                                "tp": 73.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 80.0,
+                        "fp": 4.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 80.0,
+                "fp": 4.0,
+                "fn": 3.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 105.0,
+        "fp": 5.0,
+        "fn": 10.0
+    }
+]

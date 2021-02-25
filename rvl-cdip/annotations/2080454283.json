@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "April 9,1999",
+    "TotalAmount": "47,500.00 ",
+    "LineItem": [
+        {
+            "ItemDescription": "Deposit for September 1999 Program 2nd deposit",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "47,500.00 ",
+            "ItemTotal": "47,500.00"
+        }
+    ],
+    "InvoiceNumber": ""
+}

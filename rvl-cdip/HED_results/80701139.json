@@ -1,0 +1,108 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "16",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "QUEENS♦ NEW YORK NORTHERN BLVD* BROOKLYN",
+                            {
+                                "tp": 40.0,
+                                "fp": 0.0,
+                                "fn": 20.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 40.0,
+                        "fp": 2.0,
+                        "fn": 28.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "S31000*00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "QUEENS EXPWY. F/W",
+                            {
+                                "tp": 0.0,
+                                "fp": 17.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 26.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 40.0,
+                "fp": 28.0,
+                "fn": 28.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 40.0,
+        "fp": 28.0,
+        "fn": 28.0
+    }
+]

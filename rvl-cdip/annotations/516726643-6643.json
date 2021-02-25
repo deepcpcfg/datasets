@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2810",
+    "IssuedDate": "February 3,1997",
+    "LineItem": [
+        {
+            "ItemDescription": "Fee includes overall marketing consulting and account management, field marketing, direct marketing and in-market exploration and ongoing monitoring. For the month of January, 1997.",
+            "ItemTotal": "$75,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

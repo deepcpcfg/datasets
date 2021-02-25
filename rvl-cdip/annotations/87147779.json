@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "905501",
+    "IssuedDate": "04-30-89",
+    "LineItem": [
+        {
+            "ItemDescription": "10654 0 401 A169 OR129-7",
+            "ItemTotal": "1,300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "10655 0 401 B234",
+            "ItemTotal": "1,300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

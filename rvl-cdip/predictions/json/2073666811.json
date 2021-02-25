@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "2500",
+    "IssuedDate": "February 15, 1996",
+    "InvoiceNumber": "#376685",
+    "LineItem": [
+        {
+            "ItemDescription": "Parking",
+            "ItemTotal": "3_00"
+        },
+        {
+            "ItemDescription": "MCPS Messenger Services",
+            "ItemTotal": "2.00"
+        },
+        {
+            "ItemDescription": "Faxes",
+            "ItemTotal": "13.00"
+        }
+    ]
+}

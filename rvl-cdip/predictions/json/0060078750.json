@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "M1119S4frlO4",
+    "LineItem": [
+        {
+            "ItemUnitCount": "155",
+            "ItemDescription": "STRIKE IT RICHER STRIKE IT SMOOTH DESIGNS",
+            "ItemUnitValue": "223.530",
+            "ItemTotal": "$34,647.15"
+        },
+        {
+            "ItemDescription": "7 OVERRUN",
+            "ItemTotal": "1,544.71"
+        }
+    ],
+    "TotalAmount": "$36,211.86"
+}

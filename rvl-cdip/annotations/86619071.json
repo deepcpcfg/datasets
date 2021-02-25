@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "April 1, 1996",
+    "LineItem": [
+        {
+            "ItemTotal": "543,316.00",
+            "ItemDescription": "April assessment for CIAR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "(462 00)",
+            "ItemDescription": "Less monthly adjustment for Dunn research project (1996 contract)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

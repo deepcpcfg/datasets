@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1547",
+    "IssuedDate": "November 13, 1992",
+    "TotalAmount": "56,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Pittsburgh",
+            "ItemTotal": "$ 56,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

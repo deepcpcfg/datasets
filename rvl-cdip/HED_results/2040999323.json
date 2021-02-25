@@ -1,0 +1,174 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "2589",
+                            {
+                                "tp": 1.0,
+                                "fp": 3.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Accessory units purchased as per our inventory:",
+                            {
+                                "tp": 46.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 47.0,
+                        "fp": 4.0,
+                        "fn": 14.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$197,532.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 11.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Reg ret ail price value:",
+                            {
+                                "tp": 0.0,
+                                "fp": 24.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 35.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "167",
+                            {
+                                "tp": 2.0,
+                                "fp": 1.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Dress units purchased as per our inventory:",
+                            {
+                                "tp": 42.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 44.0,
+                        "fp": 2.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$67,320",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Reg retail price",
+                            {
+                                "tp": 0.0,
+                                "fp": 16.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 23.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 91.0,
+                "fp": 64.0,
+                "fn": 22.0
+            }
+        ],
+        "TotalAmount": [
+            "^$34,450:76—",
+            {
+                "tp": 0.0,
+                "fp": 12.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "200",
+            {
+                "tp": 0.0,
+                "fp": 3.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 91.0,
+        "fp": 79.0,
+        "fn": 22.0
+    }
+]

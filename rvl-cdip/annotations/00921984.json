@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "06 04 83",
+    "TotalAmount": "55085.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Inhalation Study",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "55005.00",
+            "ItemTotal": "55085.00"
+        }
+    ],
+    "InvoiceNumber": ""
+}

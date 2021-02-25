@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="129.0" fp="33.0" fn="18.0">
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="441.0" t="951.0" r="544.0" b="1008.0">May</box>
+      <box l="566.0" t="950.0" r="729.0" b="1004.0">1,2002</box>
+    </IssuedDate>
+    <LineItem tp="119.0" fp="33.0" fn="18.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="441.0" t="1930.0" r="533.0" b="1975.0">4/21</box>
+          <box l="545.0" t="1930.0" r="691.0" b="1975.0">-23/02</box>
+          <box l="787.0" t="1926.0" r="955.0" b="1975.0">Review</box>
+          <box l="970.0" t="1926.0" r="1025.0" b="1972.0">of</box>
+          <box l="1034.0" t="1926.0" r="1204.0" b="1971.0">medical</box>
+          <box l="1217.0" t="1926.0" r="1384.0" b="1971.0">records</box>
+          <box l="1401.0" t="1926.0" r="1480.0" b="1971.0">and</box>
+          <box l="1496.0" t="1926.0" r="1729.0" b="1984.0">deposition</box>
+          <box l="784.0" t="1997.0" r="841.0" b="2042.0">of</box>
+          <box l="846.0" t="2001.0" r="880.0" b="2042.0">J.</box>
+          <box l="901.0" t="1997.0" r="1092.0" b="2042.0">Shannon</box>
+          <box l="785.0" t="2069.0" r="808.0" b="2113.0">3</box>
+          <box l="830.0" t="2068.0" r="955.0" b="2113.0">hours</box>
+          <box l="1038.0" t="2067.0" r="1267.0" b="2113.0">S350/hour</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="2062.0" r="2300.0" b="2116.0">$1,050</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="441.0" t="2205.0" r="612.0" b="2251.0">4/23/02</box>
+          <box l="784.0" t="2276.0" r="841.0" b="2325.0">40</box>
+          <box l="787.0" t="2201.0" r="1042.0" b="2251.0">Conference</box>
+          <box l="858.0" t="2276.0" r="1031.0" b="2322.0">minutes</box>
+          <box l="1059.0" t="2201.0" r="1134.0" b="2251.0">call</box>
+          <box l="1151.0" t="2201.0" r="1247.0" b="2250.0">with</box>
+          <box l="1263.0" t="2201.0" r="1342.0" b="2251.0">Mr.</box>
+          <box l="1363.0" t="2201.0" r="1484.0" b="2259.0">Andy</box>
+          <box l="1501.0" t="2201.0" r="1779.0" b="2251.0">Wattlewonh</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2216.0" t="2272.0" r="2299.0" b="2318.0">233</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

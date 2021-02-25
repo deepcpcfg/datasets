@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "957330",
+    "IssuedDate": "10/26/84",
+    "TotalAmount": "51,769.25",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE 4G",
+            "ItemUnitValue": "60,905.00",
+            "ItemUnitCount": "",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "AGENCY DISCOUNT",
+            "ItemUnitValue": "9,135.75",
+            "ItemUnitCount": "",
+            "ItemTotal": ""
+        }
+    ]
+}

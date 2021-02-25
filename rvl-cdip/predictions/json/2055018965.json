@@ -1,0 +1,52 @@
+{
+    "InvoiceNumber": "501182",
+    "LineItem": [
+        {
+            "ItemDescription": "NICOTINE CONTENT",
+            "ItemUnitCount": "1",
+            "ItemTotal": "17.00",
+            "ItemUnitValue": "17.00"
+        },
+        {
+            "ItemDescription": "REDUCING SUGARS",
+            "ItemUnitCount": "1",
+            "ItemTotal": "7.00",
+            "ItemUnitValue": "7."
+        },
+        {
+            "ItemDescription": "REQUESTED MH30 BY PHILIP",
+            "ItemUnitCount": "1",
+            "ItemTotal": "60.00",
+            "ItemUnitValue": "60.00"
+        },
+        {
+            "ItemDescription": "NICOTINE CONTENT",
+            "ItemUnitCount": "a",
+            "ItemUnitValue": "17.00",
+            "ItemTotal": "136.00"
+        },
+        {
+            "ItemDescription": "REQUESTED MH30 BY PHILIP MORRIS",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "460.00"
+        },
+        {
+            "ItemDescription": "NICOTINE CONTENT",
+            "ItemUnitCount": "i",
+            "ItemTotal": "17.00",
+            "ItemUnitValue": "17.00"
+        },
+        {
+            "ItemDescription": "REDUCING SUGARS",
+            "ItemUnitCount": "i",
+            "ItemTotal": "7.00"
+        },
+        {
+            "ItemDescription": "MH30",
+            "ItemUnitCount": "i",
+            "ItemTotal": "60.00",
+            "ItemUnitValue": "60.00"
+        }
+    ],
+    "TotalAmount": "1794.00"
+}

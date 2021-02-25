@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "9440",
+    "LineItem": [
+        {
+            "ItemDescription": "Additional Expenses: Advance Deposit for October Race",
+            "ItemTotal": "7,517.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

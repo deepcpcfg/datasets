@@ -1,0 +1,10 @@
+{
+    "IssuedDate": "April 17, 1984",
+    "InvoiceNumber": "1525-1",
+    "LineItem": [
+        {
+            "ItemDescription": "Pilot Metabolism Study with A-34",
+            "ItemTotal": "3,000.00"
+        }
+    ]
+}

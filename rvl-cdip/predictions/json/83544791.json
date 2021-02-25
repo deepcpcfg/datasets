@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "June 25, 1999",
+    "TotalAmount": "$8,452.50",
+    "LineItem": [
+        {
+            "ItemDescription": "822 PGS $10.00 P/P",
+            "ItemTotal": "8,220.00"
+        },
+        {
+            "ItemDescription": "POSTAGE HANDLING VIA UPS",
+            "ItemTotal": "232.50"
+        }
+    ]
+}

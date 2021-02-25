@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "November 30. 1992",
+    "TotalAmount": "22,207.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Courtside Box",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "1800.00",
+            "ItemTotal": "10800.00"
+        },
+        {
+            "ItemDescription": "Loge Box",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "1300.00",
+            "ItemTotal": "7800.00"
+        },
+        {
+            "ItemDescription": "Open Club Passes",
+            "ItemUnitCount": "10",
+            "ItemUnitValue": "100.00",
+            "ItemTotal": "1000.00"
+        },
+        {
+            "ItemDescription": "Racquets Passes",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "300.00",
+            "ItemTotal": "1800.00"
+        },
+        {
+            "ItemDescription": "Pre-Paid Parking",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "200.00",
+            "ItemTotal": "800.00"
+        },
+        {
+            "ItemDescription": "Shipping Charge",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "7.00",
+            "ItemTotal": "7.00"
+        }
+    ],
+    "InvoiceNumber": ""
+}

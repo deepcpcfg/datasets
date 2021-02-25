@@ -1,0 +1,26 @@
+{
+    "IssuedDate": "JUL 1 1973",
+    "LineItem": [
+        {
+            "ItemDescription": "SALES WTK2I -004066-013 TD93",
+            "ItemTotal": "2420,00"
+        },
+        {
+            "ItemDescription": "AE I-621 -004066-033 TO 93",
+            "ItemTotal": "2973.00"
+        },
+        {
+            "ItemDescription": "WC2-621-004066-043",
+            "ItemTotal": "257-00"
+        },
+        {
+            "ItemDescription": "AHI-621-004066*053",
+            "ItemTotal": "339.00"
+        },
+        {
+            "ItemDescription": "YORK",
+            "ItemTotal": "488-0(1"
+        }
+    ],
+    "TotalAmount": "17580,00"
+}

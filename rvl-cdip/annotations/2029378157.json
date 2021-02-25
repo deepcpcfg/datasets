@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "CHOI 5 2",
+    "IssuedDate": "Aug 8, 1991",
+    "TotalAmount": "5,910.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Consu It ing Three days at $1,000 per day",
+            "ItemTotal": "$ 3,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses Air fare, hotel and taxis",
+            "ItemTotal": "$ 2,910.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "June t 1999",
+            {
+                "tp": 9.0,
+                "fp": 2.0,
+                "fn": 3.0
+            }
+        ],
+        "TotalAmount": [
+            "due-$9,900.00",
+            {
+                "tp": 8.0,
+                "fp": 5.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$9,900.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Cost for 7 questions on AVP Natl Monitor-— Field Dates: June 1-7.1998",
+                            {
+                                "tp": 40.0,
+                                "fp": 29.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 49.0,
+                        "fp": 29.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 19.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 20.0
+                    }
+                ]
+            ],
+            {
+                "tp": 49.0,
+                "fp": 29.0,
+                "fn": 20.0
+            }
+        ],
+        "InvoiceNumber": [
+            "P98027-4",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 74.0,
+        "fp": 36.0,
+        "fn": 23.0
+    }
+]

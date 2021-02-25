@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "70392",
+    "LineItem": [
+        {
+            "ItemDescription": "CHICAGO TRIBUNE",
+            "ItemTotal": "14,076.00"
+        },
+        {
+            "ItemDescription": "NEW YORK DAILY NEWS",
+            "ItemTotal": "6,365»23"
+        }
+    ],
+    "TotalAmount": "20,441.23"
+}

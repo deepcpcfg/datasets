@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="354.0" fp="133.0" fn="46.0">
+    <LineItem tp="354.0" fp="133.0" fn="38.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1445.0" t="1225.0" r="1620.0" b="1264.0">PIPET</box>
+          <box l="1665.0" t="1223.0" r="1765.0" b="1265.0">5ML</box>
+          <box l="1807.0" t="1224.0" r="1948.0" b="1264.0">SERO</box>
+          <box l="1987.0" t="1225.0" r="2128.0" b="1265.0">WIDE</box>
+          <box l="2170.0" t="1224.0" r="2274.0" b="1262.0">TIP</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2320.0" t="1225.0" r="2341.0" b="1263.0">4</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2500.0" t="1223.0" r="2670.0" b="1264.0">68.31</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2828.0" t="1222.0" r="2995.0" b="1262.0">68.31</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1444.0" t="1286.0" r="1544.0" b="1325.0">GLS</box>
+          <box l="1591.0" t="1285.0" r="1731.0" b="1326.0">FIBR</box>
+          <box l="1773.0" t="1286.0" r="1911.0" b="1325.0">FILT</box>
+          <box l="1953.0" t="1285.0" r="2057.0" b="1323.0">PPR</box>
+          <box l="2102.0" t="1285.0" r="2273.0" b="1324.0">2.4CM</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2320.0" t="1283.0" r="2340.0" b="1324.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2537.0" t="1281.0" r="2671.0" b="1324.0">8.40</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2795.0" t="1281.0" r="2999.0" b="1323.0">100.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1443.0" t="1409.0" r="1546.0" b="1447.0">GLS</box>
+          <box l="1593.0" t="1407.0" r="1730.0" b="1447.0">FIBR</box>
+          <box l="1772.0" t="1408.0" r="1910.0" b="1446.0">FILT</box>
+          <box l="1956.0" t="1406.0" r="2057.0" b="1447.0">PPR</box>
+          <box l="2101.0" t="1406.0" r="2273.0" b="1446.0">3.2CM</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2322.0" t="1407.0" r="2342.0" b="1446.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2502.0" t="1403.0" r="2672.0" b="1445.0">10.66</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2794.0" t="1403.0" r="2998.0" b="1444.0">127.92</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1446.0" t="1530.0" r="1658.0" b="1569.0">FILTER</box>
+          <box l="1699.0" t="1528.0" r="1804.0" b="1569.0">PPR</box>
+          <box l="1842.0" t="1529.0" r="1909.0" b="1567.0">WH</box>
+          <box l="1958.0" t="1530.0" r="1979.0" b="1568.0">1</box>
+          <box l="2030.0" t="1527.0" r="2238.0" b="1568.0">12.5CM</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2284.0" t="1528.0" r="2343.0" b="1567.0">10</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2535.0" t="1527.0" r="2671.0" b="1566.0">4.66</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2826.0" t="1526.0" r="2997.0" b="1565.0">46.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1445.0" t="1651.0" r="1657.0" b="1692.0">BUFFER</box>
+          <box l="1698.0" t="1649.0" r="1874.0" b="1692.0">COLRD</box>
+          <box l="1916.0" t="1650.0" r="2054.0" b="1690.0">BLUE</box>
+          <box l="2099.0" t="1652.0" r="2164.0" b="1691.0">PH</box>
+          <box l="2209.0" t="1649.0" r="2270.0" b="1691.0">10</box>
+          <box l="1444.0" t="1713.0" r="1619.0" b="1752.0">SPEED</box>
+          <box l="1660.0" t="1713.0" r="1873.0" b="1750.0">NUMBER</box>
+          <box l="1915.0" t="1710.0" r="2053.0" b="1755.0">/094</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2316.0" t="1650.0" r="2344.0" b="1689.0">4</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2537.0" t="1648.0" r="2670.0" b="1690.0">9.59</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2863.0" t="1647.0" r="2997.0" b="1690.0">9.59</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1444.0" t="1771.0" r="1656.0" b="1810.0">BUFFER</box>
+          <box l="1697.0" t="1770.0" r="1872.0" b="1809.0">COLRD</box>
+          <box l="1916.0" t="1771.0" r="2018.0" b="1810.0">RED</box>
+          <box l="2061.0" t="1773.0" r="2127.0" b="1810.0">PH</box>
+          <box l="1443.0" t="1833.0" r="1618.0" b="1872.0">SPEED</box>
+          <box l="1660.0" t="1832.0" r="1872.0" b="1871.0">NUMBER</box>
+          <box l="1918.0" t="1830.0" r="2052.0" b="1876.0">/092</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2173.0" t="1770.0" r="2307.0" b="1809.0">4.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2536.0" t="1769.0" r="2669.0" b="1807.0">9.68</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2863.0" t="1769.0" r="2998.0" b="1806.0">9.68</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1445.0" t="1893.0" r="1655.0" b="1934.0">SODIUM</box>
+          <box l="1697.0" t="1892.0" r="2055.0" b="1933.0">SALICYLATE</box>
+          <box l="2097.0" t="1892.0" r="2346.0" b="1932.0">CERTIFD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2827.0" t="1890.0" r="2997.0" b="1931.0">27.46</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1442.0" t="1955.0" r="1617.0" b="1993.0">SPEED</box>
+          <box l="1659.0" t="1953.0" r="1874.0" b="1994.0">NUMBER</box>
+          <box l="1917.0" t="1951.0" r="2051.0" b="1997.0">/139</box>
+          <box l="1445.0" t="2014.0" r="1874.0" b="2055.0">PHENYLARSINE</box>
+          <box l="1913.0" t="2014.0" r="2091.0" b="2052.0">OXIDE</box>
+          <box l="2141.0" t="2012.0" r="2342.0" b="2053.0">.00664</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2538.0" t="2012.0" r="2667.0" b="2053.0">6.65</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2827.0" t="2010.0" r="2996.0" b="2052.0">13.30</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1444.0" t="2076.0" r="1619.0" b="2116.0">SPEED</box>
+          <box l="1658.0" t="2075.0" r="1874.0" b="2116.0">NUMBER</box>
+          <box l="1916.0" t="2074.0" r="2050.0" b="2121.0">/095</box>
+          <box l="1444.0" t="2136.0" r="1764.0" b="2178.0">PHOSPHATE</box>
+          <box l="1807.0" t="2137.0" r="1836.0" b="2175.0">P</box>
+          <box l="1882.0" t="2138.0" r="1982.0" b="2177.0">STD</box>
+          <box l="2028.0" t="2136.0" r="2274.0" b="2177.0">1000PPM</box>
+          <box l="2319.0" t="2135.0" r="2340.0" b="2175.0">5</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2499.0" t="2134.0" r="2669.0" b="2174.0">21.30</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2825.0" t="2135.0" r="2995.0" b="2174.0">42.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="501.0" t="2255.0" r="526.0" b="2296.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1440.0" t="2197.0" r="1764.0" b="2237.0">BACKORDER</box>
+          <box l="1803.0" t="2196.0" r="1907.0" b="2240.0">QTY</box>
+          <box l="2169.0" t="2195.0" r="2198.0" b="2234.0">2</box>
+          <box l="1443.0" t="2255.0" r="1764.0" b="2294.0">PHOSPHATE</box>
+          <box l="1806.0" t="2255.0" r="1910.0" b="2292.0">STD</box>
+          <box l="1956.0" t="2253.0" r="2164.0" b="2293.0">500PPM</box>
+          <box l="1442.0" t="2315.0" r="1763.0" b="2356.0">BACKORDER</box>
+          <box l="1802.0" t="2316.0" r="1909.0" b="2359.0">QTY</box>
+          <box l="2172.0" t="2312.0" r="2197.0" b="2354.0">2</box>
+          <box l="2210.0" t="2254.0" r="2343.0" b="2292.0">500M</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2502.0" t="2253.0" r="2669.0" b="2291.0">14.80</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2828.0" t="2252.0" r="2998.0" b="2292.0">29.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1442.0" t="2375.0" r="1763.0" b="2415.0">PHOSPHATE</box>
+          <box l="1806.0" t="2376.0" r="1837.0" b="2413.0">P</box>
+          <box l="1880.0" t="2376.0" r="1982.0" b="2414.0">STD</box>
+          <box l="2026.0" t="2373.0" r="2201.0" b="2413.0">50PPM</box>
+          <box l="1441.0" t="2436.0" r="1762.0" b="2477.0">BACKORDER</box>
+          <box l="1804.0" t="2437.0" r="1908.0" b="2480.0">QTY</box>
+          <box l="2171.0" t="2436.0" r="2196.0" b="2474.0">2</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2247.0" t="2375.0" r="2342.0" b="2413.0">125</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2534.0" t="2373.0" r="2667.0" b="2412.0">8.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2827.0" t="2373.0" r="2998.0" b="2414.0">16.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

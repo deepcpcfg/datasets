@@ -1,0 +1,145 @@
+{
+    "IssuedDate": "MAY 26, 1992",
+    "TotalAmount": "4,716.501",
+    "LineItem": [
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "0.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$44,00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SCHEDULE NUMBER 500 + 0 4- 0 + 0"
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$3200",
+            "ItemUnitCount": "0",
+            "ItemDescription": "OF FULL 300 - 4Q9 0 + 0 4- 0 "
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$15.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SHELVES 200-299 0 4- 0 + 0 ="
+        },
+        {
+            "ItemTotal": "1,452.00",
+            "ItemUnitValue": "$44.00",
+            "ItemUnitCount": "33",
+            "ItemDescription": "NUMBER 500 + 11 + 11 + 11 ="
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$32,00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "OF FULL 300-499 0 + 0 + 0 ="
+        },
+        {
+            "ItemTotal": "o.oo",
+            "ItemUnitValue": "$15.00",
+            "ItemDescription": "SHELVES 200-299 0 + 0 + 0 =",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "1,770.00",
+            "ItemUnitValue": "$5.00",
+            "ItemUnitCount": "354",
+            "ItemDescription": "NUMBER 118 + 11B + 118 ="
+        },
+        {
+            "ItemTotal": "72.00",
+            "ItemUnitValue": "$4.00",
+            "ItemUnitCount": "18",
+            "ItemDescription": "6 + 6 + 6 "
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$3.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "ADDITIONAL 0 + 0 + 0 ="
+        },
+        {
+            "ItemTotal": "0.001",
+            "ItemUnitValue": "$2,50",
+            "ItemUnitCount": "0",
+            "ItemDescription": "ROWS 0 + 0 + 0 ="
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$1.25",
+            "ItemUnitCount": "0",
+            "ItemDescription": "+ 0 + 0 t"
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$44.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "NUMBER OF 500 + 0 + 0 + 0 ="
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$32.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "STORES WITH 300 - 499 0 + 0 + 0 ="
+        },
+        {
+            "ItemTotal": "0.001",
+            "ItemUnitValue": "$15.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "16ROWS 200-299 0 + 0 + 0 "
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$4.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "NUMBER"
+        },
+        {
+            "ItemTotal": "0,00",
+            "ItemUnitValue": "$3.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "OF"
+        },
+        {
+            "ItemTotal": "o.ooi",
+            "ItemUnitValue": "$2,50",
+            "ItemUnitCount": "0",
+            "ItemDescription": "ADDITIONAL"
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$1 .25",
+            "ItemUnitCount": "0",
+            "ItemDescription": "ROWS"
+        },
+        {
+            "ItemTotal": "20.00",
+            "ItemUnitValue": "$10.00",
+            "ItemUnitCount": "2",
+            "ItemDescription": "NUMBER"
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitValue": "$35.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "OF"
+        },
+        {
+            "ItemTotal": "1.402.50",
+            "ItemUnitCount": "33",
+            "ItemDescription": "STORES",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="75.0" fp="2.0" fn="2.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2593.0" t="1424.0" r="2838.0" b="1465.0">1289087</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2593.0" t="1488.0" r="2875.0" b="1528.0">01/24/89</box>
+    </IssuedDate>
+    <LineItem tp="60.0" fp="2.0" fn="2.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="298.0" t="2537.0" r="508.0" b="2574.0">01.000</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2146.0" t="2536.0" r="2428.0" b="2577.0">5,000,00</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="810.0" t="2600.0" r="1209.0" b="2637.0">UNSCHEDULED</box>
+          <box l="1255.0" t="2599.0" r="1355.0" b="2636.0">DNA</box>
+          <box l="1404.0" t="2598.0" r="1878.0" b="2637.0">STNTHESIS/RAT</box>
+          <box l="1925.0" t="2599.0" r="2283.0" b="2637.0">HEPATOCYTE</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2661.0" t="2537.0" r="2948.0" b="2579.0">5,000.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

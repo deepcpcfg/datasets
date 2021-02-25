@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "26676",
+    "IssuedDate": "2/28/94",
+    "TotalAmount": "102.00",
+    "LineItem": [
+        {
+            "ItemDescription": "TOBACCO: LAW COUPON TOBACCO LAW COUPON STATE COUNT REPORTS",
+            "ItemTotal": "102.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

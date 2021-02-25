@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "10507",
+    "IssuedDate": "April 30, 1997",
+    "LineItem": [
+        {
+            "ItemTotal": "150.00",
+            "ItemDescription": "3/28/97 Tdcconfcrcnce with Richard Parker, Jon Redgrave and Defendants' Technical consultant.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "112.50",
+            "ItemDescription": "4/1/97 Telephone Meet and Confer with PM and Plaintiffs re PMI intilial Order.",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "150.00"
+        },
+        {
+            "ItemTotal": "75.00",
+            "ItemDescription": "4/2/97 Meet and Confer scheduling",
+            "ItemUnitValue": "150.00",
+            "ItemUnitCount": "0.75"
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,30 @@
+{
+    "IssuedDate": "January 27, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "•Redemption Coupons keyed (3.419 pcs.",
+            "ItemTotal": "$14O.?9"
+        },
+        {
+            "ItemDescription": "’Misty Bag Requests 10/92 (99 pcs. $58.82/min.chg.)",
+            "ItemTotal": "58.82"
+        },
+        {
+            "ItemDescription": "’Misty bag Requests 9/92 (90 pcs. $58.82/min.chg.)",
+            "ItemTotal": "50,62"
+        },
+        {
+            "ItemDescription": "-Misty Bag Requests (6.423 pcs, S47Q60/M)",
+            "ItemTotal": "3,066.66"
+        },
+        {
+            "ItemDescription": "Managemeni Fee covering supervision of data entry and reporting A. Kozminsky (14.25 hrs J",
+            "ItemTotal": "1,197.00"
+        },
+        {
+            "ItemDescription": "’Mlsc. (copies, freight, faxes, etc.)",
+            "ItemTotal": "31C20"
+        }
+    ],
+    "TotalAmount": "$4,904.11"
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "07/17/98",
+    "InvoiceNumber": "26949",
+    "LineItem": [
+        {
+            "ItemDescription": "SW 5 Node linage Network",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "4495.0Q0",
+            "ItemUnitValue": "4495.00"
+        },
+        {
+            "ItemDescription": "BW 5 Node Image Maint enance",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "675.000",
+            "ItemUnitValue": "675.00"
+        }
+    ],
+    "TotalAmount": "_5189.55"
+}

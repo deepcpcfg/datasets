@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="98.0" fp="13.0" fn="26.0">
+    <LineItem tp="98.0" fp="13.0" fn="12.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="961.0" t="1205.0" r="1182.0" b="1246.0">PHILIP</box>
+          <box l="1225.0" t="1205.0" r="1445.0" b="1251.0">MORRIS</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="500.0" t="1397.0" r="570.0" b="1438.0">To</box>
+          <box l="616.0" t="1405.0" r="803.0" b="1438.0">cover</box>
+          <box l="846.0" t="1395.0" r="1290.0" b="1450.0">professional</box>
+          <box l="1337.0" t="1393.0" r="1445.0" b="1437.0">and</box>
+          <box l="1487.0" t="1392.0" r="1710.0" b="1446.0">public</box>
+          <box l="1753.0" t="1392.0" r="2085.0" b="1434.0">relations</box>
+          <box l="691.0" t="1459.0" r="987.0" b="1501.0">services</box>
+          <box l="1037.0" t="1459.0" r="1107.0" b="1501.0">in</box>
+          <box l="1150.0" t="1459.0" r="1370.0" b="1501.0">France</box>
+          <box l="1416.0" t="1459.0" r="1485.0" b="1501.0">in</box>
+          <box l="1528.0" t="1455.0" r="1901.0" b="1501.0">connection</box>
+          <box l="1940.0" t="1455.0" r="2090.0" b="1500.0">with</box>
+          <box l="691.0" t="1521.0" r="990.0" b="1577.0">upcoming</box>
+          <box l="1036.0" t="1521.0" r="1328.0" b="1564.0">seminars</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1213.0" t="1334.0" r="1401.0" b="1367.0">Seattle</box>
+          <box l="1430.0" t="1335.0" r="1646.0" b="1367.0">Mariners</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1725.0" t="1996.0" r="1962.0" b="2033.0">$1,625.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="1725.0" t="2106.0" r="1963.0" b="2152.0">^1,625.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

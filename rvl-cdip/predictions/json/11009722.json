@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "068",
+    "IssuedDate": "DECEMBER 6, 1971",
+    "LineItem": [
+        {
+            "ItemDescription": "nyc/sxm/nyc FRY.",
+            "ItemTotal": "US$193."
+        },
+        {
+            "ItemDescription": "0744/4X581088 bal/nyc/bal n u n",
+            "ItemTotal": "46.22"
+        },
+        {
+            "ItemDescription": "0744/43581449 NYC/SXJ-0TYC B",
+            "ItemTotal": "193.50"
+        },
+        {
+            "ItemDescription": "0744/42581091"
+        }
+    ],
+    "TotalAmount": "820.22"
+}

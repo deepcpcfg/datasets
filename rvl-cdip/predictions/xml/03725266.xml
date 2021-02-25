@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="93.0" fp="29.0" fn="43.0">
+    <LineItem tp="93.0" fp="21.0" fn="31.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="493.0" t="2067.0" r="910.0" b="2125.0">Duplicating</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2626.0" t="2063.0" r="2856.0" b="2118.0">535&gt;30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="492.0" t="2204.0" r="642.0" b="2257.0">Long</box>
+          <box l="685.0" t="2201.0" r="980.0" b="2250.0">Distance</box>
+          <box l="1022.0" t="2198.0" r="1360.0" b="2257.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2626.0" t="2194.0" r="2855.0" b="2248.0">105.53</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="492.0" t="2330.0" r="713.0" b="2376.0">Travel</box>
+          <box l="492.0" t="2458.0" r="753.0" b="2512.0">Postage</box>
+          <box l="491.0" t="2584.0" r="982.0" b="2632.0">Miscellaneous</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2666.0" t="2444.0" r="2854.0" b="2505.0">40.96</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="494.0" t="2715.0" r="823.0" b="2762.0">Services:</box>
+          <box l="911.0" t="2715.0" r="1010.0" b="2760.0">Dr.</box>
+          <box l="1061.0" t="2711.0" r="1322.0" b="2760.0">Herbert</box>
+          <box l="1369.0" t="2712.0" r="1552.0" b="2758.0">Arkin</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2549.0" t="2710.0" r="2857.0" b="2765.0">2,^00.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="8.0" fn="0.0">
+      <box l="2552.0" t="2837.0" r="2852.0" b="2893.0">3j550.35</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

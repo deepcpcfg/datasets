@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="487.0" t="963.0" r="741.0" b="1009.0">December</box>
+      <box l="779.0" t="963.0" r="866.0" b="1016.0">10&gt;</box>
+      <box l="909.0" t="963.0" r="1029.0" b="1008.0">1981</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="491.0" t="2301.0" r="653.0" b="2351.0">POUND</box>
+          <box l="683.0" t="2301.0" r="808.0" b="2347.0">B-17</box>
+          <box l="491.0" t="2235.0" r="938.0" b="2285.0">CARDIOVASCULAR</box>
+          <box l="850.0" t="2301.0" r="908.0" b="2348.0">IN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="558.0" t="2359.0" r="841.0" b="2417.0">$2,700.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="975.0" t="2238.0" r="1200.0" b="2284.0">TESTING</box>
+          <box l="1233.0" t="2238.0" r="1296.0" b="2285.0">OF</box>
+          <box l="1333.0" t="2238.0" r="1457.0" b="2284.0">COM¬</box>
+          <box l="941.0" t="2301.0" r="1037.0" b="2349.0">THE</box>
+          <box l="1071.0" t="2301.0" r="1262.0" b="2351.0">BEAGLE</box>
+          <box l="1300.0" t="2301.0" r="1396.0" b="2350.0">DOG</box>
+          <box l="1008.0" t="2363.0" r="1262.0" b="2422.0">compound</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

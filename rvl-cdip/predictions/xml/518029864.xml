@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="102.0" fp="83.0" fn="258.0">
+    <InvoiceNumber tp="2.0" fp="3.0" fn="6.0">
+      <box l="2863.0" t="168.0" r="2987.0" b="197.0">10-69</box>
+    </InvoiceNumber>
+    <IssuedDate tp="1.0" fp="5.0" fn="7.0">
+      <box l="707.0" t="977.0" r="865.0" b="1008.0">800023</box>
+    </IssuedDate>
+    <LineItem tp="99.0" fp="75.0" fn="239.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="895.0" t="1473.0" r="1029.0" b="1503.0">CAMEL</box>
+          <box l="1062.0" t="1470.0" r="1223.0" b="1502.0">FILTER</box>
+          <box l="1255.0" t="1469.0" r="1391.0" b="1501.0">BiOIF</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2116.0" t="1466.0" r="2300.0" b="1499.0">e38,000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2712.0" t="1460.0" r="2957.0" b="1497.0">36,538.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="896.0" t="1516.0" r="1029.0" b="1548.0">CAMEL</box>
+          <box l="1062.0" t="1515.0" r="1224.0" b="1547.0">FILTER</box>
+          <box l="1255.0" t="1515.0" r="1338.0" b="1547.0">BOX</box>
+          <box l="1370.0" t="1514.0" r="1504.0" b="1544.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2116.0" t="1509.0" r="2300.0" b="1545.0">636j000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2712.0" t="1506.0" r="2957.0" b="1543.0">30,538.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="896.0" t="1562.0" r="1029.0" b="1594.0">CAMEL</box>
+          <box l="1062.0" t="1560.0" r="1221.0" b="1593.0">LIGHTS</box>
+          <box l="1255.0" t="1558.0" r="1391.0" b="1590.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2116.0" t="1554.0" r="2300.0" b="1591.0">636,000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2712.0" t="1547.0" r="2956.0" b="1587.0">36.53B.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="896.0" t="1608.0" r="1029.0" b="1640.0">CAMEL</box>
+          <box l="1063.0" t="1606.0" r="1221.0" b="1639.0">LIGHTS</box>
+          <box l="1255.0" t="1603.0" r="1338.0" b="1639.0">BOX</box>
+          <box l="1370.0" t="1602.0" r="1504.0" b="1636.0">BiGIF</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2116.0" t="1599.0" r="2300.0" b="1637.0">636,000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2712.0" t="1593.0" r="2954.0" b="1632.0">36,538.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="896.0" t="1741.0" r="1000.0" b="1774.0">LESS</box>
+          <box l="1034.0" t="1740.0" r="1193.0" b="1773.0">CREDIT</box>
+          <box l="1226.0" t="1740.0" r="1309.0" b="1772.0">FOR</box>
+          <box l="1342.0" t="1740.0" r="1446.0" b="1771.0">FREE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2710.0" t="1731.0" r="2979.0" b="1768.0">73,076.40-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

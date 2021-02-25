@@ -1,0 +1,121 @@
+{
+    "InvoiceNumber": "2684",
+    "IssuedDate": "03-May-20",
+    "TotalAmount": "490.10",
+    "LineItem": [
+        {
+            "ItemDescription": "CHECK PROCESSING",
+            "ItemUnitCount": "0",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MAILERS",
+            "ItemUnitCount": "0",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "28",
+            "ItemUnitValue": "91.56",
+            "ItemTotal": "•43,68"
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "91.79",
+            "ItemTotal": "97.00"
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "B",
+            "ItemUnitValue": "92.13",
+            "ItemTotal": "917.04"
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "18",
+            "ItemUnitValue": "92.31",
+            "ItemTotal": "941.38"
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "92.83",
+            "ItemTotal": "92.35"
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "92.80",
+            "ItemTotal": "98.40"
+        },
+        {
+            "ItemDescription": "ZONE",
+            "ItemUnitCount": "9",
+            "ItemUnitValue": "*3.03",
+            "ItemTotal": "927.45"
+        },
+        {
+            "ItemDescription": "N/3",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "99.99",
+            "ItemTotal": "9.99"
+        },
+        {
+            "ItemDescription": "BANK",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "91.30",
+            "ItemTotal": "91.50"
+        },
+        {
+            "ItemDescription": "DUPE ELIMINATION",
+            "ItemUnitCount": "0",
+            "ItemTotal": "90.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DUPE ELIMINATION MINIMUM",
+            "ItemUnitCount": "0",
+            "ItemTotal": "•0.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "UNQUALIFIED REQUESTS SERVICE",
+            "ItemUnitCount": "0",
+            "ItemTotal": "90.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "UNQUALIFIED REQUESTS POSTAGE",
+            "ItemUnitCount": "0",
+            "ItemTotal": "♦0.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DE—DUPED REQUESTS SERVICE",
+            "ItemUnitCount": "0",
+            "ItemTotal": "♦0.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DE-DUPED REQUESTS POSTAGE",
+            "ItemUnitCount": "0",
+            "ItemTotal": "•0.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SERVICE",
+            "ItemTotal": "40.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POST AGE/FREI GHT",
+            "ItemTotal": "40.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

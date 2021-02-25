@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "001842",
+    "IssuedDate": "12/31/93",
+    "TotalAmount": "268.38",
+    "LineItem": [
+        {
+            "ItemUnitCount": "8.00",
+            "ItemUnitValue": "30.00",
+            "ItemTotal": "240.00",
+            "ItemDescription": "CALL HOURS"
+        },
+        {
+            "ItemUnitCount": "0.50",
+            "ItemUnitValue": "20.00",
+            "ItemTotal": "10.00",
+            "ItemDescription": "MIS HOURS"
+        },
+        {
+            "ItemUnitCount": "0,80",
+            "ItemUnitValue": "15.00",
+            "ItemTotal": "12.00",
+            "ItemDescription": "DATA ENTRY HOURS"
+        },
+        {
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "6.38",
+            "ItemTotal": "6.38",
+            "ItemDescription": "FEDERAL EXPRESS"
+        }
+    ]
+}

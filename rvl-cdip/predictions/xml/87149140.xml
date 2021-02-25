@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="32.0" fp="13.0" fn="68.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2511.0" t="511.0" r="2750.0" b="550.0">2289187</box>
+    </InvoiceNumber>
+    <IssuedDate tp="6.0" fp="3.0" fn="2.0">
+      <box l="2515.0" t="575.0" r="2670.0" b="611.0">Oi/31</box>
+      <box l="2690.0" t="575.0" r="2787.0" b="610.0">/89</box>
+    </IssuedDate>
+    <LineItem tp="19.0" fp="10.0" fn="66.0">
+      <lineItem>
+        <ItemTotal>
+          <box l="311.0" t="1578.0" r="511.0" b="1615.0">01.000</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="807.0" t="1637.0" r="1189.0" b="1675.0">UNSCHEDULED</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1231.0" t="1638.0" r="1330.0" b="1674.0">DNA</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2085.0" t="1574.0" r="2254.0" b="1618.0">5,450</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2629.0" t="1572.0" r="2754.0" b="1618.0">,450</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

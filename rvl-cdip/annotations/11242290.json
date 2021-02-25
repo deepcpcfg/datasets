@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "76M6040-8",
+    "TotalAmount": "558.59",
+    "LineItem": [
+        {
+            "ItemDescription": "CONSTRUCTION (TO DATE) OF PROTOTYPE ANIMAL CONTAINMENT SYSTEM FOR SEM-2: Labor time @ $30.00/hr",
+            "ItemTotal": "420.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MATERIAL",
+            "ItemTotal": "97.21",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

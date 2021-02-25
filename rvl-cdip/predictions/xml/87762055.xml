@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="99.0" fp="31.0" fn="6.0">
+    <InvoiceNumber tp="2.0" fp="2.0" fn="2.0">
+      <box l="2524.0" t="809.0" r="2660.0" b="849.0">5004</box>
+    </InvoiceNumber>
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="802.0" t="1049.0" r="1081.0" b="1093.0">November</box>
+      <box l="1132.0" t="1050.0" r="1183.0" b="1100.0">1,</box>
+      <box l="1240.0" t="1050.0" r="1369.0" b="1092.0">1989</box>
+    </IssuedDate>
+    <LineItem tp="81.0" fp="29.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="1719.0" r="1088.0" b="1762.0">Greensboro</box>
+          <box l="1130.0" t="1714.0" r="1367.0" b="1767.0">Special</box>
+          <box l="1417.0" t="1714.0" r="1695.0" b="1760.0">Election</box>
+          <box l="913.0" t="1837.0" r="1268.0" b="1881.0">Two-thirde</box>
+          <box l="1309.0" t="1839.0" r="1374.0" b="1880.0">of</box>
+          <box l="1417.0" t="1836.0" r="1695.0" b="1889.0">Campaign</box>
+          <box l="1737.0" t="1834.0" r="2091.0" b="1886.0">Consulting</box>
+          <box l="2133.0" t="1838.0" r="2233.0" b="1878.0">Fee</box>
+          <box l="920.0" t="1898.0" r="1116.0" b="1945.0">(Total</box>
+          <box l="1167.0" t="1896.0" r="1367.0" b="1942.0">Consul</box>
+          <box l="1383.0" t="1896.0" r="1516.0" b="1942.0">tine</box>
+          <box l="1563.0" t="1897.0" r="1661.0" b="1939.0">Fee</box>
+          <box l="1774.0" t="1895.0" r="2154.0" b="1948.0">615,000.00)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2526.0" t="1897.0" r="2883.0" b="1943.0">$10,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="68.0" fp="2.0" fn="28.0">
+    <InvoiceNumber tp="4.0" fp="2.0" fn="2.0">
+      <box l="2451.0" t="992.0" r="2642.0" b="1034.0">CH0186</box>
+    </InvoiceNumber>
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="2455.0" t="1118.0" r="2546.0" b="1162.0">Dec</box>
+      <box l="2588.0" t="1121.0" r="2668.0" b="1167.0">12,</box>
+      <box l="2713.0" t="1121.0" r="2825.0" b="1163.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="52.0" fp="0.0" fn="26.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="458.0" t="2197.0" r="550.0" b="2238.0">One</box>
+          <box l="592.0" t="2197.0" r="741.0" b="2238.0">third</box>
+          <box l="780.0" t="2192.0" r="834.0" b="2238.0">of</box>
+          <box l="876.0" t="2197.0" r="1122.0" b="2250.0">budgeted</box>
+          <box l="1164.0" t="2192.0" r="1247.0" b="2238.0">fee</box>
+          <box l="1285.0" t="2207.0" r="1338.0" b="2238.0">as</box>
+          <box l="1380.0" t="2198.0" r="1626.0" b="2251.0">approved</box>
+          <box l="1666.0" t="2198.0" r="1721.0" b="2250.0">by</box>
+          <box l="1758.0" t="2198.0" r="1821.0" b="2238.0">IM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2555.0" t="2261.0" r="2826.0" b="2309.0">18,079.20</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

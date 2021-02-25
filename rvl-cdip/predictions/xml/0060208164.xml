@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="104.0" fp="59.0" fn="14.0">
+    <IssuedDate tp="0.0" fp="12.0" fn="0.0">
+      <box l="766.0" t="767.0" r="854.0" b="813.0">May</box>
+      <box l="875.0" t="767.0" r="937.0" b="811.0">29,</box>
+      <box l="963.0" t="767.0" r="1070.0" b="805.0">*992</box>
+    </IssuedDate>
+    <InvoiceNumber tp="0.0" fp="8.0" fn="0.0">
+      <box l="974.0" t="1425.0" r="1225.0" b="1469.0">#05-0339</box>
+    </InvoiceNumber>
+    <LineItem tp="104.0" fp="39.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="761.0" t="2013.0" r="962.0" b="2063.0">Sampling</box>
+          <box l="985.0" t="2017.0" r="1096.0" b="2055.0">Team</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2475.0" t="2013.0" r="2694.0" b="2055.0">$6,642.36</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="758.0" t="2088.0" r="941.0" b="2134.0">Program</box>
+          <box l="962.0" t="2089.0" r="1254.0" b="2134.0">Development</box>
+          <box l="1322.0" t="2089.0" r="1534.0" b="2130.0">ExocuKon</box>
+          <box l="1554.0" t="2088.0" r="1646.0" b="2126.0">Plan</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2480.0" t="2088.0" r="2693.0" b="2129.0">15.090.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="758.0" t="2159.0" r="887.0" b="2205.0">Comp</box>
+          <box l="896.0" t="2163.0" r="1037.0" b="2198.0">rehens</box>
+          <box l="1046.0" t="2168.0" r="1126.0" b="2198.0">ives</box>
+          <box l="1159.0" t="2163.0" r="1222.0" b="2200.0">Art</box>
+          <box l="1292.0" t="2159.0" r="1563.0" b="2201.0">Mechanicals</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2477.0" t="2159.0" r="2693.0" b="2201.0">1b.6S6.12</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="759.0" t="2231.0" r="887.0" b="2280.0">(Logo</box>
+          <box l="904.0" t="2234.0" r="991.0" b="2272.0">Line</box>
+          <box l="1013.0" t="2234.0" r="1084.0" b="2273.0">Art,</box>
+          <box l="1104.0" t="2234.0" r="1250.0" b="2272.0">Poster,</box>
+          <box l="1272.0" t="2230.0" r="1483.0" b="2280.0">Coupons)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2543.0" t="2380.0" r="2692.0" b="2418.0">338.48</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "5EPOS/99",
+    "InvoiceNumber": "PR09-&030S4",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-CornmissionaJble Charges",
+            "ItemTotal": "302.03"
+        },
+        {
+            "ItemDescription": "Commies ioneihle Chargee",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Agency Concussion",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "302.03"
+}

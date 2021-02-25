@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "13th September 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "J Dilley",
+            "ItemTotal": "124.01"
+        },
+        {
+            "ItemDescription": "D F Westman",
+            "ItemTotal": "£4,322.97"
+        },
+        {
+            "ItemDescription": "J Munby",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemDescription": "R Perry",
+            "ItemTotal": "969,_38"
+        }
+    ],
+    "TotalAmount": "£5,517,16"
+}

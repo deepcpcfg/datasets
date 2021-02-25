@@ -1,0 +1,73 @@
+{
+    "InvoiceNumber": "207685",
+    "IssuedDate": "May 31, 2001",
+    "LineItem": [
+        {
+            "ItemTotal": "37,729.75",
+            "ItemDescription": "Contest Coordination/Judging",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,973.00",
+            "ItemDescription": "Announcement. Media Relatione",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hugh Williams",
+            "ItemTotal": "91.55",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hugh Williams",
+            "ItemTotal": "68 .34",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "349.30",
+            "ItemDescription": "Burrelle1e information",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10.87",
+            "ItemDescription": "Federal Express",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "35-35",
+            "ItemDescription": "Federal Express",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "370.00",
+            "ItemDescription": "Associated Release Service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "200-00",
+            "ItemDescription": "Associated Release Service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "348.00",
+            "ItemDescription": "Associated Release Service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Unique Printers",
+            "ItemTotal": "6,978.74",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

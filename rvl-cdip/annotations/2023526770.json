@@ -1,0 +1,91 @@
+{
+    "TotalAmount": "6,402.88",
+    "LineItem": [
+        {
+            "ItemDescription": "SALARIES & WAGES",
+            "ItemTotal": "17,048.47",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FRINGE BENEFITS (25%",
+            "ItemTotal": "4 , 148 . 18",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EQUIPMENT",
+            "ItemTotal": "19,267.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COMMUNICATIONS",
+            "ItemTotal": "981.04",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TRAVEL",
+            "ItemTotal": "944.29",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FI LT",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LEASE & RENTAL",
+            "ItemTotal": "160.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "REPAIR & MAINTENANCE ",
+            "ItemTotal": "120.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SERVICES",
+            "ItemTotal": "629.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PRINTING",
+            "ItemTotal": "77.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SUPPLIES",
+            "ItemTotal": "2,076.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CONFERENCES",
+            "ItemTotal": "70.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OTHER",
+            "ItemTotal": "0,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "INDIRECT COSTS",
+            "ItemTotal": "6,563.06",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

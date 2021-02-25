@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="62.0" fp="19.0" fn="5.0">
+    <TotalAmount tp="0.0" fp="4.0" fn="0.0">
+      <box l="1085.0" t="309.0" r="1209.0" b="371.0">INC.</box>
+    </TotalAmount>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2411.0" t="255.0" r="2547.0" b="289.0">6889</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2409.0" t="313.0" r="2689.0" b="351.0">03-16-92</box>
+    </IssuedDate>
+    <LineItem tp="50.0" fp="15.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="712.0" t="1387.0" r="916.0" b="1421.0">TRAVEL</box>
+          <box l="1034.0" t="1388.0" r="1238.0" b="1424.0">SHARON</box>
+          <box l="1284.0" t="1388.0" r="1417.0" b="1425.0">^OVE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2029.0" t="1390.0" r="2271.0" b="1426.0">2274.73</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2601.0" t="1391.0" r="2838.0" b="1426.0">2274.73</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="712.0" t="1445.0" r="909.0" b="1483.0">TRAVEL</box>
+          <box l="1034.0" t="1446.0" r="1205.0" b="1484.0">ROGER</box>
+          <box l="1246.0" t="1446.0" r="1455.0" b="1484.0">WINTER</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2031.0" t="1451.0" r="2271.0" b="1488.0">2110.31</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2601.0" t="1451.0" r="2834.0" b="1488.0">2110.31</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

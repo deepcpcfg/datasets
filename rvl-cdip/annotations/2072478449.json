@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PF48XX",
+    "IssuedDate": "X/X/98",
+    "TotalAmount": "0.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Salaries and Expense-Market Mgrs.",
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Salaries and Expense-SPR’s",
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Salaries and Expense-Floaters",
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

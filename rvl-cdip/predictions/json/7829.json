@@ -1,0 +1,78 @@
+{
+    "IssuedDate": "January 31, 2001",
+    "InvoiceNumber": "198722",
+    "LineItem": [
+        {
+            "ItemDescription": "Contest Coordination/Judging",
+            "ItemTotal": "$11,435-84"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "75.00"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "253.50"
+        },
+        {
+            "ItemDescription": "Janet 1 Cabot",
+            "ItemTotal": "417.04"
+        },
+        {
+            "ItemDescription": "Janet i Cabot",
+            "ItemTotal": "408.26"
+        },
+        {
+            "ItemDescription": "Z;ne:s Club",
+            "ItemTotal": "1,050.18"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "439.5?"
+        },
+        {
+            "ItemDescription": "0 Club",
+            "ItemTotal": "870.00"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "67?.20"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "432.50"
+        },
+        {
+            "ItemDescription": "Diners club",
+            "ItemTotal": "206.30"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "75.00"
+        },
+        {
+            "ItemDescription": "Dinera Club",
+            "ItemTotal": "6-17.50"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "326.00"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "309.66"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "341.00"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "828.13"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "870.00"
+        }
+    ]
+}

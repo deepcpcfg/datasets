@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "00808A 65884",
+    "IssuedDate": "5/08/92",
+    "TotalAmount": "7,225.51",
+    "LineItem": [
+        {
+            "ItemDescription": "NEW YORK NEWS 7/10 PG",
+            "ItemUnitValue": "015",
+            "ItemTotal": "7,225.51",
+            "ItemUnitCount": ""
+        }
+    ]
+}

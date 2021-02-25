@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "SP-00980",
+    "IssuedDate": "09/28/2001",
+    "TotalAmount": "19,596.3S",
+    "LineItem": [
+        {
+            "ItemDescription": "Salaries",
+            "ItemUnitValue": "10,020.15",
+            "ItemTotal": "$1 0,020.15",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Fringe",
+            "ItemUnitValue": "2.404.83",
+            "ItemTotal": "$2,404.83",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Supplies",
+            "ItemUnitValue": "383.11",
+            "ItemTotal": "$383.11",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Overhead",
+            "ItemUnitValue": "6.788.29",
+            "ItemTotal": "39,788.29",
+            "ItemUnitCount": ""
+        }
+    ]
+}

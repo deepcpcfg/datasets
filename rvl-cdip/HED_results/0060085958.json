@@ -1,0 +1,182 @@
+[
+    {
+        "IssuedDate": [
+            "July 21.1994",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "13-1",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 4.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "$9,4",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "PRIVATE STOCK, PRIME, SUMMIT Spanish Point-or-Sale PRIVATE STOCK Spanish Package Display Cards,",
+                            {
+                                "tp": 44.0,
+                                "fp": 51.0,
+                                "fn": 50.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 44.0,
+                        "fp": 55.0,
+                        "fn": 65.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "3,000",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MATERIAL CODE: COA-03000-PS-SP PRIME Spanish Package Display Cards, 13-1/2\" x MATERIAL CODE: CDA-03000-PE-SP",
+                            {
+                                "tp": 76.0,
+                                "fp": 32.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 81.0,
+                        "fp": 32.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "2,000",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "SUMMIT Spanish Package Display Cards, 13-1/2\" MATERIAL CODE: CDA-O30OC-SUM-SP",
+                            {
+                                "tp": 76.0,
+                                "fp": 1.0,
+                                "fn": 414.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 81.0,
+                        "fp": 1.0,
+                        "fn": 414.0
+                    }
+                ]
+            ],
+            {
+                "tp": 206.0,
+                "fp": 92.0,
+                "fn": 487.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 11.0
+            }
+        ]
+    },
+    {
+        "tp": 218.0,
+        "fp": 92.0,
+        "fn": 498.0
+    }
+]

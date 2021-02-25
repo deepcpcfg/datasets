@@ -1,0 +1,165 @@
+[
+    {
+        "IssuedDate": [
+            "May 13, 1992",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "59,500.00",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "340,000",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$3,233.03",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Phase I Coupon Distributions",
+                            {
+                                "tp": 28.0,
+                                "fp": 0.0,
+                                "fn": 26.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 9.0,
+                        "fn": 28.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "330,000",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "3,135",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Phase II Coupon Distributions",
+                            {
+                                "tp": 29.0,
+                                "fp": 0.0,
+                                "fn": 26.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 7.0,
+                        "fn": 29.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "330,000",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "3,135.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Phase III Coupon Dislribulions",
+                            {
+                                "tp": 25.0,
+                                "fp": 5.0,
+                                "fn": 36.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 33.0,
+                        "fp": 12.0,
+                        "fn": 36.0
+                    }
+                ]
+            ],
+            {
+                "tp": 102.0,
+                "fp": 28.0,
+                "fn": 93.0
+            }
+        ],
+        "InvoiceNumber": [
+            "#05-0096",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 129.0,
+        "fp": 30.0,
+        "fn": 94.0
+    }
+]

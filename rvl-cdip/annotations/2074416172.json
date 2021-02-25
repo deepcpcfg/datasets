@@ -1,0 +1,31 @@
+{
+    "TotalAmount": "4651.49",
+    "LineItem": [
+        {
+            "ItemDescription": "Payment for Am TICKET TO LA.",
+            "ItemTotal": "1761.49",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Airport taxes. ( $45 in Costfl Rich, and $20 in USA)",
+            "ItemTotal": "65. ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "HoiMrUriimi for 28 hrs& working...",
+            "ItemTotal": "2800.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxi",
+            "ItemTotal": "25.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "2001817",
+    "IssuedDate": "8/24/2000",
+    "TotalAmount": "389.70",
+    "LineItem": [
+        {
+            "ItemDescription": "8:30 pm - 9:30 pm Edit Beat Breakouts",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "200.00",
+            "ItemTotal": "400.00"
+        },
+        {
+            "ItemDescription": "R 15 DAT",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "25.00",
+            "ItemTotal": "25.00"
+        },
+        {
+            "ItemDescription": "TDK CDR 74",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "15.00",
+            "ItemTotal": "45.00"
+        },
+        {
+            "ItemDescription": "Special Discount for Rich Guilmenot",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "-55.00",
+            "ItemTotal": "-110.00"
+        }
+    ]
+}

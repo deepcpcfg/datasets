@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="71.0" fp="52.0" fn="40.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="570.0" t="841.0" r="783.0" b="886.0">120044</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="5.0" fn="0.0">
+      <box l="350.0" t="891.0" r="450.0" b="930.0">Date</box>
+      <box l="570.0" t="966.0" r="859.0" b="1013.0">12-26-87</box>
+    </IssuedDate>
+    <LineItem tp="50.0" fp="45.0" fn="39.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="566.0" t="2763.0" r="1008.0" b="2809.0">professional</box>
+          <box l="1055.0" t="2763.0" r="1309.0" b="2809.0">service</box>
+          <box l="1356.0" t="2763.0" r="1499.0" b="2806.0">fees</box>
+          <box l="1543.0" t="2763.0" r="1613.0" b="2805.0">to</box>
+          <box l="1658.0" t="2763.0" r="1800.0" b="2805.0">DATE</box>
+          <box l="2033.0" t="2763.0" r="2167.0" b="2805.0">U.S.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2259.0" t="2762.0" r="2476.0" b="2809.0">$6,585</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="942.0" t="2884.0" r="1312.0" b="2930.0">PREVIOUSLY</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="562.0" t="3022.0" r="1047.0" b="3067.0">OUT-OF-POCKET</box>
+          <box l="1092.0" t="3022.0" r="1387.0" b="3064.0">EXPENSES</box>
+          <box l="1434.0" t="3022.0" r="1497.0" b="3063.0">TO</box>
+          <box l="1547.0" t="3022.0" r="1686.0" b="3063.0">DATE</box>
+          <box l="2033.0" t="3022.0" r="2139.0" b="3063.0">U.S</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2334.0" t="3017.0" r="2589.0" b="3063.0">$229,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="2.0" fn="1.0">
+      <box l="2259.0" t="3268.0" r="2589.0" b="3317.0">56.814.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

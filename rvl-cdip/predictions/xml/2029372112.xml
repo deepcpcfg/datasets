@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2783.0" t="889.0" r="2913.0" b="949.0">538</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2601.0" t="1045.0" r="2677.0" b="1091.0">31,</box>
+      <box l="2729.0" t="1045.0" r="2839.0" b="1085.0">1992</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="1404.0" t="1988.0" r="1457.0" b="2030.0">37</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="591.0" t="2051.0" r="820.0" b="2093.0">Iberica:</box>
+          <box l="1438.0" t="2055.0" r="1457.0" b="2095.0">1</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1404.0" t="2180.0" r="1457.0" b="2221.0">43</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="489.0" t="2308.0" r="608.0" b="2347.0">WDCs</box>
+          <box l="713.0" t="2309.0" r="766.0" b="2349.0">43</box>
+          <box l="800.0" t="2307.0" r="833.0" b="2356.0">C</box>
+          <box l="871.0" t="2304.0" r="1050.0" b="2356.0">$1,200</box>
+          <box l="1087.0" t="2317.0" r="1170.0" b="2359.0">per</box>
+          <box l="1213.0" t="2306.0" r="1457.0" b="2359.0">building</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2565.0" t="2310.0" r="2835.0" b="2356.0">51,600.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="2565.0" t="2439.0" r="2835.0" b="2485.0">51,600.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

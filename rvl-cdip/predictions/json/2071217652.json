@@ -1,0 +1,30 @@
+{
+    "InvoiceNumber": "2432-39",
+    "LineItem": [
+        {
+            "ItemDescription": "Clipping service: Carolina Clipping Service, Inc.",
+            "ItemTotal": "81.68"
+        },
+        {
+            "ItemDescription": "Clipping service: South",
+            "ItemTotal": "57.35"
+        },
+        {
+            "ItemDescription": "Carolina"
+        },
+        {
+            "ItemDescription": "Express mail to Henry Turner.",
+            "ItemTotal": "9.95"
+        },
+        {
+            "ItemDescription": "Copies Postage",
+            "ItemTotal": ".87"
+        },
+        {
+            "ItemDescription": "Total phone calls",
+            "ItemTotal": "4.84"
+        }
+    ],
+    "IssuedDate": "09/01/94",
+    "TotalAmount": "$666.00"
+}

@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "31st March , 1986",
+    "TotalAmount": "3832.85",
+    "LineItem": [
+        {
+            "ItemTotal": "£345.30",
+            "ItemDescription": "AUSTRALIA ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£325.75",
+            "ItemDescription": "CANADA",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£293.60",
+            "ItemDescription": "FINLAND",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£342.35",
+            "ItemDescription": "JAPAN",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£220.00",
+            "ItemDescription": "U.S.A",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£40.25",
+            "ItemDescription": "Official Fees for obtaining four certified copies of the basic European Application",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

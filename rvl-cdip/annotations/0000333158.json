@@ -1,0 +1,43 @@
+{
+    "TotalAmount": "2,695.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$160.00",
+            "ItemDescription": "VTR (50 Minutes)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "400.00",
+            "ItemDescription": "VTR Production",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "800.00",
+            "ItemDescription": "Master film print",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "775.00",
+            "ItemDescription": "!i Release prints",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "750.00",
+            "ItemDescription": "Film Editing, & Production ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10.00",
+            "ItemDescription": "Audio Tap** Soundtrack",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

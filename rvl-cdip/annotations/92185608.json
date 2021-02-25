@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1036508",
+    "IssuedDate": "MAY 6,1991",
+    "TotalAmount": "16,016. 40",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE MAY L31L991 JET 4 COLOR ORDER NUMBER LMR3089 BLEED NEWPORT",
+            "ItemTotal": "17,549.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemTotal": "2,631.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MAY 13,1991 JET 4 COLOR ORDER NUMBER LMR3089 5TH COLOR PREM NEWPORT",
+            "ItemTotal": "1,104.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

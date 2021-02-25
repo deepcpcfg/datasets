@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="268.0" t="1965.0" r="523.0" b="2014.0">Benefactor</box>
+          <box l="539.0" t="1966.0" r="735.0" b="2023.0">Sponsor</box>
+          <box l="751.0" t="1962.0" r="818.0" b="2009.0">for</box>
+          <box l="835.0" t="1963.0" r="946.0" b="2013.0">Gala</box>
+          <box l="961.0" t="1964.0" r="1076.0" b="2013.0">2000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2677.0" t="851.0" r="2902.0" b="895.0">115,0000</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="2446.0" t="2256.0" r="2725.0" b="2316.0">15,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

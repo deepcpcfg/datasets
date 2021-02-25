@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1016 00231",
+    "IssuedDate": "August 20, 1993",
+    "TotalAmount": "445.75",
+    "LineItem": [
+        {
+            "ItemTotal": "345684",
+            "ItemDescription": "8/2/93",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3 39 0131",
+            "ItemDescription": "7/2/93",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

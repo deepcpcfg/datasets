@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="121.0" fp="1.0" fn="0.0">
+    <IssuedDate tp="18.0" fp="0.0" fn="0.0">
+      <box l="1600.0" t="1221.0" r="1937.0" b="1274.0">September</box>
+      <box l="1991.0" t="1220.0" r="2087.0" b="1272.0">22,</box>
+      <box l="2152.0" t="1219.0" r="2287.0" b="1264.0">1978</box>
+    </IssuedDate>
+    <InvoiceNumber tp="3.0" fp="0.0" fn="0.0">
+      <box l="1987.0" t="1356.0" r="2091.0" b="1396.0">904</box>
+    </InvoiceNumber>
+    <LineItem tp="91.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="425.0" t="2325.0" r="841.0" b="2382.0">Advertising</box>
+          <box l="892.0" t="2337.0" r="1071.0" b="2378.0">space</box>
+          <box l="1130.0" t="2325.0" r="1188.0" b="2370.0">in</box>
+          <box l="1247.0" t="2325.0" r="1380.0" b="2370.0">1978</box>
+          <box l="1431.0" t="2326.0" r="1609.0" b="2371.0">World</box>
+          <box l="1663.0" t="2326.0" r="1880.0" b="2371.0">Series</box>
+          <box l="1935.0" t="2327.0" r="2194.0" b="2385.0">Program</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2398.0" t="2323.0" r="2771.0" b="2382.0">$16,470.59</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="424.0" t="2586.0" r="800.0" b="2631.0">Production</box>
+          <box l="851.0" t="2587.0" r="1070.0" b="2640.0">charge</box>
+          <box l="1125.0" t="2587.0" r="1225.0" b="2629.0">for</box>
+          <box l="1276.0" t="2587.0" r="1454.0" b="2629.0">bleed</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2480.0" t="2587.0" r="2768.0" b="2641.0">1,400.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2393.0" t="2716.0" r="2768.0" b="2769.0">$15,400.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

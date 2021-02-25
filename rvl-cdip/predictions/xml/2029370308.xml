@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="57.0" fp="27.0" fn="64.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="1.0">
+      <box l="2873.0" t="1062.0" r="3057.0" b="1128.0">4002</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="1.0" fn="1.0">
+      <box l="2643.0" t="1174.0" r="2741.0" b="1230.0">May</box>
+      <box l="2781.0" t="1182.0" r="2859.0" b="1234.0">31,</box>
+      <box l="2907.0" t="1186.0" r="3017.0" b="1232.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="33.0" fp="26.0" fn="62.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="617.0" t="2492.0" r="867.0" b="2543.0">Airborne</box>
+          <box l="904.0" t="2506.0" r="1146.0" b="2553.0">asbestos</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1219.0" t="2458.0" r="1303.0" b="2500.0">per</box>
+          <box l="1347.0" t="2452.0" r="1594.0" b="2512.0">building</box>
+          <box l="1252.0" t="2517.0" r="1304.0" b="2558.0">28</box>
+          <box l="1408.0" t="2518.0" r="1525.0" b="2566.0">$650</box>
+          <box l="1565.0" t="2537.0" r="1649.0" b="2578.0">per</box>
+          <box l="1690.0" t="2530.0" r="1936.0" b="2592.0">building</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2701.0" t="2502.0" r="2976.0" b="2550.0">33,600.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2695.0" t="2689.0" r="2971.0" b="2741.0">51,800.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

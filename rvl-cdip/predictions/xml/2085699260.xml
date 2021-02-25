@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="130.0" fp="31.0" fn="31.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2597.0" t="788.0" r="2780.0" b="829.0">2001817</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="1.0" fn="2.0">
+      <box l="236.0" t="1938.0" r="424.0" b="1976.0">8/3/2000</box>
+    </IssuedDate>
+    <LineItem tp="110.0" fp="29.0" fn="29.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="933.0" t="1937.0" r="1024.0" b="1972.0">3:30</box>
+          <box l="1043.0" t="1948.0" r="1112.0" b="1981.0">pm</box>
+          <box l="1158.0" t="1938.0" r="1252.0" b="1972.0">9:30</box>
+          <box l="1267.0" t="1948.0" r="1333.0" b="1983.0">pm</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2144.0" t="1938.0" r="2170.0" b="1972.0">2</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2324.0" t="1939.0" r="2470.0" b="1975.0">200.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2680.0" t="1940.0" r="2862.0" b="1977.0">400.OOT</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="934.0" t="1992.0" r="1022.0" b="2034.0">Edit</box>
+          <box l="1038.0" t="1995.0" r="1138.0" b="2032.0">Beat</box>
+          <box l="1151.0" t="1993.0" r="1367.0" b="2036.0">Breakouts</box>
+          <box l="935.0" t="2059.0" r="965.0" b="2097.0">R</box>
+          <box l="989.0" t="2057.0" r="1035.0" b="2096.0">15</box>
+          <box l="1052.0" t="2056.0" r="1164.0" b="2098.0">DAT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2148.0" t="2061.0" r="2168.0" b="2101.0">1</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2351.0" t="2063.0" r="2469.0" b="2101.0">25.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2706.0" t="2062.0" r="2860.0" b="2106.0">25.00T</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="930.0" t="2121.0" r="1236.0" b="2164.0">TOKCDR74</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2144.0" t="2126.0" r="2169.0" b="2167.0">3</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2361.0" t="2126.0" r="2470.0" b="2167.0">15.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2708.0" t="2128.0" r="2862.0" b="2169.0">45.00T</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="934.0" t="2249.0" r="1093.0" b="2301.0">Special</box>
+          <box l="1108.0" t="2251.0" r="1304.0" b="2292.0">Discount</box>
+          <box l="1319.0" t="2252.0" r="1383.0" b="2290.0">for</box>
+          <box l="1396.0" t="2251.0" r="1496.0" b="2291.0">Rich</box>
+          <box l="1514.0" t="2250.0" r="1741.0" b="2290.0">Guilmenoi</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2146.0" t="2252.0" r="2171.0" b="2293.0">2</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2334.0" t="2254.0" r="2471.0" b="2296.0">-55.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2664.0" t="2257.0" r="2865.0" b="2299.0">-110.00T</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2669.0" t="3761.0" r="2841.0" b="3811.0">$389.70</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

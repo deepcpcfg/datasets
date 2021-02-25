@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "July 1. 198?",
+            {
+                "tp": 11.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$3,930.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "For submission of Final Report Cardiovascular testing of Compound A-59 In the Beagle Dog 0 $3,700.00 per compound",
+                            {
+                                "tp": 111.0,
+                                "fp": 2.0,
+                                "fn": 46.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 120.0,
+                        "fp": 2.0,
+                        "fn": 46.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "plus $230.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 12.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 12.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 120.0,
+                "fp": 14.0,
+                "fn": 46.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1439-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 137.0,
+        "fp": 15.0,
+        "fn": 47.0
+    }
+]

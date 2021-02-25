@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "2220-61",
+    "IssuedDate": "6'25:74",
+    "LineItem": [
+        {
+            "ItemDescription": "voucher represents relfaburaeable costs for"
+        },
+        {
+            "ItemDescription": "(period Kay 18, 1976 thru June 14,",
+            "ItemTotal": "9>655.06"
+        },
+        {
+            "ItemDescription": "'Fixed Fee",
+            "ItemTotal": "1,155-00"
+        }
+    ],
+    "TotalAmount": "$10,810.06"
+}

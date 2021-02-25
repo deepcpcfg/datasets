@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "1754",
+    "IssuedDate": "March 1, 1964",
+    "LineItem": [
+        {
+            "ItemDescription": "Statement for the month of March, 1964, RENDERED UNDER CONTRACTUAL AGREEMENT DATED March 1, 1964, AS provided FOR BY PARAGRAPH 4-H or SAID CONTRACT",
+            "ItemTotal": "$1964.17"
+        }
+    ]
+}

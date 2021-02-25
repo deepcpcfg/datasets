@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2502.0" t="311.0" r="2697.0" b="381.0">4437</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2422.0" t="932.0" r="2449.0" b="969.0">9</box>
+      <box l="2488.0" t="932.0" r="2762.0" b="981.0">Decenbot.</box>
+      <box l="2801.0" t="931.0" r="2924.0" b="972.0">ID33</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="692.0" t="1468.0" r="941.0" b="1518.0">4.500.CO</box>
+    </TotalAmount>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="318.0" t="2632.0" r="496.0" b="2673.0">Service</box>
+          <box l="525.0" t="2635.0" r="779.0" b="2675.0">Rendered:</box>
+          <box l="910.0" t="2635.0" r="1038.0" b="2673.0">Ar»a</box>
+          <box l="1071.0" t="2633.0" r="1383.0" b="2674.0">SaleoneIla</box>
+          <box l="1416.0" t="2632.0" r="1570.0" b="2673.0">Plate</box>
+          <box l="1604.0" t="2636.0" r="1760.0" b="2681.0">Assay</box>
+          <box l="1796.0" t="2630.0" r="1856.0" b="2672.0">Ln</box>
+          <box l="913.0" t="2695.0" r="1195.0" b="2744.0">ocopounda</box>
+          <box l="1226.0" t="2695.0" r="1349.0" b="2744.0">B84.</box>
+          <box l="1384.0" t="2694.0" r="1504.0" b="2744.0">B96.</box>
+          <box l="1541.0" t="2694.0" r="1695.0" b="2743.0">B156.</box>
+          <box l="1732.0" t="2693.0" r="1853.0" b="2735.0">B157</box>
+          <box l="1891.0" t="2696.0" r="1979.0" b="2735.0">and</box>
+          <box l="2012.0" t="2696.0" r="2138.0" b="2738.0">B165</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1134.0" t="2755.0" r="1441.0" b="2806.0">$4,500.00.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1887.0" t="2632.0" r="2201.0" b="2680.0">Triplicate</box>
+          <box l="2232.0" t="2642.0" r="2297.0" b="2675.0">on</box>
+          <box l="2332.0" t="2637.0" r="2420.0" b="2675.0">the</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2235.0" t="2696.0" r="2448.0" b="2742.0">$900.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

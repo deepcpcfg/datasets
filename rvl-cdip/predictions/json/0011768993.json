@@ -1,0 +1,12 @@
+{
+    "IssuedDate": "June 11,1993",
+    "TotalAmount": "$14,666.66",
+    "LineItem": [
+        {
+            "ItemDescription": "Research"
+        },
+        {
+            "ItemDescription": "research"
+        }
+    ]
+}

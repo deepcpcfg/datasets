@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="580.0" fp="129.0" fn="43.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="773.0" t="651.0" r="1015.0" b="689.0">SEP10/02</box>
+    </IssuedDate>
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="2650.0" t="657.0" r="2928.0" b="694.0">N-29-0127</box>
+    </InvoiceNumber>
+    <LineItem tp="563.0" fp="129.0" fn="43.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="485.0" t="1436.0" r="672.0" b="1470.0">WHACKO</box>
+          <box l="706.0" t="1435.0" r="955.0" b="1469.0">VIGNETTE</box>
+          <box l="1081.0" t="1438.0" r="1206.0" b="1468.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1431.0" t="1436.0" r="1451.0" b="1470.0">0</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="1842.0" t="1435.0" r="1922.0" b="1473.0">,00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2272.0" t="1437.0" r="2421.0" b="1474.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="489.0" t="1487.0" r="606.0" b="1524.0">JUNO</box>
+          <box l="614.0" t="1487.0" r="638.0" b="1523.0">3</box>
+          <box l="772.0" t="1489.0" r="826.0" b="1523.0">30</box>
+          <box l="1086.0" t="1491.0" r="1364.0" b="1525.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2343.0" t="1492.0" r="2421.0" b="1525.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2844.0" t="1494.0" r="2923.0" b="1531.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="486.0" t="1601.0" r="672.0" b="1636.0">WHACKO</box>
+          <box l="706.0" t="1600.0" r="952.0" b="1635.0">VIGNETTE</box>
+          <box l="1081.0" t="1601.0" r="1206.0" b="1635.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1839.0" t="1601.0" r="1918.0" b="1636.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2272.0" t="1600.0" r="2421.0" b="1638.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="487.0" t="1655.0" r="606.0" b="1691.0">JUNO</box>
+          <box l="615.0" t="1655.0" r="636.0" b="1691.0">3</box>
+          <box l="770.0" t="1655.0" r="823.0" b="1691.0">30</box>
+          <box l="1082.0" t="1659.0" r="1361.0" b="1693.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1839.0" t="1657.0" r="1918.0" b="1694.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2343.0" t="1659.0" r="2419.0" b="1695.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="486.0" t="1769.0" r="673.0" b="1803.0">WHACKO</box>
+          <box l="702.0" t="1768.0" r="952.0" b="1802.0">VIGNETTE</box>
+          <box l="1078.0" t="1771.0" r="1203.0" b="1801.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1840.0" t="1769.0" r="1919.0" b="1805.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2270.0" t="1771.0" r="2419.0" b="1806.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="486.0" t="1820.0" r="607.0" b="1857.0">JUNO</box>
+          <box l="615.0" t="1820.0" r="636.0" b="1856.0">3</box>
+          <box l="769.0" t="1822.0" r="824.0" b="1856.0">30</box>
+          <box l="1083.0" t="1824.0" r="1361.0" b="1859.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1840.0" t="1823.0" r="1919.0" b="1859.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2340.0" t="1824.0" r="2420.0" b="1861.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="487.0" t="1936.0" r="673.0" b="1970.0">WHACKO</box>
+          <box l="703.0" t="1935.0" r="952.0" b="1972.0">VIGNETTE</box>
+          <box l="1078.0" t="1938.0" r="1203.0" b="1971.0">TIME</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1865.0" t="1936.0" r="1917.0" b="1973.0">00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2270.0" t="1938.0" r="2420.0" b="1971.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="487.0" t="1990.0" r="633.0" b="2026.0">JUN03</box>
+          <box l="770.0" t="1990.0" r="821.0" b="2027.0">30</box>
+          <box l="1079.0" t="1992.0" r="1362.0" b="2028.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1837.0" t="1993.0" r="1916.0" b="2027.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2341.0" t="1995.0" r="2420.0" b="2030.0">.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2841.0" t="1997.0" r="2920.0" b="2032.0">.00</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="483.0" t="2102.0" r="671.0" b="2137.0">WHACKO</box>
+          <box l="700.0" t="2102.0" r="951.0" b="2137.0">VIGNETTE</box>
+          <box l="1075.0" t="2105.0" r="1200.0" b="2135.0">TIME</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1837.0" t="2103.0" r="1916.0" b="2139.0">.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2270.0" t="2104.0" r="2417.0" b="2141.0">72.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="484.0" t="2157.0" r="634.0" b="2191.0">JUN03</box>
+          <box l="767.0" t="2157.0" r="821.0" b="2191.0">30</box>
+          <box l="1080.0" t="2159.0" r="1360.0" b="2192.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1837.0" t="2159.0" r="1916.0" b="2194.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2338.0" t="2159.0" r="2417.0" b="2192.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="484.0" t="2268.0" r="671.0" b="2303.0">WHACKO</box>
+          <box l="700.0" t="2268.0" r="950.0" b="2302.0">VIGNETTE</box>
+          <box l="1076.0" t="2268.0" r="1201.0" b="2301.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1838.0" t="2269.0" r="1916.0" b="2304.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2271.0" t="2270.0" r="2417.0" b="2307.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="484.0" t="2322.0" r="634.0" b="2358.0">JUN03</box>
+          <box l="768.0" t="2322.0" r="821.0" b="2357.0">30</box>
+          <box l="1080.0" t="2325.0" r="1359.0" b="2360.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2338.0" t="2326.0" r="2417.0" b="2362.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2839.0" t="2328.0" r="2917.0" b="2364.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="480.0" t="2434.0" r="669.0" b="2467.0">WHACKO</box>
+          <box l="701.0" t="2435.0" r="948.0" b="2469.0">VIGNETTE</box>
+          <box l="1075.0" t="2434.0" r="1199.0" b="2468.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1835.0" t="2436.0" r="1913.0" b="2469.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2268.0" t="2434.0" r="2417.0" b="2471.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="484.0" t="2487.0" r="632.0" b="2524.0">JUN03</box>
+          <box l="765.0" t="2486.0" r="821.0" b="2523.0">30</box>
+          <box l="1077.0" t="2489.0" r="1360.0" b="2523.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1835.0" t="2489.0" r="1914.0" b="2523.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2339.0" t="2492.0" r="2414.0" b="2526.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="481.0" t="2599.0" r="668.0" b="2637.0">WHACKO</box>
+          <box l="697.0" t="2602.0" r="948.0" b="2636.0">VIGNETTE</box>
+          <box l="1073.0" t="2605.0" r="1199.0" b="2638.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1835.0" t="2603.0" r="1914.0" b="2636.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2268.0" t="2604.0" r="2414.0" b="2638.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="481.0" t="2658.0" r="630.0" b="2691.0">JUN03</box>
+          <box l="765.0" t="2657.0" r="819.0" b="2690.0">30</box>
+          <box l="1077.0" t="2659.0" r="1355.0" b="2692.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1835.0" t="2657.0" r="1914.0" b="2694.0">.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2336.0" t="2659.0" r="2415.0" b="2693.0">.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="478.0" t="2769.0" r="670.0" b="2803.0">WHACKO</box>
+          <box l="698.0" t="2769.0" r="948.0" b="2802.0">VIGNETTE</box>
+          <box l="1073.0" t="2771.0" r="1198.0" b="2801.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1835.0" t="2769.0" r="1911.0" b="2804.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2265.0" t="2771.0" r="2415.0" b="2805.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="481.0" t="2820.0" r="631.0" b="2858.0">JUN03</box>
+          <box l="765.0" t="2822.0" r="819.0" b="2857.0">30</box>
+          <box l="1077.0" t="2825.0" r="1356.0" b="2860.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1832.0" t="2822.0" r="1911.0" b="2861.0">.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2336.0" t="2826.0" r="2415.0" b="2863.0">.00</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="2837.0" t="2829.0" r="2915.0" b="2865.0">.00</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="478.0" t="2937.0" r="667.0" b="2971.0">WHACKO</box>
+          <box l="695.0" t="2937.0" r="945.0" b="2973.0">VIGNETTE</box>
+          <box l="1074.0" t="2939.0" r="1197.0" b="2972.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1832.0" t="2939.0" r="1911.0" b="2973.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2265.0" t="2939.0" r="2412.0" b="2976.0">72,25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="478.0" t="2993.0" r="628.0" b="3028.0">JUN03</box>
+          <box l="762.0" t="2991.0" r="817.0" b="3027.0">30</box>
+          <box l="1075.0" t="2996.0" r="1354.0" b="3030.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1832.0" t="2994.0" r="1911.0" b="3031.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2333.0" t="2996.0" r="2412.0" b="3033.0">.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2837.0" t="2999.0" r="2912.0" b="3036.0">.00</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="478.0" t="3103.0" r="666.0" b="3140.0">WHACKO</box>
+          <box l="695.0" t="3102.0" r="946.0" b="3140.0">VIGNETTE</box>
+          <box l="1071.0" t="3106.0" r="1196.0" b="3139.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1833.0" t="3107.0" r="1912.0" b="3140.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2262.0" t="3106.0" r="2412.0" b="3142.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="3158.0" r="628.0" b="3195.0">JUN03</box>
+          <box l="763.0" t="3157.0" r="817.0" b="3194.0">30</box>
+          <box l="1075.0" t="3160.0" r="1354.0" b="3196.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1833.0" t="3161.0" r="1912.0" b="3197.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2334.0" t="3163.0" r="2412.0" b="3197.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="3274.0" r="666.0" b="3308.0">WHACKO</box>
+          <box l="696.0" t="3273.0" r="942.0" b="3307.0">VIGNETTE</box>
+          <box l="1072.0" t="3276.0" r="1195.0" b="3307.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1829.0" t="3273.0" r="1909.0" b="3311.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2263.0" t="3276.0" r="2409.0" b="3313.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="3327.0" r="596.0" b="3362.0">JUNO</box>
+          <box l="605.0" t="3326.0" r="629.0" b="3362.0">3</box>
+          <box l="762.0" t="3327.0" r="817.0" b="3361.0">30</box>
+          <box l="1076.0" t="3331.0" r="1351.0" b="3364.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1829.0" t="3331.0" r="1909.0" b="3365.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2333.0" t="3332.0" r="2409.0" b="3367.0">.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="476.0" t="3440.0" r="664.0" b="3474.0">WHACKO</box>
+          <box l="697.0" t="3441.0" r="943.0" b="3474.0">VIGNETTE</box>
+          <box l="1071.0" t="3442.0" r="1197.0" b="3476.0">TIME</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1829.0" t="3441.0" r="1909.0" b="3478.0">.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2263.0" t="3443.0" r="2409.0" b="3480.0">72.25</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="3495.0" r="626.0" b="3533.0">JUN03</box>
+          <box l="759.0" t="3494.0" r="814.0" b="3532.0">30</box>
+          <box l="1073.0" t="3498.0" r="1351.0" b="3534.0">INTEGRATN</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1830.0" t="3498.0" r="1909.0" b="3532.0">.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2330.0" t="3501.0" r="2410.0" b="3534.0">.00</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="2831.0" t="3503.0" r="2910.0" b="3540.0">.00</box>
+        </ItemUnitCount>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

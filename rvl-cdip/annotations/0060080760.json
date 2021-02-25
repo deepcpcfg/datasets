@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "01 -0273",
+    "IssuedDate": "January 27. 1993",
+    "TotalAmount": "4,544.39",
+    "LineItem": [
+        {
+            "ItemTotal": "$2,063.11",
+            "ItemDescription": "Data Entry \"L oak Book' Requests (4,384 pcs. © $470.6tVM) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "58.82",
+            "ItemDescription": "Output labvets for fulfillment ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "346.48",
+            "ItemDescription": "Programming (or data entry",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,659.00",
+            "ItemDescription": "Management Fee covering supervision of gala entry and reporting - A. Kominsky (19,75 hrs.) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "317.44",
+            "ItemDescription": "Misc. (copies, freight, (axes, ere.) ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

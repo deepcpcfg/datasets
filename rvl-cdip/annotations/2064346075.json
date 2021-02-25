@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "ERD-99-1735",
+    "IssuedDate": "01/04/99",
+    "LineItem": [
+        {
+            "ItemDescription": "ADVANCE PAYMENT INVOICE FOR ERD-99-1735 “DEVELOPMENT OF A RAPID MONITORING SYSTEM FOR THE INVESTIGATION OF PAHs FROM ELIDING TOBACCO\"",
+            "ItemTotal": "$97,440",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

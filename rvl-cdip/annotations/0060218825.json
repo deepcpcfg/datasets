@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2056",
+    "IssuedDate": "2/10/87",
+    "TotalAmount": "944.80",
+    "LineItem": [
+        {
+            "ItemDescription": "NEWSPAPER FOR THE MONTH Or DECEMBER 1986 PROVIDENCE JOURNAL SUNDAY MAGAZINE",
+            "ItemTotal": "$9,448*00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS PREVIOUSLY BILLED ON INVOICE #12138",
+            "ItemTotal": "8,503.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

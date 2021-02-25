@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "December 19, 2000",
+    "InvoiceNumber": "844502",
+    "TotalAmount": "8,720.34",
+    "LineItem": [
+        {
+            "ItemTotal": "10,369.50",
+            "ItemDescription": "For Legal Services Rendered through November 30, 2000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,073.90",
+            "ItemDescription": "Less; Discount",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "11.15",
+            "ItemDescription": "Local Transportation ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4.55",
+            "ItemDescription": "Telephone ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "251.73",
+            "ItemDescription": "westlaw Research ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

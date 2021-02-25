@@ -1,0 +1,34 @@
+{
+    "IssuedDate": "January 27, 1993",
+    "InvoiceNumber": "#01-0274",
+    "LineItem": [
+        {
+            "ItemDescription": "Data Entry ‘Tar Wars Bounceback Requests’ (21.498 pcs. S47O.6O/M)",
+            "ItemTotal": "310.116.96"
+        },
+        {
+            "ItemDescription": "Redemption coupon Data Entry (193,039 pcs. S47.O6/M)",
+            "ItemTotal": "9,084.42"
+        },
+        {
+            "ItemDescription": "Programming for data Entry",
+            "ItemTotal": "352.95"
+        },
+        {
+            "ItemDescription": "NixiejPromo Ccd e Reports",
+            "ItemTotal": "294,"
+        },
+        {
+            "ItemDescription": "Management Fea covering supervision of data entry and reporting D. Smote n (27.25 hrs.)",
+            "ItemTotal": "3,762.85"
+        },
+        {
+            "ItemDescription": "L. Warnecke"
+        },
+        {
+            "ItemDescription": "Mfec. (copies, faxds, freight, etc.)",
+            "ItemTotal": "796.97"
+        }
+    ],
+    "TotalAmount": "$24,634.05"
+}

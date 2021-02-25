@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "1523616",
+    "IssuedDate": "95",
+    "LineItem": [
+        {
+            "ItemDescription": "’96 MERIT BOWLING PROMOTION AGREEMENT WITH INTERNATIONAL MERCHANDISING CORP PER AMENDMENT AGREEMENT DATED AUGUST 29TH, INCREASE IN '96 MERIT BOWLING SANCTIONING FEES FOR LPBT",
+            "ItemTotal": "6,000.00"
+        }
+    ],
+    "TotalAmount": "6,000.00"
+}

@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "208-0128",
+    "TotalAmount": "44,883.40",
+    "LineItem": [
+        {
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "283.4000",
+            "ItemTotal": "3.614.20",
+            "ItemDescription": "WINSTON BOX S1/2PKS"
+        },
+        {
+            "ItemUnitCount": "25",
+            "ItemUnitValue": "293.4000",
+            "ItemDescription": "WINSTON LT BOX $1/2PKS",
+            "ItemTotal": ""
+        },
+        {
+            "ItemUnitCount": "13",
+            "ItemUnitValue": "283.4000",
+            "ItemTotal": "3.814.20",
+            "ItemDescription": "WINSTON UL LT BX $1/2PKS"
+        }
+    ],
+    "IssuedDate": ""
+}

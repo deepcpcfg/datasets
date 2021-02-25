@@ -1,0 +1,34 @@
+{
+    "IssuedDate": "2 June 1972",
+    "LineItem": [
+        {
+            "ItemDescription": "Laboratory Supplies",
+            "ItemTotal": "1,327.27"
+        },
+        {
+            "ItemDescription": "Animals Equlpment-Paekard Calculator Model HP35",
+            "ItemTotal": "395.00"
+        },
+        {
+            "ItemDescription": "Vari an Integrator System Model 477",
+            "ItemTotal": "1,995.00"
+        },
+        {
+            "ItemDescription": "Project Manager Ratenkrantx,",
+            "ItemTotal": "253.44"
+        },
+        {
+            "ItemDescription": "Analytical Chemist Hagoplan,",
+            "ItemTotal": "1,284.61"
+        },
+        {
+            "ItemDescription": "Analytical Chemist Prasad,",
+            "ItemTotal": "632.75"
+        },
+        {
+            "ItemDescription": "Laboratory Technicians",
+            "ItemTotal": "1,012.56"
+        }
+    ],
+    "TotalAmount": "$12,261.70"
+}

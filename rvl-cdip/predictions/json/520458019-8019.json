@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "000116",
+    "IssuedDate": "August 23* 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "994 BY. ARGENTINE BURLEY STRIPS",
+            "ItemUnitCount": "384,000",
+            "ItemTotal": "3.6"
+        },
+        {
+            "ItemDescription": "994",
+            "ItemTotal": "3.7"
+        }
+    ]
+}

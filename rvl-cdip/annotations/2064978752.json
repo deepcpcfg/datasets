@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "0004214-IN",
+    "IssuedDate": "08/28/98",
+    "TotalAmount": "3,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Sales Advertising Division Light Box Pier fl 3 Inside Size: 21\" w x 21” h Covering Period: February 1, 1998 thru",
+            "ItemTotal": "3,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

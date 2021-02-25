@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="38.0" fp="108.0" fn="13.0">
+    <LineItem tp="38.0" fp="108.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="861.0" t="1326.0" r="1134.0" b="1359.0">LITERATURE</box>
+          <box l="1163.0" t="1325.0" r="1414.0" b="1359.0">RETRIEVAL</box>
+          <box l="1443.0" t="1325.0" r="1663.0" b="1357.0">DIVISION</box>
+          <box l="1692.0" t="1326.0" r="1746.0" b="1356.0">TO</box>
+          <box l="859.0" t="1428.0" r="1000.0" b="1461.0">COVER</box>
+          <box l="1026.0" t="1427.0" r="1300.0" b="1461.0">OPERATIONS</box>
+          <box l="1330.0" t="1428.0" r="1521.0" b="1459.0">THROUGH</box>
+          <box l="1550.0" t="1426.0" r="1883.0" b="1459.0">APPROXIMATE-</box>
+          <box l="863.0" t="1516.0" r="917.0" b="1545.0">LY</box>
+          <box l="942.0" t="1515.0" r="1083.0" b="1546.0">APRIL</box>
+          <box l="1111.0" t="1514.0" r="1182.0" b="1551.0">30,</box>
+          <box l="1224.0" t="1511.0" r="1349.0" b="1544.0">1980.</box>
+          <box l="917.0" t="1610.0" r="1098.0" b="1642.0">CHARGE;</box>
+          <box l="1166.0" t="1610.0" r="1302.0" b="1641.0">LEGAL</box>
+          <box l="1328.0" t="1607.0" r="1856.0" b="1644.0">DIVISION-LITIGATION</box>
+          <box l="916.0" t="1695.0" r="1106.0" b="1725.0">RELATED</box>
+          <box l="1135.0" t="1694.0" r="1348.0" b="1725.0">EXPENSE.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2358.0" t="1329.0" r="2516.0" b="1366.0">24.225</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

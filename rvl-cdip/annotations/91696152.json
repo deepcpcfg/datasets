@@ -1,0 +1,73 @@
+{
+    "InvoiceNumber": "00122",
+    "IssuedDate": "6- 28-84",
+    "TotalAmount": "108,965.70",
+    "LineItem": [
+        {
+            "ItemDescription": "BALTIMORE SUN",
+            "ItemTotal": "5.244.97",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4.639.44",
+            "ItemUnitCount": "1",
+            "ItemDescription": "BOSTON HERALD",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,217.25",
+            "ItemUnitCount": "1",
+            "ItemDescription": "BOSTON GLOBE",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "12.766.58",
+            "ItemUnitCount": "1",
+            "ItemDescription": "CHICAGO TRIBUNE",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8.538.96",
+            "ItemUnitCount": "1",
+            "ItemDescription": "DETROIT FREE PRESS",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "12.344.45",
+            "ItemUnitCount": "1",
+            "ItemDescription": "DETROIT NEWS",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5.357.22",
+            "ItemUnitCount": "1",
+            "ItemDescription": "LOS ANGELES HERALD EXAM",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.600.75",
+            "ItemUnitCount": "1",
+            "ItemDescription": "ANGELES DAILY NEWS",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "24.932.37",
+            "ItemUnitCount": "1",
+            "ItemDescription": "NEWS C & S",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "14.007.66",
+            "ItemUnitCount": "1",
+            "ItemDescription": "INQUIRER",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10.316.03",
+            "ItemUnitCount": "1",
+            "ItemDescription": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

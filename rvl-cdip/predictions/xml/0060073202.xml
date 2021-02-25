@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="187.0" fp="14.0" fn="9.0">
+    <TotalAmount tp="0.0" fp="4.0" fn="0.0">
+      <box l="2146.0" t="527.0" r="2305.0" b="568.0">INC.</box>
+    </TotalAmount>
+    <IssuedDate tp="12.0" fp="2.0" fn="2.0">
+      <box l="1858.0" t="1077.0" r="2038.0" b="1127.0">April</box>
+      <box l="2084.0" t="1077.0" r="2174.0" b="1127.0">ID,</box>
+      <box l="2229.0" t="1078.0" r="2362.0" b="1119.0">1973</box>
+    </IssuedDate>
+    <LineItem tp="175.0" fp="8.0" fn="7.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1106.0" t="1760.0" r="1170.0" b="1802.0">72</box>
+          <box l="1211.0" t="1760.0" r="1537.0" b="1811.0">Smokeshop</box>
+          <box l="1574.0" t="1760.0" r="1895.0" b="1810.0">cigarotte</box>
+          <box l="1929.0" t="1761.0" r="2183.0" b="1803.0">machine</box>
+          <box l="1215.0" t="1827.0" r="1604.0" b="1877.0">replacement</box>
+          <box l="1649.0" t="1828.0" r="1857.0" b="1868.0">panels</box>
+          <box l="1895.0" t="1828.0" r="2037.0" b="1868.0">with</box>
+          <box l="1212.0" t="1897.0" r="1352.0" b="1938.0">PALL</box>
+          <box l="1390.0" t="1896.0" r="1537.0" b="1936.0">MALL</box>
+          <box l="1574.0" t="1897.0" r="1715.0" b="1935.0">GOLD</box>
+          <box l="1753.0" t="1897.0" r="2029.0" b="1948.0">display,</box>
+          <box l="1215.0" t="1964.0" r="1461.0" b="2015.0">shipped</box>
+          <box l="1500.0" t="1964.0" r="1567.0" b="2014.0">by</box>
+          <box l="1608.0" t="1964.0" r="1929.0" b="2007.0">Automatic</box>
+          <box l="1970.0" t="1965.0" r="2254.0" b="2007.0">Products</box>
+          <box l="1212.0" t="2035.0" r="1461.0" b="2084.0">Company</box>
+          <box l="1502.0" t="2031.0" r="1716.0" b="2083.0">during</box>
+          <box l="1758.0" t="2031.0" r="1858.0" b="2073.0">the</box>
+          <box l="1895.0" t="2032.0" r="2075.0" b="2073.0">month</box>
+          <box l="2116.0" t="2035.0" r="2183.0" b="2073.0">of</box>
+          <box l="1211.0" t="2098.0" r="1415.0" b="2147.0">March,</box>
+          <box l="1470.0" t="2097.0" r="1633.0" b="2148.0">1973,</box>
+          <box l="1690.0" t="2110.0" r="1749.0" b="2143.0">as</box>
+          <box l="1795.0" t="2110.0" r="1898.0" b="2149.0">per</box>
+          <box l="1941.0" t="2098.0" r="2220.0" b="2143.0">attached</box>
+          <box l="1219.0" t="2168.0" r="1415.0" b="2215.0">lists,</box>
+          <box l="1541.0" t="2168.0" r="1641.0" b="2210.0">50*r</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2482.0" t="2169.0" r="2690.0" b="2219.0">§36.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

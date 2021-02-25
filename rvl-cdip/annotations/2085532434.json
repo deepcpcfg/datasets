@@ -1,0 +1,61 @@
+{
+    "IssuedDate": "1/17/02",
+    "InvoiceNumber": "36164-02",
+    "TotalAmount": "39,592.60",
+    "LineItem": [
+        {
+            "ItemTotal": "8,218.20",
+            "ItemDescription": "SALARIES- TENURED FACULTY",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9,032,40",
+            "ItemDescription": "SALARIES- FACULTY SUMMER",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,200.00",
+            "ItemDescription": "SALARIES-S1WENT COOP",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.776.50",
+            "ItemDescription": "FRINGE BENEFIT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,410.00",
+            "ItemDescription": "SUPPLIES",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "351/00",
+            "ItemDescription": "RIT COMPUTER SERVICES",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.250.00",
+            "ItemDescription": "TRAVEL",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "225.00",
+            "ItemDescription": "EQUIPMENT-NON CAPITAL",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "11,129.10",
+            "ItemDescription": "FACILITIES £ ADMIN. @ 39.1%",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

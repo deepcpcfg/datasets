@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "CH014 3",
+    "IssuedDate": "Jul 17 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Guastalla Lucehini (PR Agents) invoices: 165/91 83,300,000 Lira #99/91 74,975,852 Lira Total 159,275,852 Lira Exchange rate: 1,233 Lira = $1 LB Total invoices due",
+            "ItemTotal": "$ 128,366.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Less invoice #010125 fr<m HBI to C8d3 dated Ntey 9, 1991 given as part payment: 110,000,000 Lira 0 1,233",
+            "ItemTotal": "($ 89,213.00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Total balance now due in final settlement",
+            "ItemTotal": "$ 39,153.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="30.0" fp="85.0" fn="17.0">
+    <LineItem tp="22.0" fp="85.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1113.0" t="2108.0" r="1318.0" b="2146.0">Annual</box>
+          <box l="1356.0" t="2105.0" r="1602.0" b="2159.0">Meeting</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2526.0" t="2110.0" r="2797.0" b="2156.0">1,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1114.0" t="2171.0" r="1214.0" b="2209.0">Ten</box>
+          <box l="1251.0" t="2167.0" r="1564.0" b="2209.0">Attendees</box>
+          <box l="1605.0" t="2171.0" r="1672.0" b="2209.0">to</box>
+          <box l="1709.0" t="2168.0" r="1813.0" b="2209.0">TMA</box>
+          <box l="1847.0" t="2168.0" r="2056.0" b="2210.0">Annual</box>
+          <box l="2093.0" t="2164.0" r="2339.0" b="2218.0">Meeting</box>
+          <box l="2448.0" t="2168.0" r="2730.0" b="2208.0">Luncheon</box>
+          <box l="1114.0" t="2226.0" r="1285.0" b="2263.0">Ellen</box>
+          <box l="1322.0" t="2227.0" r="1497.0" b="2264.0">Merlo</box>
+          <box l="1605.0" t="2229.0" r="1672.0" b="2263.0">to</box>
+          <box l="1713.0" t="2226.0" r="1917.0" b="2264.0">submit</box>
+          <box l="1956.0" t="2235.0" r="2125.0" b="2264.0">names</box>
+          <box l="2168.0" t="2227.0" r="2234.0" b="2264.0">of</box>
+          <box l="2272.0" t="2227.0" r="2586.0" b="2264.0">attendees</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2520.0" t="3339.0" r="2792.0" b="3385.0">1,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

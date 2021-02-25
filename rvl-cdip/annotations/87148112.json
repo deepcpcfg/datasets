@@ -1,0 +1,61 @@
+{
+    "IssuedDate": "4/20/90",
+    "TotalAmount": "42,242.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Compound A69",
+            "ItemTotal": "$ 8,355.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A201",
+            "ItemTotal": "8,355.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "B235",
+            "ItemTotal": "8,355.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A273",
+            "ItemTotal": "8,355.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Compound A 20 6",
+            "ItemTotal": "822.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Compound A89",
+            "ItemTotal": "2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AOS",
+            "ItemTotal": "2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A35",
+            "ItemTotal": "2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A36",
+            "ItemTotal": "2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

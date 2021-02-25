@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "336106",
+    "IssuedDate": "March 11,1998",
+    "TotalAmount": "1,209.70",
+    "LineItem": [
+        {
+            "ItemDescription": "Current fees",
+            "ItemTotal": "$164.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Current disbursements",
+            "ItemTotal": "$13.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Current charges this invoice",
+            "ItemTotal": "$177.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

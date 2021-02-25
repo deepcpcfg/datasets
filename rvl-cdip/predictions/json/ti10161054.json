@@ -1,0 +1,21 @@
+{
+    "InvoiceNumber": "670398",
+    "IssuedDate": "3/26/87",
+    "LineItem": [
+        {
+            "ItemDescription": "*ACVA NATIONAL MEDIA TOUR” CHARACTER GENERATION; 2.25",
+            "ItemTotal": "180.00"
+        },
+        {
+            "ItemDescription": "BCA-30 1",
+            "ItemTotal": "23.50",
+            "ItemUnitValue": "23.50"
+        },
+        {
+            "ItemDescription": "BCA-60 1",
+            "ItemTotal": "30.00",
+            "ItemUnitValue": "30.00"
+        }
+    ],
+    "TotalAmount": "247"
+}

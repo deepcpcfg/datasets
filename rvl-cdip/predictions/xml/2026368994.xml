@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="134.0" fp="18.0" fn="14.0">
+    <LineItem tp="134.0" fp="18.0" fn="14.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="619.0" t="2112.0" r="898.0" b="2165.0">Studying</box>
+          <box l="937.0" t="2112.0" r="1140.0" b="2154.0">Office</box>
+          <box l="1180.0" t="2112.0" r="1415.0" b="2161.0">Action,</box>
+          <box l="1462.0" t="2111.0" r="1736.0" b="2164.0">Amending</box>
+          <box l="1778.0" t="2123.0" r="1944.0" b="2162.0">pages</box>
+          <box l="1991.0" t="2112.0" r="2082.0" b="2159.0">22,</box>
+          <box l="2132.0" t="2112.0" r="2220.0" b="2159.0">23,</box>
+          <box l="2274.0" t="2113.0" r="2332.0" b="2150.0">27</box>
+          <box l="724.0" t="2175.0" r="790.0" b="2212.0">of</box>
+          <box l="832.0" t="2170.0" r="1283.0" b="2225.0">specification</box>
+          <box l="1324.0" t="2172.0" r="1423.0" b="2213.0">and</box>
+          <box l="1465.0" t="2172.0" r="1694.0" b="2219.0">claims,</box>
+          <box l="1740.0" t="2170.0" r="1948.0" b="2223.0">Filing</box>
+          <box l="1986.0" t="2183.0" r="2290.0" b="2220.0">response,</box>
+          <box l="619.0" t="2233.0" r="932.0" b="2283.0">reporting</box>
+          <box l="973.0" t="2234.0" r="1212.0" b="2271.0">thereof</box>
+          <box l="1254.0" t="2234.0" r="1353.0" b="2271.0">and</box>
+          <box l="1391.0" t="2235.0" r="1628.0" b="2281.0">postage</box>
+          <box l="1672.0" t="2241.0" r="1943.0" b="2282.0">expenses</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="2374.0" t="2113.0" r="2474.0" b="2151.0">and</box>
+          <box l="2586.0" t="2072.0" r="2825.0" b="2110.0">PATENTS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2590.0" t="2231.0" r="2825.0" b="2275.0">$155.0Q</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

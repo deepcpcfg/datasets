@@ -1,0 +1,49 @@
+{
+    "IssuedDate": "February 19, 1993",
+    "InvoiceNumber": "02-0248 ",
+    "LineItem": [
+        {
+            "ItemDescription": "Data Entry- - Tar Wars Bounceback Requests (21,498 pcs. @ S47O.6O/M) ",
+            "ItemTotal": "$10,116.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Data Entry - Redemption Coupons (193.039 pcs. ® $47.C6/W) ",
+            "ItemTotal": "9.084.42",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Data Entry - Redemption Ooubons (153,535 PCs @ $47.06/M) ",
+            "ItemTotal": "7,225.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Programming for data Eniry ",
+            "ItemTotal": "352.95",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Nixie/Promci Cede Reports ",
+            "ItemTotal": "294.13",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Management fee covering supervision of data entry and reoorting ",
+            "ItemTotal": "3762.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Misc. (copies, faxes, freight, etc.) ",
+            "ItemTotal": "796.97",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

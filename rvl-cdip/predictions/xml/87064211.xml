@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="16.0" fn="2.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2315.0" t="548.0" r="2482.0" b="589.0">36899</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="285.0" t="1084.0" r="555.0" b="1124.0">12/17/88</box>
+    </IssuedDate>
+    <LineItem tp="43.0" fp="15.0" fn="1.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="500.0" t="1383.0" r="521.0" b="1422.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="891.0" t="1384.0" r="953.0" b="1422.0">B5</box>
+          <box l="996.0" t="1383.0" r="1062.0" b="1421.0">CG</box>
+          <box l="1104.0" t="1382.0" r="1168.0" b="1422.0">DT</box>
+          <box l="1213.0" t="1382.0" r="1275.0" b="1423.0">DV</box>
+          <box l="1320.0" t="1382.0" r="1378.0" b="1422.0">FR</box>
+          <box l="1425.0" t="1384.0" r="1491.0" b="1421.0">JP</box>
+          <box l="1537.0" t="1384.0" r="1595.0" b="1423.0">LA</box>
+          <box l="1640.0" t="1386.0" r="1702.0" b="1423.0">NY</box>
+          <box l="1748.0" t="1385.0" r="1811.0" b="1423.0">SR</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2320.0" t="1384.0" r="2630.0" b="1428.0">28,585.07</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2823.0" t="1386.0" r="3130.0" b="1428.0">24,297.31</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="428.0" t="1621.0" r="490.0" b="1659.0">DE</box>
+          <box l="535.0" t="1621.0" r="560.0" b="1659.0">0</box>
+          <box l="585.0" t="1621.0" r="703.0" b="1658.0">iDER</box>
+          <box l="748.0" t="1620.0" r="840.0" b="1658.0">NJ.</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="1.0">
+      <box l="2836.0" t="3157.0" r="3143.0" b="3195.0">24,297.31</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

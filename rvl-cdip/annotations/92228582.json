@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "00347",
+    "IssuedDate": "12-04-86",
+    "TotalAmount": "13,310.09",
+    "LineItem": [
+        {
+            "ItemDescription": "ORDERED",
+            "ItemTotal": "303.319.19",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "BILLED",
+            "ItemTotal": "303.319.11",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EARNED",
+            "ItemTotal": "290,001. 10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "REBATE",
+            "ItemTotal": "13.318.09",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

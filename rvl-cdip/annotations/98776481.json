@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "D-01-16D5",
+    "IssuedDate": "01/16/95",
+    "TotalAmount": "76.47",
+    "LineItem": [
+        {
+            "ItemDescription": "KEYLINE ASSEMBLY STUDIO",
+            "ItemTotal": "76.47",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

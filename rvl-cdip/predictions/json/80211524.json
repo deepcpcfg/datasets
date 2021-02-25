@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "June 1, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Range-Finding Study in Albino Rats 'A-155 (Phase",
+            "ItemTotal": "350.00"
+        },
+        {
+            "ItemDescription": "*A-156 (Phase",
+            "ItemTotal": "350.00"
+        },
+        {
+            "ItemDescription": ">0-169 (Phase",
+            "ItemTotal": "350.00"
+        },
+        {
+            "ItemDescription": ".^-160 (Phase I II)-",
+            "ItemTotal": "1,500.00"
+        }
+    ],
+    "TotalAmount": "$2,550.00"
+}

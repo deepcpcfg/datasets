@@ -1,0 +1,115 @@
+{
+    "IssuedDate": "December 22, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "Computer Research",
+            "ItemTotal": "77.42",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "5,015.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Local Transportation",
+            "ItemTotal": "53.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "327.32",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mail and Messenger Services ",
+            "ItemTotal": "33 .25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Miscellaneous",
+            "ItemTotal": "131.15",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telecommunications",
+            "ItemTotal": "440.47",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "(1,265 .00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "2,095.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "37.90",
+            "ItemDescription": "Local Transportation",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "62.62",
+            "ItemDescription": "Long Distance Telephone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9.32",
+            "ItemDescription": "Mail and Messenger Services ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Miscellaneous",
+            "ItemTotal": "23.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telecommunications",
+            "ItemTotal": "235.71",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "1,343.49",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "40.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Long Distance Telephone ",
+            "ItemTotal": "53.13",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telecommunications",
+            "ItemTotal": "51.27",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

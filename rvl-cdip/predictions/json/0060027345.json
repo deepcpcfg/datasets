@@ -1,0 +1,21 @@
+{
+    "InvoiceNumber": "J",
+    "IssuedDate": "October 27. 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "and production"
+        },
+        {
+            "ItemDescription": "cards to be"
+        },
+        {
+            "ItemDescription": "7/8.",
+            "ItemTotal": "$1,820.00"
+        },
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "4,577.96"
+        }
+    ],
+    "TotalAmount": "$6,781.84"
+}

@@ -1,0 +1,97 @@
+{
+    "InvoiceNumber": "0589106",
+    "TotalAmount": "145,409.97",
+    "LineItem": [
+        {
+            "ItemTotal": "22,801.65",
+            "ItemDescription": "DIrect Labor",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "61.07",
+            "ItemDescription": "Preen. Cost for Overtime",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,595.80",
+            "ItemDescription": "81dg. & Util 111 es",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10,372.40",
+            "ItemDescription": "Tech, Mgmt, Cost",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Travel",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6,474.35",
+            "ItemDescription": "Org. Facility/Equip. Costs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10,385.39",
+            "ItemDescription": "Other Direct Costs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "43,385.87",
+            "ItemDescription": "Material",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0,00",
+            "ItemDescription": "Other Hanford Contractor Services",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Subcontracts/Consuitants",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "25,061.54",
+            "ItemDescription": "Gen. & Admin, Cost (45% of Subtotal)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,246.79",
+            "ItemDescription": "Battelle Bldgs.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "57.84",
+            "ItemDescription": "DOE Bldgs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "126,442.70",
+            "ItemDescription": "Total Costs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "18,967.27",
+            "ItemDescription": "Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

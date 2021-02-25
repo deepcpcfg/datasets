@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="108.0" fp="139.0" fn="42.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="705.0" t="1198.0" r="874.0" b="1233.0">843153</box>
+    </InvoiceNumber>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="2267.0" t="1203.0" r="2504.0" b="1236.0">December</box>
+      <box l="2538.0" t="1202.0" r="2613.0" b="1239.0">20,</box>
+      <box l="2658.0" t="1202.0" r="2767.0" b="1237.0">2000</box>
+    </IssuedDate>
+    <LineItem tp="76.0" fp="139.0" fn="42.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="467.0" t="1375.0" r="550.0" b="1406.0">For</box>
+          <box l="584.0" t="1372.0" r="725.0" b="1414.0">Legal</box>
+          <box l="759.0" t="1373.0" r="992.0" b="1408.0">Services</box>
+          <box l="1026.0" t="1372.0" r="1263.0" b="1407.0">Rendered</box>
+          <box l="1294.0" t="1372.0" r="1496.0" b="1414.0">through</box>
+          <box l="1530.0" t="1375.0" r="1762.0" b="1409.0">November</box>
+          <box l="1796.0" t="1374.0" r="1875.0" b="1413.0">30,</box>
+          <box l="1916.0" t="1374.0" r="2026.0" b="1409.0">2000</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2271.0" t="1377.0" r="2530.0" b="1414.0">39,539.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1492.0" r="600.0" b="1525.0">Less:</box>
+          <box l="642.0" t="1491.0" r="871.0" b="1527.0">Discount</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2301.0" t="1494.0" r="2530.0" b="1532.0">7,907.BO</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="585.0" t="1724.0" r="697.0" b="1758.0">Cash</box>
+          <box l="731.0" t="1724.0" r="960.0" b="1769.0">Receipts</box>
+          <box l="997.0" t="1726.0" r="1226.0" b="1768.0">Postings</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1592.0" t="1730.0" r="1788.0" b="1762.0">“252,44</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="581.0" t="1782.0" r="785.0" b="1816.0">Courier</box>
+          <box l="581.0" t="1840.0" r="902.0" b="1885.0">Duplicating</box>
+          <box l="581.0" t="1899.0" r="722.0" b="1933.0">Local</box>
+          <box l="757.0" t="1898.0" r="1172.0" b="1940.0">Transportation</box>
+          <box l="581.0" t="1953.0" r="844.0" b="1998.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1618.0" t="1901.0" r="1785.0" b="1937.0">302.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="582.0" t="2016.0" r="847.0" b="2062.0">Temporary</box>
+          <box l="877.0" t="2011.0" r="1107.0" b="2050.0">Services</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1618.0" t="2017.0" r="1789.0" b="2050.0">1B3.SO</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="582.0" t="2074.0" r="786.0" b="2108.0">Weatlaw</box>
+          <box l="819.0" t="2073.0" r="1052.0" b="2108.0">Research</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2357.0" t="2135.0" r="2524.0" b="2169.0">758.83</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2266.0" t="2308.0" r="2525.0" b="2345.0">32,390.03</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

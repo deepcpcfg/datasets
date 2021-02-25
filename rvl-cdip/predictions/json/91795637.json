@@ -1,0 +1,54 @@
+{
+    "IssuedDate": "11/30/64",
+    "InvoiceNumber": "343",
+    "LineItem": [
+        {
+            "ItemTotal": "1.",
+            "ItemDescription": "Up to <100,001"
+        },
+        {
+            "ItemDescription": "<100,000 to <250,000",
+            "ItemTotal": "390"
+        },
+        {
+            "ItemDescription": "♦250,001 to <500,000",
+            "ItemTotal": "♦600"
+        },
+        {
+            "ItemDescription": "<500,001 to <1,000,000",
+            "ItemTotal": "99"
+        },
+        {
+            "ItemDescription": "<1,000,001 to <2,500,000",
+            "ItemTotal": "1400"
+        },
+        {
+            "ItemDescription": "<2,500,001 to <5,000,000",
+            "ItemTotal": "2000"
+        },
+        {
+            "ItemDescription": "<5,000,001 to <10,000,000",
+            "ItemTotal": "3200"
+        },
+        {
+            "ItemDescription": "♦10,000,001 to <20,000,000",
+            "ItemTotal": "4800"
+        },
+        {
+            "ItemDescription": "♦20,000,DOI to <30,000,000",
+            "ItemTotal": "6000"
+        },
+        {
+            "ItemDescription": "<30,000,001 to <40,000,000",
+            "ItemTotal": "7200"
+        },
+        {
+            "ItemDescription": "<40,000,001 to ♦60,000,000",
+            "ItemTotal": "9350"
+        },
+        {
+            "ItemDescription": "<60,000,001 to <80,000,000 <60,000,001 to <100,000,000",
+            "ItemTotal": "<10900"
+        }
+    ]
+}

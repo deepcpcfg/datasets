@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "#806262",
+    "LineItem": [
+        {
+            "ItemDescription": "Sponsorship costs",
+            "ItemTotal": "$5,453.37",
+            "ItemUnitValue": "$5,453.37"
+        },
+        {
+            "ItemDescription": "Travel X Out-of-pocket",
+            "ItemTotal": "750.84",
+            "ItemUnitValue": "750.84"
+        }
+    ],
+    "TotalAmount": "$6,204.21"
+}

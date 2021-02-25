@@ -1,0 +1,67 @@
+{
+    "IssuedDate": "NOVEMBER 30. 1904",
+    "TotalAmount": "8,920.70",
+    "LineItem": [
+        {
+            "ItemDescription": "1983 ANNUAL REPORT MAILING FOR COUNCIL FOR TOBACCO RESEARCH ADDRESSING YOUR ENVELOPE WITH 1-PLY UNLINED STOCK FROM THE AMA/AOA FILE, TO CD, OFFICE BASED PRIMARY.».OR... PTH, RESEARCH FULL-TIME HOST? STAFF...OR... CLP, OFFICE BASED PRIMARY... OR.. . PH, OFFICE BASED PRIMARY...0K7,. PUD, OFFICE BASED PIMARY & SECONDARY,..OR..",
+            "ItemUnitCount": "19,256",
+            "ItemUnitValue": "58.00",
+            "ItemTotal": "$ 1,116.85"
+        },
+        {
+            "ItemDescription": "SELECT And ADDRESS YOUR SPECIAL LIST",
+            "ItemUnitCount": "304",
+            "ItemTotal": "100.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADDITIONAL CHARGE FOR OVERSIZED MAILERS",
+            "ItemUnitCount": "19,560",
+            "ItemUnitValue": "4.15",
+            "ItemTotal": "81.17"
+        },
+        {
+            "ItemDescription": "ENCLOSE ONE PIECE INTO 7X10 WHITE ENVELOPE 160 PAGE REPORT OF THE COUNCIL FOR TOBACCO RESEARCH - USA, INC. 1983",
+            "ItemUnitCount": "19,560",
+            "ItemUnitValue": "97.50",
+            "ItemTotal": "1,907.10"
+        },
+        {
+            "ItemDescription": "SORT AND MAIL",
+            "ItemUnitCount": "19,560",
+            "ItemUnitValue": "31.00",
+            "ItemTotal": "606.36"
+        },
+        {
+            "ItemDescription": "POSTAL SERVICE FEE",
+            "ItemTotal": "250.61",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "AMA FEE",
+            "ItemUnitCount": "19,256",
+            "ItemUnitValue": "13.50",
+            "ItemTotal": "259.96"
+        },
+        {
+            "ItemDescription": "POSTAGE ADVANCED",
+            "ItemTotal": "4,136.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "BULK FEE",
+            "ItemTotal": "40.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "FREIGHT AND HANDLING CHARGES",
+            "ItemTotal": "251.57",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

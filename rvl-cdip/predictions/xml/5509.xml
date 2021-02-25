@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="151.0" fp="100.0" fn="153.0">
+    <IssuedDate tp="8.0" fp="1.0" fn="1.0">
+      <box l="2294.0" t="701.0" r="2523.0" b="737.0">30-AFR-86</box>
+    </IssuedDate>
+    <InvoiceNumber tp="0.0" fp="9.0" fn="0.0">
+      <box l="1810.0" t="922.0" r="2039.0" b="959.0">105377-00</box>
+    </InvoiceNumber>
+    <LineItem tp="143.0" fp="90.0" fn="143.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="309.0" t="1822.0" r="408.0" b="1863.0">04/1</box>
+          <box l="425.0" t="1827.0" r="434.0" b="1859.0">1</box>
+          <box l="521.0" t="1822.0" r="892.0" b="1860.0">ADJUSTMENT-COT</box>
+          <box l="921.0" t="1822.0" r="997.0" b="1857.0">ADJ</box>
+          <box l="1025.0" t="1823.0" r="1108.0" b="1853.0">MAR</box>
+          <box l="1138.0" t="1819.0" r="1184.0" b="1853.0">86</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2742.0" t="1806.0" r="2838.0" b="1843.0">8.21</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="584.0" t="1873.0" r="809.0" b="1910.0">118200-06</box>
+          <box l="840.0" t="1873.0" r="946.0" b="1907.0">TRUE</box>
+          <box l="975.0" t="1873.0" r="1238.0" b="1907.0">CIGARETTES</box>
+          <box l="308.0" t="1931.0" r="433.0" b="1968.0">04/11</box>
+          <box l="520.0" t="1931.0" r="892.0" b="1964.0">ADJUSTMENT—COT</box>
+          <box l="918.0" t="1932.0" r="1000.0" b="1961.0">ADJ</box>
+          <box l="1025.0" t="1929.0" r="1107.0" b="1961.0">MAR</box>
+          <box l="1138.0" t="1928.0" r="1184.0" b="1961.0">86</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2717.0" t="1913.0" r="2842.0" b="1951.0">24.28</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="584.0" t="1981.0" r="812.0" b="2018.0">118200-06</box>
+          <box l="842.0" t="1981.0" r="946.0" b="2015.0">TRUE</box>
+          <box l="975.0" t="1978.0" r="1238.0" b="2014.0">CIGARETTES</box>
+          <box l="308.0" t="2039.0" r="433.0" b="2077.0">04/11</box>
+          <box l="520.0" t="2036.0" r="892.0" b="2072.0">ADJUSTMENT-COT</box>
+          <box l="921.0" t="2037.0" r="997.0" b="2069.0">ADJ</box>
+          <box l="1029.0" t="2036.0" r="1105.0" b="2069.0">DEC</box>
+          <box l="1138.0" t="2033.0" r="1184.0" b="2066.0">85</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2717.0" t="2022.0" r="2845.0" b="2056.0">21.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="842.0" t="2090.0" r="1024.0" b="2124.0">NEWPORT</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="520.0" t="2144.0" r="891.0" b="2181.0">ADJUSTMENT-COT</box>
+          <box l="921.0" t="2144.0" r="997.0" b="2178.0">ADJ</box>
+          <box l="1030.0" t="2144.0" r="1104.0" b="2177.0">DEC</box>
+          <box l="1146.0" t="2141.0" r="1184.0" b="2174.0">13</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2726.0" t="2129.0" r="2784.0" b="2164.0">12.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="841.0" t="2199.0" r="1024.0" b="2230.0">NEWPORT</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="520.0" t="2253.0" r="891.0" b="2289.0">ADJUSTMENT-COT</box>
+          <box l="921.0" t="2253.0" r="996.0" b="2286.0">ADJ</box>
+          <box l="1025.0" t="2252.0" r="1104.0" b="2283.0">DEC</box>
+          <box l="1138.0" t="2249.0" r="1183.0" b="2283.0">85</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2700.0" t="2235.0" r="2845.0" b="2272.0">141.90</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

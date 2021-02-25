@@ -1,0 +1,35 @@
+{
+    "TotalAmount": "222-6060",
+    "IssuedDate": "September 30,1998",
+    "LineItem": [
+        {
+            "ItemDescription": "W. Ed Whitelaw Exp Wiiness/Sr Econ",
+            "ItemUnitValue": "250.00",
+            "ItemUnitCount": "40.00",
+            "ItemTotal": "$10,000.00"
+        },
+        {
+            "ItemDescription": "Edward MacMuilan Economist 3",
+            "ItemUnitCount": "90.00",
+            "ItemUnitValue": "10.75",
+            "ItemTotal": "$967.50"
+        },
+        {
+            "ItemDescription": "Anne FSfiekl Research Analyst",
+            "ItemUnitCount": "55.00",
+            "ItemUnitValue": "18.50",
+            "ItemTotal": "$1,017.50"
+        },
+        {
+            "ItemDescription": "Becky Grossman Technical Asst",
+            "ItemUnitCount": "30.00",
+            "ItemUnitValue": "2.25",
+            "ItemTotal": "$67.50"
+        },
+        {
+            "ItemDescription": "Printing Postage Telephone",
+            "ItemTotal": "350.64"
+        }
+    ],
+    "InvoiceNumber": "1735"
+}

@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "for AIR TICKET TO",
+            "ItemTotal": "1761.49"
+        },
+        {
+            "ItemDescription": "for 28 hrs.",
+            "ItemTotal": "$2800.od"
+        },
+        {
+            "ItemDescription": "Taxi",
+            "ItemTotal": "25,00"
+        }
+    ],
+    "TotalAmount": "$4651.49"
+}

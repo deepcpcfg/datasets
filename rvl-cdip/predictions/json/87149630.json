@@ -1,0 +1,12 @@
+{
+    "InvoiceNumber": "1190058",
+    "IssuedDate": "01/12/90",
+    "LineItem": [
+        {
+            "ItemUnitCount": "01.000",
+            "ItemDescription": "VALIDATION STUDY",
+            "ItemTotal": "3,825.50",
+            "ItemUnitValue": "3,825.50"
+        }
+    ]
+}

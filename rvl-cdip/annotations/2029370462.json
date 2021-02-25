@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "4021",
+    "IssuedDate": "Jun 14, 1991",
+    "TotalAmount": "13,199.77",
+    "LineItem": [
+        {
+            "ItemDescription": "Consulting Fees Eight days consulting at $1,000 per day",
+            "ItemTotal": "$ 8,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Air fares* S. Turner",
+            "ItemTotal": "$ 894.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "J.C. Bermudez",
+            "ItemTotal": "2,264.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hotels",
+            "ItemTotal": "1,880.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Tax is",
+            "ItemTotal": "40.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals",
+            "ItemTotal": "82.14",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Departure tax",
+            "ItemTotal": "19.27",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mise. tips",
+            "ItemTotal": "20.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

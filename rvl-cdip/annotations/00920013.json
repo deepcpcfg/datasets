@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "April 17, 1984",
+    "InvoiceNumber": "1553-1",
+    "LineItem": [
+        {
+            "ItemDescription": "Rat Metabolism Study with A-34",
+            "ItemTotal": "8,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

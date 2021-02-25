@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR09-0030S4",
+    "IssuedDate": "SEP08/99",
+    "TotalAmount": "302.03",
+    "LineItem": [
+        {
+            "ItemTotal": "302.03",
+            "ItemDescription": "Non-Commissionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Commissionable Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Comission",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

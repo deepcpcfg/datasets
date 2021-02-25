@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="60.0" fp="86.0" fn="31.0">
+    <LineItem tp="60.0" fp="86.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="576.0" t="1562.0" r="700.0" b="1595.0">CAMB</box>
+          <box l="742.0" t="1563.0" r="804.0" b="1595.0">FF</box>
+          <box l="845.0" t="1559.0" r="966.0" b="1596.0">100b</box>
+          <box l="1009.0" t="1563.0" r="1166.0" b="1595.0">PROMO</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1866.0" t="1559.0" r="2021.0" b="1595.0">6i000</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2559.0" t="1559.0" r="2746.0" b="1596.0">277.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="575.0" t="1722.0" r="703.0" b="1756.0">camb</box>
+          <box l="741.0" t="1717.0" r="930.0" b="1759.0">Lights</box>
+          <box l="976.0" t="1713.0" r="1096.0" b="1758.0">iaua</box>
+          <box l="1117.0" t="1722.0" r="1293.0" b="1759.0">:promd</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1833.0" t="1722.0" r="1887.0" b="1758.0">12</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="576.0" t="1901.0" r="700.0" b="1934.0">CAMB</box>
+          <box l="742.0" t="1901.0" r="930.0" b="1934.0">LIGHTS</box>
+          <box l="971.0" t="1901.0" r="1126.0" b="1934.0">KINGS</box>
+          <box l="1171.0" t="1901.0" r="1326.0" b="1934.0">PROMO</box>
+          <box l="571.0" t="2081.0" r="701.0" b="2116.0">CAMB</box>
+          <box l="720.0" t="2082.0" r="887.0" b="2117.0">ULTRA</box>
+          <box l="905.0" t="2080.0" r="1001.0" b="2119.0">LTS</box>
+          <box l="1033.0" t="2080.0" r="1154.0" b="2119.0">1003</box>
+          <box l="1180.0" t="2081.0" r="1342.0" b="2122.0">PROMO.</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1937.0" t="1901.0" r="2025.0" b="1934.0">000</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2559.0" t="1901.0" r="2742.0" b="1934.0">277.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="575.0" t="2256.0" r="700.0" b="2288.0">CAMB</box>
+          <box l="737.0" t="2255.0" r="837.0" b="2289.0">MEN</box>
+          <box l="871.0" t="2258.0" r="963.0" b="2291.0">LTS</box>
+          <box l="1009.0" t="2256.0" r="1063.0" b="2288.0">10</box>
+          <box l="1071.0" t="2256.0" r="1129.0" b="2291.0">Os</box>
+          <box l="1168.0" t="2256.0" r="1326.0" b="2291.0">PROMO</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1933.0" t="2263.0" r="2021.0" b="2296.0">000</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2555.0" t="2263.0" r="2741.0" b="2297.0">277.20</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

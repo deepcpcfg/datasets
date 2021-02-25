@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="161.0" fp="6.0" fn="7.0">
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2084.0" t="809.0" r="2280.0" b="856.0">6/28/00</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2084.0" t="885.0" r="2251.0" b="926.0">22267</box>
+    </InvoiceNumber>
+    <LineItem tp="143.0" fp="6.0" fn="7.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="289.0" t="1858.0" r="301.0" b="1891.0">1</box>
+          <box l="364.0" t="1855.0" r="592.0" b="1898.0">DIGITAL</box>
+          <box l="619.0" t="1855.0" r="899.0" b="1899.0">BETACAM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2465.0" t="1874.0" r="2640.0" b="1916.0">125.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="287.0" t="1972.0" r="302.0" b="2015.0">1</box>
+          <box l="348.0" t="1970.0" r="448.0" b="2017.0">3/4”</box>
+          <box l="473.0" t="1970.0" r="590.0" b="2018.0">DUB</box>
+          <box l="281.0" t="2028.0" r="573.0" b="2073.0">ORDERED</box>
+          <box l="603.0" t="2030.0" r="798.0" b="2074.0">6/21/00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2491.0" t="1991.0" r="2637.0" b="2033.0">50.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="282.0" t="2207.0" r="357.0" b="2248.0">.25</box>
+          <box l="383.0" t="2206.0" r="553.0" b="2248.0">HOUR</box>
+          <box l="579.0" t="2206.0" r="657.0" b="2248.0">OF</box>
+          <box l="683.0" t="2206.0" r="816.0" b="2247.0">AVID</box>
+          <box l="846.0" t="2209.0" r="999.0" b="2250.0">LOAD</box>
+          <box l="1029.0" t="2209.0" r="1313.0" b="2258.0">@$100/HR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2492.0" t="2225.0" r="2638.0" b="2266.0">25.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="279.0" t="2325.0" r="308.0" b="2367.0">6</box>
+          <box l="354.0" t="2324.0" r="471.0" b="2369.0">VHS</box>
+          <box l="500.0" t="2324.0" r="658.0" b="2369.0">DUBS</box>
+          <box l="692.0" t="2323.0" r="938.0" b="2373.0">@$50/EA</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2455.0" t="2342.0" r="2638.0" b="2384.0">300.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="354.0" t="2441.0" r="622.0" b="2487.0">FEDERAL</box>
+          <box l="647.0" t="2443.0" r="918.0" b="2488.0">EXPRESS</box>
+          <box l="276.0" t="2499.0" r="568.0" b="2544.0">ORDERED</box>
+          <box l="597.0" t="2500.0" r="793.0" b="2546.0">6/22/00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2486.0" t="2458.0" r="2635.0" b="2503.0">25.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="0.0">
+      <box l="2434.0" t="3647.0" r="2612.0" b="3689.0">564.19</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

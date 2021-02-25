@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "76/1262/A",
+    "IssuedDate": "March 17 th, 1976 ",
+    "TotalAmount": "8,80",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1.000",
+            "ItemUnitValue": "4,40",
+            "ItemDescription": "cigarettes Modified filter flavoring aa par your telex of December 8h",
+            "ItemTotal": ""
+        },
+        {
+            "ItemUnitCount": "1.000",
+            "ItemDescription": "cigarettes Current production",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "P98043-2",
+    "IssuedDate": "Octobers, 1998",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost for interviewing",
+            "ItemUnitCount": "1.000"
+        },
+        {
+            "ItemDescription": "respondents October 1-4, 1998 prepayment-——--——",
+            "ItemTotal": "due-$75,000.00"
+        }
+    ]
+}

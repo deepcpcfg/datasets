@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="147.0" fp="84.0" fn="73.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2763.0" t="707.0" r="2953.0" b="769.0">9159</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2481.0" t="827.0" r="2781.0" b="881.0">10/30/92</box>
+    </IssuedDate>
+    <LineItem tp="126.0" fp="83.0" fn="73.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1181.0" t="1323.0" r="1375.0" b="1365.0">CAMEL</box>
+          <box l="1417.0" t="1321.0" r="1565.0" b="1367.0">flOTH</box>
+          <box l="1603.0" t="1325.0" r="2027.0" b="1371.0">ANNIVERSARY</box>
+          <box l="2069.0" t="1331.0" r="2335.0" b="1373.0">PROGRAM</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="380.0" t="1502.0" r="809.0" b="1559.0">vevelopment</box>
+          <box l="855.0" t="1506.0" r="922.0" b="1549.0">of</box>
+          <box l="964.0" t="1507.0" r="1309.0" b="1553.0">materials</box>
+          <box l="1355.0" t="1514.0" r="1426.0" b="1554.0">to</box>
+          <box l="1472.0" t="1515.0" r="1733.0" b="1567.0">support</box>
+          <box l="1780.0" t="1514.0" r="1926.0" b="1559.0">80th</box>
+          <box l="1967.0" t="1515.0" r="2387.0" b="1575.0">Anniversary</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="396.0" t="1695.0" r="540.0" b="1740.0">80th</box>
+          <box l="583.0" t="1696.0" r="1000.0" b="1754.0">Anniversary</box>
+          <box l="1045.0" t="1705.0" r="1195.0" b="1754.0">Logo</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2315.0" t="1709.0" r="2614.0" b="1760.0">6,250.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="468.0" t="1956.0" r="727.0" b="2013.0">through</box>
+          <box l="773.0" t="1956.0" r="1035.0" b="2004.0">revised</box>
+          <box l="468.0" t="2021.0" r="956.0" b="2076.0">comprehensive</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2277.0" t="2034.0" r="2610.0" b="2083.0">21,750.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="2211.0" r="726.0" b="2255.0">revised</box>
+          <box l="770.0" t="2214.0" r="1037.0" b="2266.0">premium</box>
+          <box l="1079.0" t="2216.0" r="1495.0" b="2269.0">development</box>
+          <box l="467.0" t="2274.0" r="726.0" b="2328.0">through</box>
+          <box l="767.0" t="2276.0" r="1146.0" b="2320.0">mechanical</box>
+          <box l="1193.0" t="2283.0" r="1303.0" b="2320.0">art</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2271.0" t="2285.0" r="2608.0" b="2340.0">29,475.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2235.0" t="2407.0" r="2609.0" b="2460.0">$57,475.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "1,187.09",
+    "LineItem": [
+        {
+            "ItemDescription": "FOR PROFESSIONAL SERVICES RENDERED THRU 01/31/1997",
+            "ItemTotal": "$ 1,503.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISBURSEMENTS THRU 01/31/1997",
+            "ItemTotal": "$200.46",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS CREDITS APPLIED",
+            "ItemTotal": "-$516.37",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="75.0" fp="62.0" fn="394.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2768.0" t="992.0" r="2952.0" b="1056.0">4194</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="0.0" fn="0.0">
+      <box l="2542.0" t="1162.0" r="2633.0" b="1204.0">Oct</box>
+      <box l="2676.0" t="1164.0" r="2725.0" b="1213.0">4,</box>
+      <box l="2771.0" t="1164.0" r="2888.0" b="1206.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="60.0" fp="54.0" fn="394.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="559.0" t="2301.0" r="774.0" b="2346.0">Airfare</box>
+          <box l="820.0" t="2301.0" r="962.0" b="2357.0">(Gray</box>
+          <box l="1004.0" t="2303.0" r="1308.0" b="2350.0">Robertson)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1761.0" t="2308.0" r="1940.0" b="2351.0">416.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="556.0" t="2368.0" r="674.0" b="2411.0">Taxi</box>
+          <box l="721.0" t="2370.0" r="931.0" b="2421.0">charges</box>
+          <box l="557.0" t="2432.0" r="870.0" b="2473.0">Technician</box>
+          <box l="911.0" t="2432.0" r="1122.0" b="2475.0">vehicle</box>
+          <box l="1161.0" t="2436.0" r="1274.0" b="2476.0">cost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1796.0" t="2371.0" r="1942.0" b="2416.0">54.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="629.0" t="2494.0" r="745.0" b="2540.0">(512</box>
+          <box l="775.0" t="2496.0" r="933.0" b="2538.0">miles</box>
+          <box l="971.0" t="2497.0" r="1000.0" b="2547.0">(l</box>
+          <box l="1038.0" t="2492.0" r="1374.0" b="2543.0">$0.25/mile)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1763.0" t="2500.0" r="1941.0" b="2543.0">128.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="560.0" t="2558.0" r="1212.0" b="2606.0">Hotels.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1793.0" t="2752.0" r="1943.0" b="2794.0">52.78</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="8.0" fn="0.0">
+      <box l="2676.0" t="2942.0" r="2922.0" b="2989.0">4,751.08</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

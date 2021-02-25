@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "0045821",
+    "IssuedDate": "20-NOV-85 ",
+    "TotalAmount": "217.50",
+    "LineItem": [
+        {
+            "ItemTotal": "55.00",
+            "ItemDescription": "TERMINAL. ..CHARGES_",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "57.50",
+            "ItemDescription": "ENTRY FEE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "15.00.",
+            "ItemDescription": "IMMEDIATE DELIVERY",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7.50",
+            "ItemDescription": "VALUATION & CLASSIC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.00",
+            "ItemDescription": "CUSTOMS ROND",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10.00",
+            "ItemDescription": "DEL. ORDER & RELEASE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "12.50",
+            "ItemDescription": "MESSENGER",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="105.0" fp="5.0" fn="10.0">
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="473.0" t="910.0" r="715.0" b="967.0">February</box>
+      <box l="757.0" t="913.0" r="807.0" b="963.0">1,</box>
+      <box l="850.0" t="913.0" r="964.0" b="958.0">1984</box>
+    </IssuedDate>
+    <LineItem tp="80.0" fp="4.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="465.0" t="2047.0" r="619.0" b="2092.0">Mouse</box>
+          <box l="656.0" t="2046.0" r="773.0" b="2092.0">Skin</box>
+          <box l="811.0" t="2046.0" r="1053.0" b="2100.0">Painting</box>
+          <box l="1091.0" t="2045.0" r="1240.0" b="2099.0">Study</box>
+          <box l="1278.0" t="2044.0" r="1394.0" b="2091.0">With</box>
+          <box l="1436.0" t="2044.0" r="1523.0" b="2091.0">0-6</box>
+          <box l="1557.0" t="2047.0" r="1644.0" b="2090.0">and</box>
+          <box l="1682.0" t="2045.0" r="1802.0" b="2092.0">D-17</box>
+          <box l="469.0" t="2172.0" r="554.0" b="2218.0">2nd</box>
+          <box l="590.0" t="2172.0" r="648.0" b="2218.0">of</box>
+          <box l="687.0" t="2172.0" r="740.0" b="2219.0">11</box>
+          <box l="777.0" t="2171.0" r="993.0" b="2229.0">Monthly</box>
+          <box l="1033.0" t="2173.0" r="1395.0" b="2220.0">Installments</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1620.0" t="2364.0" r="1928.0" b="2418.0">183,900.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="1.0">
+      <box l="1621.0" t="2490.0" r="1925.0" b="2547.0">153,900.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

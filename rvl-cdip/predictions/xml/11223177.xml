@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="73.0" fp="54.0" fn="22.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="5.0">
+      <box l="2434.0" t="543.0" r="2628.0" b="580.0">2220-61</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="7.0" fn="0.0">
+      <box l="2172.0" t="1000.0" r="2368.0" b="1038.0">6'25:74</box>
+    </IssuedDate>
+    <LineItem tp="57.0" fp="46.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1145.0" t="1516.0" r="1345.0" b="1552.0">voucher</box>
+          <box l="1377.0" t="1518.0" r="1656.0" b="1559.0">represents</box>
+          <box l="1690.0" t="1511.0" r="2057.0" b="1548.0">relfaburaeable</box>
+          <box l="2090.0" t="1513.0" r="2226.0" b="1545.0">costs</box>
+          <box l="2261.0" t="1508.0" r="2340.0" b="1543.0">for</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="986.0" t="1573.0" r="1173.0" b="1624.0">(period</box>
+          <box l="1202.0" t="1573.0" r="1286.0" b="1617.0">Kay</box>
+          <box l="1323.0" t="1570.0" r="1394.0" b="1612.0">18,</box>
+          <box l="1436.0" t="1570.0" r="1544.0" b="1608.0">1976</box>
+          <box l="1578.0" t="1570.0" r="1686.0" b="1605.0">thru</box>
+          <box l="1715.0" t="1568.0" r="1827.0" b="1604.0">June</box>
+          <box l="1861.0" t="1565.0" r="1935.0" b="1611.0">14,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2799.0" t="1558.0" r="3023.0" b="1603.0">9&gt;655.06</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="986.0" t="1686.0" r="1147.0" b="1723.0">'Fixed</box>
+          <box l="1177.0" t="1687.0" r="1260.0" b="1721.0">Fee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2803.0" t="1675.0" r="3022.0" b="1718.0">1,155-00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2483.0" t="3619.0" r="2762.0" b="3661.0">$10,810.06</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

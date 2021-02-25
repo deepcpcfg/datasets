@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="197.0" fp="259.0" fn="140.0">
+    <LineItem tp="184.0" fp="255.0" fn="136.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="405.0" t="1730.0" r="546.0" b="1759.0">1046T5</box>
+          <box l="580.0" t="1730.0" r="801.0" b="1762.0">ENGRAVING</box>
+          <box l="933.0" t="1734.0" r="1128.0" b="1763.0">STERLING</box>
+          <box l="1158.0" t="1734.0" r="1280.0" b="1763.0">REGAL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1487.0" t="1734.0" r="1659.0" b="1764.0">4312.42</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="1771.0" r="599.0" b="1802.0">Nd</box>
+          <box l="634.0" t="1771.0" r="750.0" b="1802.0">14043</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="403.0" t="2068.0" r="548.0" b="2101.0">5GZ6T7</box>
+          <box l="579.0" t="2068.0" r="800.0" b="2100.0">ENGRAVING</box>
+          <box l="933.0" t="2069.0" r="1129.0" b="2100.0">STERLING</box>
+          <box l="1158.0" t="2068.0" r="1280.0" b="2101.0">REGAL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1488.0" t="2071.0" r="1658.0" b="2101.0">3656,80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="633.0" t="2112.0" r="750.0" b="2142.0">LT39B</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1488.0" t="2200.0" r="1658.0" b="2230.0">3555.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="402.0" t="2409.0" r="549.0" b="2438.0">409326</box>
+          <box l="579.0" t="2408.0" r="800.0" b="2438.0">ENGRAVING</box>
+          <box l="933.0" t="2408.0" r="1129.0" b="2439.0">STERLING</box>
+          <box l="1158.0" t="2409.0" r="1279.0" b="2438.0">REGAL</box>
+          <box l="400.0" t="2451.0" r="518.0" b="2480.0">ORDER</box>
+          <box l="550.0" t="2451.0" r="598.0" b="2479.0">NO</box>
+          <box l="633.0" t="2451.0" r="750.0" b="2480.0">17399</box>
+          <box l="934.0" t="2451.0" r="1027.0" b="2480.0">E-NGR</box>
+          <box l="1055.0" t="2451.0" r="1104.0" b="2480.0">CO</box>
+          <box l="1137.0" t="2454.0" r="1200.0" b="2483.0">INC</box>
+          <box l="401.0" t="2535.0" r="521.0" b="2564.0">27376</box>
+          <box l="550.0" t="2534.0" r="778.0" b="2563.0">ENGRAVING</box>
+          <box l="929.0" t="2535.0" r="1104.0" b="2567.0">VbRlLEN</box>
+          <box l="1133.0" t="2538.0" r="1280.0" b="2567.0">reprod</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1492.0" t="2409.0" r="1658.0" b="2438.0">1859.SG</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1509.0" t="2538.0" r="1658.0" b="2567.0">751,00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="400.0" t="2577.0" r="524.0" b="2607.0">ORDER</box>
+          <box l="550.0" t="2577.0" r="599.0" b="2606.0">NO</box>
+          <box l="633.0" t="2577.0" r="749.0" b="2606.0">LJ309</box>
+          <box l="934.0" t="2577.0" r="996.0" b="2609.0">INC</box>
+          <box l="404.0" t="2663.0" r="521.0" b="2692.0">27BT7</box>
+          <box l="550.0" t="2663.0" r="775.0" b="2692.0">ENGRAVING</box>
+          <box l="929.0" t="2662.0" r="1104.0" b="2692.0">VERILLN</box>
+          <box l="1134.0" t="2663.0" r="1280.0" b="2693.0">RtPROD</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1512.0" t="2663.0" r="1658.0" b="2692.0">551.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="400.0" t="2705.0" r="520.0" b="2734.0">ORDTR</box>
+          <box l="550.0" t="2705.0" r="598.0" b="2730.0">MO</box>
+          <box l="633.0" t="2705.0" r="750.0" b="2734.0">13300</box>
+          <box l="934.0" t="2705.0" r="996.0" b="2734.0">INC</box>
+          <box l="401.0" t="2788.0" r="524.0" b="2817.0">27R74</box>
+          <box l="550.0" t="2788.0" r="596.0" b="2817.0">PD</box>
+          <box l="626.0" t="2789.0" r="675.0" b="2817.0">NG</box>
+          <box l="930.0" t="2788.0" r="1100.0" b="2817.0">VER1LEN</box>
+          <box l="1134.0" t="2791.0" r="1280.0" b="2818.0">REPROD</box>
+          <box l="401.0" t="2830.0" r="625.0" b="2860.0">3S394/INV</box>
+          <box l="655.0" t="2831.0" r="777.0" b="2860.0">SPLIT</box>
+          <box l="808.0" t="2834.0" r="875.0" b="2861.0">3/W</box>
+          <box l="934.0" t="2831.0" r="996.0" b="2860.0">INC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1509.0" t="2789.0" r="1657.0" b="2817.0">148.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="403.0" t="2877.0" r="495.0" b="2901.0">Pc-6</box>
+          <box l="505.0" t="2874.0" r="591.0" b="2902.0">3fl4,</box>
+          <box l="630.0" t="2873.0" r="675.0" b="2901.0">36</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="401.0" t="2959.0" r="525.0" b="2988.0">ZS07&amp;</box>
+          <box l="550.0" t="2956.0" r="779.0" b="2987.0">ENGRAVING</box>
+          <box l="934.0" t="2959.0" r="1104.0" b="2988.0">VERILFN</box>
+          <box l="1134.0" t="2960.0" r="1280.0" b="2988.0">KARROO</box>
+          <box l="400.0" t="3001.0" r="517.0" b="3030.0">ORDER</box>
+          <box l="547.0" t="3001.0" r="599.0" b="3026.0">NO</box>
+          <box l="629.0" t="3002.0" r="725.0" b="3027.0">9816</box>
+          <box l="934.0" t="3001.0" r="997.0" b="3030.0">IRC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1510.0" t="2959.0" r="1658.0" b="2988.0">218.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="400.0" t="3168.0" r="596.0" b="3201.0">REPRINT'S</box>
+          <box l="401.0" t="3298.0" r="524.0" b="3326.0">ZTGTo</box>
+          <box l="550.0" t="3298.0" r="775.0" b="3326.0">ENORAVING</box>
+          <box l="930.0" t="3298.0" r="1100.0" b="3326.0">VERILlN</box>
+          <box l="1133.0" t="3301.0" r="1279.0" b="3326.0">REPRLIj</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="183.0" t="3863.0" r="220.0" b="3888.0">IF</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="7.0" fp="2.0" fn="2.0">
+      <box l="2072.0" t="1101.0" r="2292.0" b="1129.0">P-LL-0918</box>
+    </InvoiceNumber>
+    <IssuedDate tp="6.0" fp="2.0" fn="2.0">
+      <box l="1997.0" t="1142.0" r="2196.0" b="1171.0">N0V21/77</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

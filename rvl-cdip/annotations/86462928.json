@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "LLD GS 02",
+    "IssuedDate": "March 8, 1999",
+    "TotalAmount": "18,262.50",
+    "LineItem": [
+        {
+            "ItemDescription": "(1 /12th of 1999 app roved b udg et for panel maintenance & replenishment)",
+            "ItemTotal": "$ 18,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(1/2 of monthly COS I lease for February)",
+            "ItemTotal": "262.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

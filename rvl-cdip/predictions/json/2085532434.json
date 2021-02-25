@@ -1,0 +1,50 @@
+{
+    "IssuedDate": "1/17702",
+    "InvoiceNumber": "36i(M2",
+    "LineItem": [
+        {
+            "ItemDescription": "SALARIES-TENURED FACULTY",
+            "ItemUnitValue": "27.396.00",
+            "ItemTotal": "8.218.80"
+        },
+        {
+            "ItemDescription": "SALARIES- FACULTY SUMMER",
+            "ItemUnitValue": "3O.108.C0",
+            "ItemTotal": "9.03240"
+        },
+        {
+            "ItemDescription": "SALARIES-STUDENT coop",
+            "ItemUnitValue": "14,000,00",
+            "ItemTotal": "4,200.00"
+        },
+        {
+            "ItemDescription": "FRINGE BENEFITS",
+            "ItemUnitValue": "9.255.CO",
+            "ItemTotal": "2.776.50"
+        },
+        {
+            "ItemDescription": "SUPPLES",
+            "ItemTotal": "1,410.00"
+        },
+        {
+            "ItemDescription": "RIT COMPUTER SERVICES",
+            "ItemUnitValue": "1,170,00",
+            "ItemTotal": "351.00"
+        },
+        {
+            "ItemDescription": "TRAVEL",
+            "ItemTotal": "2.250.00"
+        },
+        {
+            "ItemDescription": "EQUIPMENT-WON CAPITAL FACILITIES ADMIN. 39.1%",
+            "ItemUnitValue": "750.00",
+            "ItemTotal": "225.00"
+        },
+        {
+            "ItemDescription": "CAPITAL EQUIPMENT",
+            "ItemUnitValue": "3,000.00",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "39,592.60"
+}

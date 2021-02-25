@@ -1,0 +1,51 @@
+{
+    "InvoiceNumber": "810027",
+    "LineItem": [
+        {
+            "ItemDescription": "Information Systems Manager",
+            "ItemUnitCount": "12.75"
+        },
+        {
+            "ItemDescription": "hours 3",
+            "ItemUnitValue": "80.00",
+            "ItemTotal": "1.020.00"
+        },
+        {
+            "ItemDescription": "Corporate Operations Manager 2 hours S",
+            "ItemUnitValue": "58.00",
+            "ItemTotal": "116.00"
+        },
+        {
+            "ItemDescription": "Missoula Operations Manager",
+            "ItemUnitCount": "14.25",
+            "ItemUnitValue": "44.00",
+            "ItemTotal": "627.00"
+        },
+        {
+            "ItemDescription": "Administrator 0.75 hours s",
+            "ItemUnitValue": "38.00",
+            "ItemUnitCount": "28.50",
+            "ItemTotal": "1.791.50"
+        },
+        {
+            "ItemDescription": "CD-ROM Production 1 master s",
+            "ItemTotal": "125.00",
+            "ItemUnitValue": "125.00"
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemUnitValue": "38.00",
+            "ItemTotal": "00"
+        },
+        {
+            "ItemDescription": "Reproduction",
+            "ItemTotal": "0.50"
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "4.76"
+        }
+    ],
+    "IssuedDate": "25 _is98",
+    "TotalAmount": "SL959.76"
+}

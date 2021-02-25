@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1354",
+    "IssuedDate": "January 6, 1981",
+    "TotalAmount": "15,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "• Per Brown & Williamson Contract #454 • Kool Milds - Truck Stoppers Program 1980 • Partial Billing February 1, 1981 - February 28 > 1981 ",
+            "ItemTotal": "$15 ,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

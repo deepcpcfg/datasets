@@ -1,0 +1,91 @@
+{
+    "InvoiceNumber": "2918",
+    "IssuedDate": "MAY 31, 1994",
+    "TotalAmount": "2,843.73",
+    "LineItem": [
+        {
+            "ItemTotal": "76",
+            "ItemDescription": "MEMBERSHIP KIT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "102",
+            "ItemDescription": "CERTIFICATES TO BE KEYED ONLY ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "656",
+            "ItemDescription": "COUPONS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "84",
+            "ItemDescription": "LIGHTERS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "535",
+            "ItemDescription": "$50 BOND",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "510",
+            "ItemDescription": "$100 BOND ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$45.60",
+            "ItemDescription": "SERVICE: MEMBERSHIP KITS 76 $0.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$30.60",
+            "ItemDescription": "UPDATE RECORDS 102 $ $0.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$196.80",
+            "ItemDescription": "COUPONS 656 e $0.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$25.20",
+            "ItemDescription": "LIGHTERS 84 $0.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$2,351.25",
+            "ItemDescription": "BONDS 1045 $2.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$50.00",
+            "ItemDescription": "$50 MINIMUM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$14.28",
+            "ItemDescription": "mailers: lighters 84 $0.17",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$130.00",
+            "ItemDescription": "TAPE TO FEDERAL RESERVE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

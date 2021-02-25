@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="66.0" fp="17.0" fn="69.0">
+    <LineItem tp="66.0" fp="10.0" fn="63.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="1553.0" r="915.0" b="1592.0">Audit</box>
+          <box l="952.0" t="1553.0" r="1172.0" b="1591.0">service</box>
+          <box l="1211.0" t="1554.0" r="1327.0" b="1591.0">fee:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1602.0" t="1550.0" r="1856.0" b="1594.0">$1030.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="1648.0" r="1006.0" b="1694.0">Mileage:</box>
+          <box l="757.0" t="1741.0" r="1110.0" b="1782.0">Merchandise</box>
+          <box l="1143.0" t="1742.0" r="1426.0" b="1782.0">returned:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1701.0" t="1743.0" r="1855.0" b="1785.0">$0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="1844.0" r="1038.0" b="1885.0">Expensesi</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1667.0" t="1839.0" r="1855.0" b="1881.0">$15.95</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="0.0" fp="7.0" fn="0.0">
+      <box l="1875.0" t="493.0" r="2092.0" b="531.0">#872943</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

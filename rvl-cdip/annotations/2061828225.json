@@ -1,0 +1,109 @@
+{
+    "IssuedDate": "04/25/94",
+    "TotalAmount": "22189-40",
+    "LineItem": [
+        {
+            "ItemDescription": "ROON-BOARD-SEMI",
+            "ItemTotal": "5100.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ICU-SURGICAL.",
+            "ItemTotal": "1465.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PHARMACY",
+            "ItemTotal": "664.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "IV SOLUTIONS",
+            "ItemTotal": "297.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "IV THERAPY",
+            "ItemTotal": "67.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MED-SUR SUPPLIES",
+            "ItemTotal": "2039-05",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LABORATORY OR (LAS)",
+            "ItemTotal": "45.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LAB-CHEMISTRY",
+            "ItemTotal": "677.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LAB-IMMUNOLOGY",
+            "ItemTotal": "222.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DX X-RAY-CHEST",
+            "ItemTotal": "65.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OR SERVICES",
+            "ItemTotal": "6187.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ANESTHESIA",
+            "ItemTotal": "756.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RESPIRATORY SVC",
+            "ItemTotal": ".1200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SPEECH PATHOL",
+            "ItemTotal": "311.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SPEECH PATH-EVAL",
+            "ItemTotal": "193-00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CARDIOLOGY",
+            "ItemTotal": "66.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RECOVERY ROOM",
+            "ItemTotal": "392.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

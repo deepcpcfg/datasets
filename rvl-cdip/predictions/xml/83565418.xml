@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="68.0" fn="67.0">
+    <LineItem tp="41.0" fp="66.0" fn="66.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="412.0" t="2009.0" r="658.0" b="2067.0">Retrieving</box>
+          <box l="671.0" t="2011.0" r="833.0" b="2055.0">articles</box>
+          <box l="851.0" t="2013.0" r="929.0" b="2055.0">and</box>
+          <box l="946.0" t="2012.0" r="1088.0" b="2055.0">books</box>
+          <box l="1111.0" t="2010.0" r="1238.0" b="2055.0">10/14</box>
+          <box l="413.0" t="2151.0" r="662.0" b="2206.0">Reviewing</box>
+          <box l="679.0" t="2151.0" r="837.0" b="2197.0">articles</box>
+          <box l="855.0" t="2151.0" r="934.0" b="2197.0">and</box>
+          <box l="951.0" t="2151.0" r="1092.0" b="2197.0">hooks</box>
+          <box l="1117.0" t="2151.0" r="1237.0" b="2193.0">10/21</box>
+          <box l="1330.0" t="2151.0" r="1455.0" b="2193.0">10/22</box>
+          <box l="413.0" t="2288.0" r="591.0" b="2346.0">Writing</box>
+          <box l="608.0" t="2288.0" r="717.0" b="2333.0">brief</box>
+          <box l="733.0" t="2288.0" r="851.0" b="2333.0">10/23</box>
+          <box l="938.0" t="2289.0" r="1066.0" b="2333.0">10/24</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1476.0" t="2776.0" r="1641.0" b="2833.0">@3250</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="2.0" fn="1.0">
+      <box l="2091.0" t="2913.0" r="2313.0" b="2959.0">$1250.00</box>
+    </TotalAmount>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="2242.0" t="826.0" r="2492.0" b="871.0">November</box>
+      <box l="2517.0" t="830.0" r="2580.0" b="881.0">18,</box>
+      <box l="2606.0" t="829.0" r="2712.0" b="871.0">1998</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

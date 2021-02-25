@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "91-ATC0-502",
+    "IssuedDate": "May 3, 1991",
+    "TotalAmount": "4,379.97",
+    "LineItem": [
+        {
+            "ItemTotal": "$21.736.12",
+            "ItemDescription": "Final Billing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$10,500.00",
+            "ItemDescription": "91-ATCO-302",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6,856.15",
+            "ItemDescription": "91-ATC0-402",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

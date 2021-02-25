@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "7606078",
+    "IssuedDate": "November 30 1976",
+    "LineItem": [
+        {
+            "ItemDescription": "CONFERENCES: VISIT & PHONE: ms: 9 $ 30,00/hr",
+            "ItemTotal": "750.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CIGARST LABEL INJECTOR (TO DATE): ths 1 a $ 30.00/hr",
+            "ItemTotal": "480.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DEVELOPMENT & FABRICATION 1 REMOTE CONTROL PANEL FC® FIVE TOLLTONS . . Uffii <3 $ 30.00/hr",
+            "ItemTotal": "120.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Development PROTOTYPE ANIMAL CONT. SYSTEM SUPPORTS: ‘ THE: 3 $ 30.00/hr ",
+            "ItemTotal": "150.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "285.00",
+            "ItemDescription": "DEVELOPMENT & TESTING: PROTOTYPE PARTS FOR WALTON: DRAFT SHIELD; BUTT EXTINGUISHER JETC THE: @ $ 30.00/hr",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "201.00",
+            "ItemDescription": "FARES & EXPENSES",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,20 @@
+{
+    "IssuedDate": "JULY 13, 1983",
+    "InvoiceNumber": "699",
+    "LineItem": [
+        {
+            "ItemDescription": "RUNNING ONE GALLEY FOR LIST Z-l 375"
+        },
+        {
+            "ItemDescription": "CHANGES"
+        },
+        {
+            "ItemDescription": "PLATES EMBOSSED",
+            "ItemTotal": "$93.60"
+        },
+        {
+            "ItemDescription": "DELETIONS DELETIONS, ADDRESSING GALLEYS, CHECKING LIST ETC.",
+            "ItemTotal": "92.00"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "IssuedDate": "10/4/91",
+    "InvoiceNumber": "63196",
+    "LineItem": [
+        {
+            "ItemDescription": "Ex. Creative Director",
+            "ItemUnitCount": "750",
+            "ItemUnitValue": "$125.00",
+            "ItemTotal": "•0.00"
+        },
+        {
+            "ItemDescription": "Asst. Art Director",
+            "ItemUnitCount": "13.00",
+            "ItemUnitValue": "85.00",
+            "ItemTotal": "1,105.00"
+        },
+        {
+            "ItemDescription": "Art Prod. Manager",
+            "ItemUnitCount": "1.50",
+            "ItemUnitValue": "85.00",
+            "ItemTotal": "127.50"
+        },
+        {
+            "ItemDescription": "Art Apprentice",
+            "ItemUnitCount": ".50",
+            "ItemUnitValue": "25.00",
+            "ItemTotal": "12*50"
+        }
+    ]
+}

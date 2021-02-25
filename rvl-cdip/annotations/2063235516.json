@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "81-07 4",
+    "IssuedDate": "February 11, 1981",
+    "LineItem": [
+        {
+            "ItemDescription": "ADV. SECOND RETRO. ADJUSTMENT",
+            "ItemTotal": "$335,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$ 83,000",
+            "ItemDescription": "ADV. SECOND RETRO. ADJUSTMENT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "82,000",
+            "ItemDescription": "ADV. SECOND RETRO. ADJUSTMENT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

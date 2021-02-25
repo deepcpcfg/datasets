@@ -1,0 +1,110 @@
+{
+    "InvoiceNumber": "2884",
+    "IssuedDate": "4/21/B9",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES1 SERVICE (71 .37 26.27)",
+            "ItemTotal": "♦0.00"
+        },
+        {
+            "ItemDescription": "MINIMUM MONTHLY SERVICE",
+            "ItemTotal": "♦50.00"
+        },
+        {
+            "ItemDescription": "CHECK PROCESSING",
+            "ItemTotal": "♦0.00"
+        },
+        {
+            "ItemDescription": "MAILER!",
+            "ItemTotal": "•0.00"
+        },
+        {
+            "ItemDescription": "PO0TAGE-UPS 3ft RATE",
+            "ItemTotal": "•0.00"
+        },
+        {
+            "ItemDescription": "ZONE 2",
+            "ItemUnitCount": "28",
+            "ItemUnitValue": "•1.56",
+            "ItemTotal": "•43.68"
+        },
+        {
+            "ItemDescription": "ZONE 3",
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "•1.79",
+            "ItemTotal": "•7-00"
+        },
+        {
+            "ItemDescription": "ZONE 4",
+            "ItemUnitCount": "B",
+            "ItemUnitValue": "♦2.13",
+            "ItemTotal": "•17.04"
+        },
+        {
+            "ItemDescription": "ZONE S",
+            "ItemUnitCount": "18",
+            "ItemUnitValue": "•2.31",
+            "ItemTotal": "•41.58"
+        },
+        {
+            "ItemDescription": "ZONE 6",
+            "ItemUnitValue": "•2.55",
+            "ItemTotal": "♦2.55"
+        },
+        {
+            "ItemDescription": "ZONE 7",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "•2.80",
+            "ItemTotal": "♦8.40"
+        },
+        {
+            "ItemDescription": "ZONE 8",
+            "ItemUnitCount": "9",
+            "ItemUnitValue": "♦3.05",
+            "ItemTotal": "•27.45"
+        },
+        {
+            "ItemDescription": "N/3 CHECK (ATTACHED)",
+            "ItemUnitCount": "1",
+            "ItemTotal": "•9.99",
+            "ItemUnitValue": "♦9.99"
+        },
+        {
+            "ItemDescription": "BANK CHARGE",
+            "ItemUnitCount": "1",
+            "ItemTotal": "♦1.50",
+            "ItemUnitValue": "1.50"
+        },
+        {
+            "ItemDescription": "DUPE ELIMINATION",
+            "ItemTotal": "0",
+            "ItemUnitValue": "•0.00"
+        },
+        {
+            "ItemDescription": "DUPE ELIMINATION MINIMUM",
+            "ItemTotal": "♦0.00"
+        },
+        {
+            "ItemDescription": "UNQUALIFIED REQUEST© SERVICE",
+            "ItemTotal": "0",
+            "ItemUnitValue": "•0.00"
+        },
+        {
+            "ItemDescription": "UNQUALIFIED REQUESTS POSTAGE",
+            "ItemTotal": "♦0.00"
+        },
+        {
+            "ItemDescription": "DE-DUPED REQUESTS SERVICE",
+            "ItemUnitValue": "0",
+            "ItemTotal": "♦0.00"
+        },
+        {
+            "ItemDescription": "DE-DUPED REQUESTS POSTAGE",
+            "ItemTotal": "♦0.00"
+        },
+        {
+            "ItemDescription": "SERVICE",
+            "ItemTotal": "♦0.00"
+        }
+    ]
+}

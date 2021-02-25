@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "105,184.49",
+    "LineItem": [
+        {
+            "ItemDescription": "Labor",
+            "ItemTotal": "$ 19,380.42",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Material",
+            "ItemTotal": "53,880.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Chesterfield County Permits, Mech./Elec. At ACC Cost",
+            "ItemTotal": "12,206.45",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

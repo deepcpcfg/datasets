@@ -1,0 +1,19 @@
+{
+    "TotalAmount": "8,500.00",
+    "IssuedDate": "May 10,1979",
+    "LineItem": [
+        {
+            "ItemDescription": "1979 Atlanta Graves Scorebook Ad",
+            "ItemTotal": "10,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Less 15% Commission",
+            "ItemTotal": "(1,500.00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

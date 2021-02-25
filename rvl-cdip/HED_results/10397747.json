@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "November 17 1970",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "132-49",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Inserted release, neterad and mailed First Class Hail and Air Mall.",
+                            {
+                                "tp": 63.0,
+                                "fp": 4.0,
+                                "fn": 187.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 63.0,
+                        "fp": 10.0,
+                        "fn": 192.0
+                    }
+                ]
+            ],
+            {
+                "tp": 63.0,
+                "fp": 10.0,
+                "fn": 192.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 79.0,
+        "fp": 10.0,
+        "fn": 203.0
+    }
+]

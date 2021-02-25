@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="227.0" fp="2.0" fn="6.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="482.0" t="468.0" r="774.0" b="510.0">November</box>
+      <box l="823.0" t="466.0" r="920.0" b="518.0">18,</box>
+      <box l="977.0" t="465.0" r="1115.0" b="507.0">1986</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2488.0" t="462.0" r="2625.0" b="504.0">4362</box>
+    </InvoiceNumber>
+    <LineItem tp="198.0" fp="1.0" fn="6.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="553.0" t="2090.0" r="812.0" b="2129.0">Account</box>
+          <box l="855.0" t="2091.0" r="1228.0" b="2140.0">management</box>
+          <box l="1353.0" t="2082.0" r="1788.0" b="2136.0">supervision,</box>
+          <box l="557.0" t="2160.0" r="699.0" b="2203.0">copy</box>
+          <box l="745.0" t="2146.0" r="1032.0" b="2198.0">editing,</box>
+          <box l="1086.0" t="2145.0" r="1266.0" b="2189.0">slide</box>
+          <box l="1312.0" t="2145.0" r="1682.0" b="2198.0">production</box>
+          <box l="556.0" t="2213.0" r="803.0" b="2259.0">mounts,</box>
+          <box l="857.0" t="2209.0" r="1040.0" b="2251.0">video</box>
+          <box l="1085.0" t="2208.0" r="1370.0" b="2261.0">editing,</box>
+          <box l="1428.0" t="2206.0" r="1573.0" b="2249.0">film</box>
+          <box l="556.0" t="2271.0" r="955.0" b="2327.0">processing,</box>
+          <box l="1006.0" t="2284.0" r="1377.0" b="2325.0">messengers</box>
+          <box l="1427.0" t="2270.0" r="1531.0" b="2312.0">and</box>
+          <box l="1573.0" t="2269.0" r="2057.0" b="2313.0">miscellaneous</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2487.0" t="2265.0" r="2812.0" b="2317.0">$7,450.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="2461.0" r="738.0" b="2516.0">Quality</box>
+          <box l="783.0" t="2461.0" r="1038.0" b="2504.0">Control</box>
+          <box l="1083.0" t="2462.0" r="1266.0" b="2502.0">Chart</box>
+          <box l="1313.0" t="2456.0" r="1646.0" b="2502.0">submitted</box>
+          <box l="557.0" t="2536.0" r="624.0" b="2566.0">on</box>
+          <box l="667.0" t="2524.0" r="963.0" b="2566.0">November</box>
+          <box l="1013.0" t="2523.0" r="1107.0" b="2570.0">14,</box>
+          <box l="1166.0" t="2521.0" r="1333.0" b="2564.0">1986:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2601.0" t="2518.0" r="2813.0" b="2560.0">116.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2487.0" t="3018.0" r="2812.0" b="3067.0">$8,190.20</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

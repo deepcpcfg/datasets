@@ -1,0 +1,32 @@
+{
+    "InvoiceNumber": "0589106",
+    "TotalAmount": "145,409.97",
+    "LineItem": [
+        {
+            "ItemDescription": "Di rect Labor",
+            "ItemUnitValue": "22,801.65"
+        },
+        {
+            "ItemDescription": "Preen, Cost for Overtime 61dg. Util 111es Tech, Travel Mcpit. Cost Org. Facility/Equip. Costs Other Direct Costs",
+            "ItemUnitValue": "61.07",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Material s Other Hanford Contractor Services",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Subcontracts/Consuitants",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Gen. Admin, Cost",
+            "ItemTotal": "25,061.54"
+        },
+        {
+            "ItemDescription": "Battelle Bldgs. DOE Bldgs.",
+            "ItemUnitValue": "2,246.79",
+            "ItemTotal": "142.35"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="77.0" fp="3.0" fn="11.0">
+    <LineItem tp="77.0" fp="3.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1058.0" t="2047.0" r="1223.0" b="2081.0">SECOND</box>
+          <box l="1249.0" t="2048.0" r="1445.0" b="2081.0">QUARTER</box>
+          <box l="1477.0" t="2046.0" r="1778.0" b="2079.0">INSTALLMENT</box>
+          <box l="1806.0" t="2045.0" r="1860.0" b="2074.0">TO</box>
+          <box l="1055.0" t="2150.0" r="1250.0" b="2181.0">FINANCE</box>
+          <box l="1273.0" t="2149.0" r="1501.0" b="2181.0">-RESEARCH</box>
+          <box l="1531.0" t="2149.0" r="1723.0" b="2180.0">PROGRAM</box>
+          <box l="1806.0" t="2146.0" r="2003.0" b="2179.0">CANCER—</box>
+          <box l="1061.0" t="2228.0" r="1335.0" b="2258.0">IMMUNOLOGY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2555.0" t="2218.0" r="2716.0" b="2254.0">10,069</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "508.50",
+    "LineItem": [
+        {
+            "ItemDescription": "HP 3r LI HR l-25-°A JNIT 1323",
+            "ItemUnitCount": "4.50",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "$ 225.00"
+        },
+        {
+            "ItemDescription": "SUPERVISOR",
+            "ItemUnitCount": "4.50",
+            "ItemUnitValue": "22.00",
+            "ItemTotal": "$ 99.00"
+        },
+        {
+            "ItemDescription": "OPERATOR",
+            "ItemUnitCount": "9.00",
+            "ItemUnitValue": "20.50",
+            "ItemTotal": "$184.50"
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

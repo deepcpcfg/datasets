@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "1570-1",
+    "IssuedDate": "January 23, 1984",
+    "TotalAmount": "38,048",
+    "LineItem": [
+        {
+            "ItemDescription": "Smoke Condensate Collection with D-6 and D-17 $ 1? $2,500/10,000 cigarettes smoked",
+            "ItemTotal": "9,512.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "C-1449",
+            "ItemTotal": "10,230",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9,938",
+            "ItemDescription": "D-6",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "17,880",
+            "ItemDescription": "D-17",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

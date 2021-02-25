@@ -1,0 +1,45 @@
+{
+    "IssuedDate": "12,19S5",
+    "InvoiceNumber": "512170",
+    "LineItem": [
+        {
+            "ItemDescription": "114-02 Nicotine Content",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "19.00",
+            "ItemTotal": "38.00"
+        },
+        {
+            "ItemDescription": "Reducing Sugars",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "7.00",
+            "ItemTotal": "14.00"
+        },
+        {
+            "ItemDescription": "30",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "£0.00",
+            "ItemTotal": "120.00"
+        },
+        {
+            "ItemDescription": "PHILIP"
+        },
+        {
+            "ItemDescription": "30",
+            "ItemUnitCount": "1",
+            "ItemTotal": "60.00",
+            "ItemUnitValue": "60.00"
+        },
+        {
+            "ItemDescription": "Reducing Sugars",
+            "ItemUnitCount": "1",
+            "ItemTotal": "7.00",
+            "ItemUnitValue": "7.00"
+        },
+        {
+            "ItemDescription": "Nicotine Content",
+            "ItemUnitCount": "1",
+            "ItemTotal": "19.00",
+            "ItemUnitValue": "19.00"
+        }
+    ]
+}

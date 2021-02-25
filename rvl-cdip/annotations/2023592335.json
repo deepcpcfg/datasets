@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "13th September 1992",
+    "TotalAmount": "4 , 950,00",
+    "LineItem": [
+        {
+            "ItemDescription": "Meeting. London J Hoskins &. R Perry 1 day @ £550",
+            "ItemTotal": "£ 550.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meeting in Budapest 2 days Q £550",
+            "ItemTotal": "£1.100.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

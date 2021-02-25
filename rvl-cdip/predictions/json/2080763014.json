@@ -1,0 +1,35 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Collector's Choice Vista Series 12M?",
+            "ItemUnitCount": "24>000",
+            "ItemUnitValue": "116.20",
+            "ItemTotal": "2,788.B0"
+        },
+        {
+            "ItemDescription": "LESS HANDING ALLOWANCE",
+            "ItemTotal": "-48.00"
+        },
+        {
+            "ItemDescription": "Collector's Series Choice Skyline",
+            "ItemUnitCount": "241000",
+            "ItemUnitValue": "116.20",
+            "ItemTotal": "2,788.90"
+        },
+        {
+            "ItemDescription": "less handing allowance",
+            "ItemTotal": "48.00"
+        },
+        {
+            "ItemDescription": "Collector' s Choice Medley",
+            "ItemUnitCount": "12}000",
+            "ItemUnitValue": "116.20",
+            "ItemTotal": "1,394.40"
+        },
+        {
+            "ItemDescription": "LESS BANDING ALLOWANCE",
+            "ItemTotal": "24.00"
+        }
+    ],
+    "TotalAmount": "6,653.57"
+}

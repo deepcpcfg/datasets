@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="102.0" fp="67.0" fn="6.0">
+    <IssuedDate tp="3.0" fp="1.0" fn="5.0">
+      <box l="559.0" t="1239.0" r="670.0" b="1277.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="99.0" fp="66.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="409.0" t="1659.0" r="483.0" b="1688.0">JOfl</box>
+          <box l="512.0" t="1659.0" r="712.0" b="1688.0">tfR-05142</box>
+          <box l="767.0" t="1659.0" r="816.0" b="1687.0">AD</box>
+          <box l="842.0" t="1659.0" r="993.0" b="1688.0">BOARDS</box>
+          <box l="1026.0" t="1658.0" r="1096.0" b="1687.0">FDR</box>
+          <box l="1126.0" t="1657.0" r="1331.0" b="1687.0">CLIENT'S</box>
+          <box l="767.0" t="1701.0" r="970.0" b="1731.0">RESEARCH</box>
+          <box l="766.0" t="1742.0" r="917.0" b="1776.0">BRANDS</box>
+          <box l="996.0" t="1701.0" r="1279.0" b="1730.0">COMPETITIVE</box>
+          <box l="462.0" t="1917.0" r="534.0" b="1951.0">FOR</box>
+          <box l="562.0" t="1917.0" r="712.0" b="1947.0">AGENCY</box>
+          <box l="742.0" t="1917.0" r="942.0" b="1947.0">SERVICES</box>
+          <box l="976.0" t="1917.0" r="1021.0" b="1946.0">IN</box>
+          <box l="1051.0" t="1917.0" r="1308.0" b="1946.0">COMPLETING</box>
+          <box l="459.0" t="1960.0" r="533.0" b="1992.0">THE</box>
+          <box l="563.0" t="1959.0" r="687.0" b="1992.0">ABOVE</box>
+          <box l="716.0" t="1959.0" r="892.0" b="1992.0">PROJECT</box>
+          <box l="921.0" t="1959.0" r="970.0" b="1991.0">AT</box>
+          <box l="996.0" t="1959.0" r="1071.0" b="1991.0">THE</box>
+          <box l="1101.0" t="1959.0" r="1255.0" b="1992.0">QUOTED</box>
+          <box l="458.0" t="2005.0" r="558.0" b="2034.0">COST</box>
+          <box l="588.0" t="2004.0" r="840.0" b="2034.0">PREVIOUSLY</box>
+          <box l="868.0" t="2002.0" r="1021.0" b="2033.0">AGREED</box>
+          <box l="1051.0" t="2004.0" r="1100.0" b="2034.0">TO</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2216.0" t="2005.0" r="2416.0" b="2038.0">4,500.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,91 @@
+{
+    "IssuedDate": "03-31-84",
+    "TotalAmount": "78,167.30",
+    "LineItem": [
+        {
+            "ItemTotal": "104,771.80",
+            "ItemDescription": "BALANCE FORWARD",
+            "ItemUnitValue": "4.5985",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "8,304.89",
+            "ItemDescription": "CAFE",
+            "ItemUnitValue": "4.5985",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "8,304.89",
+            "ItemDescription": "T TASTE TOO GOOD",
+            "ItemUnitValue": "4.5985",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "8,304.89",
+            "ItemDescription": "IT TASTE TOO GOOD",
+            "ItemUnitValue": "4.5985",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "8,304.89",
+            "ItemDescription": "IT TASTES TOO GOOD",
+            "ItemUnitValue": "4.1480",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "7,491.29",
+            "ItemDescription": "CAFE",
+            "ItemUnitValue": "4.1480",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "7,491.29",
+            "ItemDescription": "BLIND f ord ",
+            "ItemUnitValue": "4.1480",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "7,491.29",
+            "ItemDescription": "DECK CHAIRES",
+            "ItemUnitValue": "4.1480",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "7,491.29",
+            "ItemDescription": "LUNCH",
+            "ItemUnitValue": "4.1430",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "7,491.29",
+            "ItemDescription": "CAFE AD",
+            "ItemUnitValue": "4.1480",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "7,491.29",
+            "ItemDescription": "IT taste TOO GOOD",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1 ,657.890",
+            "ItemDescription": "SGN CON",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6,078.930",
+            "ItemDescription": "SGN CON",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "97,034. 980",
+            "ItemDescription": "CASH",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

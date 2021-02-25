@@ -1,0 +1,20 @@
+{
+    "IssuedDate": "10-Jun-9£",
+    "InvoiceNumber": "9440",
+    "LineItem": [
+        {
+            "ItemDescription": "Wages, FICA Pay-period"
+        },
+        {
+            "ItemDescription": "and Task Force related expenses"
+        },
+        {
+            "ItemDescription": "for: FICA 7.65"
+        },
+        {
+            "ItemDescription": "Additional Expenses: Advance Deposit for October Race",
+            "ItemTotal": "$7,517.30"
+        }
+    ],
+    "TotalAmount": "$7,517.30"
+}

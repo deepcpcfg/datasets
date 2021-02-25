@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="65.0" fp="86.0" fn="0.0">
+    <IssuedDate tp="0.0" fp="9.0" fn="0.0">
+      <box l="2723.0" t="380.0" r="2976.0" b="421.0">10-Jun-9£</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2593.0" t="751.0" r="2781.0" b="817.0">9440</box>
+    </InvoiceNumber>
+    <LineItem tp="61.0" fp="68.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="496.0" t="1320.0" r="691.0" b="1377.0">Wages,</box>
+          <box l="713.0" t="1320.0" r="842.0" b="1367.0">FICA</box>
+          <box l="500.0" t="1453.0" r="776.0" b="1509.0">Pay-period</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="863.0" t="1319.0" r="955.0" b="1367.0">and</box>
+          <box l="976.0" t="1320.0" r="1100.0" b="1367.0">Task</box>
+          <box l="1121.0" t="1320.0" r="1263.0" b="1367.0">Force</box>
+          <box l="1284.0" t="1320.0" r="1459.0" b="1367.0">related</box>
+          <box l="1480.0" t="1332.0" r="1725.0" b="1379.0">expenses</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1742.0" t="1321.0" r="1825.0" b="1367.0">for:</box>
+          <box l="1858.0" t="1520.0" r="1987.0" b="1563.0">FICA</box>
+          <box l="2097.0" t="1521.0" r="2208.0" b="1567.0">7.65</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="495.0" t="1788.0" r="751.0" b="1830.0">Additional</box>
+          <box l="775.0" t="1788.0" r="1038.0" b="1842.0">Expenses:</box>
+          <box l="1230.0" t="1788.0" r="1455.0" b="1832.0">Advance</box>
+          <box l="1476.0" t="1788.0" r="1666.0" b="1842.0">Deposit</box>
+          <box l="1684.0" t="1788.0" r="1754.0" b="1830.0">for</box>
+          <box l="1946.0" t="1788.0" r="2151.0" b="1830.0">October</box>
+          <box l="2171.0" t="1788.0" r="2300.0" b="1831.0">Race</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2714.0" t="1785.0" r="2972.0" b="1838.0">$7,517.30</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="9.0" fn="0.0">
+      <box l="2580.0" t="2181.0" r="2959.0" b="2272.0">$7,517.30</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

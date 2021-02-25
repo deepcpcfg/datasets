@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1456-1",
+    "IssuedDate": "June 30, 1982",
+    "TotalAmount": "19,875.00",
+    "LineItem": [
+        {
+            "ItemDescription": "AWARD",
+            "ItemTotal": "$26,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Invoice #1456-1",
+            "ItemTotal": "( 6,625.00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

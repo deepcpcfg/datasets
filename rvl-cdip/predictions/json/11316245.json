@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "OCTOBER 29, 1986",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "JS. A. DEDICK, DC",
+            "ItemUnitValue": "2.23",
+            "ItemTotal": "99.99"
+        },
+        {
+            "ItemUnitCount": "500",
+            "ItemDescription": "QCTR) CCTR)"
+        },
+        {
+            "ItemUnitCount": "200",
+            "ItemDescription": "RON GRAYS, WASH. DC",
+            "ItemTotal": "9.91"
+        },
+        {
+            "ItemDescription": "L.",
+            "ItemUnitCount": "1"
+        }
+    ],
+    "TotalAmount": "$390.69"
+}

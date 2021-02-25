@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="34.0" fp="43.0" fn="20.0">
+    <InvoiceNumber tp="8.0" fp="1.0" fn="1.0">
+      <box l="2533.0" t="707.0" r="2846.0" b="746.0">10426452a</box>
+    </InvoiceNumber>
+    <LineItem tp="26.0" fp="42.0" fn="19.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="233.0" t="1108.0" r="366.0" b="1145.0">PROF</box>
+          <box l="408.0" t="1108.0" r="1004.0" b="1146.0">SERVICES-OVERTIME</box>
+          <box l="370.0" t="1196.0" r="709.0" b="1241.0">CHEVALIER,</box>
+          <box l="758.0" t="1195.0" r="1004.0" b="1234.0">STEPHEM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1080.0" t="1467.0" r="1287.0" b="1505.0">2.2000</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="1082.0" t="1509.0" r="1286.0" b="1549.0">1.0000</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1366.0" t="1196.0" r="1533.0" b="1234.0">13.50</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1366.0" t="1330.0" r="1496.0" b="1367.0">13.5</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2708.0" t="1304.0" r="2912.0" b="1368.0">779?63</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

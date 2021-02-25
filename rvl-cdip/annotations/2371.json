@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "843153",
+    "IssuedDate": "December 20, 2000",
+    "TotalAmount": "32,390.03",
+    "LineItem": [
+        {
+            "ItemDescription": "For Legal Services Rendered through Noveifibex 30, 2000",
+            "ItemTotal": "39,535.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Disbursements Recorded through November 30, 2000:",
+            "ItemTotal": "758.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "4/15/68",
+    "InvoiceNumber": "306",
+    "LineItem": [
+        {
+            "ItemDescription": "1998 Chicago Cubs Program/Magazine advertisement (full page, 4-color, back of cover)",
+            "ItemTotal": "$21,538*00"
+        },
+        {
+            "ItemDescription": "LESS; Commission",
+            "ItemTotal": "(3,230-70)"
+        }
+    ],
+    "TotalAmount": "$18,307.30"
+}

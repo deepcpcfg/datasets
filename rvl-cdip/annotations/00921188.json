@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "1417-6",
+    "IssuedDate": "August 10, 1982",
+    "TotalAmount": "17,650.00",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of final report Cardiovascular Testing of Compounds A-23, A-25, A-18, B-75, and B-108 in the Beagle Dog",
+            "ItemTotal": "17,650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A-23",
+            "ItemTotal": "$3,930.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A-25",
+            "ItemTotal": "3,930.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A-18",
+            "ItemTotal": "2,930.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "B-75",
+            "ItemTotal": "3,930.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "B-108",
+            "ItemTotal": "2,930.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

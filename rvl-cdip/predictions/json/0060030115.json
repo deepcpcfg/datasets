@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "February 19, 1993",
+    "InvoiceNumber": "#02-0133",
+    "LineItem": [
+        {
+            "ItemDescription": "’Data Entry Recfemptton Coupons (7,606 pcs. $41. i 8A1)",
+            "ItemTotal": "$313.22"
+        },
+        {
+            "ItemDescription": "•Data Entry Redemption Coupons (11/92 (94 pcs. $29.4l/rnin. dig.)",
+            "ItemTotal": "29.41"
+        },
+        {
+            "ItemDescription": "'Data Entry Redemption Coupons 12/92 (5 pcs. $29.41/min. chg.)",
+            "ItemTotal": "29.41"
+        },
+        {
+            "ItemDescription": "'Programming for Oaia Entry",
+            "ItemTotal": "176.48"
+        },
+        {
+            "ItemDescription": "Management fee covering back-end processing D. Smden (15,75 hrs.)",
+            "ItemTotal": "2,094.75"
+        },
+        {
+            "ItemDescription": "•Wise, (postage, freight, copies, etc.) (Less prev. invoice #01-0190, dated 1/22/93)",
+            "ItemTotal": "80.00"
+        }
+    ],
+    "TotalAmount": "$125.69"
+}

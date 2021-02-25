@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "October 21, 1979",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$159.50",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "lightened with transparent and opaque ink..,all work rush service.",
+                            {
+                                "tp": 53.0,
+                                "fp": 13.0,
+                                "fn": 173.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 60.0,
+                        "fp": 13.0,
+                        "fn": 173.0
+                    }
+                ]
+            ],
+            {
+                "tp": 60.0,
+                "fp": 13.0,
+                "fn": 173.0
+            }
+        ],
+        "InvoiceNumber": [
+            "#1719",
+            {
+                "tp": 4.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 80.0,
+        "fp": 14.0,
+        "fn": 179.0
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="135.0" fp="5.0" fn="5.0">
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="320.0" t="1479.0" r="554.0" b="1524.0">4/15/68</box>
+    </IssuedDate>
+    <InvoiceNumber tp="3.0" fp="0.0" fn="1.0">
+      <box l="2628.0" t="700.0" r="2765.0" b="767.0">306</box>
+    </InvoiceNumber>
+    <LineItem tp="116.0" fp="4.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="701.0" t="1709.0" r="833.0" b="1747.0">1998</box>
+          <box l="872.0" t="1708.0" r="1113.0" b="1753.0">Chicago</box>
+          <box l="1155.0" t="1706.0" r="1288.0" b="1743.0">Cubs</box>
+          <box l="1332.0" t="1699.0" r="1884.0" b="1751.0">Program/Magazine</box>
+          <box l="1925.0" t="1699.0" r="2372.0" b="1739.0">advertisement</box>
+          <box l="784.0" t="1765.0" r="939.0" b="1809.0">(full</box>
+          <box l="979.0" t="1773.0" r="1141.0" b="1813.0">page,</box>
+          <box l="1196.0" t="1762.0" r="1454.0" b="1805.0">4-color,</box>
+          <box l="1505.0" t="1759.0" r="1640.0" b="1799.0">back</box>
+          <box l="1678.0" t="1758.0" r="1745.0" b="1794.0">of</box>
+          <box l="1783.0" t="1757.0" r="1976.0" b="1802.0">cover)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2554.0" t="1753.0" r="2892.0" b="1798.0">$21,538*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="701.0" t="1852.0" r="860.0" b="1891.0">LESS;</box>
+          <box l="944.0" t="1848.0" r="1289.0" b="1888.0">Commission</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2599.0" t="1837.0" r="2920.0" b="1882.0">(3,230-70)</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2555.0" t="1954.0" r="2894.0" b="2005.0">$18,307.30</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

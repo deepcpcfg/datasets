@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "8711",
+    "LineItem": [
+        {
+            "ItemDescription": "Duaseldorf/Brussels"
+        }
+    ],
+    "IssuedDate": "February 3, 1975",
+    "TotalAmount": "460.40"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="73.0" fp="17.0" fn="14.0">
+    <InvoiceNumber tp="0.0" fp="2.0" fn="5.0">
+      <box l="2608.0" t="430.0" r="2677.0" b="468.0">44</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="3.0" fn="3.0">
+      <box l="2570.0" t="930.0" r="2715.0" b="975.0">0/09</box>
+      <box l="2729.0" t="929.0" r="2832.0" b="974.0">469</box>
+    </IssuedDate>
+    <LineItem tp="62.0" fp="12.0" fn="6.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="1870.0" r="810.0" b="1913.0">CONTAINER</box>
+          <box l="852.0" t="1873.0" r="1119.0" b="1915.0">DRAYAGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2333.0" t="1882.0" r="2557.0" b="1924.0">175.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2724.0" t="1884.0" r="2946.0" b="1927.0">175.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="479.0" t="1933.0" r="809.0" b="1976.0">TAIL-GATE</box>
+          <box l="856.0" t="1937.0" r="1006.0" b="1978.0">EXAM</box>
+          <box l="1046.0" t="1938.0" r="1121.0" b="1980.0">AT</box>
+          <box l="1161.0" t="1939.0" r="1272.0" b="1980.0">NDS</box>
+          <box l="473.0" t="2060.0" r="880.0" b="2103.0">HJCU7129184</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1981.0" t="1944.0" r="2039.0" b="1986.0">1.</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2369.0" t="1946.0" r="2556.0" b="1989.0">50.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2757.0" t="1948.0" r="2947.0" b="1991.0">50.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="0.0" fn="0.0">
+      <box l="2705.0" t="3724.0" r="2933.0" b="3768.0">225.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

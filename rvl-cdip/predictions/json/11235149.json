@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3512-L-02840-03",
+    "LineItem": [
+        {
+            "ItemDescription": "DOSIMETRY STUDIES QM THE PROCESS AHO IHSTRUHEHTS SMOKE EXPOSURE KACHIHE",
+            "ItemTotal": "10.353.00"
+        },
+        {
+            "ItemDescription": "OCTOBER, 1977",
+            "ItemTotal": "10.353.00"
+        }
+    ]
+}

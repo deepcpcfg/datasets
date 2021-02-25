@@ -1,0 +1,39 @@
+{
+    "IssuedDate": "April 16, 1973",
+    "InvoiceNumber": "#1765",
+    "LineItem": [
+        {
+            "ItemDescription": "Estirate #539-R-2-73",
+            "ItemTotal": "1,222.89"
+        },
+        {
+            "ItemDescription": "Estirate ^U-R-?0P-l-73",
+            "ItemTotal": "321.00"
+        },
+        {
+            "ItemDescription": "#5^7-3-3-73",
+            "ItemTotal": "32*"
+        },
+        {
+            "ItemDescription": "^UB-3-4-73",
+            "ItemTotal": "1,360.33"
+        },
+        {
+            "ItemDescription": "Estimate #5^9",
+            "ItemTotal": "41."
+        },
+        {
+            "ItemDescription": "Estimate #552-RO-5-73",
+            "ItemTotal": "58."
+        },
+        {
+            "ItemDescription": "Esriraste #55^",
+            "ItemTotal": "277.67"
+        },
+        {
+            "ItemDescription": "Travel Transportation",
+            "ItemTotal": "36.40"
+        }
+    ],
+    "TotalAmount": "$5,921.60"
+}

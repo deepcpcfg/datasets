@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="90.0" fp="194.0" fn="384.0">
+    <IssuedDate tp="9.0" fp="4.0" fn="2.0">
+      <box l="1918.0" t="895.0" r="2013.0" b="934.0">24/*</box>
+      <box l="2024.0" t="908.0" r="2080.0" b="947.0">.ay</box>
+      <box l="2113.0" t="893.0" r="2212.0" b="934.0">19/0</box>
+    </IssuedDate>
+    <LineItem tp="73.0" fp="187.0" fn="381.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="2050.0" r="901.0" b="2088.0">Direct</box>
+          <box l="926.0" t="2048.0" r="1047.0" b="2089.0">Labar</box>
+          <box l="758.0" t="2137.0" r="921.0" b="2176.0">Froiect</box>
+          <box l="941.0" t="2134.0" r="1216.0" b="2184.0">ManogerfH,</box>
+          <box l="1246.0" t="2131.0" r="1541.0" b="2182.0">RceenkranU,</box>
+          <box l="1575.0" t="2131.0" r="1732.0" b="2181.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1809.0" t="2135.0" r="1828.0" b="2177.0">5</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="1883.0" t="2130.0" r="2049.0" b="2174.0">655.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="754.0" t="2196.0" r="995.0" b="2247.0">Analytical</box>
+          <box l="1021.0" t="2195.0" r="1253.0" b="2246.0">Chemlit(.\</box>
+          <box l="1321.0" t="2198.0" r="1561.0" b="2248.0">Hagoplan,</box>
+          <box l="1591.0" t="2193.0" r="1750.0" b="2243.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1882.0" t="2193.0" r="2036.0" b="2236.0">937.51</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="2256.0" r="940.0" b="2300.0">Immunol</box>
+          <box l="949.0" t="2258.0" r="1128.0" b="2311.0">agistfH.</box>
+          <box l="1161.0" t="2259.0" r="1300.0" b="2305.0">Fiber,</box>
+          <box l="1332.0" t="2256.0" r="1491.0" b="2307.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1910.0" t="2255.0" r="2044.0" b="2297.0">36.05</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="2320.0" r="1073.0" b="2373.0">Pathologl»t(J.</box>
+          <box l="1103.0" t="2322.0" r="1248.0" b="2371.0">Baker)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1881.0" t="2321.0" r="2044.0" b="2362.0">496,15</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="756.0" t="2381.0" r="1148.0" b="2435.0">Pathdlogl»t(R.W.</box>
+          <box l="1177.0" t="2380.0" r="1459.0" b="2429.0">Fleischman,</box>
+          <box l="1485.0" t="2383.0" r="1539.0" b="2424.0">0,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1909.0" t="2379.0" r="2047.0" b="2421.0">33.17</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="751.0" t="2443.0" r="997.0" b="2495.0">Labcrutory</box>
+          <box l="1022.0" t="2445.0" r="1171.0" b="2486.0">Techrtf</box>
+          <box l="1176.0" t="2446.0" r="1293.0" b="2485.0">alone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1826.0" t="2442.0" r="2042.0" b="2491.0">3,597.45</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="750.0" t="2506.0" r="908.0" b="2547.0">Animal</box>
+          <box l="933.0" t="2507.0" r="1042.0" b="2547.0">Core</box>
+          <box l="1063.0" t="2504.0" r="1337.0" b="2548.0">Technicians</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1883.0" t="2502.0" r="2042.0" b="2545.0">226.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="3.0" fn="1.0">
+      <box l="2563.0" t="3266.0" r="2830.0" b="3316.0">$15,509.(7/</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

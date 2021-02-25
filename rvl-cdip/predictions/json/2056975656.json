@@ -1,0 +1,19 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Labor",
+            "ItemTotal": "19,380.42"
+        },
+        {
+            "ItemDescription": "Material 14^ Overhead",
+            "ItemTotal": "10,772.03"
+        },
+        {
+            "ItemDescription": "At ACC Cost",
+            "ItemTotal": "12,206.45"
+        }
+    ],
+    "InvoiceNumber": "0(jyi54",
+    "IssuedDate": "10/27/88",
+    "TotalAmount": "3105,184.49"
+}

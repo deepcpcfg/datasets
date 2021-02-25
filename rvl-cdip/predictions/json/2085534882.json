@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "_59280-1",
+    "IssuedDate": "October 22 2qqi",
+    "LineItem": [
+        {
+            "ItemDescription": "Salaries Wages",
+            "ItemTotal": "$6,542.10"
+        },
+        {
+            "ItemDescription": "Employee Benefits",
+            "ItemTotal": "$1,904.10"
+        },
+        {
+            "ItemDescription": "Supplies Expenses",
+            "ItemTotal": "$204.13"
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "$4,152.01"
+        }
+    ],
+    "TotalAmount": "$11,522.10"
+}

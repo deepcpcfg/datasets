@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="85.0" fp="2.0" fn="15.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2616.0" t="1557.0" r="2894.0" b="1591.0">07/16/98</box>
+    </IssuedDate>
+    <LineItem tp="68.0" fp="2.0" fn="9.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1373.0" t="1905.0" r="1511.0" b="1941.0">BATH</box>
+          <box l="1552.0" t="1906.0" r="1722.0" b="1942.0">TOWEL</box>
+          <box l="1764.0" t="1906.0" r="1935.0" b="1946.0">20X40</box>
+          <box l="2118.0" t="1906.0" r="2185.0" b="1943.0">LB</box>
+          <box l="2222.0" t="1909.0" r="2350.0" b="1944.0">EFYF</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2444.0" t="1910.0" r="2527.0" b="1944.0">15.</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2790.0" t="1912.0" r="2961.0" b="1945.0">95.70</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1373.0" t="1963.0" r="1511.0" b="2000.0">HAND</box>
+          <box l="1552.0" t="1965.0" r="1722.0" b="2000.0">TOWEL</box>
+          <box l="1769.0" t="1964.0" r="1935.0" b="2001.0">16X27</box>
+          <box l="1977.0" t="1965.0" r="2044.0" b="2002.0">3#</box>
+          <box l="2082.0" t="1965.0" r="2218.0" b="2001.0">KING</box>
+          <box l="2272.0" t="1968.0" r="2350.0" b="2002.0">HU</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2443.0" t="1968.0" r="2610.0" b="2002.0">11.95</box>
+        </ItemTotal>
+        <ItemUnitCount>
+          <box l="2637.0" t="3054.0" r="2644.0" b="3073.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2798.0" t="1970.0" r="2964.0" b="2004.0">11.95</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="1031.0" t="3887.0" r="1338.0" b="3925.0">159015-00</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

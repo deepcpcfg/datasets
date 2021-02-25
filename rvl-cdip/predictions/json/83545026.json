@@ -1,0 +1,9 @@
+{
+    "InvoiceNumber": "DPW99-198",
+    "LineItem": [
+        {
+            "ItemDescription": "arbitrations through February 28, 1999",
+            "ItemTotal": "$22,355.19"
+        }
+    ]
+}

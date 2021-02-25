@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "1-18",
+    "IssuedDate": "January 15 1968",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost of conductin’ 1967 Cigarette Attitude & Attribute Study",
+            "ItemTotal": "8,959.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,343-99",
+            "ItemDescription": "Supervisory Expense",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6.36",
+            "ItemDescription": "Air-oxpressage - list attached",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "18.10",
+            "ItemDescription": "Telephone charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

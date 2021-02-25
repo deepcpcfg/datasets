@@ -1,0 +1,24 @@
+{
+    "InvoiceNumber": "00340",
+    "IssuedDate": "Date 07/06/93",
+    "LineItem": [
+        {
+            "ItemDescription": "Dr. Maxwell Layard",
+            "ItemUnitCount": "26.50",
+            "ItemTotal": "3975.00"
+        },
+        {
+            "ItemDescription": "Travel Expenses",
+            "ItemTotal": "1507.39"
+        },
+        {
+            "ItemDescription": "Meeting Registration",
+            "ItemTotal": "175.00"
+        },
+        {
+            "ItemDescription": "Freight Communications",
+            "ItemTotal": "21»02"
+        }
+    ],
+    "TotalAmount": "$1892.80"
+}

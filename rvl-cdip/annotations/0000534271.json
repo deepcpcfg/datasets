@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "2130",
+    "IssuedDate": "June 15, 1983",
+    "TotalAmount": "756.08",
+    "LineItem": [
+        {
+            "ItemTotal": "$100.00",
+            "ItemDescription": "Printing, supervision for Rao Pac reprints",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "524.67",
+            "ItemDescription": "Printing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "131.21",
+            "ItemDescription": "Carrying Charge",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="170.0" fp="6.0" fn="4.0">
+    <InvoiceNumber tp="3.0" fp="0.0" fn="0.0">
+      <box l="2616.0" t="613.0" r="2721.0" b="663.0">230</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="2325.0" t="1246.0" r="2563.0" b="1287.0">03/30/2000</box>
+    </IssuedDate>
+    <LineItem tp="150.0" fp="3.0" fn="2.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="504.0" t="1669.0" r="516.0" b="1705.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="645.0" t="1667.0" r="808.0" b="1705.0">FELIPE</box>
+          <box l="825.0" t="1667.0" r="1017.0" b="1706.0">CUEVAS</box>
+          <box l="1038.0" t="1667.0" r="1406.0" b="1705.0">PHOTOGRAPHY</box>
+          <box l="1426.0" t="1671.0" r="1583.0" b="1706.0">DATED</box>
+          <box l="1600.0" t="1670.0" r="1757.0" b="1709.0">3/22/00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2113.0" t="1669.0" r="2284.0" b="1709.0">$400.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2534.0" t="1670.0" r="2704.0" b="1709.0">S400.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="505.0" t="1730.0" r="516.0" b="1763.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="645.0" t="1730.0" r="737.0" b="1767.0">THE</box>
+          <box l="755.0" t="1729.0" r="925.0" b="1767.0">FORGE</box>
+          <box l="938.0" t="1727.0" r="1076.0" b="1767.0">CKRQ</box>
+          <box l="1096.0" t="1730.0" r="1251.0" b="1767.0">DATED</box>
+          <box l="1267.0" t="1728.0" r="1426.0" b="1767.0">3/21/00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2047.0" t="1727.0" r="2284.0" b="1770.0">$13,642.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2467.0" t="1730.0" r="2701.0" b="1770.0">$13,642.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="505.0" t="1788.0" r="517.0" b="1825.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="645.0" t="1788.0" r="854.0" b="1826.0">EDWARD</box>
+          <box l="871.0" t="1788.0" r="1138.0" b="1826.0">TILLOTSON</box>
+          <box l="1155.0" t="1790.0" r="1289.0" b="1826.0">CKRQ</box>
+          <box l="1309.0" t="1788.0" r="1467.0" b="1826.0">DATED</box>
+          <box l="1484.0" t="1788.0" r="1641.0" b="1826.0">3/21/00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2115.0" t="1788.0" r="2286.0" b="1829.0">S700.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2533.0" t="1787.0" r="2703.0" b="1831.0">$700.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="3.0" fn="2.0">
+      <box l="2472.0" t="2622.0" r="2705.0" b="2664.0">$14,742,00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

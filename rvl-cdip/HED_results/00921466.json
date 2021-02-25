@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "August 20, 1981",
+            {
+                "tp": 15.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$2,700.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "For submission of Report Testing of Compound in the Beagle Dog\"",
+                            {
+                                "tp": 63.0,
+                                "fp": 0.0,
+                                "fn": 54.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 72.0,
+                        "fp": 0.0,
+                        "fn": 54.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Final \"Cardiovascular A-11 at compound.",
+                            {
+                                "tp": 0.0,
+                                "fp": 39.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 39.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 72.0,
+                "fp": 39.0,
+                "fn": 54.0
+            }
+        ],
+        "TotalAmount": [
+            "$2,700.00",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "5-0",
+            {
+                "tp": 2.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ]
+    },
+    {
+        "tp": 89.0,
+        "fp": 49.0,
+        "fn": 55.0
+    }
+]

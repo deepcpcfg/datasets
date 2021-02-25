@@ -1,0 +1,92 @@
+{
+    "IssuedDate": "AUG12/02",
+    "InvoiceNumber": "N-28-0132",
+    "LineItem": [
+        {
+            "ItemDescription": "DAYTIME AUG OS 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".09",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": "-00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG 05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "daytime AUG05 30 TIME",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00"
+        },
+        {
+            "ItemDescription": "INTEGRATN",
+            "ItemTotal": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG 05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG 05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG 05 30 TIME",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG05 30 INTEGRATN TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ",00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG 0 b 30 TIME",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00"
+        },
+        {
+            "ItemDescription": "INTEGRATN",
+            "ItemTotal": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG05 30 TIME INTEGRATN",
+            "ItemUnitCount": "1",
+            "ItemTotal": ".00",
+            "ItemUnitValue": ".00"
+        },
+        {
+            "ItemDescription": "DAYTIME AUG 05 30 TIME",
+            "ItemUnitCount": "1",
+            "ItemTotal": "66.00"
+        },
+        {
+            "ItemDescription": "INTEGRATN",
+            "ItemTotal": ".00"
+        }
+    ]
+}

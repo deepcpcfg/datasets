@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "01969600",
+    "IssuedDate": "January, 1996",
+    "TotalAmount": "14,260,51",
+    "LineItem": [
+        {
+            "ItemDescription": "Education and Training Services",
+            "ItemTotal": "11,900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,340.51",
+            "ItemDescription": "out of Pocket Expenses",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

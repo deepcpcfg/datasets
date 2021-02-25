@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "164264528",
+    "LineItem": [
+        {
+            "ItemDescription": "COMPUTER AIDED ANALYSIS MISCELLANEOUS",
+            "ItemTotal": "2.60"
+        },
+        {
+            "ItemDescription": "MISCELLANEOUS",
+            "ItemTotal": "18.66"
+        }
+    ],
+    "TotalAmount": "7,397-04"
+}

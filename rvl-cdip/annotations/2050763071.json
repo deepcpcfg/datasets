@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "June 30, 1995",
+    "TotalAmount": "13,925,22",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional services 87.85 hours @ $150.00 per hour",
+            "ItemTotal": "$ 13,177.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses (see attached)",
+            "ItemTotal": "$ 747.72",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

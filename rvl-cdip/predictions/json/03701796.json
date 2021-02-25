@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "comp of counter card.",
+            "ItemTotal": "250.00"
+        },
+        {
+            "ItemDescription": "1. Type"
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": ".408.74"
+        },
+        {
+            "ItemDescription": "Photostats"
+        }
+    ],
+    "TotalAmount": "1043.53",
+    "IssuedDate": "29 June, 1979"
+}

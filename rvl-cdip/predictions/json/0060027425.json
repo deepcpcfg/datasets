@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "February 23, 1993",
+    "InvoiceNumber": "#02-0188",
+    "LineItem": [
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "$323.50"
+        },
+        {
+            "ItemDescription": "Typography Mechanicals",
+            "ItemTotal": "1,455.25"
+        }
+    ],
+    "TotalAmount": "$7,831,77"
+}

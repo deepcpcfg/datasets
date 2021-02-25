@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "411-9/1780",
+    "IssuedDate": "May 2, 1980",
+    "LineItem": [
+        {
+            "ItemDescription": "Production of work paper on byssinosis and smoking",
+            "ItemTotal": "550"
+        }
+    ],
+    "TotalAmount": "550"
+}

@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "131300",
+    "LineItem": [
+        {
+            "ItemDescription": "SUPER l^B?"
+        }
+    ],
+    "IssuedDate": "JUNE 12, 1992",
+    "TotalAmount": "$65,000.00"
+}

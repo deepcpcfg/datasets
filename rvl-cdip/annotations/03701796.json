@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "104",
+    "IssuedDate": "29 June, 1979",
+    "TotalAmount": "1043.53",
+    "LineItem": [
+        {
+            "ItemDescription": "Tissue layouts and color comp of counter card",
+            "ItemTotal": "250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Type spec and Mechanical rule-out of counter card",
+            "ItemTotal": "285,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography (includes revisions)",
+            "ItemTotal": "408.74",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photostats",
+            "ItemTotal": "22.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

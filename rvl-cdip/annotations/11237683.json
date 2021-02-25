@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3512-L-D2840-01",
+    "IssuedDate": "80 MAY 16",
+    "TotalAmount": "4,624.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CHARACTERIZATION OF ANIMAL INHALATION EXPOSURE DEVICES ",
+            "ItemTotal": "4,624.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

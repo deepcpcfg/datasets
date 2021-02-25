@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "902521",
+    "IssuedDate": "01-29-89",
+    "LineItem": [
+        {
+            "ItemDescription": "A26 ORB 2-110",
+            "ItemTotal": "1,300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

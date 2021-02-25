@@ -1,0 +1,21 @@
+{
+    "IssuedDate": "DATE: December 19, 1996",
+    "LineItem": [
+        {
+            "ItemDescription": "Truss rental, rigging, lighting",
+            "ItemTotal": "5,500.00"
+        },
+        {
+            "ItemDescription": "Labor Chairs, Tables, Pipe and Drape, Carpeting, Electric Skirting",
+            "ItemTotal": "7000.00"
+        },
+        {
+            "ItemDescription": "Truss rental, and installation",
+            "ItemTotal": "5920.00"
+        },
+        {
+            "ItemDescription": "Electric and Labor Risers",
+            "ItemTotal": "2609.00"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "January 23, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Smoke Condensate Collection with 0-7 and 0-14 >2,500/10,000 cigarettes smoked",
+            "ItemTotal": "5,235.00"
+        },
+        {
+            "ItemDescription": "Cigarettes Smoked Through 12/31/83",
+            "ItemTotal": "10,290"
+        }
+    ],
+    "TotalAmount": "10,650"
+}

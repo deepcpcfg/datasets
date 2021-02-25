@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="93.0" fp="19.0" fn="15.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="630.0" t="682.0" r="818.0" b="715.0">MAY01/00</box>
+    </IssuedDate>
+    <InvoiceNumber tp="9.0" fp="2.0" fn="3.0">
+      <box l="2322.0" t="680.0" r="2576.0" b="706.0">PROS-607835</box>
+    </InvoiceNumber>
+    <LineItem tp="68.0" fp="17.0" fn="12.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="316.0" t="1207.0" r="745.0" b="1239.0">Nan-Coinedasionable</box>
+          <box l="770.0" t="1211.0" r="932.0" b="1245.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2390.0" t="1205.0" r="2574.0" b="1238.0">7,325-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="319.0" t="1297.0" r="648.0" b="1327.0">Conciliaionable</box>
+          <box l="675.0" t="1298.0" r="840.0" b="1333.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2487.0" t="1297.0" r="2574.0" b="1323.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="315.0" t="1389.0" r="456.0" b="1421.0">Agency</box>
+          <box l="482.0" t="1383.0" r="598.0" b="1411.0">Conrni</box>
+          <box l="606.0" t="1386.0" r="722.0" b="1412.0">salon</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2487.0" t="1385.0" r="2573.0" b="1411.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2390.0" t="1472.0" r="2573.0" b="1500.0">7,325.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

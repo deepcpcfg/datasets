@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "0514-01",
+    "IssuedDate": "January 21, 1985",
+    "TotalAmount": "11,216.51",
+    "LineItem": [
+        {
+            "ItemTotal": "1,755.00",
+            "ItemDescription": "Art Direction",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "945.00",
+            "ItemDescription": "Editorial",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "390.00",
+            "ItemDescription": "Production Art",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7,983.73",
+            "ItemDescription": "Fnotography",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "142.78",
+            "ItemDescription": "Delivery/phone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "URAF1 ROYALE KS LIGHTS COST. UPC 11141-93508",
+            "ItemUnitValue": "1156'000",
+            "ItemTotal": "3,471-00"
+        },
+        {
+            "ItemDescription": "AHI RQYALE KS LIGHTS MEN GUST. UPC 11141-98509",
+            "ItemUnitValue": "22.25",
+            "ItemTotal": "2,136-00"
+        },
+        {
+            "ItemDescription": "A JI ROYALE 100S LIGHTS COST. UPC 11141-98510",
+            "ItemUnitCount": "156",
+            "ItemTotal": "3,666.00"
+        },
+        {
+            "ItemDescription": "ROYALE 10OS LIGHTS MEN",
+            "ItemTotal": "1,974.00"
+        },
+        {
+            "ItemDescription": "UPC 11141-985L1"
+        }
+    ],
+    "TotalAmount": "11,022.06"
+}

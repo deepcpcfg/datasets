@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="171.0" fp="163.0" fn="52.0">
+    <IssuedDate tp="11.0" fp="2.0" fn="2.0">
+      <box l="1836.0" t="956.0" r="1919.0" b="989.0">MAY</box>
+      <box l="1953.0" t="951.0" r="2031.0" b="998.0">2&lt;t,</box>
+      <box l="2072.0" t="952.0" r="2180.0" b="990.0">1973</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="3.0">
+      <box l="1957.0" t="1058.0" r="2064.0" b="1097.0">7534</box>
+    </InvoiceNumber>
+    <LineItem tp="156.0" fp="161.0" fn="41.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="918.0" t="1833.0" r="968.0" b="1870.0">1*3</box>
+          <box l="918.0" t="1887.0" r="971.0" b="1923.0">ED</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1032.0" t="1775.0" r="1305.0" b="1812.0">ADDITIONS</box>
+          <box l="1035.0" t="1830.0" r="1242.0" b="1870.0">CHANGES</box>
+          <box l="1039.0" t="1883.0" r="1213.0" b="1920.0">PLATES</box>
+          <box l="1250.0" t="1880.0" r="1495.0" b="1918.0">EMBOSSED</box>
+          <box l="1588.0" t="1876.0" r="1662.0" b="1917.0">304</box>
+          <box l="1035.0" t="1987.0" r="1307.0" b="2028.0">DELETIONS</box>
+          <box l="1342.0" t="1987.0" r="1462.0" b="2021.0">FROM</box>
+          <box l="1499.0" t="1984.0" r="1637.0" b="2021.0">LISTS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2200.0" t="1869.0" r="2336.0" b="1911.0">18.0C</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="800.0" t="2095.0" r="1063.0" b="2136.0">OUTFIL1NG</box>
+          <box l="1095.0" t="2095.0" r="1186.0" b="2133.0">AND</box>
+          <box l="1225.0" t="2092.0" r="1308.0" b="2132.0">INF</box>
+          <box l="1320.0" t="2092.0" r="1333.0" b="2129.0">I</box>
+          <box l="1345.0" t="2092.0" r="1462.0" b="2130.0">LING</box>
+          <box l="1499.0" t="2089.0" r="1691.0" b="2134.0">PLATES,</box>
+          <box l="1733.0" t="2085.0" r="1957.0" b="2123.0">CHECKING</box>
+          <box l="801.0" t="2150.0" r="967.0" b="2200.0">LISTS,</box>
+          <box l="1009.0" t="2149.0" r="1216.0" b="2187.0">RUNNING</box>
+          <box l="1254.0" t="2146.0" r="1398.0" b="2183.0">CARDS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2199.0" t="2132.0" r="2340.0" b="2171.0">37.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="571.0" t="2260.0" r="680.0" b="2303.0">2/13</box>
+          <box l="800.0" t="2258.0" r="1005.0" b="2296.0">RUNNING</box>
+          <box l="1038.0" t="2254.0" r="1062.0" b="2291.0">4</box>
+          <box l="1099.0" t="2254.0" r="1215.0" b="2291.0">SETS</box>
+          <box l="1254.0" t="2251.0" r="1398.0" b="2292.0">CTR-5</box>
+          <box l="1437.0" t="2251.0" r="1498.0" b="2288.0">ON</box>
+          <box l="1530.0" t="2251.0" r="1640.0" b="2287.0">ZAHN</box>
+          <box l="1674.0" t="2244.0" r="1929.0" b="2285.0">ENVELOPES</box>
+          <box l="571.0" t="2366.0" r="678.0" b="2411.0">2/21</box>
+          <box l="805.0" t="2366.0" r="1004.0" b="2410.0">PLATING</box>
+          <box l="1038.0" t="2362.0" r="1128.0" b="2407.0">NEN</box>
+          <box l="1162.0" t="2359.0" r="1311.0" b="2405.0">LISTS</box>
+          <box l="1345.0" t="2356.0" r="1432.0" b="2396.0">Z^8</box>
+          <box l="1470.0" t="2359.0" r="1590.0" b="2401.0">$Zr9</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2232.0" t="2239.0" r="2343.0" b="2281.0">4.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="805.0" t="2420.0" r="858.0" b="2457.0">GO</box>
+          <box l="895.0" t="2416.0" r="1065.0" b="2457.0">PLATES</box>
+          <box l="1103.0" t="2413.0" r="1340.0" b="2453.0">EMBOSSED</box>
+          <box l="1440.0" t="2409.0" r="1523.0" b="2451.0">3D4</box>
+          <box l="1561.0" t="2410.0" r="1673.0" b="2446.0">EACH</box>
+          <box l="804.0" t="2525.0" r="1007.0" b="2562.0">RUNNING</box>
+          <box l="1041.0" t="2521.0" r="1128.0" b="2558.0">ONE</box>
+          <box l="1162.0" t="2518.0" r="1365.0" b="2563.0">GALLEY,</box>
+          <box l="1407.0" t="2517.0" r="1497.0" b="2555.0">ONE</box>
+          <box l="1532.0" t="2515.0" r="1611.0" b="2552.0">SET</box>
+          <box l="1644.0" t="2514.0" r="1813.0" b="2560.0">CARDS,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2206.0" t="2398.0" r="2343.0" b="2439.0">IB.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="805.0" t="2581.0" r="824.0" b="2619.0">3</box>
+          <box l="863.0" t="2579.0" r="974.0" b="2615.0">SETS</box>
+          <box l="1012.0" t="2576.0" r="1278.0" b="2616.0">ENVELOPES</box>
+          <box l="1319.0" t="2571.0" r="1436.0" b="2610.0">EACH</box>
+          <box l="1473.0" t="2568.0" r="1703.0" b="2609.0">CATEGORY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2185.0" t="2557.0" r="2347.0" b="2600.0">J5.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

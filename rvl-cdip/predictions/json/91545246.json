@@ -1,0 +1,104 @@
+{
+    "InvoiceNumber": "11025",
+    "LineItem": [
+        {
+            "ItemDescription": "ATLANTA JRNL. L CONST",
+            "ItemTotal": "3.677.70"
+        },
+        {
+            "ItemDescription": "dALllMORt SuN",
+            "ItemTotal": "2.985.20"
+        },
+        {
+            "ItemDescription": "BOSTON HERALD",
+            "ItemUnitCount": "40",
+            "ItemTotal": "2.416.S3"
+        },
+        {
+            "ItemDescription": "BUFFALO NEWS",
+            "ItemUnitCount": "065",
+            "ItemTotal": "2.786.30"
+        },
+        {
+            "ItemDescription": "CHICAGO TRUJUNE I",
+            "ItemUnitValue": "9.563.00",
+            "ItemTotal": "a,128.55"
+        },
+        {
+            "ItemDescription": "CINCINNATI c.NQUlRtR",
+            "ItemUnitCount": "140",
+            "ItemTotal": "3.235.95"
+        },
+        {
+            "ItemDescription": "CLEVELAND PLAIN DEALER",
+            "ItemTotal": "3.663.50"
+        },
+        {
+            "ItemDescription": "COLUMBUS DISPATCH",
+            "ItemUnitCount": "150",
+            "ItemUnitValue": "*.490.00",
+            "ItemTotal": "3.816.50"
+        },
+        {
+            "ItemDescription": "FT UULHUACt. NEWS",
+            "ItemTotal": "2.989.45"
+        },
+        {
+            "ItemDescription": "DALLAS T i Me.S MERALQ^ OAYTON DAILY NEWS",
+            "ItemUnitCount": "102",
+            "ItemTotal": "2.632.20"
+        },
+        {
+            "ItemDescription": "DENVER POST DuTROIT NlW.’> HARTFORD COURANT",
+            "ItemTotal": "2.67"
+        },
+        {
+            "ItemDescription": "HOUSTON POST",
+            "ItemUnitCount": "260",
+            "ItemTotal": "4,242.35"
+        },
+        {
+            "ItemDescription": "KANSAS CITY STAR",
+            "ItemTotal": "4.287.40"
+        },
+        {
+            "ItemDescription": "LUUiJVli_Lt. CLIURILR JOUWJZO PA Gt LOi ANGuLES HtFiALQ EXAHJ2A 3/ D H",
+            "ItemUnitCount": "1"
+        },
+        {
+            "ItemDescription": "MEMPHIS COMMERCIAL APPE330",
+            "ItemTotal": "3.165.40"
+        },
+        {
+            "ItemDescription": "MIAMI HERALD",
+            "ItemTotal": "5.703.60"
+        },
+        {
+            "ItemDescription": "MILWAUKEL JllUPNAL JSD 3/ a> MINNEAPOLIS STAR t, TR1H360 PAGE"
+        },
+        {
+            "ItemDescription": "□MAHA WORLD HERALD",
+            "ItemUnitCount": "460",
+            "ItemTotal": "3,033.65"
+        },
+        {
+            "ItemDescription": "ORLANDO 5FNTTNEL OO PAGE",
+            "ItemTotal": "2,963.50"
+        },
+        {
+            "ItemDescription": "PH I L ALjL 1 RH1 A INQUIRER 49U 3/5 PC UP Ehl PhOVIOLNCL JOURNAL =12(3 3/3 PC OPEN",
+            "ItemTotal": "7.344.fib"
+        },
+        {
+            "ItemDescription": "ROCHESTER DEM t CHRON. 530 3/5"
+        },
+        {
+            "ItemDescription": "SAN ANTONIO EXPRCS5-NEWS50 PACE OPEN"
+        },
+        {
+            "ItemDescription": "TULSA WORLD TOLEDO BLADE",
+            "ItemTotal": "11.594.60"
+        }
+    ],
+    "TotalAmount": "739.65"
+}

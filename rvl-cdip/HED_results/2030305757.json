@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "June 3, 1991",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$1,375.00",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$2,750.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            ":ENGINEERING SERVICES: :Partial Payment For Month of May :Completion at 50%",
+                            {
+                                "tp": 50.0,
+                                "fp": 25.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 57.0,
+                        "fp": 27.0,
+                        "fn": 2.0
+                    }
+                ]
+            ],
+            {
+                "tp": 57.0,
+                "fp": 27.0,
+                "fn": 2.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 77.0,
+        "fp": 28.0,
+        "fn": 10.0
+    }
+]

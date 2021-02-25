@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "5S-07-94",
+    "IssuedDate": "5/7/93",
+    "LineItem": [
+        {
+            "ItemDescription": "TRIALS CONDUCTED IN APRIL 1993",
+            "ItemTotal": "511,097.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

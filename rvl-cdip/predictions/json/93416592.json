@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "10/26/94",
+    "InvoiceNumber": "CCC94-114",
+    "LineItem": [
+        {
+            "ItemDescription": "Video Print-out Cost",
+            "ItemTotal": "¥13,000"
+        },
+        {
+            "ItemDescription": "1) A3 x 120 03¥450): Newspaper ad.",
+            "ItemTotal": "34,000"
+        },
+        {
+            "ItemDescription": "B4 sj.2e x 120 Magazine ad.",
+            "ItemTotal": "42,000"
+        },
+        {
+            "ItemDescription": "A4 size x 120 (9S280Jt TVCF",
+            "ItemTotal": "33,600"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "IssuedDate": "6/3/99",
+    "InvoiceNumber": "MSA002",
+    "LineItem": [
+        {
+            "ItemDescription": "4/22 Reviewing email, correspondence, consultation 1.5 hrs.",
+            "ItemTotal": "262.50"
+        },
+        {
+            "ItemDescription": "5/20 Reviewing email, correspondence, consultation 1.5 hrs.",
+            "ItemTotal": "262.50"
+        },
+        {
+            "ItemDescription": "4/14 Processing fee award applications 1 hrs.",
+            "ItemTotal": "150.00"
+        },
+        {
+            "ItemDescription": "4/15 Processing fee award applications 5 hrs.",
+            "ItemTotal": "750.00"
+        },
+        {
+            "ItemDescription": "4/16 Processing fee award applications 4.5 hrs.",
+            "ItemTotal": "675.00"
+        },
+        {
+            "ItemDescription": "4/19 Processing fee award applications 2 hrs.",
+            "ItemTotal": "300.00"
+        },
+        {
+            "ItemDescription": "4/20 Response to inquiries, email, correspondence 2 hrs.",
+            "ItemTotal": "300.00"
+        },
+        {
+            "ItemDescription": "4/27 Response to inquiries, planning and implementation 2 hrs.",
+            "ItemTotal": "300.00"
+        },
+        {
+            "ItemDescription": "4/30 Calls, correspondence, planning and implementation L5 hrs.",
+            "ItemTotal": "225.00"
+        }
+    ]
+}

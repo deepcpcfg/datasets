@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "11/18/70",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "20,644.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "644.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Spectroscopic Investigation of Tobacco Smoke Constituents on Mammals: First Quarterly Billing in Advance in accordance with agreement dated October 1, 1970",
+                            {
+                                "tp": 85.0,
+                                "fp": 70.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 90.0,
+                        "fp": 71.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 90.0,
+                "fp": 71.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "468",
+            {
+                "tp": 3.0,
+                "fp": 0.0,
+                "fn": 2.0
+            }
+        ]
+    },
+    {
+        "tp": 110.0,
+        "fp": 71.0,
+        "fn": 6.0
+    }
+]

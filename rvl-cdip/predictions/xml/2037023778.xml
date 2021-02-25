@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="270.0" fp="20.0" fn="15.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2823.0" t="259.0" r="2942.0" b="301.0">8415</box>
+    </InvoiceNumber>
+    <LineItem tp="251.0" fp="19.0" fn="15.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="558.0" t="1989.0" r="798.0" b="2038.0">Straight</box>
+          <box l="837.0" t="1992.0" r="953.0" b="2030.0">time</box>
+          <box l="1049.0" t="1988.0" r="1106.0" b="2030.0">40</box>
+          <box l="1139.0" t="1991.0" r="1256.0" b="2030.0">hrs.</box>
+          <box l="1294.0" t="1992.0" r="1327.0" b="2030.0">X</box>
+          <box l="1361.0" t="1987.0" r="1540.0" b="2037.0">$30.43</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2259.0" t="1987.0" r="2534.0" b="2038.0">$1,217.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2056.0" r="674.0" b="2093.0">Time</box>
+          <box l="712.0" t="2055.0" r="796.0" b="2093.0">and</box>
+          <box l="833.0" t="2064.0" r="921.0" b="2092.0">one</box>
+          <box l="957.0" t="2054.0" r="1074.0" b="2092.0">half</box>
+          <box l="1173.0" t="2050.0" r="1197.0" b="2093.0">6</box>
+          <box l="1232.0" t="2054.0" r="1347.0" b="2095.0">hrs.</box>
+          <box l="1389.0" t="2055.0" r="1419.0" b="2095.0">X</box>
+          <box l="1456.0" t="2050.0" r="1635.0" b="2100.0">$39.27</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2353.0" t="2053.0" r="2533.0" b="2098.0">235.62</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2117.0" r="861.0" b="2156.0">Doubletime</box>
+          <box l="962.0" t="2117.0" r="1012.0" b="2155.0">13</box>
+          <box l="1045.0" t="2117.0" r="1161.0" b="2155.0">hrs.</box>
+          <box l="1203.0" t="2120.0" r="1232.0" b="2158.0">X</box>
+          <box l="1266.0" t="2115.0" r="1447.0" b="2163.0">$54.48</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2351.0" t="2118.0" r="2533.0" b="2159.0">708.24</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="891.0" t="2243.0" r="1203.0" b="2292.0">Journeymen</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2367.0" r="796.0" b="2415.0">Straight</box>
+          <box l="838.0" t="2368.0" r="949.0" b="2405.0">time</box>
+          <box l="1054.0" t="2364.0" r="1229.0" b="2405.0">172.50</box>
+          <box l="1265.0" t="2367.0" r="1378.0" b="2405.0">hrs.</box>
+          <box l="1419.0" t="2370.0" r="1448.0" b="2407.0">X</box>
+          <box l="1486.0" t="2363.0" r="1665.0" b="2412.0">$28.78</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2259.0" t="2365.0" r="2531.0" b="2415.0">$4,964.55</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="555.0" t="2431.0" r="673.0" b="2468.0">Time</box>
+          <box l="709.0" t="2430.0" r="795.0" b="2468.0">and</box>
+          <box l="834.0" t="2439.0" r="920.0" b="2467.0">one</box>
+          <box l="950.0" t="2429.0" r="1073.0" b="2467.0">half</box>
+          <box l="1174.0" t="2427.0" r="1228.0" b="2467.0">27</box>
+          <box l="1262.0" t="2430.0" r="1378.0" b="2467.0">hrs.</box>
+          <box l="1419.0" t="2430.0" r="1449.0" b="2468.0">X</box>
+          <box l="1483.0" t="2428.0" r="1665.0" b="2475.0">$37,14</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2293.0" t="2431.0" r="2531.0" b="2477.0">1,002.78</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="554.0" t="2490.0" r="859.0" b="2531.0">Doubletime</box>
+          <box l="956.0" t="2490.0" r="1012.0" b="2530.0">22</box>
+          <box l="1046.0" t="2492.0" r="1158.0" b="2530.0">hrs.</box>
+          <box l="1199.0" t="2492.0" r="1232.0" b="2530.0">X</box>
+          <box l="1266.0" t="2488.0" r="1445.0" b="2537.0">$51.53</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2293.0" t="2493.0" r="2532.0" b="2537.0">1,133.66</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2864.0" r="793.0" b="2902.0">Material</box>
+          <box l="552.0" t="2986.0" r="760.0" b="3031.0">$141-91</box>
+          <box l="797.0" t="2989.0" r="825.0" b="3026.0">X</box>
+          <box l="864.0" t="2985.0" r="947.0" b="3027.0">102</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2316.0" t="2986.0" r="2532.0" b="3032.0">$156.10</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2789.0" t="451.0" r="3004.0" b="492.0">9-24-91</box>
+    </IssuedDate>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2687.0" t="3419.0" r="2965.0" b="3468.0">$9,418.15</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

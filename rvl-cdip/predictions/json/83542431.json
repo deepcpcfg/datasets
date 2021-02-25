@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "10886",
+    "TotalAmount": "$5,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "EXPERT FEES",
+            "ItemTotal": "5,000.00"
+        }
+    ]
+}

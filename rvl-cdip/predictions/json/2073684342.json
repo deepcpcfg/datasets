@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "C98018-1",
+    "IssuedDate": "April 24, 1998",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost for interviewing 600 Field Less any prepayment"
+        },
+        {
+            "ItemDescription": "respondents statewide April 20-23, 1998",
+            "ItemTotal": "$25,000.00"
+        }
+    ],
+    "TotalAmount": "$25,000.00"
+}

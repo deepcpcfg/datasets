@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "September 26, 1995",
+    "TotalAmount": "8,537.80",
+    "LineItem": [
+        {
+            "ItemDescription": "Total Discounted Fees",
+            "ItemTotal": "8,510.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Disbursements for August 1995",
+            "ItemTotal": "27.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

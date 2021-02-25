@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "806518",
+    "IssuedDate": "May 6,1983",
+    "LineItem": [
+        {
+            "ItemDescription": "Fee for gear-up and execution nE additional sampling in Los Angeles and San Francisco",
+            "ItemTotal": "$4,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

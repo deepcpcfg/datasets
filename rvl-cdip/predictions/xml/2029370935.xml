@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="273.0" fp="124.0" fn="124.0">
+    <InvoiceNumber tp="5.0" fp="1.0" fn="1.0">
+      <box l="2734.0" t="573.0" r="2947.0" b="616.0">153311</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2735.0" t="644.0" r="3027.0" b="687.0">04/16/92</box>
+    </IssuedDate>
+    <LineItem tp="254.0" fp="122.0" fn="123.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="687.0" t="1467.0" r="1095.0" b="1509.0">Secretarial</box>
+          <box l="1141.0" t="1468.0" r="1439.0" b="1509.0">overtloo</box>
+          <box l="1483.0" t="1468.0" r="1549.0" b="1508.0">in</box>
+          <box l="687.0" t="1530.0" r="1057.0" b="1573.0">connection</box>
+          <box l="1103.0" t="1532.0" r="1246.0" b="1571.0">oith</box>
+          <box l="1292.0" t="1530.0" r="1625.0" b="1578.0">inputting</box>
+          <box l="691.0" t="1593.0" r="1054.0" b="1636.0">attendee”*</box>
+          <box l="1101.0" t="1595.0" r="1246.0" b="1637.0">list</box>
+          <box l="1292.0" t="1594.0" r="1396.0" b="1635.0">for</box>
+          <box l="1443.0" t="1597.0" r="1546.0" b="1638.0">HBI</box>
+          <box l="688.0" t="1656.0" r="942.0" b="1698.0">Seattle</box>
+          <box l="988.0" t="1659.0" r="1130.0" b="1699.0">tour</box>
+          <box l="685.0" t="1842.0" r="1093.0" b="1883.0">Secretarial</box>
+          <box l="1140.0" t="1844.0" r="1436.0" b="1883.0">overtine</box>
+          <box l="1482.0" t="1843.0" r="1551.0" b="1882.0">in</box>
+          <box l="681.0" t="1906.0" r="1056.0" b="1949.0">connection</box>
+          <box l="1102.0" t="1907.0" r="1247.0" b="1949.0">alth</box>
+          <box l="1290.0" t="1906.0" r="1582.0" b="1954.0">editing*</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2706.0" t="1720.0" r="2951.0" b="1775.0">^11*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="682.0" t="1969.0" r="973.0" b="2018.0">copyings</box>
+          <box l="1024.0" t="1967.0" r="1248.0" b="2017.0">fusing</box>
+          <box l="1295.0" t="1969.0" r="1395.0" b="2009.0">and</box>
+          <box l="1441.0" t="1967.0" r="1699.0" b="2016.0">Bailing</box>
+          <box l="686.0" t="2032.0" r="790.0" b="2075.0">HBI</box>
+          <box l="832.0" t="2032.0" r="1020.0" b="2075.0">nedla</box>
+          <box l="1062.0" t="2033.0" r="1245.0" b="2074.0">tour*</box>
+          <box l="1292.0" t="2031.0" r="1698.0" b="2074.0">information</box>
+          <box l="683.0" t="2217.0" r="1092.0" b="2260.0">Secretarial</box>
+          <box l="1143.0" t="2219.0" r="1438.0" b="2261.0">avertine</box>
+          <box l="1480.0" t="2218.0" r="1550.0" b="2260.0">in</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2771.0" t="2094.0" r="2950.0" b="2136.0">54.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="683.0" t="2284.0" r="1054.0" b="2326.0">connection</box>
+          <box l="1101.0" t="2282.0" r="1245.0" b="2325.0">oith</box>
+          <box l="1290.0" t="2286.0" r="1393.0" b="2327.0">HBI</box>
+          <box l="1440.0" t="2284.0" r="1622.0" b="2326.0">calls</box>
+          <box l="685.0" t="2471.0" r="1094.0" b="2514.0">Secretarial</box>
+          <box l="1141.0" t="2471.0" r="1436.0" b="2515.0">avertin*</box>
+          <box l="1479.0" t="2472.0" r="1548.0" b="2514.0">in</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2731.0" t="2345.0" r="2947.0" b="2387.0">180.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="682.0" t="2538.0" r="1053.0" b="2580.0">connection</box>
+          <box l="1099.0" t="2537.0" r="1244.0" b="2578.0">oith</box>
+          <box l="1286.0" t="2538.0" r="1586.0" b="2585.0">entering</box>
+          <box l="682.0" t="2599.0" r="785.0" b="2640.0">HBI</box>
+          <box l="833.0" t="2598.0" r="1020.0" b="2640.0">nedla</box>
+          <box l="1061.0" t="2600.0" r="1204.0" b="2641.0">tour</box>
+          <box l="1253.0" t="2596.0" r="1395.0" b="2641.0">list</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2767.0" t="2666.0" r="2942.0" b="2708.0">36.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="680.0" t="2790.0" r="1092.0" b="2834.0">Photocopies</box>
+          <box l="1134.0" t="2788.0" r="1204.0" b="2829.0">of</box>
+          <box l="1247.0" t="2799.0" r="1584.0" b="2838.0">necessary</box>
+          <box l="680.0" t="2851.0" r="1018.0" b="2894.0">naterials</box>
+          <box l="1135.0" t="2853.0" r="1205.0" b="2895.0">St</box>
+          <box l="1251.0" t="2852.0" r="1434.0" b="2895.0">Leals</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2802.0" t="2921.0" r="2943.0" b="2962.0">3.60</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2688.0" t="3167.0" r="2941.0" b="3212.0">8291.60</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

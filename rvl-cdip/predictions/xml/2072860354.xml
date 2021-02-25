@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="136.0" fp="19.0" fn="1.0">
+    <LineItem tp="114.0" fp="19.0" fn="1.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1117.0" t="1755.0" r="1434.0" b="1801.0">Professional</box>
+          <box l="1451.0" t="1755.0" r="1560.0" b="1800.0">Fees</box>
+          <box l="1579.0" t="1755.0" r="1693.0" b="1809.0">(2nd</box>
+          <box l="1712.0" t="1754.0" r="1812.0" b="1801.0">half</box>
+          <box l="1829.0" t="1755.0" r="1879.0" b="1801.0">of</box>
+          <box l="1113.0" t="1817.0" r="1283.0" b="1877.0">billing</box>
+          <box l="1301.0" t="1817.0" r="1375.0" b="1863.0">for</box>
+          <box l="1389.0" t="1817.0" r="1541.0" b="1863.0">Phase</box>
+          <box l="1556.0" t="1817.0" r="1589.0" b="1871.0">I)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2130.0" t="1755.0" r="2366.0" b="1808.0">80,000,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="363.0" t="1876.0" r="700.0" b="1934.0">Cambridge</box>
+          <box l="730.0" t="1876.0" r="906.0" b="1921.0">Brand</box>
+          <box l="1117.0" t="2105.0" r="1476.0" b="2151.0">Reimbursable</box>
+          <box l="1492.0" t="2105.0" r="1729.0" b="2163.0">Expenses</box>
+          <box l="1118.0" t="2170.0" r="1342.0" b="2230.0">(August</box>
+          <box l="1376.0" t="2171.0" r="1471.0" b="2213.0">and</box>
+          <box l="1488.0" t="2168.0" r="1766.0" b="2230.0">September</box>
+          <box l="1784.0" t="2172.0" r="1915.0" b="2225.0">1995)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2175.0" t="2171.0" r="2383.0" b="2222.0">4,655.27</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2180.0" t="2984.0" r="2441.0" b="3034.0">84,655.27</box>
+    </TotalAmount>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2401.0" t="533.0" r="2541.0" b="576.0">10050</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2397.0" t="749.0" r="2641.0" b="801.0">10/12/95</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

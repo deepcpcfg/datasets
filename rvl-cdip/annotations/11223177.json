@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "CTR 2220 -61",
+    "TotalAmount": "10,810.06",
+    "LineItem": [
+        {
+            "ItemDescription": "Tills voucher represents reifaburseable costs for",
+            "ItemTotal": "9,655.06",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fixed Fee",
+            "ItemTotal": "1,155.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

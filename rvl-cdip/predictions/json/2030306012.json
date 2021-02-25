@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "April 30, 1991",
+    "InvoiceNumber": "212-2",
+    "LineItem": [
+        {
+            "ItemDescription": "Original Contract",
+            "ItemTotal": "2S.375"
+        },
+        {
+            "ItemDescription": "Complete To Date",
+            "ItemTotal": "22,837"
+        },
+        {
+            "ItemDescription": "Less 10% Retainage",
+            "ItemTotal": "2,283"
+        }
+    ]
+}

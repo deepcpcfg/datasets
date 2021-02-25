@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "07-0283",
+    "IssuedDate": "July 26, 1991",
+    "TotalAmount": "623.97",
+    "LineItem": [
+        {
+            "ItemDescription": "Messenger fees",
+            "ItemTotal": "77,40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

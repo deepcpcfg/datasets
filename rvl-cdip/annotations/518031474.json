@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "061-0075",
+    "IssuedDate": "03/02/94",
+    "TotalAmount": "9,094.11",
+    "LineItem": [
+        {
+            "ItemUnitCount": "5",
+            "ItemDescription": "CAMEL FILTER/COLLECTORS",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "3,357.00"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemDescription": "CAMEL LIGHT/COLLECTORS",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20"
+        },
+        {
+            "ItemDescription": "CAMEL FIL BX/COLLECTORS",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemDescription": "CAMEL LTS BX/COLLECTORS",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20"
+        }
+    ]
+}

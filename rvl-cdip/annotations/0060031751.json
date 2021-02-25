@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "16791",
+    "IssuedDate": "October 25,1993",
+    "LineItem": [
+        {
+            "ItemDescription": "AMERICAN DEEP DISCOUNT Creative, Account Management",
+            "ItemTotal": "$ 2300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

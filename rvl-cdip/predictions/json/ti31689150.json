@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "28356",
+    "IssuedDate": "9/15/94",
+    "LineItem": [
+        {
+            "ItemDescription": "FILL 276 ORDERS; METER AND SHIP A5 SPECIFIED-",
+            "ItemTotal": "1737.40"
+        },
+        {
+            "ItemDescription": "POSTAGE MATERIALS- USED-",
+            "ItemTotal": "620.81"
+        }
+    ],
+    "TotalAmount": "2429.16"
+}

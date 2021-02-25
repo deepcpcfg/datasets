@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "0AN1512",
+    "IssuedDate": "December 22, 1987",
+    "LineItem": [
+        {
+            "ItemDescription": "Store Manning (4,730 Days x $130/Day)",
+            "ItemTotal": "$614,900.00"
+        },
+        {
+            "ItemDescription": "Printing of Shelf Talkers/Header Cards",
+            "ItemTotal": "31,873.46"
+        },
+        {
+            "ItemDescription": "Plus 10$",
+            "ItemUnitValue": "3,187.35",
+            "ItemTotal": "$649,960.81"
+        }
+    ],
+    "TotalAmount": "$129,960.81"
+}

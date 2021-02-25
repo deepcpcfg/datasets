@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "May 7,2002",
+    "TotalAmount": "250.00",
+    "LineItem": [
+        {
+            "ItemDescription": "1 Hour Record review",
+            "ItemTotal": "$ 250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="108.0" fp="57.0" fn="112.0">
+    <InvoiceNumber tp="0.0" fp="1.0" fn="0.0">
+      <box l="1837.0" t="153.0" r="1865.0" b="191.0">7</box>
+    </InvoiceNumber>
+    <IssuedDate tp="15.0" fp="1.0" fn="0.0">
+      <box l="1440.0" t="273.0" r="1696.0" b="313.0">October</box>
+      <box l="1747.0" t="273.0" r="1838.0" b="317.0">24,</box>
+      <box l="1897.0" t="270.0" r="2030.0" b="312.0">1985</box>
+    </IssuedDate>
+    <TotalAmount tp="2.0" fp="3.0" fn="7.0">
+      <box l="889.0" t="443.0" r="1017.0" b="493.0">11788</box>
+    </TotalAmount>
+    <LineItem tp="91.0" fp="52.0" fn="105.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="631.0" t="1722.0" r="840.0" b="1771.0">40,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="890.0" t="1719.0" r="1218.0" b="1773.0">telephone</box>
+          <box l="1264.0" t="1718.0" r="1439.0" b="1762.0">calls</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1564.0" t="1718.0" r="1739.0" b="1761.0">81.60</box>
+          <box l="1788.0" t="1720.0" r="1892.0" b="1757.0">Per</box>
+          <box l="1935.0" t="1715.0" r="2076.0" b="1758.0">Call</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2500.0" t="1712.0" r="2862.0" b="1760.0">S64,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="627.0" t="1848.0" r="958.0" b="1892.0">Estimated</box>
+          <box l="1001.0" t="1848.0" r="1254.0" b="1890.0">advance</box>
+          <box l="1300.0" t="1846.0" r="1479.0" b="1888.0">needs</box>
+          <box l="1529.0" t="1844.0" r="1629.0" b="1889.0">for</box>
+          <box l="1675.0" t="1854.0" r="1929.0" b="1899.0">payment</box>
+          <box l="1974.0" t="1842.0" r="2041.0" b="1883.0">of</box>
+          <box l="2092.0" t="1840.0" r="2340.0" b="1884.0">initial</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="630.0" t="1911.0" r="842.0" b="1959.0">40,000</box>
+          <box l="888.0" t="1911.0" r="1178.0" b="1962.0">Mailings</box>
+          <box l="1300.0" t="1909.0" r="1479.0" b="1950.0">First</box>
+          <box l="1525.0" t="1909.0" r="1703.0" b="1948.0">Class</box>
+          <box l="1750.0" t="1911.0" r="2003.0" b="1958.0">Postage</box>
+          <box l="2128.0" t="1905.0" r="2227.0" b="1948.0">226</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2577.0" t="1902.0" r="2865.0" b="1952.0">8,800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1003.0" t="2415.0" r="1188.0" b="2458.0">ADofA</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,27 @@
+{
+    "IssuedDate": "March 23, 1994.",
+    "InvoiceNumber": "1994-24",
+    "LineItem": [
+        {
+            "ItemDescription": "Estimated Total cost of Project......",
+            "ItemTotal": "§24,200.00"
+        },
+        {
+            "ItemDescription": "£40 one-on-one interviews) Minus: First Installment Billed 2-14-94",
+            "ItemTotal": "12,100.00"
+        },
+        {
+            "ItemDescription": "2 no shows (one in each market) Plus:",
+            "ItemTotal": "1,000.00"
+        },
+        {
+            "ItemDescription": "Food and Shipping in New York",
+            "ItemTotal": "515.00"
+        },
+        {
+            "ItemDescription": "Food and Shipping in San Diego",
+            "ItemTotal": "31.48"
+        }
+    ],
+    "TotalAmount": "11,946.48"
+}

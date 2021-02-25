@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="83.0" fp="147.0" fn="37.0">
+    <LineItem tp="83.0" fp="147.0" fn="22.0">
+      <lineItem>
+        <ItemUnitValue>
+          <box l="800.0" t="1551.0" r="840.0" b="1581.0">30</box>
+        </ItemUnitValue>
+        <ItemDescription>
+          <box l="1012.0" t="1953.0" r="1057.0" b="1983.0">IN</box>
+          <box l="1083.0" t="1954.0" r="1175.0" b="1984.0">RATS</box>
+          <box l="1200.0" t="1955.0" r="1247.0" b="1984.0">BY</box>
+          <box l="1271.0" t="1952.0" r="1337.0" b="1981.0">A24</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1276.0" t="1905.0" r="1484.0" b="1936.0">INDUCTION</box>
+          <box l="1509.0" t="1907.0" r="1555.0" b="1936.0">OF</box>
+          <box l="1580.0" t="1906.0" r="1747.0" b="1936.0">HEPATIC</box>
+          <box l="1768.0" t="1906.0" r="2003.0" b="1935.0">MICRmzWAL</box>
+          <box l="2030.0" t="1905.0" r="2197.0" b="1937.0">EW.YMES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2246.0" t="1904.0" r="2408.0" b="1937.0">2500.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2483.0" t="1906.0" r="2644.0" b="1937.0">2500.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1012.0" t="2046.0" r="1242.0" b="2076.0">15056.401:</box>
+          <box l="1274.0" t="2047.0" r="1487.0" b="2077.0">PWCTICN</box>
+          <box l="1508.0" t="2048.0" r="1557.0" b="2075.0">OF</box>
+          <box l="1582.0" t="2046.0" r="1745.0" b="2076.0">HEPATIC</box>
+          <box l="1770.0" t="2048.0" r="2007.0" b="2077.0">KICRDSCr^'.I.</box>
+          <box l="2032.0" t="2046.0" r="2195.0" b="2075.0">ENZYMES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2249.0" t="2046.0" r="2408.0" b="2077.0">2500.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2483.0" t="2046.0" r="2645.0" b="2078.0">2500.Cl</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1016.0" t="2095.0" r="1057.0" b="2122.0">LN</box>
+          <box l="1083.0" t="2093.0" r="1174.0" b="2121.0">PATS</box>
+          <box l="1203.0" t="2093.0" r="1246.0" b="2122.0">BY</box>
+          <box l="1270.0" t="2093.0" r="1366.0" b="2123.0">A166</box>
+          <box l="1011.0" t="2187.0" r="1241.0" b="2218.0">15057.401:</box>
+          <box l="1274.0" t="2189.0" r="1485.0" b="2219.0">induction:</box>
+          <box l="1511.0" t="2190.0" r="1557.0" b="2218.0">of</box>
+          <box l="1582.0" t="2188.0" r="1747.0" b="2218.0">hepatic</box>
+          <box l="1769.0" t="2189.0" r="2006.0" b="2219.0">mecrosoal</box>
+          <box l="2031.0" t="2188.0" r="2199.0" b="2220.0">enzymee.</box>
+          <box l="1015.0" t="2235.0" r="1059.0" b="2263.0">IN</box>
+          <box l="1085.0" t="2235.0" r="1176.0" b="2263.0">RATS</box>
+          <box l="1202.0" t="2236.0" r="1247.0" b="2264.0">BY</box>
+          <box l="1273.0" t="2235.0" r="1364.0" b="2265.0">B194</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2248.0" t="2188.0" r="2410.0" b="2218.0">2500.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2485.0" t="2188.0" r="2648.0" b="2220.0">25OC.OC</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,80 @@
+{
+    "InvoiceNumber": "7202U",
+    "IssuedDate": "7 2002",
+    "LineItem": [
+        {
+            "ItemUnitCount": "4.00",
+            "ItemDescription": "T‘DUPLICrtTE(S)-1 SPOT*",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "r'DUPLlCATE(S) -1 SPOT",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29,00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "10:00 BETACAM SP CASSETTES)",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemDescription": "Z8JE-t309 :30 1“DUPLICA1E(S)-1 SPOT",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "1\"DUPLfCATE(3)-1 SPOT",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "10:00 BETACAM SP CASSETTE(S) ZBJE-1322:30",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemDescription": "1MDUPLfCATE(S]-1 SPOT",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "t“ DUPLICATE'S) -1 SPOT",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "10:00 BGTACAMSP CASSETTES",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "100.00"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemDescription": "ZBJE-1358 :30 VDUPLICATEfSblSPOr",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "58.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "1\"DUPLICATE(SJ -1 SPOT",
+            "ItemUnitValue": "14.50",
+            "ItemTotal": "29.00"
+        },
+        {
+            "ItemUnitCount": "2.00",
+            "ItemDescription": "10:00 BETACAM SPCASSETIE(S)"
+        },
+        {
+            "ItemUnitCount": "4.00",
+            "ItemDescription": "3RD"
+        }
+    ]
+}

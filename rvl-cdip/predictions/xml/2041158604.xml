@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="187.0" fp="7.0" fn="46.0">
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="772.0" t="1636.0" r="1081.0" b="1673.0">091294-02</box>
+    </InvoiceNumber>
+    <LineItem tp="170.0" fp="7.0" fn="27.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="599.0" t="2219.0" r="659.0" b="2256.0">50</box>
+          <box l="700.0" t="2219.0" r="862.0" b="2265.0">Comp,</box>
+          <box l="913.0" t="2219.0" r="1071.0" b="2257.0">Prem,</box>
+          <box l="1121.0" t="2216.0" r="1284.0" b="2257.0">Orch.</box>
+          <box l="1334.0" t="2215.0" r="1571.0" b="2257.0">tickets</box>
+          <box l="1825.0" t="2221.0" r="1883.0" b="2255.0">00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2663.0" t="2216.0" r="2688.0" b="2253.0">0</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="599.0" t="2277.0" r="658.0" b="2314.0">36</box>
+          <box l="704.0" t="2278.0" r="837.0" b="2315.0">Prem</box>
+          <box l="875.0" t="2277.0" r="1012.0" b="2315.0">Orch</box>
+          <box l="1050.0" t="2274.0" r="1292.0" b="2315.0">tickets</box>
+          <box l="1405.0" t="2275.0" r="1500.0" b="2319.0">$32</box>
+          <box l="1555.0" t="2276.0" r="1639.0" b="2321.0">(40</box>
+          <box l="1683.0" t="2276.0" r="1815.0" b="2313.0">less</box>
+          <box l="1858.0" t="2276.0" r="1953.0" b="2313.0">20%</box>
+          <box l="1996.0" t="2271.0" r="2184.0" b="2322.0">disc.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2525.0" t="2274.0" r="2684.0" b="2319.0">1,152</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="596.0" t="2335.0" r="658.0" b="2368.0">78</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="700.0" t="2335.0" r="862.0" b="2369.0">Prem.</box>
+          <box l="909.0" t="2335.0" r="1071.0" b="2369.0">Mezz,</box>
+          <box l="1124.0" t="2329.0" r="1362.0" b="2370.0">tickets</box>
+          <box l="1475.0" t="2332.0" r="1568.0" b="2376.0">$32</box>
+          <box l="1624.0" t="2334.0" r="1708.0" b="2380.0">(40</box>
+          <box l="1755.0" t="2334.0" r="1886.0" b="2371.0">less</box>
+          <box l="1928.0" t="2331.0" r="2020.0" b="2370.0">20%</box>
+          <box l="2062.0" t="2330.0" r="2258.0" b="2378.0">disc.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2521.0" t="2332.0" r="2687.0" b="2378.0">2,496</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="599.0" t="2393.0" r="658.0" b="2431.0">18</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="704.0" t="2390.0" r="837.0" b="2428.0">Pref</box>
+          <box l="875.0" t="2390.0" r="1013.0" b="2428.0">Orch</box>
+          <box l="1121.0" t="2387.0" r="1362.0" b="2429.0">tickets</box>
+          <box l="1475.0" t="2388.0" r="1570.0" b="2434.0">$28</box>
+          <box l="1625.0" t="2391.0" r="1708.0" b="2438.0">(35</box>
+          <box l="1755.0" t="2392.0" r="1886.0" b="2430.0">less</box>
+          <box l="1925.0" t="2389.0" r="2021.0" b="2429.0">20%</box>
+          <box l="2062.0" t="2387.0" r="2258.0" b="2436.0">disc.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2592.0" t="2390.0" r="2687.0" b="2428.0">504</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2345.0" t="2629.0" r="2616.0" b="2672.0">4,152.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

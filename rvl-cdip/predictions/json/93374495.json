@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "April 14, 1993",
+    "InvoiceNumber": "#L9O51)",
+    "LineItem": [
+        {
+            "ItemDescription": "F2000 FORMULA"
+        },
+        {
+            "ItemDescription": "ATLANTIC SERIES"
+        },
+        {
+            "ItemDescription": "Formula Atlantic"
+        }
+    ],
+    "TotalAmount": "$1,992.00"
+}

@@ -1,0 +1,85 @@
+{
+    "IssuedDate": "02-Aug-93",
+    "TotalAmount": "720.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$5.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SCHEDULE B T + ="
+        },
+        {
+            "ItemTotal": "$90.00",
+            "ItemUnitValue": "$7.50",
+            "ItemUnitCount": "12",
+            "ItemDescription": "SCHEDULE C 4 + 4 4- 4 ="
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$10,00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SCHEDULE D + + "
+        },
+        {
+            "ItemTotal": "$420.00",
+            "ItemUnitValue": "$35,00",
+            "ItemUnitCount": "12",
+            "ItemDescription": "OVER 2,000 4 + 4 + 4 ="
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$19.50",
+            "ItemUnitCount": "0",
+            "ItemDescription": ",000-2,000 - + K"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$10.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "OVER 2,000 4- 4 "
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$7.50",
+            "ItemUnitCount": "0",
+            "ItemDescription": "1,000-2,000 4-"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$1500",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SCHEDULE F + + ■"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$20.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SCHEDULE H 4- + ="
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "$22.50",
+            "ItemUnitCount": "0",
+            "ItemDescription": "SCHEDULE .1 +■ I = "
+        },
+        {
+            "ItemTotal": "$75.00",
+            "ItemUnitValue": "$25.00",
+            "ItemUnitCount": "3",
+            "ItemDescription": "SELF-SERVICE 1 + 1 F 1 "
+        },
+        {
+            "ItemTotal": "$9000",
+            "ItemUnitValue": "$15.00",
+            "ItemUnitCount": "6",
+            "ItemDescription": "NON SFJT SERVICE 2 -1- 2 4 2 ="
+        },
+        {
+            "ItemTotal": "$45.00",
+            "ItemUnitValue": "$15.00",
+            "ItemUnitCount": "3",
+            "ItemDescription": "SPECIAL A 1 + 1 + 1 "
+        }
+    ],
+    "InvoiceNumber": ""
+}

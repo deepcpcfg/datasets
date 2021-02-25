@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="149.0" fp="10.0" fn="35.0">
+    <LineItem tp="146.0" fp="8.0" fn="32.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="280.0" t="1364.0" r="383.0" b="1408.0">Fees</box>
+          <box l="351.0" t="1442.0" r="604.0" b="1496.0">September</box>
+          <box l="629.0" t="1442.0" r="658.0" b="1491.0">I,</box>
+          <box l="687.0" t="1442.0" r="791.0" b="1487.0">1998</box>
+          <box l="846.0" t="1442.0" r="1092.0" b="1496.0">September</box>
+          <box l="1109.0" t="1442.0" r="1180.0" b="1491.0">30.</box>
+          <box l="1209.0" t="1442.0" r="1313.0" b="1487.0">1998</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1958.0" t="1446.0" r="2041.0" b="1490.0">345</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2266.0" t="1446.0" r="2379.0" b="1492.0">$158</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2563.0" t="1446.0" r="2751.0" b="1500.0">$54,510</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="333.0" t="1754.0" r="500.0" b="1801.0">Airfare</box>
+          <box l="334.0" t="1834.0" r="532.0" b="1888.0">Lodging</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1913.0" t="1759.0" r="2037.0" b="1807.0">3,918</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="333.0" t="1913.0" r="512.0" b="1955.0">Ground</box>
+          <box l="529.0" t="1912.0" r="679.0" b="1955.0">Travel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1954.0" t="1916.0" r="2038.0" b="1959.0">854</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="334.0" t="1991.0" r="412.0" b="2033.0">Per</box>
+          <box l="429.0" t="1988.0" r="579.0" b="2034.0">Diems</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1954.0" t="1994.0" r="2029.0" b="2037.0">561</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="333.0" t="2067.0" r="512.0" b="2110.0">Courier</box>
+          <box l="529.0" t="2067.0" r="720.0" b="2122.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1983.0" t="2071.0" r="2037.0" b="2113.0">66</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="333.0" t="2147.0" r="566.0" b="2201.0">Computer</box>
+          <box l="584.0" t="2147.0" r="837.0" b="2201.0">Processing</box>
+          <box l="855.0" t="2147.0" r="1059.0" b="2201.0">Capacity</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1879.0" t="2148.0" r="2038.0" b="2201.0">20,022</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="2.0" fn="3.0">
+      <box l="2555.0" t="2543.0" r="2738.0" b="2597.0">S83,m</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

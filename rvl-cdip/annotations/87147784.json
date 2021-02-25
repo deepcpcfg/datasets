@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "901550",
+    "IssuedDate": "01-02-89",
+    "LineItem": [
+        {
+            "ItemDescription": "A193 BF30-53-1",
+            "ItemTotal": "1,300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A195 BF34—B9-1",
+            "ItemTotal": "1,300.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

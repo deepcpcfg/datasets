@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "Oct 12,1995",
+    "InvoiceNumber": "S10122",
+    "LineItem": [
+        {
+            "ItemDescription": "MH30",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "180.00"
+        },
+        {
+            "ItemDescription": "Nicotine Content",
+            "ItemUnitValue": "19.00",
+            "ItemTotal": "57.00"
+        },
+        {
+            "ItemDescription": "Reducing Sugars",
+            "ItemUnitValue": "7.00",
+            "ItemTotal": "21.00"
+        }
+    ]
+}

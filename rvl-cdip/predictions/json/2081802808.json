@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "94382",
+    "IssuedDate": "6/28/95",
+    "LineItem": [
+        {
+            "ItemDescription": "Agency fees for additional recipe development, supervision, tracking and reporting; meeting and administration!",
+            "ItemTotal": "$5,450,00"
+        }
+    ],
+    "TotalAmount": "$5,450,00"
+}

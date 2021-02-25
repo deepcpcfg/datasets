@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="85.0" fp="2.0" fn="20.0">
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="2218.0" t="787.0" r="2392.0" b="842.0">April</box>
+      <box l="2439.0" t="788.0" r="2526.0" b="841.0">30,</box>
+      <box l="2582.0" t="788.0" r="2710.0" b="830.0">1991</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2294.0" t="954.0" r="2463.0" b="996.0">212-2</box>
+    </InvoiceNumber>
+    <LineItem tp="66.0" fp="2.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="462.0" t="1496.0" r="740.0" b="1554.0">Original</box>
+          <box l="787.0" t="1499.0" r="1065.0" b="1542.0">Contract</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2543.0" t="1495.0" r="2747.0" b="1542.0">2S.375</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="462.0" t="1689.0" r="741.0" b="1744.0">Complete</box>
+          <box l="783.0" t="1691.0" r="850.0" b="1733.0">To</box>
+          <box l="891.0" t="1690.0" r="1028.0" b="1733.0">Date</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2544.0" t="1688.0" r="2743.0" b="1743.0">22,837</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="463.0" t="1751.0" r="595.0" b="1792.0">Less</box>
+          <box l="641.0" t="1751.0" r="737.0" b="1795.0">10%</box>
+          <box l="786.0" t="1751.0" r="1099.0" b="1805.0">Retainage</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2581.0" t="1750.0" r="2744.0" b="1802.0">2,283</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

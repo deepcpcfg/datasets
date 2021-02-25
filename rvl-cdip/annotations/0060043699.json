@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "86-399",
+    "IssuedDate": "June 2, 1986",
+    "TotalAmount": "9,450.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$17,500.00",
+            "ItemDescription": "TOTAL COST",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,050.00",
+            "ItemDescription": "PREVIOUSLY BILLED",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

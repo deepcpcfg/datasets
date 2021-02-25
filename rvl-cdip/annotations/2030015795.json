@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "11003761",
+    "IssuedDate": "02/18/94",
+    "TotalAmount": "1,130.00",
+    "LineItem": [
+        {
+            "ItemDescription": "NB PRESS ROLL LINE 3 2-17-94 UNIT 1824",
+            "ItemUnitCount": "10.00",
+            "ItemUnitValue": "50.00",
+            "ItemTotal": "500.00"
+        },
+        {
+            "ItemDescription": "SUPERVISOR",
+            "ItemUnitCount": "10.00",
+            "ItemUnitValue": "22.00",
+            "ItemTotal": "220.00"
+        },
+        {
+            "ItemDescription": "OPERATOR",
+            "ItemUnitCount": "20.00",
+            "ItemUnitValue": "20.50",
+            "ItemTotal": "410.00"
+        }
+    ]
+}

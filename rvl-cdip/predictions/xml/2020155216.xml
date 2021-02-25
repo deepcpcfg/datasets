@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="191.0" fp="3.0" fn="4.0">
+    <LineItem tp="170.0" fp="3.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="674.0" t="1793.0" r="917.0" b="1838.0">CONDUCT</box>
+          <box l="967.0" t="1793.0" r="1345.0" b="1837.0">DEVELOPMENT</box>
+          <box l="1396.0" t="1793.0" r="1522.0" b="1835.0">EFF¬</box>
+          <box l="674.0" t="1855.0" r="807.0" b="1897.0">ORTS</box>
+          <box l="853.0" t="1853.0" r="1166.0" b="1897.0">NECESSARY</box>
+          <box l="1213.0" t="1854.0" r="1277.0" b="1896.0">TO</box>
+          <box l="1324.0" t="1852.0" r="1566.0" b="1896.0">PRODUCE</box>
+          <box l="677.0" t="1914.0" r="773.0" b="1956.0">100</box>
+          <box l="820.0" t="1915.0" r="1166.0" b="1959.0">PROTOTYPES</box>
+          <box l="1216.0" t="1914.0" r="1566.0" b="1959.0">ELECTRONIC</box>
+          <box l="677.0" t="1975.0" r="919.0" b="2019.0">CONTROL</box>
+          <box l="965.0" t="1974.0" r="1237.0" b="2017.0">PACKAGES</box>
+          <box l="1290.0" t="1975.0" r="1344.0" b="2018.0">IN</box>
+          <box l="673.0" t="2038.0" r="1023.0" b="2082.0">ACCORDANCE</box>
+          <box l="1069.0" t="2038.0" r="1202.0" b="2079.0">WITH</box>
+          <box l="1249.0" t="2038.0" r="1344.0" b="2080.0">THE</box>
+          <box l="1395.0" t="2037.0" r="1567.0" b="2080.0">TERNS</box>
+          <box l="675.0" t="2101.0" r="734.0" b="2142.0">OF</box>
+          <box l="781.0" t="2098.0" r="877.0" b="2140.0">THE</box>
+          <box l="930.0" t="2099.0" r="1022.0" b="2141.0">PHX</box>
+          <box l="1072.0" t="2097.0" r="1386.0" b="2141.0">AGREEMENT</box>
+          <box l="676.0" t="2160.0" r="843.0" b="2202.0">DATED</box>
+          <box l="893.0" t="2161.0" r="1059.0" b="2201.0">APRIL</box>
+          <box l="1105.0" t="2159.0" r="1349.0" b="2209.0">23,1990</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="795.0" t="2465.0" r="1133.0" b="2515.0">,250.00/M0</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2057.0" t="1285.0" r="2224.0" b="1328.0">AP521</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2641.0" t="1279.0" r="2891.0" b="1324.0">8-17-90</box>
+    </IssuedDate>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2679.0" t="1790.0" r="3000.0" b="1840.0">86,250.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

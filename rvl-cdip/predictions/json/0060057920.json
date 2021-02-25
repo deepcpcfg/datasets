@@ -1,0 +1,18 @@
+{
+    "TotalAmount": "860-8800",
+    "InvoiceNumber": "18411",
+    "IssuedDate": "ATE 08/31/89",
+    "LineItem": [
+        {
+            "ItemUnitCount": "00",
+            "ItemDescription": "COPIES (44-WRRNING (SA-WARNING",
+            "ItemUnitValue": "355.000",
+            "ItemTotal": "$20,400.00"
+        },
+        {
+            "ItemUnitCount": "4",
+            "ItemDescription": "OVERRUN",
+            "ItemTotal": "1,420.00"
+        }
+    ]
+}

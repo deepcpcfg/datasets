@@ -1,0 +1,21 @@
+{
+    "InvoiceNumber": "05-144",
+    "IssuedDate": "May 2, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "represents following"
+        },
+        {
+            "ItemDescription": "to BDS"
+        },
+        {
+            "ItemDescription": "Samplers 30 hrs 12.00",
+            "ItemTotal": "$360.00"
+        },
+        {
+            "ItemDescription": "Security 6 hrs",
+            "ItemTotal": "96"
+        }
+    ],
+    "TotalAmount": "$456.00"
+}

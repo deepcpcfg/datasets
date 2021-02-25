@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "OS-151",
+    "IssuedDate": "May 2, 1909",
+    "LineItem": [
+        {
+            "ItemDescription": "36 hours Labor I1 12.00 per hour",
+            "ItemTotal": "432.00"
+        },
+        {
+            "ItemDescription": "20 Security\" 16.00",
+            "ItemTotal": "320.00"
+        }
+    ],
+    "TotalAmount": "$752.00"
+}

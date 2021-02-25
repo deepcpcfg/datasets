@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "212-5",
+    "IssuedDate": "10-31-91",
+    "LineItem": [
+        {
+            "ItemDescription": "Billing for retainage held on Line #5 Stem Feeder in Blending at Park 500.",
+            "ItemTotal": "3,019 63",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

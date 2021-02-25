@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "75 Jun 27 ",
+    "InvoiceNumber": "6. M33",
+    "TotalAmount": "26,695.00",
+    "LineItem": [
+        {
+            "ItemDescription": "RESEARCH STUDIES ON CIGARETTE CHARACTERISTICS",
+            "ItemTotal": "26,695.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "5910",
+    "IssuedDate": "May 31, 1994",
+    "TotalAmount": "13,636.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Fees Base rate for services of HBI-USA",
+            "ItemTotal": "$ 8,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Base rate for services of HBI-International offices ",
+            "ItemTotal": "2,400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Consulting in excess of base rate for HBI-IBA at $150/hour 0 hours at $150/hour",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Consulting in excess of base rate for HBI-Intl at $125/hour 0 hours at $125/hour ",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses For the translation into French and Flemish of the reports on air quality in bars and restaurants as per attached invoice. The translations were completed by Peter Whippy's Canpany, R06AD Corman i eat ions",
+            "ItemTotal": "$ 3,236.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

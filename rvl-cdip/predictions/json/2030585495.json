@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "0808437014",
+    "IssuedDate": "07/31/87",
+    "LineItem": [
+        {
+            "ItemDescription": "6QN SELF PROPELLED"
+        },
+        {
+            "ItemDescription": "AERIAL PLATFORM W/180 ROTATING PLATFORM",
+            "ItemTotal": "64,662.00"
+        },
+        {
+            "ItemDescription": "FREIGHT AND DELIVERY",
+            "ItemTotal": "2,200.00"
+        }
+    ],
+    "TotalAmount": "66,862.00"
+}

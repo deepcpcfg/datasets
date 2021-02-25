@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "13,932.50",
+    "LineItem": [
+        {
+            "ItemTotal": "13.932.50",
+            "ItemDescription": "Non-Caned eeiun*ble Chargee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0,00",
+            "ItemDescription": "Gonad saionable Charges ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Agency Comiaaion",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

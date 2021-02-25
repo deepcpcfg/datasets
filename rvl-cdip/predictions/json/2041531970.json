@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "March 2. 1994",
+    "InvoiceNumber": "11835",
+    "LineItem": [
+        {
+            "ItemDescription": "SERVICE",
+            "ItemTotal": "$0"
+        },
+        {
+            "ItemDescription": "OPCs (OUT OF POCKET COSTS)",
+            "ItemTotal": "553"
+        }
+    ],
+    "TotalAmount": "531.171"
+}

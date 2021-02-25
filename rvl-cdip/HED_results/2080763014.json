@@ -1,0 +1,240 @@
+[
+    {
+        "TotalAmount": [
+            "6,653.57",
+            {
+                "tp": 4.0,
+                "fp": 4.0,
+                "fn": 4.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "24>000",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "116.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2,788.B0",
+                            {
+                                "tp": 2.0,
+                                "fp": 6.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Collector's Choice Vista Series 12M?",
+                            {
+                                "tp": 32.0,
+                                "fp": 4.0,
+                                "fn": 22.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 34.0,
+                        "fp": 22.0,
+                        "fn": 26.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "-48.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LESS HANDING ALLOWANCE",
+                            {
+                                "tp": 0.0,
+                                "fp": 22.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 28.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "241000",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "116.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2,788.90",
+                            {
+                                "tp": 2.0,
+                                "fp": 6.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Collector's Series Choice Skyline",
+                            {
+                                "tp": 26.0,
+                                "fp": 7.0,
+                                "fn": 29.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 28.0,
+                        "fp": 25.0,
+                        "fn": 33.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "48.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "less handing allowance",
+                            {
+                                "tp": 0.0,
+                                "fp": 22.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 27.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "12}000",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "116.20",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "1,394.40",
+                            {
+                                "tp": 3.0,
+                                "fp": 5.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Collector' s Choice Medley",
+                            {
+                                "tp": 24.0,
+                                "fp": 2.0,
+                                "fn": 31.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 14.0,
+                        "fn": 35.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "24.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LESS BANDING ALLOWANCE",
+                            {
+                                "tp": 0.0,
+                                "fp": 22.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 27.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 94.0,
+                "fp": 143.0,
+                "fn": 94.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 98.0,
+        "fp": 147.0,
+        "fn": 98.0
+    }
+]

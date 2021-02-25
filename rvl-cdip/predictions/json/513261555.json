@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "DATE; 3/21/91",
+    "InvoiceNumber": "63001",
+    "LineItem": [
+        {
+            "ItemDescription": "Supervision",
+            "ItemTotal": "$194.00"
+        },
+        {
+            "ItemDescription": "Printing",
+            "ItemTotal": "$3,361.25"
+        }
+    ],
+    "TotalAmount": "1550"
+}

@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "376685",
+    "IssuedDate": "February 15, 1996",
+    "TotalAmount": "21.10",
+    "LineItem": [
+        {
+            "ItemDescription": "Mileage",
+            "ItemTotal": "3.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Parking",
+            "ItemTotal": "3.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MCPS Messenger Services",
+            "ItemTotal": "2.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Faxes",
+            "ItemTotal": "13.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

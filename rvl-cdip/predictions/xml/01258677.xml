@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="64.0" fp="54.0" fn="118.0">
+    <LineItem tp="64.0" fp="54.0" fn="118.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1106.0" t="1648.0" r="1381.0" b="1698.0">Technical</box>
+          <box l="1426.0" t="1649.0" r="1614.0" b="1698.0">review</box>
+          <box l="1647.0" t="1650.0" r="1709.0" b="1699.0">of</box>
+          <box l="1743.0" t="1654.0" r="1835.0" b="1699.0">New</box>
+          <box l="1872.0" t="1650.0" r="1996.0" b="1699.0">York</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2385.0" t="1647.0" r="2606.0" b="1706.0">$100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1106.0" t="1715.0" r="1418.0" b="1770.0">University</box>
+          <box l="1456.0" t="1716.0" r="1668.0" b="1762.0">Medical</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1106.0" t="1779.0" r="1347.0" b="1836.0">Proposal</box>
+          <box l="1393.0" t="1779.0" r="1484.0" b="1828.0">for</box>
+          <box l="1522.0" t="1780.0" r="1731.0" b="1826.0">Renewal</box>
+          <box l="1776.0" t="1783.0" r="1838.0" b="1829.0">of</box>
+          <box l="1872.0" t="1783.0" r="2125.0" b="1829.0">Contract</box>
+          <box l="1106.0" t="1842.0" r="1188.0" b="1890.0">N01</box>
+          <box l="1235.0" t="1845.0" r="1292.0" b="1890.0">CP</box>
+          <box l="1331.0" t="1845.0" r="1475.0" b="1891.0">33241</box>
+          <box l="1518.0" t="1856.0" r="1575.0" b="1891.0">on</box>
+          <box l="1621.0" t="1845.0" r="2121.0" b="1901.0">"Tumor-Promoting</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

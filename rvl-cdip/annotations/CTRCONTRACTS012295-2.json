@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "CTR- 2222-13",
+    "IssuedDate": "5|1|74",
+    "TotalAmount": "26,512.30",
+    "LineItem": [
+        {
+            "ItemDescription": "This voucher represents reiohurfieable costa period March, 23, 197^ thru April 19, 197U",
+            "ItemTotal": "24,210.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fixed. Fee",
+            "ItemTotal": "2,302.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

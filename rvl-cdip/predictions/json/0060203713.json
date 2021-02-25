@@ -1,0 +1,35 @@
+{
+    "IssuedDate": "February 19, 1993",
+    "InvoiceNumber": "#02-0130",
+    "LineItem": [
+        {
+            "ItemDescription": "'Data Entry- Tar Wars Bounceback Requests (21,498 pcs. S47O.6O/M)",
+            "ItemTotal": "$10,116.96"
+        },
+        {
+            "ItemDescription": "'Data Entry Redemption Coupons (193.039 pcs. $47.06/M)",
+            "ItemTotal": "9.084.42"
+        },
+        {
+            "ItemDescription": "‘Data Entry Redemption Ooubons (153,535 PCs $47.06/M)",
+            "ItemTotal": "7,225.36"
+        },
+        {
+            "ItemDescription": "‘Programming for data Entry",
+            "ItemTotal": "352.95"
+        },
+        {
+            "ItemDescription": "'Nixie/Promo Cede Reports",
+            "ItemTotal": "294.13"
+        },
+        {
+            "ItemDescription": "Management foe covering supervision of data entry and reoorting D. Smote n (27,25. hrs.)",
+            "ItemTotal": "3,762,85"
+        },
+        {
+            "ItemDescription": "L. 'Wise,",
+            "ItemTotal": "796.97"
+        }
+    ],
+    "TotalAmount": "(24,634.05)"
+}

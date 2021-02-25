@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "13893",
+    "IssuedDate": "1/23/98",
+    "TotalAmount": "309.30",
+    "LineItem": [
+        {
+            "ItemDescription": "One Condensed Copy",
+            "ItemTotal": "216 .00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Exhibit Copies",
+            "ItemTotal": "3 .30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copy of Video Tapes",
+            "ItemTotal": "75.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemTotal": "15 .00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

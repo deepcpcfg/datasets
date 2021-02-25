@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "October 25/1993",
+            {
+                "tp": 14.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "2,300.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Creative, Account Management",
+                            {
+                                "tp": 28.0,
+                                "fp": 0.0,
+                                "fn": 23.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 1.0,
+                        "fn": 25.0
+                    }
+                ]
+            ],
+            {
+                "tp": 35.0,
+                "fp": 1.0,
+                "fn": 25.0
+            }
+        ],
+        "InvoiceNumber": [
+            "AM7915/A",
+            {
+                "tp": 3.0,
+                "fp": 5.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 52.0,
+        "fp": 7.0,
+        "fn": 28.0
+    }
+]

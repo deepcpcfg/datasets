@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "021346",
+    "IssuedDate": "February 27,2001",
+    "TotalAmount": "3,26250",
+    "LineItem": [
+        {
+            "ItemDescription": "Mark WiLcox/Vice President @ 5225",
+            "ItemUnitCount": "1450",
+            "ItemTotal": "$3,262.50",
+            "ItemUnitValue": ""
+        }
+    ]
+}

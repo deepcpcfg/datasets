@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="71.0" fp="27.0" fn="293.0">
+    <InvoiceNumber tp="5.0" fp="1.0" fn="1.0">
+      <box l="2505.0" t="971.0" r="2693.0" b="1017.0">MQ0085</box>
+    </InvoiceNumber>
+    <IssuedDate tp="12.0" fp="5.0" fn="0.0">
+      <box l="2351.0" t="1088.0" r="2454.0" b="1121.0">DATE</box>
+      <box l="2509.0" t="1101.0" r="2600.0" b="1154.0">Sep</box>
+      <box l="2638.0" t="1102.0" r="2721.0" b="1151.0">30,</box>
+      <box l="2768.0" t="1105.0" r="2879.0" b="1146.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="46.0" fp="21.0" fn="292.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="509.0" t="1914.0" r="691.0" b="1963.0">40,072</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="730.0" t="1913.0" r="823.0" b="1955.0">SEX</box>
+          <box l="925.0" t="1917.0" r="1041.0" b="1959.0">6.14</box>
+          <box l="1080.0" t="1917.0" r="1172.0" b="1959.0">SEE</box>
+          <box l="1272.0" t="1917.0" r="1321.0" b="1963.0">$1</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2633.0" t="1930.0" r="2879.0" b="1979.0">6,526.38</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1930.0" t="2114.0" r="2208.0" b="2167.0">September</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="512.0" t="2234.0" r="691.0" b="2280.0">16,245</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="729.0" t="2232.0" r="824.0" b="2276.0">SEK</box>
+          <box l="921.0" t="2235.0" r="1038.0" b="2279.0">6.14</box>
+          <box l="1076.0" t="2234.0" r="1171.0" b="2277.0">SEK</box>
+          <box l="1267.0" t="2235.0" r="1322.0" b="2283.0">$1</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2630.0" t="2247.0" r="2876.0" b="2301.0">2,645.76</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2626.0" t="2376.0" r="2875.0" b="2422.0">9,172.14</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

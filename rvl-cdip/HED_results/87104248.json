@@ -1,0 +1,216 @@
+[
+    {
+        "TotalAmount": [
+            "7500.00",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "ENZYMES IN RATS",
+                            {
+                                "tp": 0.0,
+                                "fp": 15.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 15.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "2500.0",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2500.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INDUCTION OF HEPATIC MICROSOMAL BY A48",
+                            {
+                                "tp": 38.0,
+                                "fp": 0.0,
+                                "fn": 27.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 50.0,
+                        "fp": 1.0,
+                        "fn": 28.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "2500.0",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2500.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INDUCTION OF HEPATIC MICROSOMAL",
+                            {
+                                "tp": 31.0,
+                                "fp": 0.0,
+                                "fn": 35.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 43.0,
+                        "fp": 1.0,
+                        "fn": 36.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "ENZYMES IN RATS BY A102",
+                            {
+                                "tp": 0.0,
+                                "fp": 23.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 23.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitValue": [
+                            "2500.0",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "2500.00",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INDUCTION OF HEPATIC MICROSOMAL",
+                            {
+                                "tp": 31.0,
+                                "fp": 0.0,
+                                "fn": 35.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 43.0,
+                        "fp": 1.0,
+                        "fn": 36.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "ENZYMES IN RATS BY AL05",
+                            {
+                                "tp": 0.0,
+                                "fp": 23.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 23.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 136.0,
+                "fp": 64.0,
+                "fn": 100.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1667039",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ]
+    },
+    {
+        "tp": 150.0,
+        "fp": 64.0,
+        "fn": 107.0
+    }
+]

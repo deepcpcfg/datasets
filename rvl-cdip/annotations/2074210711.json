@@ -1,0 +1,67 @@
+{
+    "IssuedDate": "03/30/96",
+    "TotalAmount": "129,394.03",
+    "LineItem": [
+        {
+            "ItemDescription": "Image Archive Server",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$12693.00",
+            "ItemTotal": "$12,693.00"
+        },
+        {
+            "ItemDescription": "^^gltal Link Server Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$19995.00",
+            "ItemTotal": "$19,995.00"
+        },
+        {
+            "ItemDescription": "Digital Link Phot© Editor Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$7000.00",
+            "ItemTotal": "57,000,00"
+        },
+        {
+            "ItemDescription": "Digital Link image Archivist w/ ISO Author Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$3750.00",
+            "ItemTotal": "$3,750.00"
+        },
+        {
+            "ItemDescription": "External 5-8ay, SCSI-Connected, 12GB-RAID",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$13287.00",
+            "ItemTotal": "513,287.00"
+        },
+        {
+            "ItemDescription": "Pioneer DRM 500 CD Jukebox",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "$16902.00",
+            "ItemTotal": "$33,804.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Digital Link Storage Manager Software",
+            "ItemUnitValue": "$4995.00",
+            "ItemTotal": "$4,995.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Digital Link image Database (Eight-seat)",
+            "ItemUnitValue": "$9995.00",
+            "ItemTotal": "$9,995.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Digital Link Workstation",
+            "ItemUnitValue": "$6737.00",
+            "ItemTotal": "$6,737.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Digital Link Photo Editor Software",
+            "ItemUnitValue": "$7000.00",
+            "ItemTotal": "$7,000.00"
+        }
+    ],
+    "InvoiceNumber": ""
+}

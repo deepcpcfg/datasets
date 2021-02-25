@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "4371900 ",
+    "IssuedDate": "11/09/92",
+    "TotalAmount": "15.777.95",
+    "LineItem": [
+        {
+            "ItemTotal": "16.562.30",
+            "ItemDescription": "1 PAGE 4C BLD IX",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.484.35-",
+            "ItemDescription": "AGENCY DISCOUNT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1.700.00",
+            "ItemDescription": "•SPLIT RUN - 2 WAY",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

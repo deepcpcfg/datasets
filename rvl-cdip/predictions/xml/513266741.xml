@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="63.0" fp="29.0" fn="49.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2660.0" t="351.0" r="2923.0" b="392.0">05-164B</box>
+    </InvoiceNumber>
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="550.0" t="1362.0" r="658.0" b="1401.0">MAY</box>
+      <box l="709.0" t="1362.0" r="804.0" b="1407.0">22,</box>
+      <box l="862.0" t="1361.0" r="1000.0" b="1402.0">1990</box>
+    </IssuedDate>
+    <LineItem tp="36.0" fp="28.0" fn="49.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="932.0" t="2312.0" r="1194.0" b="2353.0">VEHICLE</box>
+          <box l="1240.0" t="2313.0" r="1461.0" b="2352.0">RENTAL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2391.0" t="2311.0" r="2608.0" b="2355.0">350.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="932.0" t="2378.0" r="1040.0" b="2415.0">GAS</box>
+          <box l="932.0" t="2440.0" r="1271.0" b="2478.0">WAREHOUSE</box>
+          <box l="933.0" t="2502.0" r="1308.0" b="2541.0">OVERNIGHTS</box>
+          <box l="928.0" t="2564.0" r="1423.0" b="2604.0">MISCELLANEOUS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2391.0" t="2500.0" r="2611.0" b="2544.0">253.95</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2272.0" t="2812.0" r="2608.0" b="2865.0">$3,068.01</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

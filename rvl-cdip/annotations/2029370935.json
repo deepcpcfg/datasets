@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "158311",
+    "IssuedDate": "04/16/92",
+    "TotalAmount": "291.60",
+    "LineItem": [
+        {
+            "ItemDescription": "Secretarial overtime in coenuction vlth inputting attendee1e list for HBI Seattle tour",
+            "ItemTotal": "18.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Secretarial overtine In connection vlth editing* copying* feeing and Bailing HBI nodia tours inforBation",
+            "ItemTotal": "54.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Secretarial overtiae in connection elth HBI calls",
+            "ItemTotal": "180.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Secretarial overtiae in connection elth entering HBI nedia tour list",
+            "ItemTotal": "36.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photocopies of necessary eaterials - St Leals",
+            "ItemTotal": "3.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

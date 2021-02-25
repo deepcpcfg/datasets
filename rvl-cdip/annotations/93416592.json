@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "CCC94-114",
+    "IssuedDate": "10/26/94",
+    "TotalAmount": "142,600",
+    "LineItem": [
+        {
+            "ItemTotal": "34,000",
+            "ItemDescription": "Newspaper ad.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "42,000",
+            "ItemDescription": "Magazine",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "33,600",
+            "ItemDescription": "TVCF",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

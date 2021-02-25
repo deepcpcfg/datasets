@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="69.0" fp="4.0" fn="4.0">
+    <IssuedDate tp="13.0" fp="2.0" fn="1.0">
+      <box l="946.0" t="1441.0" r="1121.0" b="1495.0">August</box>
+      <box l="1159.0" t="1444.0" r="1205.0" b="1494.0">1,</box>
+      <box l="1246.0" t="1443.0" r="1357.0" b="1484.0">198H-</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="1363.0" t="2150.0" r="1530.0" b="2193.0">1560-3</box>
+    </InvoiceNumber>
+    <LineItem tp="50.0" fp="2.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="948.0" t="2449.0" r="1119.0" b="2503.0">14-Day</box>
+          <box l="1151.0" t="2448.0" r="1385.0" b="2494.0">Subacure</box>
+          <box l="1418.0" t="2450.0" r="1648.0" b="2504.0">Toxicity</box>
+          <box l="1686.0" t="2449.0" r="1736.0" b="2492.0">in</box>
+          <box l="1773.0" t="2449.0" r="1882.0" b="2494.0">Rats</box>
+          <box l="1918.0" t="2449.0" r="2026.0" b="2494.0">with</box>
+          <box l="2064.0" t="2450.0" r="2207.0" b="2494.0">B-127</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2715.0" t="2453.0" r="2739.0" b="2498.0">5</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2807.0" t="2452.0" r="3040.0" b="2504.0">2,050.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

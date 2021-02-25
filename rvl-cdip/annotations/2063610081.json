@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "June 30, 1997",
+    "InvoiceNumber": "9004",
+    "TotalAmount": "2, 281.80",
+    "LineItem": [
+        {
+            "ItemDescription": "Fee",
+            "ItemTotal": "1,875.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Disbursements and other charges posted through May 31, 1997: Billed to and paid by PM $ 19,680.00 Paid Peter Lee 20,086.8",
+            "ItemTotal": "406.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

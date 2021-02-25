@@ -1,0 +1,67 @@
+{
+    "InvoiceNumber": "194-0021",
+    "IssuedDate": "07/18/94",
+    "TotalAmount": "4,062.01",
+    "LineItem": [
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20",
+            "ItemDescription": "12M"
+        },
+        {
+            "ItemUnitCount": "4",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,685.60",
+            "ItemDescription": "12M"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20",
+            "ItemDescription": "12M"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20",
+            "ItemDescription": "12M"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20",
+            "ItemDescription": "12M"
+        },
+        {
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "671.4000",
+            "ItemTotal": "2,014.20",
+            "ItemDescription": "12M"
+        },
+        {
+            "ItemTotal": "6,376.3-",
+            "ItemDescription": "LESS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "207.29-",
+            "ItemDescription": "LESS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "207.29-",
+            "ItemDescription": "LESS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,963.72",
+            "ItemDescription": "EFT DISCOUNTABLE AMOUNT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

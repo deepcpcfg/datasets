@@ -1,0 +1,49 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "-SALT(MORE SUN",
+            "ItemTotal": "5*244.97"
+        },
+        {
+            "ItemDescription": "GLOBE",
+            "ItemTotal": "8*217.25"
+        },
+        {
+            "ItemDescription": "TRIBUNE",
+            "ItemTotal": "12.766.56"
+        },
+        {
+            "ItemDescription": "‘DETROIT FREE PRESS",
+            "ItemUnitCount": "210",
+            "ItemTotal": "8.538.98"
+        },
+        {
+            "ItemDescription": "Ja^TRaiT NEWS",
+            "ItemUnitCount": "1",
+            "ItemTotal": "12*344.45"
+        },
+        {
+            "ItemDescription": "AkG^LES HERALD EXAM324",
+            "ItemTotal": "5*357.22"
+        },
+        {
+            "ItemDescription": "K£qr-^ANGELES DAILY NEWS",
+            "ItemUnitValue": "3,059.70",
+            "ItemTotal": "2,600.75"
+        },
+        {
+            "ItemDescription": "rq«K NEWS CCS",
+            "ItemUnitCount": "420",
+            "ItemTotal": "932.37"
+        },
+        {
+            "ItemDescription": "A INQUIRER",
+            "ItemTotal": "14.007.66"
+        },
+        {
+            "ItemDescription": "'WAi.Hi'NGTON POST",
+            "ItemTotal": "10*316.03"
+        }
+    ],
+    "TotalAmount": "108*965.70"
+}

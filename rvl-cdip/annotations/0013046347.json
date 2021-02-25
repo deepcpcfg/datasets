@@ -1,0 +1,85 @@
+{
+    "IssuedDate": "Dec. 10r 1990",
+    "TotalAmount": "5,301.25",
+    "LineItem": [
+        {
+            "ItemTotal": "779.20",
+            "ItemDescription": "Duplicating",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "852.53",
+            "ItemDescription": "Catering services (ingredients \"fire-safe*1 meetings)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "150.79",
+            "ItemDescription": "Mail/messenger service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "153.23",
+            "ItemDescription": "Long distance telephone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "288.82",
+            "ItemDescription": "Telecommunications service",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "22.00",
+            "ItemDescription": "Local transportation",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "617.36",
+            "ItemDescription": "Computer research charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$3413.00",
+            "ItemDescription": "Air",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1311.95",
+            "ItemDescription": "Lodging",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "261.63",
+            "ItemDescription": "Meals",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "39.07",
+            "ItemDescription": "Telephone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "186.00",
+            "ItemDescription": "Cabs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "89.60",
+            "ItemDescription": "Miscellaneous",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

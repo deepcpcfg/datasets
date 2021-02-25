@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "36899",
+    "IssuedDate": "12/17/88",
+    "LineItem": [
+        {
+            "ItemUnitCount": "2",
+            "ItemDescription": "B5 CG DT DV FR JP LA NY SR",
+            "ItemUnitValue": "28,585.07",
+            "ItemTotal": "24,297.31"
+        },
+        {
+            "ItemDescription": "DE 0 iDER NJ."
+        }
+    ],
+    "TotalAmount": "24,297.31"
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "G-1678",
+    "IssuedDate": "4/18/91",
+    "TotalAmount": "34,038.50",
+    "LineItem": [
+        {
+            "ItemDescription": "Jan, 1, 1991 - March 31",
+            "ItemTotal": "$17,019.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "April 1, 1991 - June 30",
+            "ItemTotal": "17,019.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

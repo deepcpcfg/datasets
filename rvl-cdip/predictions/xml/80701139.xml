@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="40.0" fp="28.0" fn="28.0">
+    <LineItem tp="40.0" fp="28.0" fn="28.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="666.0" t="2071.0" r="912.0" b="2121.0">QUEENS♦</box>
+          <box l="966.0" t="2072.0" r="1070.0" b="2117.0">NEW</box>
+          <box l="1117.0" t="2074.0" r="1256.0" b="2117.0">YORK</box>
+          <box l="666.0" t="2195.0" r="958.0" b="2238.0">NORTHERN</box>
+          <box l="1005.0" t="2196.0" r="1176.0" b="2242.0">BLVD*</box>
+          <box l="1305.0" t="2196.0" r="1595.0" b="2242.0">BROOKLYN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1113.0" t="3751.0" r="1183.0" b="3793.0">16</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1642.0" t="2198.0" r="1855.0" b="2242.0">QUEENS</box>
+          <box l="1905.0" t="2200.0" r="2113.0" b="2242.0">EXPWY.</box>
+          <box l="2163.0" t="2189.0" r="2267.0" b="2249.0">F/W</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2542.0" t="2200.0" r="2867.0" b="2250.0">S31000*00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

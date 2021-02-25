@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "365",
+    "IssuedDate": "7/5/02",
+    "LineItem": [
+        {
+            "ItemDescription": "Website Hosting July",
+            "ItemTotal": "200"
+        },
+        {
+            "ItemDescription": "Website Reporting June",
+            "ItemTotal": "100.00"
+        }
+    ],
+    "TotalAmount": "$300.00"
+}

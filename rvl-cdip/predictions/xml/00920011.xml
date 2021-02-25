@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="32.0" fn="4.0">
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="497.0" t="860.0" r="643.0" b="920.0">April</box>
+      <box l="690.0" t="860.0" r="777.0" b="917.0">24,</box>
+      <box l="818.0" t="861.0" r="939.0" b="908.0">1984</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="945.0" t="1629.0" r="1127.0" b="1675.0">1588-1</box>
+    </InvoiceNumber>
+    <LineItem tp="58.0" fp="32.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="497.0" t="1947.0" r="909.0" b="2004.0">Range-Finding</box>
+          <box l="946.0" t="1946.0" r="1099.0" b="2003.0">Study</box>
+          <box l="1138.0" t="1945.0" r="1197.0" b="1995.0">in</box>
+          <box l="1232.0" t="1948.0" r="1350.0" b="1994.0">Rats</box>
+          <box l="1395.0" t="1943.0" r="1579.0" b="2000.0">(Phase</box>
+          <box l="1617.0" t="1946.0" r="1636.0" b="1993.0">I</box>
+          <box l="1745.0" t="1941.0" r="1825.0" b="2001.0">II)</box>
+          <box l="1866.0" t="1947.0" r="1987.0" b="1994.0">with</box>
+          <box l="2025.0" t="1946.0" r="2177.0" b="2001.0">A-92,</box>
+          <box l="494.0" t="2008.0" r="655.0" b="2057.0">A-146</box>
+          <box l="690.0" t="2010.0" r="780.0" b="2056.0">and</box>
+          <box l="815.0" t="2009.0" r="972.0" b="2058.0">B-167</box>
+          <box l="1009.0" t="2003.0" r="1450.0" b="2071.0">@$1,500.00/cpd</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2440.0" t="1946.0" r="2689.0" b="2001.0">4,500.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

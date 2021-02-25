@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "02-0208 ",
+    "IssuedDate": "February 17, 1954",
+    "TotalAmount": "1,602.25",
+    "LineItem": [
+        {
+            "ItemTotal": "31,764.75",
+            "ItemDescription": "Selection, nthfng and galley ana laps output of of specific records",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "37.50",
+            "ItemDescription": "Freight",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

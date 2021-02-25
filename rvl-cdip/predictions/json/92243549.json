@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "7120002350",
+    "IssuedDate": "04/30/87",
+    "LineItem": [
+        {
+            "ItemDescription": "712OOO235Q",
+            "ItemTotal": "19,977.18"
+        },
+        {
+            "ItemDescription": "CONTRACT",
+            "ItemTotal": "1075.00"
+        }
+    ],
+    "TotalAmount": "52,319*63"
+}

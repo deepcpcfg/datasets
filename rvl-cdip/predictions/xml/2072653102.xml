@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="173.0" fp="56.0" fn="52.0">
+    <LineItem tp="173.0" fp="47.0" fn="52.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="445.0" t="1539.0" r="604.0" b="1580.0">URAF1</box>
+          <box l="649.0" t="1539.0" r="845.0" b="1581.0">ROYALE</box>
+          <box l="886.0" t="1540.0" r="945.0" b="1582.0">KS</box>
+          <box l="987.0" t="1539.0" r="1179.0" b="1581.0">LIGHTS</box>
+          <box l="649.0" t="1584.0" r="808.0" b="1621.0">COST.</box>
+          <box l="854.0" t="1583.0" r="945.0" b="1620.0">UPC</box>
+          <box l="991.0" t="1581.0" r="1349.0" b="1622.0">11141-93508</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1799.0" t="1518.0" r="2044.0" b="1578.0">1156'000</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2445.0" t="1537.0" r="2704.0" b="1578.0">3,471-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="516.0" t="1627.0" r="608.0" b="1664.0">AHI</box>
+          <box l="649.0" t="1627.0" r="848.0" b="1664.0">RQYALE</box>
+          <box l="887.0" t="1627.0" r="949.0" b="1664.0">KS</box>
+          <box l="988.0" t="1626.0" r="1183.0" b="1664.0">LIGHTS</box>
+          <box l="1220.0" t="1627.0" r="1316.0" b="1663.0">MEN</box>
+          <box l="648.0" t="1668.0" r="807.0" b="1710.0">GUST.</box>
+          <box l="849.0" t="1668.0" r="945.0" b="1710.0">UPC</box>
+          <box l="991.0" t="1668.0" r="1349.0" b="1710.0">11141-98509</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2153.0" t="1620.0" r="2315.0" b="1662.0">22.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2449.0" t="1620.0" r="2708.0" b="1663.0">2,136-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="515.0" t="1713.0" r="544.0" b="1751.0">A</box>
+          <box l="548.0" t="1714.0" r="607.0" b="1752.0">JI</box>
+          <box l="648.0" t="1713.0" r="845.0" b="1752.0">ROYALE</box>
+          <box l="891.0" t="1714.0" r="1015.0" b="1752.0">100S</box>
+          <box l="1054.0" t="1710.0" r="1249.0" b="1752.0">LIGHTS</box>
+          <box l="649.0" t="1756.0" r="811.0" b="1793.0">COST.</box>
+          <box l="853.0" t="1756.0" r="948.0" b="1793.0">UPC</box>
+          <box l="991.0" t="1753.0" r="1349.0" b="1794.0">11141-98510</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1819.0" t="1708.0" r="1911.0" b="1748.0">156</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2449.0" t="1708.0" r="2707.0" b="1749.0">3,666.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="653.0" t="1797.0" r="847.0" b="1838.0">ROYALE</box>
+          <box l="887.0" t="1797.0" r="1015.0" b="1838.0">10OS</box>
+          <box l="1053.0" t="1797.0" r="1248.0" b="1839.0">LIGHTS</box>
+          <box l="1287.0" t="1797.0" r="1383.0" b="1835.0">MEN</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2450.0" t="1791.0" r="2711.0" b="1837.0">1,974.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="854.0" t="1842.0" r="948.0" b="1881.0">UPC</box>
+          <box l="992.0" t="1841.0" r="1345.0" b="1881.0">11141-985L1</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="9.0" fn="0.0">
+      <box l="2450.0" t="3751.0" r="2737.0" b="3793.0">11,022.06</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

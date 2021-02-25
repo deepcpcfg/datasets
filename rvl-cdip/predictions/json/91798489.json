@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "May 22, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "Postage for 40,000 pieces",
+            "ItemUnitCount": ".167",
+            "ItemTotal": "6,680."
+        },
+        {
+            "ItemDescription": "1/2 x 11",
+            "ItemTotal": "13,440."
+        },
+        {
+            "ItemDescription": "Prop 65 sign (generic) Prop 65 sign (tobacco)",
+            "ItemUnitValue": ".049",
+            "ItemTotal": "15,680."
+        },
+        {
+            "ItemDescription": "4) Fact Sheets 160,000",
+            "ItemUnitCount": ".066",
+            "ItemTotal": "10,560."
+        },
+        {
+            "ItemDescription": "5) Return Envelcpes",
+            "ItemUnitCount": ".015",
+            "ItemTotal": "600."
+        },
+        {
+            "ItemDescription": "6) Mailhouse fee 40,000 pieces",
+            "ItemUnitValue": ".147",
+            "ItemTotal": "1,400."
+        },
+        {
+            "ItemDescription": "7) Labels 160,000",
+            "ItemUnitCount": ".035",
+            "ItemTotal": "5,600."
+        },
+        {
+            "ItemDescription": "Brochure for books",
+            "ItemTotal": "2,200,"
+        }
+    ]
+}

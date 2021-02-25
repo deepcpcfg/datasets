@@ -1,0 +1,41 @@
+{
+    "IssuedDate": "12, 1974",
+    "InvoiceNumber": "1",
+    "LineItem": [
+        {
+            "ItemDescription": "SALARY WAGES",
+            "ItemTotal": "3,592.14",
+            "ItemUnitValue": "3,592.14"
+        },
+        {
+            "ItemDescription": "FRINGE BENEFITS",
+            "ItemTotal": "237.80",
+            "ItemUnitValue": "237.80"
+        },
+        {
+            "ItemDescription": "MATERIALS SUPPLIES",
+            "ItemTotal": "181,90",
+            "ItemUnitValue": "181.90"
+        },
+        {
+            "ItemDescription": "TRAVEL",
+            "ItemTotal": ".00"
+        },
+        {
+            "ItemDescription": "STIPENDS",
+            "ItemUnitValue": "2,434.88",
+            "ItemTotal": "2,434,88"
+        },
+        {
+            "ItemDescription": "DIRECT COST",
+            "ItemTotal": "6,446.72",
+            "ItemUnitValue": "6,446.72"
+        },
+        {
+            "ItemDescription": "OVERHEAD 15% TDC",
+            "ItemTotal": "967.00",
+            "ItemUnitValue": "967.00"
+        }
+    ],
+    "TotalAmount": "7,413.72"
+}

@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "April 30,1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Total labor",
+            "ItemTotal": "$168.75"
+        },
+        {
+            "ItemDescription": "Total Material/Rental Cost",
+            "ItemTotal": "$0.00"
+        },
+        {
+            "ItemDescription": "Total Subsistence Mileage Cost",
+            "ItemTotal": "00"
+        },
+        {
+            "ItemDescription": "1",
+            "ItemTotal": "$25.31"
+        }
+    ],
+    "TotalAmount": "$11,761.47"
+}

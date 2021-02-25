@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="106.0" fp="80.0" fn="72.0">
+    <LineItem tp="98.0" fp="80.0" fn="72.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="405.0" t="1216.0" r="575.0" b="1254.0">HOURS</box>
+          <box l="616.0" t="1216.0" r="791.0" b="1255.0">LABOR</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="866.0" t="1271.0" r="1034.0" b="1306.0">38.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2329.0" t="1271.0" r="2596.0" b="1316.0">4,560.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="655.0" t="1380.0" r="926.0" b="1427.0">12/01/91</box>
+          <box l="1042.0" t="1380.0" r="1316.0" b="1426.0">12/31/91</box>
+          <box l="901.0" t="1435.0" r="1033.0" b="1471.0">7.00</box>
+          <box l="1072.0" t="1434.0" r="1210.0" b="1471.0">DAYS</box>
+          <box l="1326.0" t="1430.0" r="1683.0" b="1483.0">$400.00/HR.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2329.0" t="1436.0" r="2597.0" b="1483.0">2/800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1563.0" t="1601.0" r="1691.0" b="1638.0">2,01</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="651.0" t="1650.0" r="925.0" b="1704.0">Shipment</box>
+          <box l="1112.0" t="1654.0" r="1417.0" b="1692.0">04-Oct-91</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1563.0" t="1655.0" r="1690.0" b="1693.0">2.02</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="509.0" t="1710.0" r="608.0" b="1746.0">UPS</box>
+          <box l="651.0" t="1705.0" r="921.0" b="1756.0">Shipmen”</box>
+          <box l="1109.0" t="1709.0" r="1418.0" b="1746.0">06-Dec—91</box>
+          <box l="1530.0" t="1710.0" r="1691.0" b="1746.0">17.00</box>
+          <box l="508.0" t="1766.0" r="608.0" b="1802.0">UPS</box>
+          <box l="650.0" t="1760.0" r="925.0" b="1813.0">Shipment</box>
+          <box l="1109.0" t="1764.0" r="1417.0" b="1801.0">13-Dec-91</box>
+          <box l="1563.0" t="1766.0" r="1691.0" b="1803.0">9.75</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2429.0" t="1767.0" r="2591.0" b="1805.0">30.78</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="509.0" t="1876.0" r="605.0" b="1916.0">15%</box>
+          <box l="646.0" t="1875.0" r="925.0" b="1926.0">Handling</box>
+          <box l="967.0" t="1879.0" r="1067.0" b="1913.0">Fee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2463.0" t="1880.0" r="2591.0" b="1917.0">4.62</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2325.0" t="2101.0" r="2596.0" b="2147.0">7,395.40</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

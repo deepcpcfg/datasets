@@ -1,0 +1,13 @@
+{
+    "TotalAmount": "1,375.00",
+    "InvoiceNumber": "111E-001",
+    "IssuedDate": "June 3, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Partial Payment For Month of May Completion at 50%",
+            "ItemTotal": "$1,375.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

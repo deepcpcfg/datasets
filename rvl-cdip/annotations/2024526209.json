@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "M00127",
+    "IssuedDate": "Dec 20, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Translation of Issue 16 by M. Sigler, 16-pages",
+            "ItemTotal": "$ 1,850.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printing of 5,000 copies of Issue 16, 16 pages by Mercury Press ",
+            "ItemTotal": "$ 6,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

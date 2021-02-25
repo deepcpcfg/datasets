@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "803523",
+    "IssuedDate": "02-26-88",
+    "TotalAmount": "2.600",
+    "LineItem": [
+        {
+            "ItemDescription": "A27 OR143-107",
+            "ItemTotal": "1.300",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "B226 LOT #1ST SUBM",
+            "ItemTotal": "1.300",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

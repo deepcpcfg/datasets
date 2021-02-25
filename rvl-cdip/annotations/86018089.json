@@ -1,0 +1,85 @@
+{
+    "InvoiceNumber": "0889095",
+    "IssuedDate": "08-10-89",
+    "TotalAmount": "95,322.43",
+    "LineItem": [
+        {
+            "ItemDescription": "Direct Labor",
+            "ItemTotal": "22,209.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "187.00",
+            "ItemDescription": "Prem, Cost for Overtime",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,603.15",
+            "ItemDescription": "Bl dg. & UtilItles",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10,442.25",
+            "ItemDescription": "Tech. Mgnt. Cost",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Travel",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7,660.03",
+            "ItemDescription": "Org. FacilIty/Equlp. Costs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7,119.89",
+            "ItemDescription": "Other Direct Costs",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Material s",
+            "ItemTotal": "3,138.61",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "216.86",
+            "ItemDescription": "Other Hanford Contractor Services",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Subcontracts/Consul tints",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "23,950.63",
+            "ItemDescription": "Gen. 4 Admin. Cost (45J5 of Subtotal)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,350.60",
+            "ItemDescription": "Battelle Bldgs.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "9.18",
+            "ItemDescription": "DOE Bldgs.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="49.0" fp="80.0" fn="30.0">
+    <IssuedDate tp="8.0" fp="10.0" fn="0.0">
+      <box l="1571.0" t="1242.0" r="1853.0" b="1289.0">February</box>
+      <box l="1896.0" t="1245.0" r="1983.0" b="1288.0">14,</box>
+      <box l="2033.0" t="1245.0" r="2191.0" b="1280.0">1994.</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="1255.0" t="1705.0" r="1492.0" b="1741.0">1994-23</box>
+    </InvoiceNumber>
+    <LineItem tp="34.0" fp="70.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="334.0" t="2051.0" r="504.0" b="2088.0">Total</box>
+          <box l="545.0" t="2051.0" r="680.0" b="2088.0">Cost</box>
+          <box l="721.0" t="2051.0" r="787.0" b="2088.0">of</box>
+          <box l="829.0" t="2052.0" r="1070.0" b="2101.0">Proyect</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1887.0" t="2047.0" r="2229.0" b="2098.0">$24,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="379.0" t="2109.0" r="466.0" b="2155.0">(40</box>
+          <box l="508.0" t="2117.0" r="858.0" b="2147.0">one-on-one</box>
+          <box l="901.0" t="2105.0" r="1271.0" b="2155.0">interviews)</box>
+          <box l="337.0" t="2222.0" r="505.0" b="2263.0">First</box>
+          <box l="546.0" t="2226.0" r="930.0" b="2263.0">Installment</box>
+          <box l="970.0" t="2226.0" r="1070.0" b="2263.0">Due</box>
+          <box l="1109.0" t="2226.0" r="1314.0" b="2263.0">Before</box>
+          <box l="1358.0" t="2226.0" r="1595.0" b="2272.0">2/28/94</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1887.0" t="2223.0" r="2225.0" b="2272.0">$12,100.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

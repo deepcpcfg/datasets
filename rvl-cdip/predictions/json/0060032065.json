@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "January 27, 1952",
+    "InvoiceNumber": "01-0179",
+    "LineItem": [
+        {
+            "ItemDescription": "Creative",
+            "ItemTotal": "385.87"
+        },
+        {
+            "ItemDescription": "Design Comprehensive Photostats",
+            "ItemTotal": "83,50"
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "11,00"
+        }
+    ],
+    "TotalAmount": "$2,717.68"
+}

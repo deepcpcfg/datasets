@@ -1,0 +1,26 @@
+{
+    "InvoiceNumber": "01969600",
+    "IssuedDate": "1996",
+    "LineItem": [
+        {
+            "ItemDescription": "Education and Training Sarvicaa",
+            "ItemTotal": "11,900.00"
+        },
+        {
+            "ItemDescription": "Marketing plan 4.00 Development of workshop materials 6.25 State Association Outreach (23.75"
+        },
+        {
+            "ItemDescription": "out of pocket Expense#",
+            "ItemTotal": "2,3«o.5i"
+        },
+        {
+            "ItemDescription": "W/e 1/21 (Nevada)",
+            "ItemTotal": "2,240.88"
+        },
+        {
+            "ItemDescription": "Bell Atlantic",
+            "ItemTotal": "119.63"
+        }
+    ],
+    "TotalAmount": "14,260.51"
+}

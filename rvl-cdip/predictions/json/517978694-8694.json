@@ -1,0 +1,24 @@
+{
+    "InvoiceNumber": "080-0054",
+    "IssuedDate": "04/03",
+    "LineItem": [
+        {
+            "ItemDescription": "22362 6M 30 DORAL FF BOX B1G1F",
+            "ItemUnitCount": "98,000",
+            "ItemUnitValue": "283.7000",
+            "ItemTotal": "4,219,20"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "2.109."
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE EFT DISCOUNTABLE AMT",
+            "ItemTotal": "1,872,43"
+        },
+        {
+            "ItemDescription": "EFT TERMS"
+        }
+    ],
+    "TotalAmount": "1,153.04"
+}

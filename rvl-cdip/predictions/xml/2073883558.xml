@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="67.0" fp="15.0" fn="8.0">
+    <LineItem tp="50.0" fp="14.0" fn="8.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="567.0" t="1834.0" r="716.0" b="1868.0">1-24-97</box>
+          <box l="550.0" t="1889.0" r="725.0" b="1928.0">Directed.</box>
+          <box l="732.0" t="1834.0" r="933.0" b="1879.0">Passenger,</box>
+          <box l="950.0" t="1836.0" r="1017.0" b="1872.0">Mr.</box>
+          <box l="1037.0" t="1835.0" r="1107.0" b="1873.0">Phai</box>
+          <box l="1125.0" t="1834.0" r="1279.0" b="1872.0">Carltorr.</box>
+          <box l="1297.0" t="1837.0" r="1400.0" b="1874.0">From</box>
+          <box l="1417.0" t="1835.0" r="1500.0" b="1873.0">IAD</box>
+          <box l="1512.0" t="1835.0" r="1570.0" b="1873.0">To</box>
+          <box l="1584.0" t="1835.0" r="1637.0" b="1872.0">As</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="238.0" t="3408.0" r="287.0" b="3442.0">94</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2325.0" t="897.0" r="2416.0" b="933.0">1108</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2325.0" t="982.0" r="2495.0" b="1019.0">12/01/97</box>
+    </IssuedDate>
+    <TotalAmount tp="5.0" fp="1.0" fn="0.0">
+      <box l="2547.0" t="3398.0" r="2684.0" b="3435.0">$94.60</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

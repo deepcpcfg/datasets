@@ -1,0 +1,108 @@
+[
+    {
+        "IssuedDate": [
+            "October 30, 1981",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$2,700,00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "For Submission of Final Report CARDIOVASCULAR TESTING OF COM¬ POUND B72 IN THE BEAGLE DOG at",
+                            {
+                                "tp": 92.0,
+                                "fp": 0.0,
+                                "fn": 23.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 99.0,
+                        "fp": 2.0,
+                        "fn": 24.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$2,700.00",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "compound",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 17.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 99.0,
+                "fp": 19.0,
+                "fn": 24.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 2.0
+            }
+        ]
+    },
+    {
+        "tp": 115.0,
+        "fp": 19.0,
+        "fn": 26.0
+    }
+]

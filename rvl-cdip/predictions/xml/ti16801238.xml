@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="566.0" fp="40.0" fn="71.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2390.0" t="1096.0" r="2506.0" b="1129.0">16055</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="1.0" fn="0.0">
+      <box l="2335.0" t="1143.0" r="2393.0" b="1176.0">03/</box>
+      <box l="2402.0" t="1144.0" r="2507.0" b="1176.0">13/96</box>
+    </IssuedDate>
+    <LineItem tp="543.0" fp="38.0" fn="71.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="398.0" t="1824.0" r="473.0" b="1858.0">Pins</box>
+          <box l="495.0" t="1825.0" r="571.0" b="1867.0">(Qty</box>
+          <box l="591.0" t="1826.0" r="744.0" b="1861.0">600.000</box>
+          <box l="790.0" t="1826.0" r="808.0" b="1858.0">6</box>
+          <box l="824.0" t="1833.0" r="884.0" b="1866.0">per</box>
+          <box l="904.0" t="1828.0" r="953.0" b="1866.0">kK]</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2311.0" t="1822.0" r="2536.0" b="1856.0">$15,222.10</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="1871.0" r="548.0" b="1904.0">Window</box>
+          <box l="565.0" t="1872.0" r="689.0" b="1905.0">decals</box>
+          <box l="708.0" t="1871.0" r="795.0" b="1912.0">(Qty:</box>
+          <box l="816.0" t="1874.0" r="983.0" b="1911.0">300,000)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2312.0" t="1868.0" r="2536.0" b="1904.0">$29,366.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="394.0" t="1918.0" r="545.0" b="1951.0">Counter</box>
+          <box l="565.0" t="1918.0" r="715.0" b="1961.0">displays</box>
+          <box l="737.0" t="1917.0" r="823.0" b="1961.0">(Qty:</box>
+          <box l="844.0" t="1921.0" r="995.0" b="1957.0">200,000</box>
+          <box l="1041.0" t="1921.0" r="1061.0" b="1953.0">2</box>
+          <box l="1079.0" t="1928.0" r="1136.0" b="1959.0">per</box>
+          <box l="1155.0" t="1920.0" r="1208.0" b="1958.0">kit)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2312.0" t="1918.0" r="2536.0" b="1951.0">546.750.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="394.0" t="1967.0" r="590.0" b="2000.0">Calendars</box>
+          <box l="612.0" t="1967.0" r="698.0" b="2008.0">(Qty:</box>
+          <box l="728.0" t="1968.0" r="891.0" b="2007.0">100.000}</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2287.0" t="1965.0" r="2535.0" b="2000.0">$124,832.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2012.0" r="566.0" b="2046.0">Calendar</box>
+          <box l="587.0" t="2012.0" r="737.0" b="2046.0">Slickers</box>
+          <box l="758.0" t="2012.0" r="845.0" b="2053.0">(Qty-</box>
+          <box l="866.0" t="2015.0" r="1033.0" b="2053.0">750,000}</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2312.0" t="2010.0" r="2534.0" b="2047.0">$20,521.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="397.0" t="2059.0" r="549.0" b="2102.0">Training</box>
+          <box l="566.0" t="2068.0" r="690.0" b="2094.0">videos</box>
+          <box l="708.0" t="2058.0" r="795.0" b="2101.0">(Qty:</box>
+          <box l="824.0" t="2062.0" r="983.0" b="2099.0">100.000)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2312.0" t="2059.0" r="2535.0" b="2096.0">$19,040.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2108.0" r="549.0" b="2150.0">Training</box>
+          <box l="566.0" t="2108.0" r="691.0" b="2142.0">audios</box>
+          <box l="712.0" t="2108.0" r="804.0" b="2151.0">(Qty:</box>
+          <box l="829.0" t="2108.0" r="987.0" b="2150.0">100,900)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2310.0" t="2105.0" r="2534.0" b="2144.0">$26,461.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2155.0" r="491.0" b="2188.0">Exira</box>
+          <box l="511.0" t="2158.0" r="612.0" b="2188.0">video</box>
+          <box l="632.0" t="2157.0" r="774.0" b="2191.0">sleeves</box>
+          <box l="795.0" t="2155.0" r="879.0" b="2200.0">(Qty:</box>
+          <box l="908.0" t="2158.0" r="1067.0" b="2193.0">100.000)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2334.0" t="2155.0" r="2535.0" b="2190.0">$2,184,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2201.0" r="549.0" b="2246.0">Training</box>
+          <box l="566.0" t="2204.0" r="769.0" b="2238.0">workbooks</box>
+          <box l="788.0" t="2204.0" r="874.0" b="2245.0">(Qty;</box>
+          <box l="895.0" t="2207.0" r="1045.0" b="2241.0">600,COO</box>
+          <box l="1092.0" t="2207.0" r="1113.0" b="2237.0">6</box>
+          <box l="1130.0" t="2214.0" r="1187.0" b="2245.0">per</box>
+          <box l="1205.0" t="2207.0" r="1259.0" b="2248.0">tai}</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2371.0" t="2202.0" r="2534.0" b="2237.0">$163.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2251.0" r="480.0" b="2283.0">Tear</box>
+          <box l="498.0" t="2254.0" r="587.0" b="2283.0">Dads</box>
+          <box l="606.0" t="2251.0" r="683.0" b="2293.0">(Qty</box>
+          <box l="713.0" t="2254.0" r="866.0" b="2287.0">600.COO</box>
+          <box l="913.0" t="2254.0" r="933.0" b="2282.0">6</box>
+          <box l="950.0" t="2263.0" r="1008.0" b="2292.0">per</box>
+          <box l="1029.0" t="2251.0" r="1080.0" b="2291.0">kit]</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2309.0" t="2251.0" r="2534.0" b="2286.0">$12,617.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2296.0" r="604.0" b="2330.0">Breakroom</box>
+          <box l="624.0" t="2297.0" r="766.0" b="2333.0">Pesters</box>
+          <box l="787.0" t="2298.0" r="874.0" b="2341.0">(Qty:</box>
+          <box l="900.0" t="2300.0" r="1062.0" b="2341.0">ICO,000)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2334.0" t="2297.0" r="2533.0" b="2331.0">$3,807.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2343.0" r="441.0" b="2376.0">Kit</box>
+          <box l="462.0" t="2343.0" r="579.0" b="2378.0">Boxes</box>
+          <box l="599.0" t="2347.0" r="791.0" b="2383.0">preprinted</box>
+          <box l="811.0" t="2346.0" r="896.0" b="2388.0">(Qty:</box>
+          <box l="924.0" t="2349.0" r="1084.0" b="2382.0">100,0001</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2308.0" t="2344.0" r="2533.0" b="2380.0">$30,563.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2393.0" r="562.0" b="2425.0">Re-order</box>
+          <box l="579.0" t="2393.0" r="684.0" b="2425.0">forms</box>
+          <box l="700.0" t="2392.0" r="792.0" b="2433.0">(Qty:</box>
+          <box l="817.0" t="2396.0" r="975.0" b="2432.0">100,000)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2371.0" t="2393.0" r="2533.0" b="2425.0">$174.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="395.0" t="2438.0" r="562.0" b="2471.0">Re-order</box>
+          <box l="583.0" t="2446.0" r="745.0" b="2480.0">magnets</box>
+          <box l="766.0" t="2439.0" r="855.0" b="2479.0">(Qty:</box>
+          <box l="880.0" t="2442.0" r="1042.0" b="2478.0">100.300)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2334.0" t="2439.0" r="2534.0" b="2472.0">$3,630.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="10.0" fp="1.0" fn="0.0">
+      <box l="2289.0" t="2781.0" r="2536.0" b="2818.0">$350,082.10</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

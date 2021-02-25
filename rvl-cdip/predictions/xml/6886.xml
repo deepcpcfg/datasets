@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="74.0" fp="18.0" fn="28.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="631.0" t="688.0" r="818.0" b="719.0">APR10/00</box>
+    </IssuedDate>
+    <InvoiceNumber tp="9.0" fp="2.0" fn="2.0">
+      <box l="2323.0" t="684.0" r="2577.0" b="711.0">PR04-D3763C</box>
+    </InvoiceNumber>
+    <LineItem tp="57.0" fp="16.0" fn="21.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="320.0" t="1224.0" r="745.0" b="1256.0">Non-Con-faiaslo^atilfi</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2488.0" t="1222.0" r="2550.0" b="1247.0">7.fi</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="320.0" t="1314.0" r="652.0" b="1342.0">ComriiBsionable</box>
+          <box l="678.0" t="1312.0" r="841.0" b="1348.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2487.0" t="1310.0" r="2574.0" b="1336.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="319.0" t="1405.0" r="465.0" b="1440.0">Agency</box>
+          <box l="490.0" t="1402.0" r="723.0" b="1432.0">Commission</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2487.0" t="1397.0" r="2549.0" b="1426.0">0.0</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

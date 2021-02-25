@@ -1,0 +1,83 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitValue": [
+                            "S16",
+                            {
+                                "tp": 2.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$800",
+                            {
+                                "tp": 0.0,
+                                "fp": 4.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "50 tickets for February 0 (Leo Burnett Party)",
+                            {
+                                "tp": 42.0,
+                                "fp": 3.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 44.0,
+                        "fp": 8.0,
+                        "fn": 6.0
+                    }
+                ]
+            ],
+            {
+                "tp": 44.0,
+                "fp": 8.0,
+                "fn": 6.0
+            }
+        ],
+        "TotalAmount": [
+            "£808901^02",
+            {
+                "tp": 0.0,
+                "fp": 10.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 12.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 44.0,
+        "fp": 18.0,
+        "fn": 18.0
+    }
+]

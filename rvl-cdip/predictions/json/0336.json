@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "FR.11-018G21",
+    "LineItem": [
+        {
+            "ItemDescription": "Non-CafiM*ifleion*bl« Chargee",
+            "ItemTotal": "13.932.50"
+        },
+        {
+            "ItemDescription": "Coranieeionjible Chargee",
+            "ItemTotal": "0,00"
+        },
+        {
+            "ItemDescription": "Camniafllon",
+            "ItemTotal": "0.00"
+        }
+    ],
+    "TotalAmount": "13,932,50"
+}

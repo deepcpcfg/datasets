@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "March 1, 1964",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$1964.17",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Statement for the month of March, 1964, RENDERED UNDER CONTRACTUAL AGREEMENT DATED March 1, 1964, AS provided FOR BY PARAGRAPH 4-H or SAID CONTRACT",
+                            {
+                                "tp": 130.0,
+                                "fp": 17.0,
+                                "fn": 17.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 138.0,
+                        "fp": 17.0,
+                        "fn": 17.0
+                    }
+                ]
+            ],
+            {
+                "tp": 138.0,
+                "fp": 17.0,
+                "fn": 17.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1754",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 155.0,
+        "fp": 17.0,
+        "fn": 17.0
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "1",
+    "IssuedDate": "April 30,1991",
+    "TotalAmount": "11,761.47",
+    "LineItem": [
+        {
+            "ItemDescription": "Total labor cost",
+            "ItemTotal": "$168.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Total Malerial/Rental Cost",
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Total Subsistence & Mileage Cosi",
+            "ItemTotal": "$0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "15% OVERHEAD ON SUBTOTAL",
+            "ItemTotal": "$25.31",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "100% PROFIT",
+            "ItemTotal": "$19.41",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CONTRACT AMOUNT DUE",
+            "ItemTotal": "$11,548.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

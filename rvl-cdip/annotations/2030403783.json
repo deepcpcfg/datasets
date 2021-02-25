@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "141390",
+    "IssuedDate": "11-30-92",
+    "TotalAmount": "59.98",
+    "LineItem": [
+        {
+            "ItemDescription": "4000-AE",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "56.55",
+            "ItemTotal": "56.55"
+        },
+        {
+            "ItemDescription": "HEATING OF CONCRETE",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": ".85",
+            "ItemTotal": ".85"
+        }
+    ]
+}

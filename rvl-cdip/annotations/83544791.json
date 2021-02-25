@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "B30.27",
+    "IssuedDate": "June 25, 1999",
+    "TotalAmount": "8,452.50",
+    "LineItem": [
+        {
+            "ItemDescription": "HEARING ON ATTORNEYS' FEES APPLICATION BY MASS. PRIVATE COUNSEL FULL TRANSCRIPTS, MINIS, WORD INDEXES & THREE FULL DAYS OF HEARINGS SAME DAY DELIVERY 822 PGS @ $10.00 P/P",
+            "ItemTotal": "8,220.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE & HANDLING VIA UPS",
+            "ItemTotal": "232.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

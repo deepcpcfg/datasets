@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="42.0" fn="45.0">
+    <InvoiceNumber tp="10.0" fp="0.0" fn="0.0">
+      <box l="2401.0" t="426.0" r="2684.0" b="463.0">9001173533</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="0.0" fn="0.0">
+      <box l="2401.0" t="495.0" r="2683.0" b="533.0">05/19/1993</box>
+    </IssuedDate>
+    <LineItem tp="58.0" fp="42.0" fn="37.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="789.0" t="1655.0" r="904.0" b="1677.0">MARCH</box>
+          <box l="934.0" t="1651.0" r="1030.0" b="1678.0">MARL</box>
+          <box l="1059.0" t="1651.0" r="1175.0" b="1679.0">PHlCS</box>
+          <box l="1205.0" t="1651.0" r="1367.0" b="1677.0">Off-HRM</box>
+          <box l="1422.0" t="1650.0" r="1439.0" b="1676.0">PM</box>
+          <box l="1471.0" t="1650.0" r="1488.0" b="1676.0">in</box>
+          <box l="1493.0" t="1651.0" r="1513.0" b="1676.0">G&gt;</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1568.0" t="1667.0" r="1591.0" b="1676.0">1</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1747.0" t="1650.0" r="1862.0" b="1684.0">1,396</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2551.0" t="1651.0" r="2761.0" b="1684.0">$1*420.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="788.0" t="1692.0" r="905.0" b="1717.0">MARCH</box>
+          <box l="934.0" t="1692.0" r="1029.0" b="1717.0">MARL</box>
+          <box l="1059.0" t="1691.0" r="1176.0" b="1717.0">PRICE</box>
+          <box l="1205.0" t="1691.0" r="1367.0" b="1717.0">OPF-HRH</box>
+          <box l="1422.0" t="1688.0" r="1438.0" b="1716.0">T4</box>
+          <box l="1452.0" t="1707.0" r="1460.0" b="1716.0">r</box>
+          <box l="1493.0" t="1688.0" r="1512.0" b="1716.0">O</box>
+          <box l="1546.0" t="1691.0" r="1563.0" b="1716.0">CM</box>
+          <box l="1568.0" t="1708.0" r="1591.0" b="1716.0">I</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2087.0" t="1688.0" r="2204.0" b="1721.0">$2.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2530.0" t="1688.0" r="2784.0" b="1725.0">(51,500.00)</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

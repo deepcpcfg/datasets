@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="174.0" fp="30.0" fn="280.0">
+    <IssuedDate tp="16.0" fp="7.0" fn="0.0">
+      <box l="457.0" t="1281.0" r="648.0" b="1331.0">DATE:</box>
+      <box l="1229.0" t="1280.0" r="1504.0" b="1330.0">December</box>
+      <box l="1524.0" t="1279.0" r="1599.0" b="1337.0">19,</box>
+      <box l="1627.0" t="1278.0" r="1752.0" b="1329.0">1996</box>
+    </IssuedDate>
+    <LineItem tp="158.0" fp="23.0" fn="280.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1231.0" t="2409.0" r="1381.0" b="2455.0">Truss</box>
+          <box l="1406.0" t="2408.0" r="1572.0" b="2463.0">rental,</box>
+          <box l="1593.0" t="2408.0" r="1801.0" b="2470.0">rigging,</box>
+          <box l="1827.0" t="2408.0" r="2034.0" b="2469.0">lighting</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2372.0" t="2406.0" r="2603.0" b="2464.0">5,500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1235.0" t="2484.0" r="1401.0" b="2534.0">Labor</box>
+          <box l="1235.0" t="2558.0" r="1422.0" b="2618.0">Chairs,</box>
+          <box l="1440.0" t="2559.0" r="1634.0" b="2619.0">Tables,</box>
+          <box l="1655.0" t="2558.0" r="1767.0" b="2621.0">Pipe</box>
+          <box l="1789.0" t="2558.0" r="1880.0" b="2608.0">and</box>
+          <box l="1906.0" t="2558.0" r="2077.0" b="2620.0">Drape,</box>
+          <box l="1235.0" t="2631.0" r="1515.0" b="2696.0">Carpeting,</box>
+          <box l="1236.0" t="2709.0" r="1448.0" b="2761.0">Electric</box>
+          <box l="1540.0" t="2630.0" r="1751.0" b="2695.0">Skirting</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2389.0" t="2629.0" r="2605.0" b="2682.0">7000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1233.0" t="3235.0" r="1383.0" b="3288.0">Truss</box>
+          <box l="1403.0" t="3235.0" r="1569.0" b="3291.0">rental,</box>
+          <box l="1590.0" t="3235.0" r="1681.0" b="3288.0">and</box>
+          <box l="1707.0" t="3234.0" r="1994.0" b="3287.0">installation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2395.0" t="3232.0" r="2607.0" b="3288.0">5920.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="720.0" t="3386.0" r="923.0" b="3435.0">Electric</box>
+          <box l="949.0" t="3388.0" r="1044.0" b="3435.0">and</box>
+          <box l="1067.0" t="3386.0" r="1227.0" b="3435.0">Labor</box>
+          <box l="1238.0" t="3310.0" r="1403.0" b="3363.0">Risers</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2395.0" t="3383.0" r="2608.0" b="3437.0">2609.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

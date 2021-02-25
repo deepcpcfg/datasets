@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "10-0321 ",
+    "IssuedDate": "October 27. 1993",
+    "TotalAmount": "6,781.84",
+    "LineItem": [
+        {
+            "ItemDescription": "Design",
+            "ItemTotal": "$1,820.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "4,577.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

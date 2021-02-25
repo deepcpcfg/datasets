@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "120044",
+    "IssuedDate": "12-26-87",
+    "TotalAmount": "6,814.00",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL SERVICE FEES TO DATE",
+            "ItemTotal": "U.S. $6,585.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OUT-OF-POCKET EXPENSES TO DATE",
+            "ItemTotal": "U.S. $229.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

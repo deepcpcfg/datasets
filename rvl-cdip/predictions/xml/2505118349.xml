@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="30.0" fp="60.0" fn="6.0">
+    <InvoiceNumber tp="10.0" fp="1.0" fn="1.0">
+      <box l="934.0" t="816.0" r="1326.0" b="867.0">30.10.173PF</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="6.0" fn="0.0">
+      <box l="791.0" t="1195.0" r="983.0" b="1234.0">W.1999</box>
+    </IssuedDate>
+    <LineItem tp="20.0" fp="53.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="692.0" t="1537.0" r="708.0" b="1572.0">1</box>
+          <box l="738.0" t="1537.0" r="850.0" b="1577.0">BOX</box>
+          <box l="871.0" t="1536.0" r="1205.0" b="1577.0">CONTAINING</box>
+          <box l="688.0" t="1646.0" r="959.0" b="1687.0">TOBACCO</box>
+          <box l="976.0" t="1646.0" r="1225.0" b="1687.0">SAMPLES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2779.0" t="1651.0" r="2909.0" b="1688.0">10.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="620.0" t="2204.0" r="829.0" b="2247.0">TOTAL</box>
+          <box l="846.0" t="2201.0" r="1051.0" b="2247.0">VALUE</box>
+          <box l="1071.0" t="2201.0" r="1200.0" b="2243.0">DDU</box>
+          <box l="1221.0" t="2201.0" r="1430.0" b="2243.0">KOELN</box>
+          <box l="1492.0" t="2201.0" r="1658.0" b="2247.0">BONN</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="696.0" t="2430.0" r="833.0" b="2471.0">0.530</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="713.0" t="2488.0" r="846.0" b="2529.0">0.350</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

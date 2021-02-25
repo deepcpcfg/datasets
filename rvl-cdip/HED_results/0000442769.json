@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "March 2, 1981",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$15,000.00",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$15,000.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Kool Nilds Truck Stoppers Program 1980 Partial Billing April 1, 1981 April 30, 1981",
+                            {
+                                "tp": 43.0,
+                                "fp": 40.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 52.0,
+                        "fp": 41.0,
+                        "fn": 6.0
+                    }
+                ]
+            ],
+            {
+                "tp": 52.0,
+                "fp": 41.0,
+                "fn": 6.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 74.0,
+        "fp": 42.0,
+        "fn": 10.0
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="106.0" fp="34.0" fn="40.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="1704.0" t="1567.0" r="1854.0" b="1613.0">April</box>
+      <box l="1890.0" t="1567.0" r="1938.0" b="1613.0">1,</box>
+      <box l="1983.0" t="1567.0" r="2099.0" b="1605.0">1994</box>
+    </IssuedDate>
+    <LineItem tp="84.0" fp="33.0" fn="40.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="521.0" t="2642.0" r="675.0" b="2689.0">April</box>
+          <box l="709.0" t="2651.0" r="1013.0" b="2681.0">assessment</box>
+          <box l="1046.0" t="2642.0" r="1134.0" b="2681.0">for</box>
+          <box l="1167.0" t="2647.0" r="1284.0" b="2681.0">CIAR</box>
+          <box l="521.0" t="2698.0" r="675.0" b="2747.0">April</box>
+          <box l="709.0" t="2701.0" r="1071.0" b="2751.0">supplemental</box>
+          <box l="1105.0" t="2709.0" r="1401.0" b="2738.0">assessment</box>
+          <box l="1435.0" t="2702.0" r="1521.0" b="2742.0">for</box>
+          <box l="1551.0" t="2702.0" r="1699.0" b="2742.0">Johns</box>
+          <box l="1730.0" t="2702.0" r="1962.0" b="2751.0">Hopkins,</box>
+          <box l="676.0" t="2759.0" r="758.0" b="2797.0">Dr.</box>
+          <box l="796.0" t="2756.0" r="1092.0" b="2805.0">Mat&amp;noskl,</box>
+          <box l="1137.0" t="2759.0" r="1459.0" b="2797.0">Confounders</box>
+          <box l="1495.0" t="2759.0" r="1640.0" b="2809.0">Study</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2313.0" t="2642.0" r="2612.0" b="2691.0">$44,446.13</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2313.0" t="2872.0" r="2610.0" b="2917.0">$51,048.02</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,58 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Direct Labor",
+            "ItemUnitValue": "22,209.90",
+            "ItemTotal": "149,344.71"
+        },
+        {
+            "ItemDescription": "Prem. Cost for Overtime",
+            "ItemUnitValue": "187.00",
+            "ItemTotal": "642.60"
+        },
+        {
+            "ItemDescription": "Bldg. Utilities",
+            "ItemUnitValue": "5,603.15",
+            "ItemTotal": "38,985.38"
+        },
+        {
+            "ItemDescription": "Tech. Mgnt. Cost",
+            "ItemUnitValue": "10,442.25",
+            "ItemTotal": "67,721.93"
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemUnitValue": "0.00"
+        },
+        {
+            "ItemDescription": "Org. Fadiity/Equip. Costs",
+            "ItemUnitValue": "7,660.03",
+            "ItemTotal": "55,518.56"
+        },
+        {
+            "ItemDescription": "Other Direct Costs",
+            "ItemUnitValue": "7,119.89",
+            "ItemTotal": "38,328.38"
+        },
+        {
+            "ItemDescription": "Materials Other Hanford Contractor Services",
+            "ItemUnitValue": "3,138.61",
+            "ItemTotal": "216.86"
+        },
+        {
+            "ItemDescription": "Gen. Admin. Cost",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Battelle Bldgs.",
+            "ItemUnitValue": "2,350.60",
+            "ItemTotal": "16,365.60"
+        },
+        {
+            "ItemDescription": "DOE Bldgs.",
+            "ItemUnitValue": "9.18",
+            "ItemTotal": "231.49"
+        }
+    ],
+    "InvoiceNumber": "0889095"
+}

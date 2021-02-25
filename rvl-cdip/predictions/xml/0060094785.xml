@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="81.0" fp="4.0" fn="16.0">
+    <InvoiceNumber tp="6.0" fp="1.0" fn="0.0">
+      <box l="1706.0" t="924.0" r="1905.0" b="968.0">#806262</box>
+    </InvoiceNumber>
+    <LineItem tp="67.0" fp="2.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="141.0" t="1686.0" r="461.0" b="1735.0">Sponsorship</box>
+          <box l="499.0" t="1692.0" r="637.0" b="1725.0">costs</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1150.0" t="1685.0" r="1403.0" b="1732.0">$5,453.37</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2589.0" t="1696.0" r="2843.0" b="1739.0">$5,453.37</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="137.0" t="1745.0" r="305.0" b="1782.0">Travel</box>
+          <box l="350.0" t="1748.0" r="374.0" b="1779.0">X</box>
+          <box l="404.0" t="1744.0" r="783.0" b="1789.0">Out-of-pocket</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1241.0" t="1744.0" r="1409.0" b="1782.0">750.84</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2681.0" t="1755.0" r="2847.0" b="1793.0">750.84</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2595.0" t="3328.0" r="2850.0" b="3371.0">$6,204.21</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

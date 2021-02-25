@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "Date May 28, 1993",
+            {
+                "tp": 12.0,
+                "fp": 5.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "54,897.20",
+            {
+                "tp": 8.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "No",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 2.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "4.620.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "To: AVA Check Presentation and Conceepts copy and design mock-ups",
+                            {
+                                "tp": 29.0,
+                                "fp": 36.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 37.0,
+                        "fp": 36.0,
+                        "fn": 9.0
+                    }
+                ]
+            ],
+            {
+                "tp": 37.0,
+                "fp": 38.0,
+                "fn": 9.0
+            }
+        ],
+        "InvoiceNumber": [
+            "5/93-0439",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 66.0,
+        "fp": 44.0,
+        "fn": 9.0
+    }
+]

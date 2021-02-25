@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="31.0" fp="95.0" fn="70.0">
+    <LineItem tp="31.0" fp="79.0" fn="64.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="808.0" t="2630.0" r="875.0" b="2671.0">SK</box>
+          <box l="901.0" t="2613.0" r="1684.0" b="2668.0">TKTfs117:8823:803:208/209</box>
+          <box l="1879.0" t="2613.0" r="1908.0" b="2655.0">F</box>
+          <box l="683.0" t="2741.0" r="1687.0" b="2801.0">Gothenburg/Copenhagen/Dusaaldorf</box>
+          <box l="684.0" t="2809.0" r="1217.0" b="2863.0">Dusseldorf/Geneva</box>
+          <box l="684.0" t="2870.0" r="1567.0" b="2930.0">Brneva/Copenhagen/Gothenburg</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="0.0" fp="9.0" fn="0.0">
+      <box l="2472.0" t="2092.0" r="2754.0" b="2138.0">22.Hov.77</box>
+    </IssuedDate>
+    <TotalAmount tp="0.0" fp="7.0" fn="0.0">
+      <box l="2393.0" t="2859.0" r="2605.0" b="2908.0">§665.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

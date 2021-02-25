@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "63145",
+    "LineItem": [
+        {
+            "ItemDescription": "MARLBORO KING SOFT",
+            "ItemUnitCount": "1",
+            "ItemTotal": "4.76",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MENTHOL MARLBORO KING",
+            "ItemTotal": "4.76",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

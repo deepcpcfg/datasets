@@ -1,0 +1,133 @@
+{
+    "InvoiceNumber": "7004427",
+    "IssuedDate": "July 29, 1599",
+    "TotalAmount": "73,402.83",
+    "LineItem": [
+        {
+            "ItemDescription": "Utah",
+            "ItemTotal": "Utah",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hawaii",
+            "ItemTotal": "18,065.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Iowa",
+            "ItemTotal": "1,812.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Kansas",
+            "ItemTotal": "2,260.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Louisiana",
+            "ItemTotal": "3,495.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mas sachusett",
+            "ItemTotal": "101.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Maine",
+            "ItemTotal": "1,918.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Michigan",
+            "ItemTotal": "3,332.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Ohio",
+            "ItemTotal": "2,422.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Oklahoma",
+            "ItemTotal": "2,057.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Project Management",
+            "ItemTotal": "14,637.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Puerto Rico",
+            "ItemTotal": "1,355,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Utah",
+            "ItemTotal": "3,437.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Client Cammiinieations",
+            "ItemTotal": "2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Equipment Rental",
+            "ItemTotal": "1,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Graphics",
+            "ItemTotal": "9,178.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mileage",
+            "ItemTotal": "44.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Pog tage/Fedex/courier",
+            "ItemTotal": "124.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Supplies",
+            "ItemTotal": "1,414.02",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxi",
+            "ItemTotal": "107.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Meals Related to Working",
+            "ItemTotal": "510.03",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

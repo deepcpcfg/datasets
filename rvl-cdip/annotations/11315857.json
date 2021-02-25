@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "4291",
+    "IssuedDate": "AUGUST 30, 1978",
+    "TotalAmount": "630.92",
+    "LineItem": [
+        {
+            "ItemDescription": "18,000 ENVELOPES PRINTED IN BLACK INK - 6 1/2 X 9 1/2 - 28 LB. WHITE WOVE - 14,000 WITH BULK INDICIA - 4,000 WITHOUE INDICIA. 14,000 SHIPPED TO: FISHER STEVENS CLIFTON, N.J. ATTN. BRUCE N. LUNDBERG",
+            "ItemTotal": "$628.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

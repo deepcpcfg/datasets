@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="82.0" fp="145.0" fn="18.0">
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="2071.0" t="933.0" r="2333.0" b="971.0">01969600</box>
+    </InvoiceNumber>
+    <IssuedDate tp="4.0" fp="0.0" fn="9.0">
+      <box l="1567.0" t="1330.0" r="1696.0" b="1367.0">1996</box>
+    </IssuedDate>
+    <LineItem tp="62.0" fp="144.0" fn="8.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="387.0" t="1551.0" r="691.0" b="1592.0">Education</box>
+          <box l="730.0" t="1555.0" r="825.0" b="1591.0">and</box>
+          <box l="866.0" t="1551.0" r="1130.0" b="1601.0">Training</box>
+          <box l="1167.0" t="1554.0" r="1426.0" b="1592.0">Sarvicaa</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2292.0" t="1551.0" r="2571.0" b="1595.0">11,900.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="726.0" t="1663.0" r="1029.0" b="1713.0">Marketing</box>
+          <box l="1067.0" t="1667.0" r="1196.0" b="1713.0">plan</box>
+          <box l="1972.0" t="1666.0" r="2100.0" b="1701.0">4.00</box>
+          <box l="730.0" t="1778.0" r="1093.0" b="1826.0">Development</box>
+          <box l="1134.0" t="1779.0" r="1192.0" b="1813.0">of</box>
+          <box l="1231.0" t="1779.0" r="1496.0" b="1826.0">workshop</box>
+          <box l="1534.0" t="1775.0" r="1832.0" b="1813.0">materials</box>
+          <box l="1972.0" t="1776.0" r="2099.0" b="1813.0">6.25</box>
+          <box l="730.0" t="1892.0" r="895.0" b="1930.0">State</box>
+          <box l="934.0" t="1888.0" r="1292.0" b="1930.0">Association</box>
+          <box l="1330.0" t="1892.0" r="1595.0" b="1930.0">Outreach</box>
+          <box l="1912.0" t="1889.0" r="2099.0" b="1938.0">(23.75</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="387.0" t="2059.0" r="486.0" b="2099.0">out</box>
+          <box l="521.0" t="2059.0" r="587.0" b="2099.0">of</box>
+          <box l="625.0" t="2059.0" r="825.0" b="2101.0">pocket</box>
+          <box l="867.0" t="2063.0" r="1129.0" b="2108.0">Expense#</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2316.0" t="2059.0" r="2572.0" b="2102.0">2,3«o.5i</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="726.0" t="2176.0" r="825.0" b="2218.0">W/e</box>
+          <box l="870.0" t="2176.0" r="992.0" b="2217.0">1/21</box>
+          <box l="1076.0" t="2173.0" r="1316.0" b="2221.0">(Nevada)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1467.0" t="2176.0" r="1728.0" b="2217.0">2,240.88</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="2284.0" r="858.0" b="2322.0">Bell</box>
+          <box l="896.0" t="2280.0" r="1162.0" b="2322.0">Atlantic</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1538.0" t="2287.0" r="1729.0" b="2322.0">119.63</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="1.0">
+      <box l="2292.0" t="2508.0" r="2571.0" b="2554.0">14,260.51</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

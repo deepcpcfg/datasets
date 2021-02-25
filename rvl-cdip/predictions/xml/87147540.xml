@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="598.0" t="1694.0" r="744.0" b="1731.0">STUDY</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="1691.0" t="860.0" r="1807.0" b="896.0">JULY</box>
+      <box l="1841.0" t="861.0" r="1917.0" b="899.0">13.</box>
+      <box l="1962.0" t="861.0" r="2071.0" b="894.0">1989</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

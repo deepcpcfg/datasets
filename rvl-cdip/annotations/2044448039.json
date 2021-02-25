@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1031Q",
+    "IssuedDate": "June 10, 1991",
+    "TotalAmount": "162",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL SERVICE FEE",
+            "ItemTotal": "$0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OPC's (OUT OF POCKET COSTS)",
+            "ItemTotal": "$162",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

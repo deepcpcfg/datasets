@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "NOVEMBER 12, 1973",
+            {
+                "tp": 17.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$13.52",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "ADDRESS flIO ENVELOPES TO CTR-6 LIST, INSERT AND MAIL FIRST CLASS HAIL.",
+                            {
+                                "tp": 69.0,
+                                "fp": 2.0,
+                                "fn": 95.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 69.0,
+                        "fp": 2.0,
+                        "fn": 100.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$12.00",
+                            {
+                                "tp": 2.0,
+                                "fp": 4.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "INK SHEETS",
+                            {
+                                "tp": 2.0,
+                                "fp": 8.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 4.0,
+                        "fp": 12.0,
+                        "fn": 7.0
+                    }
+                ]
+            ],
+            {
+                "tp": 73.0,
+                "fp": 14.0,
+                "fn": 107.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 95.0,
+        "fp": 15.0,
+        "fn": 111.0
+    }
+]

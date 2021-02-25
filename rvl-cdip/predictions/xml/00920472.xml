@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="96.0" fp="18.0" fn="25.0">
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="496.0" t="937.0" r="650.0" b="990.0">March</box>
+      <box l="691.0" t="940.0" r="770.0" b="997.0">19,</box>
+      <box l="816.0" t="939.0" r="934.0" b="990.0">1982</box>
+    </IssuedDate>
+    <InvoiceNumber tp="3.0" fp="0.0" fn="1.0">
+      <box l="909.0" t="1835.0" r="995.0" b="1880.0">4-J</box>
+    </InvoiceNumber>
+    <LineItem tp="79.0" fp="18.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="497.0" t="2054.0" r="647.0" b="2100.0">Costs</box>
+          <box l="685.0" t="2051.0" r="1030.0" b="2100.0">accumulated</box>
+          <box l="1067.0" t="2052.0" r="1121.0" b="2097.0">in</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2326.0" t="2054.0" r="2605.0" b="2108.0">$8,123,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="500.0" t="2115.0" r="771.0" b="2173.0">February,</box>
+          <box l="817.0" t="2115.0" r="934.0" b="2164.0">1982</box>
+          <box l="940.0" t="2302.0" r="1122.0" b="2351.0">Direct</box>
+          <box l="1160.0" t="2305.0" r="1311.0" b="2350.0">Labor</box>
+          <box l="1353.0" t="2300.0" r="1468.0" b="2359.0">(232</box>
+          <box l="1506.0" t="2303.0" r="1653.0" b="2361.0">hrs.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2357.0" t="2308.0" r="2603.0" b="2362.0">2,045.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="940.0" t="2364.0" r="1122.0" b="2413.0">Direct</box>
+          <box l="1157.0" t="2366.0" r="1435.0" b="2413.0">Materials</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2420.0" t="2370.0" r="2603.0" b="2416.0">717.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

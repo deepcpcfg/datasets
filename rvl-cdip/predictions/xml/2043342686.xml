@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2409.0" t="775.0" r="2497.0" b="823.0">93-</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="308.0" t="1744.0" r="681.0" b="1792.0">Out-of-Pocket</box>
+          <box l="707.0" t="1743.0" r="965.0" b="1805.0">Expenses</box>
+          <box l="986.0" t="1745.0" r="1059.0" b="1792.0">for</box>
+          <box l="1078.0" t="1745.0" r="1302.0" b="1804.0">shipping</box>
+          <box l="1327.0" t="1744.0" r="1597.0" b="1794.0">DBM/scan</box>
+          <box l="1623.0" t="1744.0" r="1780.0" b="1801.0">1Q93,</box>
+          <box l="1802.0" t="1747.0" r="1950.0" b="1794.0">2Q93</box>
+          <box l="1975.0" t="1746.0" r="2181.0" b="1806.0">Reports</box>
+          <box l="308.0" t="1817.0" r="407.0" b="1862.0">and</box>
+          <box l="432.0" t="1816.0" r="652.0" b="1864.0">Creative</box>
+          <box l="677.0" t="1818.0" r="902.0" b="1876.0">samples</box>
+          <box l="923.0" t="1821.0" r="972.0" b="1864.0">to</box>
+          <box l="997.0" t="1817.0" r="1143.0" b="1875.0">Philip</box>
+          <box l="1168.0" t="1817.0" r="1331.0" b="1865.0">Morris</box>
+          <box l="1357.0" t="1819.0" r="1452.0" b="1865.0">and</box>
+          <box l="1477.0" t="1819.0" r="1572.0" b="1865.0">Leo</box>
+          <box l="1598.0" t="1819.0" r="1792.0" b="1865.0">Burnett</box>
+          <box l="1813.0" t="1818.0" r="1980.0" b="1876.0">during</box>
+          <box l="2005.0" t="1817.0" r="2171.0" b="1875.0">period</box>
+          <box l="308.0" t="1886.0" r="782.0" b="1940.0">8/21/93-10/22/93,</box>
+          <box l="807.0" t="1898.0" r="894.0" b="1943.0">per</box>
+          <box l="915.0" t="1888.0" r="1143.0" b="1934.0">Contract</box>
+          <box l="1165.0" t="1899.0" r="1294.0" b="1946.0">page</box>
+          <box l="1319.0" t="1891.0" r="1364.0" b="1941.0">4,</box>
+          <box l="1389.0" t="1898.0" r="1506.0" b="1945.0">para</box>
+          <box l="1528.0" t="1890.0" r="1606.0" b="1940.0">2b:</box>
+          <box l="1631.0" t="1898.0" r="1726.0" b="1935.0">see</box>
+          <box l="1748.0" t="1889.0" r="1979.0" b="1935.0">attached</box>
+          <box l="312.0" t="1969.0" r="457.0" b="2015.0">recap</box>
+          <box l="483.0" t="1956.0" r="578.0" b="2002.0">and</box>
+          <box l="603.0" t="1955.0" r="886.0" b="2014.0">supporting</box>
+          <box l="911.0" t="1959.0" r="1128.0" b="2003.0">invoices</box>
+          <box l="1153.0" t="1958.0" r="1223.0" b="2004.0">for</box>
+          <box l="1244.0" t="1958.0" r="1386.0" b="2003.0">detail</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2635.0" t="847.0" r="2871.0" b="894.0">11/11/93</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2549.0" t="3469.0" r="2777.0" b="3519.0">$168.90</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

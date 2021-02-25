@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="470.0" t="1457.0" r="602.0" b="1490.0">41300</box>
+          <box l="665.0" t="1459.0" r="786.0" b="1489.0">PARL</box>
+          <box l="823.0" t="1458.0" r="915.0" b="1489.0">BOX</box>
+          <box l="952.0" t="1457.0" r="1106.0" b="1491.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2178.0" t="1461.0" r="2358.0" b="1494.0">115.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2512.0" t="1460.0" r="2689.0" b="1495.0">694.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="803.0" t="1518.0" r="912.0" b="1548.0">COMP</box>
+          <box l="945.0" t="1519.0" r="1082.0" b="1549.0">CIGTS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2512.0" t="1514.0" r="2720.0" b="1546.0">-347.10</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="470.0" t="1631.0" r="604.0" b="1665.0">41310</box>
+          <box l="663.0" t="1631.0" r="782.0" b="1663.0">PARL</box>
+          <box l="821.0" t="1630.0" r="916.0" b="1662.0">MEN</box>
+          <box l="950.0" t="1630.0" r="1042.0" b="1662.0">BOX</box>
+          <box l="1082.0" t="1629.0" r="1233.0" b="1665.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1920.0" t="1618.0" r="1942.0" b="1651.0">6</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2183.0" t="1619.0" r="2362.0" b="1652.0">115.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2510.0" t="1618.0" r="2688.0" b="1655.0">694,20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="455.0" t="1690.0" r="620.0" b="1721.0">IXXXXX</box>
+          <box l="663.0" t="1689.0" r="768.0" b="1720.0">LESS</box>
+          <box l="804.0" t="1692.0" r="912.0" b="1721.0">COMP</box>
+          <box l="943.0" t="1691.0" r="1079.0" b="1721.0">CIGTS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2513.0" t="1672.0" r="2721.0" b="1706.0">-347.10</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="468.0" t="1803.0" r="601.0" b="1836.0">41320</box>
+          <box l="664.0" t="1802.0" r="784.0" b="1835.0">PARL</box>
+          <box l="822.0" t="1804.0" r="909.0" b="1834.0">LTS</box>
+          <box l="951.0" t="1804.0" r="1043.0" b="1836.0">BOX</box>
+          <box l="1080.0" t="1802.0" r="1230.0" b="1836.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1922.0" t="1794.0" r="2067.0" b="1838.0">6,000</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2180.0" t="1794.0" r="2360.0" b="1832.0">115.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2510.0" t="1796.0" r="2686.0" b="1832.0">694.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="456.0" t="1862.0" r="618.0" b="1894.0">neoexx</box>
+          <box l="660.0" t="1863.0" r="768.0" b="1890.0">LESS</box>
+          <box l="802.0" t="1863.0" r="909.0" b="1893.0">COMP</box>
+          <box l="944.0" t="1862.0" r="1080.0" b="1892.0">CIGTS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2511.0" t="1849.0" r="2719.0" b="1884.0">-347.10</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="469.0" t="1974.0" r="602.0" b="2006.0">41330</box>
+          <box l="661.0" t="1973.0" r="781.0" b="2002.0">PARL</box>
+          <box l="823.0" t="1972.0" r="910.0" b="2004.0">LTS</box>
+          <box l="949.0" t="1974.0" r="1044.0" b="2004.0">MEN</box>
+          <box l="1082.0" t="1973.0" r="1170.0" b="2003.0">BOX</box>
+          <box l="1207.0" t="1973.0" r="1360.0" b="2005.0">BlGIF</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1923.0" t="1964.0" r="1940.0" b="1997.0">6</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2181.0" t="1965.0" r="2361.0" b="1999.0">115.70</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2511.0" t="1966.0" r="2687.0" b="2000.0">694.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="456.0" t="2032.0" r="619.0" b="2062.0">IXXXXX</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2512.0" t="2020.0" r="2717.0" b="2054.0">-347.10</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

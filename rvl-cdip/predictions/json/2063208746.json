@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "C",
+    "LineItem": [
+        {
+            "ItemDescription": "AS PER ATTACHED STATEMENT OF ACCOUNT DATED 12/19/79"
+        }
+    ],
+    "IssuedDate": "12/20/79",
+    "TotalAmount": "1,936,606"
+}

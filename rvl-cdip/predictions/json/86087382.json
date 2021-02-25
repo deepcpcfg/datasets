@@ -1,0 +1,23 @@
+{
+    "IssuedDate": "October 20, 1999",
+    "InvoiceNumber": "20004",
+    "LineItem": [
+        {
+            "ItemDescription": "Airfare",
+            "ItemTotal": "$3,231.57"
+        },
+        {
+            "ItemDescription": "s. williams, WDC-San Francisco,",
+            "ItemTotal": "3,185.00"
+        },
+        {
+            "ItemDescription": "CA-WDC, 8/31/99",
+            "ItemTotal": "3,185-00"
+        },
+        {
+            "ItemDescription": "Transportation",
+            "ItemTotal": "24.94"
+        }
+    ],
+    "TotalAmount": "$3,231-57"
+}

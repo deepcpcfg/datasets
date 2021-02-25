@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "7120002350 4",
+    "IssuedDate": "04/30/87",
+    "TotalAmount": "2,319.63",
+    "LineItem": [
+        {
+            "ItemTotal": "19,977.18",
+            "ItemDescription": "BALANCE FORWARD",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "17.657.55CR",
+            "ItemDescription": "CASH",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

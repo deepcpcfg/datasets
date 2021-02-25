@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2 30 2 3",
+    "IssuedDate": "July 9, 1971",
+    "TotalAmount": "6,320.47",
+    "LineItem": [
+        {
+            "ItemDescription": "Services: Cumulative to Date",
+            "ItemTotal": "$90,022.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Less: Previous Invoices",
+            "ItemTotal": "83,702.28",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

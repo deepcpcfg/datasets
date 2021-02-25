@@ -1,0 +1,247 @@
+[
+    {
+        "IssuedDate": [
+            "October 13. 19??",
+            {
+                "tp": 14.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "thirty",
+            {
+                "tp": 0.0,
+                "fp": 6.0,
+                "fn": 8.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "1,500.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Design exploration and development of eoven comprehensive systole for *Square Shape* oonoept Design exploration and development of new directlone based on •Oral* rod concept, and design of eight",
+                            {
+                                "tp": 83.0,
+                                "fp": 111.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 91.0,
+                        "fp": 111.0,
+                        "fn": 9.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3.900.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "variations of two logos. faok Segulart Fourteen semi-comprehensive concepts ware presented (Earth Colors)",
+                            {
+                                "tp": 77.0,
+                                "fp": 28.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 84.0,
+                        "fp": 29.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,800.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "pack ^eptholi Twelve Beml-ooaprahenslva concepts were presantou",
+                            {
+                                "tp": 54.0,
+                                "fp": 9.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 62.0,
+                        "fp": 9.0,
+                        "fn": 12.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1,200.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Carton Regulari Three three-dimensional flat semi-comprehensive concepts were presented Barrel Boggieri Ton semi-comprehensive, three- 1 dimensional dummy concepts were presented",
+                            {
+                                "tp": 83.0,
+                                "fp": 95.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 91.0,
+                        "fp": 95.0,
+                        "fn": 7.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 90.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 0.0,
+                        "fn": 98.0
+                    }
+                ]
+            ],
+            {
+                "tp": 328.0,
+                "fp": 244.0,
+                "fn": 132.0
+            }
+        ],
+        "InvoiceNumber": [
+            "791",
+            {
+                "tp": 0.0,
+                "fp": 3.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 342.0,
+        "fp": 255.0,
+        "fn": 142.0
+    }
+]

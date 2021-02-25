@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="218.0" fp="8.0" fn="180.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="1879.0" t="884.0" r="1925.0" b="925.0">16</box>
+      <box l="1946.0" t="884.0" r="2057.0" b="937.0">April</box>
+      <box l="2092.0" t="880.0" r="2196.0" b="925.0">1970</box>
+    </IssuedDate>
+    <LineItem tp="196.0" fp="7.0" fn="180.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="959.0" t="1943.0" r="1192.0" b="2000.0">Bedding..</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1392.0" t="1945.0" r="1533.0" b="1988.0">30.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="716.0" t="2197.0" r="883.0" b="2247.0">Project</box>
+          <box l="905.0" t="2192.0" r="1185.0" b="2247.0">Manager(H.</box>
+          <box l="1217.0" t="2193.0" r="1522.0" b="2247.0">Rosenkrantzr</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1822.0" t="2196.0" r="1987.0" b="2238.0">865.18</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="713.0" t="2255.0" r="960.0" b="2313.0">Analytical</box>
+          <box l="988.0" t="2255.0" r="1259.0" b="2309.0">ChemistfM.</box>
+          <box l="1292.0" t="2261.0" r="1537.0" b="2313.0">Hagc-pian,</box>
+          <box l="1568.0" t="2259.0" r="1742.0" b="2313.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1780.0" t="2259.0" r="2000.0" b="2310.0">1,161.74</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="713.0" t="2322.0" r="976.0" b="2376.0">Pathologist</box>
+          <box l="1092.0" t="2322.0" r="1238.0" b="2376.0">Baker)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1830.0" t="2326.0" r="1912.0" b="2367.0">446</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="712.0" t="2384.0" r="962.0" b="2441.0">Laboratory</box>
+          <box l="988.0" t="2387.0" r="1263.0" b="2430.0">Technicians</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1776.0" t="2388.0" r="1995.0" b="2439.0">1,796.19</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="705.0" t="2450.0" r="872.0" b="2492.0">Animal</box>
+          <box l="897.0" t="2455.0" r="1008.0" b="2493.0">Care</box>
+          <box l="1034.0" t="2451.0" r="1312.0" b="2494.0">Technician*</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1834.0" t="2455.0" r="1996.0" b="2497.0">114.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="704.0" t="2509.0" r="979.0" b="2553.0">Clerk-Data</box>
+          <box l="1005.0" t="2513.0" r="1242.0" b="2563.0">Processing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1884.0" t="2517.0" r="1996.0" b="2555.0">2.34</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2558.0" t="3306.0" r="2839.0" b="3356.0">$11,481.15</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

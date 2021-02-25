@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "DATE",
+    "LineItem": [
+        {
+            "ItemDescription": "Phase I Range Finding Study",
+            "ItemTotal": "8,355.00"
+        },
+        {
+            "ItemDescription": "Phase I Range Finding Study",
+            "ItemTotal": "8,355.00"
+        },
+        {
+            "ItemDescription": "Repeat of PFC Assay",
+            "ItemTotal": "2,000.00"
+        }
+    ],
+    "TotalAmount": "$42,242.00"
+}

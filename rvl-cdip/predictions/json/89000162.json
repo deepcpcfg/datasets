@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "51400",
+    "IssuedDate": "10/20/89",
+    "LineItem": [
+        {
+            "ItemDescription": "Compound iMlunoraodulatory A35 Screening Test ini Mice",
+            "ItemTotal": "7,533.00"
+        },
+        {
+            "ItemDescription": "Compound A36 Inmuficmodulatory Screening Test in Mice",
+            "ItemTotal": "7,533.00"
+        },
+        {
+            "ItemDescription": "and Phase I Range Finding Study Compound B233",
+            "ItemTotal": "8,355.00"
+        },
+        {
+            "ItemDescription": "Compound A143",
+            "ItemTotal": "8,355.00"
+        },
+        {
+            "ItemDescription": "Conpound B219",
+            "ItemTotal": "8,355.00"
+        }
+    ],
+    "TotalAmount": "Due/$40,131.00"
+}

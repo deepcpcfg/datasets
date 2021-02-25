@@ -1,0 +1,15 @@
+{
+    "IssuedDate": "May 26. 1992",
+    "InvoiceNumber": "#050226",
+    "LineItem": [
+        {
+            "ItemDescription": "Production Typography Mechanicals",
+            "ItemTotal": "$6,372.30"
+        },
+        {
+            "ItemDescription": "Misc. (Coptes.stats)",
+            "ItemTotal": "752.33"
+        }
+    ],
+    "TotalAmount": "$19,00694"
+}

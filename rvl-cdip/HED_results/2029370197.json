@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "Dec 12, 1991",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "18,079.20",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "One third of budgeted fee as approved by IM",
+                            {
+                                "tp": 43.0,
+                                "fp": 0.0,
+                                "fn": 24.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 52.0,
+                        "fp": 0.0,
+                        "fn": 26.0
+                    }
+                ]
+            ],
+            {
+                "tp": 52.0,
+                "fp": 0.0,
+                "fn": 26.0
+            }
+        ],
+        "InvoiceNumber": [
+            "CH0186",
+            {
+                "tp": 4.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 68.0,
+        "fp": 2.0,
+        "fn": 28.0
+    }
+]

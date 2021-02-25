@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1027001-IN",
+    "IssuedDate": "09/15/95",
+    "TotalAmount": "30,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Survey of the air quality in four Marriott lounges in the Detroit airport. The survey is designed to determine the amount of ETS in the lounges, consisting of initial and post sampling phases. Sampling and Testing",
+            "ItemTotal": "30,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

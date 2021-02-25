@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "P98043-2",
+    "IssuedDate": "Octobers, 1998",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost for interviewing E000 respondents nationwide ",
+            "ItemTotal": "$75,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Less any prepayment ",
+            "ItemTotal": "0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Balance due ",
+            "ItemTotal": "$75,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

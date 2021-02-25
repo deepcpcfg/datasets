@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "3756",
+    "IssuedDate": "February 28, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "Total research fees",
+            "ItemTotal": "$ 32,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Billed to date",
+            "ItemTotal": "(16,000.00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Remainder due on fee",
+            "ItemTotal": "$ 16,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

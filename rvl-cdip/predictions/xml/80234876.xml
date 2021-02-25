@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="39.0" fp="183.0" fn="45.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2381.0" t="1401.0" r="2572.0" b="1430.0">1377125</box>
+    </InvoiceNumber>
+    <LineItem tp="23.0" fp="180.0" fn="36.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1328.0" t="2117.0" r="1464.0" b="2142.0">5«0K£</box>
+          <box l="1499.0" t="2117.0" r="1777.0" b="2142.0">IWRAIATIOW</box>
+          <box l="1810.0" t="2117.0" r="1944.0" b="2142.0">STUDY</box>
+          <box l="1328.0" t="2209.0" r="1581.0" b="2238.0">1-5087.026;</box>
+          <box l="1614.0" t="2209.0" r="1752.0" b="2245.0">90-day</box>
+          <box l="1777.0" t="2212.0" r="2014.0" b="2238.0">SuicAromc</box>
+          <box l="1328.0" t="2255.0" r="1374.0" b="2285.0">1b</box>
+          <box l="1399.0" t="2259.0" r="1490.0" b="2285.0">Rats</box>
+          <box l="1519.0" t="2263.0" r="1560.0" b="2285.0">to</box>
+          <box l="1589.0" t="2263.0" r="1752.0" b="2292.0">compare</box>
+          <box l="1778.0" t="2258.0" r="2035.0" b="2292.0">Respiratory</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1540.0" t="2305.0" r="1586.0" b="2332.0">of</box>
+          <box l="1614.0" t="2305.0" r="1752.0" b="2340.0">Lavayo</box>
+          <box l="1781.0" t="2305.0" r="1931.0" b="2334.0">Fluids,</box>
+          <box l="1449.0" t="2351.0" r="1656.0" b="2388.0">Sntfpointg</box>
+          <box l="1686.0" t="2351.0" r="1799.0" b="2388.0">uslnp</box>
+          <box l="1828.0" t="2355.0" r="1914.0" b="2380.0">Test</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="2039.0" t="2213.0" r="2155.0" b="2238.0">SSsoJte</box>
+          <box l="2180.0" t="2209.0" r="2413.0" b="2238.0">Infsalation</box>
+          <box l="2064.0" t="2259.0" r="2176.0" b="2287.0">Tract</box>
+          <box l="2202.0" t="2259.0" r="2451.0" b="2292.0">^IscopstAy.</box>
+          <box l="2061.0" t="2305.0" r="2247.0" b="2334.0">Selected</box>
+          <box l="2276.0" t="2305.0" r="2459.0" b="2334.0">BiocTiem-</box>
+          <box l="2111.0" t="2354.0" r="2197.0" b="2383.0">D34)</box>
+          <box l="2229.0" t="2355.0" r="2297.0" b="2381.0">anti</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2493.0" t="2113.0" r="2685.0" b="2146.0">187,500.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2835.0" t="2113.0" r="2951.0" b="2142.0">500.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="3.0" fn="1.0">
+      <box l="2755.0" t="2493.0" r="2980.0" b="2526.0">(393,750.00}</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

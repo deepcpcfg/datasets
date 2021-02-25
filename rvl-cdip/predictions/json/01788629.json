@@ -1,0 +1,29 @@
+{
+    "TotalAmount": "54",
+    "InvoiceNumber": "1014",
+    "IssuedDate": "August 4, 1975",
+    "LineItem": [
+        {
+            "ItemDescription": "Two Diack"
+        },
+        {
+            "ItemDescription": "focussed group sessions smokers in Indianapolis, Ind."
+        },
+        {
+            "ItemDescription": "July 31, 1975",
+            "ItemTotal": "1600.00"
+        },
+        {
+            "ItemDescription": "Moderator per diem (7/30/75)",
+            "ItemTotal": "200."
+        },
+        {
+            "ItemDescription": "Over screening fees",
+            "ItemTotal": "60."
+        },
+        {
+            "ItemDescription": "Additional co-op fees",
+            "ItemTotal": "70."
+        }
+    ]
+}

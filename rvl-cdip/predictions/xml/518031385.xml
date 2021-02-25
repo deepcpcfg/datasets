@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="69.0" fp="176.0" fn="140.0">
+    <InvoiceNumber tp="3.0" fp="1.0" fn="5.0">
+      <box l="2937.0" t="281.0" r="3069.0" b="318.0">59-2</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="0.0" fn="3.0">
+      <box l="158.0" t="1233.0" r="328.0" b="1279.0">07/14</box>
+    </IssuedDate>
+    <LineItem tp="53.0" fp="175.0" fn="132.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="777.0" t="1421.0" r="876.0" b="1458.0">12M</box>
+          <box l="956.0" t="1423.0" r="1130.0" b="1458.0">CAHEL</box>
+          <box l="1172.0" t="1424.0" r="1379.0" b="1459.0">FILTER</box>
+          <box l="1423.0" t="1424.0" r="1700.0" b="1460.0">B1G1F-I1</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2042.0" t="1425.0" r="2103.0" b="1463.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2328.0" t="1426.0" r="2607.0" b="1464.0">671■4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="778.0" t="1481.0" r="877.0" b="1517.0">12M</box>
+          <box l="957.0" t="1482.0" r="1130.0" b="1517.0">CAMEL</box>
+          <box l="1172.0" t="1483.0" r="1380.0" b="1517.0">FILTER</box>
+          <box l="1423.0" t="1483.0" r="1485.0" b="1519.0">BX</box>
+          <box l="1531.0" t="1483.0" r="1810.0" b="1520.0">B1G1F-I1</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2040.0" t="1483.0" r="2101.0" b="1521.0">48</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2329.0" t="1486.0" r="2607.0" b="1522.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="779.0" t="1541.0" r="878.0" b="1577.0">12M</box>
+          <box l="957.0" t="1541.0" r="1131.0" b="1578.0">CAMEL</box>
+          <box l="1173.0" t="1541.0" r="1344.0" b="1579.0">LIGHT</box>
+          <box l="1390.0" t="1543.0" r="1665.0" b="1580.0">B1G1F-I1</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2043.0" t="1545.0" r="2102.0" b="1580.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2330.0" t="1546.0" r="2608.0" b="1583.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="779.0" t="1601.0" r="878.0" b="1637.0">12M</box>
+          <box l="958.0" t="1602.0" r="1129.0" b="1637.0">CAMEL</box>
+          <box l="1174.0" t="1604.0" r="1236.0" b="1638.0">LT</box>
+          <box l="1282.0" t="1604.0" r="1381.0" b="1637.0">BOX</box>
+          <box l="1424.0" t="1603.0" r="1703.0" b="1638.0">BIGIF-I1</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2041.0" t="1604.0" r="2102.0" b="1641.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2330.0" t="1605.0" r="2608.0" b="1642.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="780.0" t="1660.0" r="878.0" b="1696.0">12M</box>
+          <box l="958.0" t="1661.0" r="1132.0" b="1698.0">CAMEL</box>
+          <box l="1175.0" t="1662.0" r="1309.0" b="1697.0">SPEC</box>
+          <box l="1353.0" t="1662.0" r="1416.0" b="1698.0">LT</box>
+          <box l="1461.0" t="1662.0" r="1561.0" b="1698.0">BOX</box>
+          <box l="1607.0" t="1662.0" r="1778.0" b="1699.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2042.0" t="1663.0" r="2103.0" b="1700.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2331.0" t="1666.0" r="2609.0" b="1702.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="780.0" t="1721.0" r="880.0" b="1756.0">12M</box>
+          <box l="959.0" t="1723.0" r="1058.0" b="1757.0">CAM</box>
+          <box l="1104.0" t="1723.0" r="1237.0" b="1756.0">SPEC</box>
+          <box l="1283.0" t="1722.0" r="1345.0" b="1757.0">LT</box>
+          <box l="1392.0" t="1724.0" r="1453.0" b="1757.0">BX</box>
+          <box l="1500.0" t="1723.0" r="1595.0" b="1758.0">100</box>
+          <box l="1642.0" t="1724.0" r="1816.0" b="1758.0">B1G1F</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2042.0" t="1723.0" r="2104.0" b="1758.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2332.0" t="1725.0" r="2608.0" b="1762.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="960.0" t="1840.0" r="1093.0" b="1875.0">LESS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2837.0" t="1903.0" r="3075.0" b="1939.0">207.29-</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2772.0" t="3211.0" r="3047.0" b="3252.0">4,062.01</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

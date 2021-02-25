@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "December Z2( 1966",
+            {
+                "tp": 15.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "721.",
+                            {
+                                "tp": 4.0,
+                                "fp": 0.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Submission Professional services rendered, during the period A aguet November Ln connection with analysis of cigarette smoke for participate matter, water content and nicotine. Our report! September 1966 On Carlton and reports October 1966 Lucky Strike and Fall Mali,",
+                            {
+                                "tp": 227.0,
+                                "fp": 40.0,
+                                "fn": 11.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 231.0,
+                        "fp": 40.0,
+                        "fn": 15.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "*50.",
+                            {
+                                "tp": 3.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Direct",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 1.0,
+                        "fn": 12.0
+                    }
+                ]
+            ],
+            {
+                "tp": 240.0,
+                "fp": 41.0,
+                "fn": 27.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 10.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 255.0,
+        "fp": 43.0,
+        "fn": 39.0
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1532-1",
+    "IssuedDate": "July 5, 1983",
+    "TotalAmount": "19,875.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Teratogenic and Perinatal/ Postnatal Study in the Rat with 0-16 and B-112",
+            "ItemTotal": "$6,625.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

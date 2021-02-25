@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "October 13, 1982",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$14,800.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "For submission of Final Report Cardiovascular Testing of Compounds B-77, B'123, B-125, and B-126 in the Beagle Dog 8 $3,700",
+                            {
+                                "tp": 120.0,
+                                "fp": 3.0,
+                                "fn": 16.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 130.0,
+                        "fp": 3.0,
+                        "fn": 16.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "compound",
+                            {
+                                "tp": 0.0,
+                                "fp": 8.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 8.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 130.0,
+                "fp": 11.0,
+                "fn": 16.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 6.0
+            }
+        ]
+    },
+    {
+        "tp": 146.0,
+        "fp": 11.0,
+        "fn": 22.0
+    }
+]

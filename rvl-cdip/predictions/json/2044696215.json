@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "334635",
+    "IssuedDate": "20 Dec 1990",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL FEE",
+            "ItemTotal": "$4,000,00"
+        }
+    ]
+}

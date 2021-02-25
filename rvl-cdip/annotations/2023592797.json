@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "14th May 1992",
+    "TotalAmount": "40,531.23",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Fees",
+            "ItemTotal": "11,550.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses",
+            "ItemTotal": "3,235.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Payments to Consultants",
+            "ItemTotal": "22,529.44",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Office Costs",
+            "ItemTotal": "3,216.19",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

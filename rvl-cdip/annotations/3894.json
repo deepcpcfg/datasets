@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "89-133",
+    "IssuedDate": ".March 7, 1989",
+    "TotalAmount": "5,382.23",
+    "LineItem": [
+        {
+            "ItemTotal": "3,000.00",
+            "ItemDescription": "January Retainer (see attached)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "698.75",
+            "ItemDescription": "Additional Hours (see attached)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,683.48",
+            "ItemDescription": "January Expenses (see attached)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

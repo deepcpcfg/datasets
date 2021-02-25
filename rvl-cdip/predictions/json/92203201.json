@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "1310702",
+    "LineItem": [
+        {
+            "ItemDescription": "COLORATIONS 4C POSITIONS IN AD SIZE",
+            "ItemTotal": "3*355.00"
+        },
+        {
+            "ItemDescription": "AGENCY COMMISSION",
+            "ItemTotal": "503.25"
+        }
+    ],
+    "TotalAmount": "2*851.75"
+}

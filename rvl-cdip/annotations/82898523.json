@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1103",
+    "IssuedDate": "JULY 20,1993",
+    "TotalAmount": "24.634.00",
+    "LineItem": [
+        {
+            "ItemDescription": "118-1103 Pittsburgh 06/21/93",
+            "ItemUnitCount": "74",
+            "ItemTotal": "24,634.00",
+            "ItemUnitValue": ""
+        }
+    ]
+}

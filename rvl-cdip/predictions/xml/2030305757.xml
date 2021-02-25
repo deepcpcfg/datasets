@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="77.0" fp="28.0" fn="10.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="2143.0" t="1042.0" r="2280.0" b="1080.0">June</box>
+      <box l="2326.0" t="1042.0" r="2376.0" b="1087.0">3,</box>
+      <box l="2434.0" t="1041.0" r="2564.0" b="1079.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="57.0" fp="27.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="190.0" t="1883.0" r="607.0" b="1924.0">:ENGINEERING</box>
+          <box l="648.0" t="1885.0" r="956.0" b="1924.0">SERVICES:</box>
+          <box l="191.0" t="2116.0" r="462.0" b="2159.0">:Partial</box>
+          <box l="504.0" t="2123.0" r="749.0" b="2169.0">Payment</box>
+          <box l="791.0" t="2123.0" r="895.0" b="2161.0">For</box>
+          <box l="933.0" t="2122.0" r="1107.0" b="2163.0">Month</box>
+          <box l="1148.0" t="2122.0" r="1214.0" b="2163.0">of</box>
+          <box l="1253.0" t="2125.0" r="1357.0" b="2172.0">May</box>
+          <box l="191.0" t="2174.0" r="570.0" b="2228.0">:Completion</box>
+          <box l="613.0" t="2182.0" r="678.0" b="2219.0">at</box>
+          <box l="721.0" t="2181.0" r="820.0" b="2222.0">50%</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2433.0" t="1641.0" r="2745.0" b="1691.0">$2,750.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2402.0" t="2304.0" r="2710.0" b="2354.0">$1,375.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

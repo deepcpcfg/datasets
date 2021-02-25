@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "MQ0085",
+    "IssuedDate": "DATE Sep 30, 1991",
+    "LineItem": [
+        {
+            "ItemUnitCount": "40,072",
+            "ItemDescription": "SEX 6.14 SEE $1",
+            "ItemTotal": "6,526.38"
+        },
+        {
+            "ItemDescription": "September"
+        },
+        {
+            "ItemUnitCount": "16,245",
+            "ItemDescription": "SEK 6.14 SEK $1",
+            "ItemTotal": "2,645.76"
+        }
+    ],
+    "TotalAmount": "9,172.14"
+}

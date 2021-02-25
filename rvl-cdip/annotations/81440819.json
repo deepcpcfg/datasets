@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "3067008",
+    "TotalAmount": "7 500.00",
+    "LineItem": [
+        {
+            "ItemDescription": "15055.401: IN RATS BY",
+            "ItemTotal": "2500.00",
+            "ItemUnitValue": "2500.00",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "2500.00",
+            "ItemUnitValue": "2500.00",
+            "ItemDescription": "15056.401: IN RAIS BY",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "2500.00",
+            "ItemUnitValue": "2500.00",
+            "ItemDescription": "15057.401: IN RATS BY",
+            "ItemUnitCount": ""
+        }
+    ],
+    "IssuedDate": ""
+}

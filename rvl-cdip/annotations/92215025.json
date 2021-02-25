@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "324961",
+    "IssuedDate": "02/10/93",
+    "TotalAmount": "10,837.50",
+    "LineItem": [
+        {
+            "ItemDescription": "AD SIZE INSERT",
+            "ItemTotal": "12,550.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,882-50",
+            "ItemDescription": "AGENCY COMMISSION",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "50.00",
+            "ItemDescription": "BINDING",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "50.00",
+            "ItemDescription": "SLOWDOWN",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "70.00",
+            "ItemDescription": "Miscellaneous work",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

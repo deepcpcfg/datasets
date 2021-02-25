@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="65.0" fp="10.0" fn="46.0">
+    <TotalAmount tp="0.0" fp="4.0" fn="0.0">
+      <box l="1139.0" t="114.0" r="1268.0" b="163.0">INC,</box>
+    </TotalAmount>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="2196.0" t="179.0" r="2405.0" b="242.0">6/25/70</box>
+    </IssuedDate>
+    <LineItem tp="58.0" fp="6.0" fn="41.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="218.0" t="1118.0" r="427.0" b="1164.0">Tobacco</box>
+          <box l="464.0" t="1117.0" r="665.0" b="1162.0">Product</box>
+          <box l="702.0" t="1118.0" r="818.0" b="1160.0">Tost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2035.0" t="1106.0" r="2281.0" b="1161.0">1,235.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="217.0" t="1243.0" r="548.0" b="1302.0">Cupervlbory</box>
+          <box l="642.0" t="1256.0" r="787.0" b="1300.0">pengo</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2098.0" t="1232.0" r="2278.0" b="1286.0">125.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="216.0" t="1371.0" r="455.0" b="1428.0">Shipping</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2129.0" t="1362.0" r="2279.0" b="1412.0">15.71</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

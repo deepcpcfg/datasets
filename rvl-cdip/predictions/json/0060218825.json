@@ -1,0 +1,17 @@
+{
+    "InvoiceNumber": "2056",
+    "IssuedDate": "2/10/87",
+    "LineItem": [
+        {
+            "ItemDescription": "FOR THE MONTH Or DECEMBER 1986 PROVIDENCE"
+        },
+        {
+            "ItemDescription": "SUNDAY MAGAZINE",
+            "ItemTotal": "$9,448.00"
+        },
+        {
+            "ItemDescription": "LESS PREVIOUSLY BILLED ON INVOICE #12138",
+            "ItemTotal": "8,503.20"
+        }
+    ]
+}

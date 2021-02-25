@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="104.0" fp="47.0" fn="67.0">
+    <IssuedDate tp="12.0" fp="1.0" fn="1.0">
+      <box l="2030.0" t="754.0" r="2147.0" b="788.0">June</box>
+      <box l="2185.0" t="755.0" r="2260.0" b="795.0">30,</box>
+      <box l="2310.0" t="755.0" r="2422.0" b="791.0">1936</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="2.0" fn="3.0">
+      <box l="2340.0" t="1405.0" r="2517.0" b="1441.0">35436B</box>
+    </InvoiceNumber>
+    <LineItem tp="80.0" fp="43.0" fn="63.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="582.0" t="1994.0" r="630.0" b="2028.0">S.</box>
+          <box l="675.0" t="1994.0" r="921.0" b="2029.0">Lombardo</box>
+          <box l="1017.0" t="1995.0" r="1075.0" b="2029.0">NY</box>
+          <box l="1113.0" t="1991.0" r="1472.0" b="2036.0">5/13-5/15/96</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1975.0" t="1993.0" r="2154.0" b="2029.0">910.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="582.0" t="2171.0" r="766.0" b="2206.0">Ground</box>
+          <box l="799.0" t="2172.0" r="1229.0" b="2214.0">Transportation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2346.0" t="2171.0" r="2521.0" b="2206.0">193.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="583.0" t="2404.0" r="858.0" b="2450.0">Overnight</box>
+          <box l="896.0" t="2404.0" r="1108.0" b="2442.0">Courier</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2379.0" t="2407.0" r="2526.0" b="2443.0">34.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="584.0" t="2523.0" r="860.0" b="2569.0">Telephone</box>
+          <box l="587.0" t="2646.0" r="862.0" b="2687.0">Messenger</box>
+          <box l="900.0" t="2642.0" r="1109.0" b="2679.0">Service</box>
+          <box l="590.0" t="2761.0" r="864.0" b="2808.0">Photocopy</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2412.0" t="2646.0" r="2527.0" b="2677.0">7.95</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2634.0" t="3062.0" r="2906.0" b="3101.0">$1,652.55</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "Fetiruary 24, 1994",
+    "InvoiceNumber": "#02-0461",
+    "LineItem": [
+        {
+            "ItemDescription": "Artwork",
+            "ItemTotal": "$17,963.50"
+        },
+        {
+            "ItemDescription": "Production Typography",
+            "ItemTotal": "12.475.25"
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": "29.528.45"
+        }
+    ],
+    "TotalAmount": "$73597,01"
+}

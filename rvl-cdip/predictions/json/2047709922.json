@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "March 30, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "Ten Commissioned Articles",
+            "ItemTotal": "5,000"
+        },
+        {
+            "ItemDescription": "Editor Printing (15,000 Copies)",
+            "ItemTotal": "S40,000"
+        },
+        {
+            "ItemDescription": "Mailing (15,000 Copies)",
+            "ItemTotal": "510,000"
+        }
+    ],
+    "TotalAmount": "390,000"
+}

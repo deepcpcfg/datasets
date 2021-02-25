@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="230.0" fp="138.0" fn="30.0">
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="2031.0" t="600.0" r="2189.0" b="648.0">April</box>
+      <box l="2228.0" t="605.0" r="2310.0" b="646.0">30,</box>
+      <box l="2356.0" t="603.0" r="2480.0" b="638.0">2001</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2353.0" t="1283.0" r="2545.0" b="1317.0">205119</box>
+    </InvoiceNumber>
+    <LineItem tp="210.0" fp="138.0" fn="21.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="277.0" t="1710.0" r="370.0" b="1744.0">For</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2616.0" t="1710.0" r="2928.0" b="1753.0">$48,334.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="499.0" t="1832.0" r="725.0" b="1867.0">TeenHIP</box>
+          <box l="758.0" t="1830.0" r="950.0" b="1868.0">Awards</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2354.0" t="1837.0" r="2542.0" b="1870.0">812.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="500.0" t="1953.0" r="723.0" b="1988.0">TeenHIP</box>
+          <box l="759.0" t="1953.0" r="917.0" b="1989.0">Grant</box>
+          <box l="955.0" t="1955.0" r="1180.0" b="2000.0">Program</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2289.0" t="1954.0" r="2540.0" b="1997.0">5,860.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="498.0" t="2078.0" r="723.0" b="2113.0">TeenHIP</box>
+          <box l="760.0" t="2077.0" r="881.0" b="2113.0">Cool</box>
+          <box l="919.0" t="2080.0" r="1048.0" b="2113.0">News</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2285.0" t="2083.0" r="2540.0" b="2122.0">4,706.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="499.0" t="2203.0" r="590.0" b="2237.0">But</box>
+          <box l="599.0" t="2203.0" r="882.0" b="2237.0">toutnow.c</box>
+          <box l="890.0" t="2209.0" r="953.0" b="2235.0">om</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2290.0" t="2204.0" r="2541.0" b="2243.0">1,847.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="496.0" t="2322.0" r="625.0" b="2359.0">Take</box>
+          <box l="662.0" t="2325.0" r="720.0" b="2358.0">10</box>
+          <box l="758.0" t="2322.0" r="979.0" b="2359.0">General</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2287.0" t="2326.0" r="2538.0" b="2368.0">6,123.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="498.0" t="2451.0" r="686.0" b="2484.0">Parent</box>
+          <box l="727.0" t="2448.0" r="917.0" b="2493.0">5-City</box>
+          <box l="952.0" t="2451.0" r="1080.0" b="2484.0">Tour</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2255.0" t="2450.0" r="2538.0" b="2493.0">13,226,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="502.0" t="2572.0" r="685.0" b="2605.0">Parent</box>
+          <box l="727.0" t="2569.0" r="1045.0" b="2606.0">Influencer</box>
+          <box l="1082.0" t="2573.0" r="1339.0" b="2607.0">Outreach</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2256.0" t="2572.0" r="2539.0" b="2614.0">13,361.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="504.0" t="2817.0" r="587.0" b="2851.0">"SB</box>
+          <box l="499.0" t="2691.0" r="853.0" b="2731.0">2take10.com</box>
+          <box l="626.0" t="2820.0" r="850.0" b="2861.0">Degrees</box>
+          <box l="887.0" t="2815.0" r="1242.0" b="2861.0">Sponsorship</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2283.0" t="2818.0" r="2538.0" b="2860.0">2,037.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="590.0" t="3190.0" r="749.0" b="3225.0">Aram's</box>
+          <box l="787.0" t="3185.0" r="1074.0" b="3226.0">Limousine</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1958.0" t="3192.0" r="2112.0" b="3225.0">74.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="591.0" t="3253.0" r="708.0" b="3287.0">Amen5</box>
+          <box l="724.0" t="3261.0" r="749.0" b="3286.0">s</box>
+          <box l="788.0" t="3249.0" r="1075.0" b="3288.0">Limousine</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1958.0" t="3254.0" r="2112.0" b="3291.0">66.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="590.0" t="3498.0" r="781.0" b="3537.0">Diners</box>
+          <box l="819.0" t="3498.0" r="944.0" b="3535.0">Club</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1860.0" t="3501.0" r="2110.0" b="3543.0">2,610.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="590.0" t="3559.0" r="782.0" b="3600.0">Diners</box>
+          <box l="819.0" t="3560.0" r="945.0" b="3599.0">Club</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1924.0" t="3566.0" r="2111.0" b="3601.0">846.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="591.0" t="3628.0" r="719.0" b="3671.0">Katy</box>
+          <box l="753.0" t="3623.0" r="1044.0" b="3672.0">Homburger</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1924.0" t="3628.0" r="2111.0" b="3663.0">903.86</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="820.0" t="3685.0" r="945.0" b="3723.0">Club</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1924.0" t="3689.0" r="2108.0" b="3725.0">609.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

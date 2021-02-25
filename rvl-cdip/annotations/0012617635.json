@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "8261",
+    "IssuedDate": "November 1, 1985",
+    "TotalAmount": "919.50",
+    "LineItem": [
+        {
+            "ItemTotal": "$ 852.00",
+            "ItemDescription": "For professional services rendered in connection with the matter of Save More Markets - v. Chu, et al., including telephone conferences with co-counsel and staff of the Attorney General’s office and the New York State Department of Taxation and Finance, review of prior pleadings, attention to the motion to intervene, and all related legal research, tele¬ phone communications, correspondence and advice and counsel to October 31, 1985 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photocopies",
+            "ItemTotal": "$ 21.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postage ",
+            "ItemTotal": "4.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Express Mail",
+            "ItemTotal": "42.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "9803010",
+    "IssuedDate": "March 9. 1998",
+    "TotalAmount": "171.037.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Ongoing Fixed Expenses",
+            "ItemTotal": "$44.167.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Ongoing Variable Expenses",
+            "ItemTotal": "154,615.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Additional AWS Geos",
+            "ItemTotal": "10,833 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Frozen Database",
+            "ItemTotal": "1.500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$200,559.00",
+            "ItemDescription": "Adjusled Ongoing Expenses 5% Discount",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Credit",
+            "ItemTotal": "(29,522,00)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

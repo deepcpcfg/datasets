@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "010238",
+    "IssuedDate": "□att Jul 23. 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "Trane Air Conditioning Clinic, Jwie M, 1 day",
+            "ItemTotal": "1,000.00"
+        },
+        {
+            "ItemDescription": "Clean Air Society of Australia and New Zealand Brisbane, July 7-8, 2 days (airfare/aceannodatIon)",
+            "ItemTotal": "2,900.00"
+        },
+        {
+            "ItemDescription": "Australian Society for Environmental Medicine Brisbane, July 12-13, 1 day (alrfare/aeccnmodat Ion)",
+            "ItemTotal": "1.000.00"
+        },
+        {
+            "ItemDescription": "l£S Conference, Sydney, July 21, 1 day [ES Conference, Melbourne, July 28, 2 days",
+            "ItemTotal": "1,000.00"
+        }
+    ],
+    "TotalAmount": "8,00"
+}

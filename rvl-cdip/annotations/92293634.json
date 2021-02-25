@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "L10095",
+    "IssuedDate": "December 12, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "1995 Sponsorship",
+            "ItemTotal": "$700,000.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "First Payment Due Upon Receipt of This Invoice",
+            "ItemTotal": "300,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

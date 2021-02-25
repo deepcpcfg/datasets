@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "April 13, 1994",
+    "InvoiceNumber": "3784",
+    "LineItem": [
+        {
+            "ItemDescription": "Total estimated research fees",
+            "ItemTotal": "28,800",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Due now",
+            "ItemTotal": "14,400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

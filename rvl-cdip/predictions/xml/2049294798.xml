@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="20.0" fp="71.0" fn="27.0">
+    <LineItem tp="20.0" fp="71.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="1690.0" r="679.0" b="1723.0">NOV</box>
+          <box l="709.0" t="1690.0" r="755.0" b="1722.0">87</box>
+          <box l="834.0" t="1693.0" r="1038.0" b="1723.0">GOHJUTER</box>
+          <box l="1064.0" t="1693.0" r="1288.0" b="1726.0">CLOCKS-BL</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1476.0" t="1696.0" r="1517.0" b="1725.0">12</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2138.0" t="1694.0" r="2335.0" b="1731.0">1,738.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="605.0" t="1861.0" r="680.0" b="1890.0">NOV</box>
+          <box l="709.0" t="1861.0" r="751.0" b="1890.0">87</box>
+          <box l="835.0" t="1864.0" r="1035.0" b="1894.0">COMMJTER</box>
+          <box l="1064.0" t="1864.0" r="1289.0" b="1894.0">CLOCKS-BL</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1452.0" t="1867.0" r="1518.0" b="1895.0">152</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2113.0" t="1865.0" r="2334.0" b="1895.0">18.543.53</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="351.0" t="2073.0" r="421.0" b="2104.0">BLB</box>
+          <box l="476.0" t="2074.0" r="550.0" b="2104.0">B6.H</box>
+          <box l="581.0" t="2073.0" r="726.0" b="2107.0">LIGHTS</box>
+          <box l="757.0" t="2073.0" r="831.0" b="2107.0">BOX</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

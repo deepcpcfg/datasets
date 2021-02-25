@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "334635",
+    "IssuedDate": "20 Dec 1990",
+    "TotalAmount": "197.00",
+    "LineItem": [
+        {
+            "ItemTotal": "4,000.00",
+            "ItemDescription": "BUDGET",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$4,000.00",
+            "ItemDescription": "PROFESSIONAL FEE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$4,000.00",
+            "ItemDescription": "LESS AMOUNT PREVIOUSLY BILLED",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$197.00",
+            "ItemDescription": "OUT-OF-POCKET EXPENSES",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

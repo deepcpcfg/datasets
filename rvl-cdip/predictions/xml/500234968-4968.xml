@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="22.0" fn="42.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2193.0" t="121.0" r="2441.0" b="185.0">12/31/70</box>
+    </IssuedDate>
+    <LineItem tp="70.0" fp="22.0" fn="27.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="186.0" t="1018.0" r="301.0" b="1066.0">Coat</box>
+          <box l="339.0" t="1018.0" r="394.0" b="1063.0">of</box>
+          <box l="427.0" t="1017.0" r="731.0" b="1072.0">conducting</box>
+          <box l="756.0" t="1016.0" r="968.0" b="1061.0">Monadic</box>
+          <box l="185.0" t="1085.0" r="451.0" b="1140.0">Cigarette</box>
+          <box l="489.0" t="1085.0" r="694.0" b="1129.0">Product</box>
+          <box l="731.0" t="1085.0" r="848.0" b="1128.0">Teat</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2031.0" t="1078.0" r="2276.0" b="1137.0">1,200.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="180.0" t="1214.0" r="514.0" b="1271.0">Supervisor/</box>
+          <box l="180.0" t="1346.0" r="425.0" b="1402.0">Shipping</box>
+          <box l="551.0" t="1218.0" r="755.0" b="1268.0">f-z?«neo</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2089.0" t="1211.0" r="2272.0" b="1257.0">160.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

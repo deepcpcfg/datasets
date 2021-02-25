@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "December 23, 1999",
+    "TotalAmount": "689.13",
+    "LineItem": [
+        {
+            "ItemTotal": "129.40",
+            "ItemDescription": "Federal Express ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "23.30",
+            "ItemDescription": "Local Delivery ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "231,90",
+            "ItemDescription": "Storage ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "147.84",
+            "ItemDescription": "Magazines for Reference ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "156.69",
+            "ItemDescription": "Telephone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

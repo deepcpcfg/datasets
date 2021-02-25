@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "November",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "3,645.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Dcsnriolton- MISTY §3.00 BONUS COUPON Development, Fees, Art thru Mechanical.",
+                            {
+                                "tp": 39.0,
+                                "fp": 38.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 47.0,
+                        "fp": 38.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 47.0,
+                "fp": 38.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "15311",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 60.0,
+        "fp": 38.0,
+        "fn": 9.0
+    }
+]

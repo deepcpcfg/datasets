@@ -1,0 +1,83 @@
+[
+    {
+        "TotalAmount": [
+            "3,000.00",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "3,000.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Sales Advertising Division Light Box Pier 1) 3 Inside Size: 2111 w x 21,! h Covering Period: February 1, 1998 thru January 31, 1999",
+                            {
+                                "tp": 108.0,
+                                "fp": 23.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 116.0,
+                        "fp": 23.0,
+                        "fn": 4.0
+                    }
+                ]
+            ],
+            {
+                "tp": 116.0,
+                "fp": 23.0,
+                "fn": 4.0
+            }
+        ],
+        "InvoiceNumber": [
+            "0004214-IN",
+            {
+                "tp": 10.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 8.0
+            }
+        ]
+    },
+    {
+        "tp": 134.0,
+        "fp": 23.0,
+        "fn": 12.0
+    }
+]

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="286.0" fp="215.0" fn="56.0">
+    <LineItem tp="286.0" fp="215.0" fn="40.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="462.0" t="1040.0" r="828.0" b="1067.0">ROON-BOARD-SEMI</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1111.0" t="1041.0" r="1277.0" b="1071.0">5100.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1356.0" t="1041.0" r="1527.0" b="1070.0">5100.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1086.0" r="757.0" b="1113.0">ICU-SURGICAL</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1360.0" t="1087.0" r="1526.0" b="1115.0">1465.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1130.0" r="657.0" b="1159.0">PHARMACY</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1381.0" t="1130.0" r="1527.0" b="1160.0">664.20</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="469.0" t="1179.0" r="508.0" b="1205.0">IV</box>
+          <box l="537.0" t="1176.0" r="757.0" b="1205.0">SOLUTION'S</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1136.0" t="1179.0" r="1277.0" b="1209.0">297.65</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1381.0" t="1177.0" r="1526.0" b="1208.0">297.65</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="469.0" t="1221.0" r="509.0" b="1251.0">IV</box>
+          <box l="537.0" t="1221.0" r="707.0" b="1251.0">THERAPY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1160.0" t="1226.0" r="1277.0" b="1255.0">67.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1406.0" t="1225.0" r="1526.0" b="1255.0">67.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1267.0" r="636.0" b="1296.0">MED-SUR</box>
+          <box l="662.0" t="1270.0" r="857.0" b="1301.0">SUPPLIES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1111.0" t="1271.0" r="1277.0" b="1301.0">2039-05</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1316.0" r="707.0" b="1345.0">LABORATORY</box>
+          <box l="737.0" t="1317.0" r="785.0" b="1345.0">OR</box>
+          <box l="820.0" t="1316.0" r="924.0" b="1346.0">(LAS)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1161.0" t="1317.0" r="1277.0" b="1346.0">45.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1406.0" t="1317.0" r="1527.0" b="1346.0">45.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1363.0" r="782.0" b="1392.0">LAB-CHEMISTRY</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1136.0" t="1363.0" r="1277.0" b="1392.0">677.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1381.0" t="1362.0" r="1527.0" b="1392.0">&lt;177.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="465.0" t="1408.0" r="807.0" b="1438.0">LAB-IMMUNOLOGY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1136.0" t="1409.0" r="1279.0" b="1438.0">222.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1382.0" t="1411.0" r="1527.0" b="1439.0">222.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1455.0" r="807.0" b="1485.0">LAB-HEMATOLOGY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1386.0" t="1459.0" r="1527.0" b="1488.0">318.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1504.0" r="808.0" b="1531.0">LAB-BACT-MICRO</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1136.0" t="1504.0" r="1281.0" b="1534.0">322.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1385.0" t="1505.0" r="1527.0" b="1534.0">322,00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1551.0" r="683.0" b="1580.0">PATHOLOGY</box>
+          <box l="715.0" t="1551.0" r="785.0" b="1579.0">LAB</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1385.0" t="1552.0" r="1527.0" b="1580.0">354.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1596.0" r="512.0" b="1626.0">DX</box>
+          <box l="541.0" t="1596.0" r="658.0" b="1626.0">X-RAY</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1141.0" t="1596.0" r="1281.0" b="1626.0">316.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1385.0" t="1600.0" r="1473.0" b="1626.0">Jib.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1642.0" r="512.0" b="1671.0">DX</box>
+          <box l="541.0" t="1641.0" r="811.0" b="1671.0">X-RAY-CHEST</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1161.0" t="1644.0" r="1281.0" b="1671.0">65.50</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1407.0" t="1644.0" r="1527.0" b="1671.0">65.50</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1688.0" r="512.0" b="1717.0">OR</box>
+          <box l="541.0" t="1688.0" r="733.0" b="1717.0">SERVICES</box>
+          <box l="466.0" t="1734.0" r="711.0" b="1763.0">ANESTHESIA</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1136.0" t="1734.0" r="1281.0" b="1764.0">756.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1385.0" t="1737.0" r="1527.0" b="1767.0">756-00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1780.0" r="733.0" b="1809.0">RESPIRATORY</box>
+          <box l="765.0" t="1780.0" r="836.0" b="1809.0">SVC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1115.0" t="1782.0" r="1281.0" b="1812.0">2200.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1360.0" t="1784.0" r="1527.0" b="1813.0">2200-00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1826.0" r="611.0" b="1855.0">SPEECH</box>
+          <box l="641.0" t="1826.0" r="786.0" b="1855.0">PATHOL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1141.0" t="1829.0" r="1281.0" b="1858.0">311.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1386.0" t="1830.0" r="1527.0" b="1859.0">311-00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1871.0" r="611.0" b="1901.0">SPEECH</box>
+          <box l="641.0" t="1871.0" r="861.0" b="1904.0">PATH-EVAL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1141.0" t="1876.0" r="1281.0" b="1905.0">193-00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="1390.0" t="1876.0" r="1527.0" b="1905.0">193-OC</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="1920.0" r="711.0" b="1951.0">CARDIOLOGY</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1161.0" t="1921.0" r="1281.0" b="1951.0">66.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1410.0" t="1921.0" r="1473.0" b="1951.0">6b.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="469.0" t="1967.0" r="661.0" b="1996.0">RECOVERY</box>
+          <box l="691.0" t="1967.0" r="786.0" b="1996.0">ROOM</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1142.0" t="1967.0" r="1281.0" b="1996.0">392.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1390.0" t="1967.0" r="1529.0" b="1996.0">"*82.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="2013.0" r="587.0" b="2042.0">OTHER</box>
+          <box l="621.0" t="2013.0" r="661.0" b="2042.0">DX</box>
+          <box l="690.0" t="2013.0" r="761.0" b="2042.0">SVS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1166.0" t="2015.0" r="1281.0" b="2044.0">39.53</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="1391.0" t="2016.0" r="1530.0" b="2043.0">139.50</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

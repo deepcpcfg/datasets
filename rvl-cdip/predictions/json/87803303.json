@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "February 27,",
+    "LineItem": [
+        {
+            "ItemDescription": "February Assessment Received",
+            "ItemTotal": "($42,552.40)"
+        },
+        {
+            "ItemDescription": "March Assessment for CLAR",
+            "ItemTotal": "42,552.40"
+        }
+    ],
+    "TotalAmount": "$42,552.40"
+}

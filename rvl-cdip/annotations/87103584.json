@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1888051",
+    "IssuedDate": "03 4 88",
+    "LineItem": [
+        {
+            "ItemDescription": "MACROPHAGE PROJECT - \"EVALUATION OF TWO GENETIC TOXICOLOGY ASSAYS FOR THEIR USE IN MONITORING RODENTS EXPOSED TO CIGARETTE SMOKE\"",
+            "ItemUnitValue": "4100.00",
+            "ItemUnitCount": "1",
+            "ItemTotal": "4100.00"
+        }
+    ],
+    "TotalAmount": ""
+}

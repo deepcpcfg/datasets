@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "PR08017745",
+    "IssuedDate": "8/23/02",
+    "TotalAmount": "178.61",
+    "LineItem": [
+        {
+            "ItemDescription": "Digital Delivery",
+            "ItemTotal": "25.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "100.00",
+            "ItemDescription": "Digital Production",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printouts",
+            "ItemTotal": "40.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

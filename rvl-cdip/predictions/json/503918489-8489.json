@@ -1,0 +1,23 @@
+{
+    "IssuedDate": "August 9, 1904",
+    "InvoiceNumber": "0324",
+    "LineItem": [
+        {
+            "ItemDescription": "SEFVICES: Editorial, Creative Direction, Art Direction, Production Art and Project Management through presentation on 7/26/64.",
+            "ItemTotal": "$20,275.00"
+        },
+        {
+            "ItemDescription": "SERVICE FELMBD EXPEJ Type, Stats, Ribdown, EXPEDITING (at OOfft) Art Supplies",
+            "ItemTotal": "3,637.34"
+        },
+        {
+            "ItemDescription": "PHONE (at cost)",
+            "ItemTotal": "66.37"
+        },
+        {
+            "ItemDescription": "TRAVEI/PER DUH (at OOSt)",
+            "ItemTotal": "2,645.00"
+        }
+    ],
+    "TotalAmount": "$26,649.71"
+}

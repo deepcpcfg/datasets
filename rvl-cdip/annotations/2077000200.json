@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "M470746",
+    "IssuedDate": "April 14. 1995",
+    "TotalAmount": "378,066.64",
+    "LineItem": [
+        {
+            "ItemTotal": "261,811.50",
+            "ItemDescription": "FEES FOR PROFESSIONAL SERVICES:",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "116,255.14",
+            "ItemDescription": "CHARGES:",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

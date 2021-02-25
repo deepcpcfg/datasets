@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "10/08/961",
+    "TotalAmount": "276.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$276.00",
+            "ItemUnitValue": "4.00",
+            "ItemUnitCount": "69",
+            "ItemDescription": "HUM8EROF 500+ 23 + 23 +• 23 ="
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "3.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "VALUE nows 300-499 0 + 0 4- 0 -"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "50.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "HUME EFl O"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "60.00",
+            "ItemUnitCount": "0",
+            "ItemDescription": "NUMBER OF STORES MODULAR. 9"
+        },
+        {
+            "ItemTotal": "$0.00",
+            "ItemUnitValue": "25.00",
+            "ItemUnitCount": "",
+            "ItemDescription": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

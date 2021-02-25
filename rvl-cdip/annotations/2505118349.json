@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "30-10.173PF",
+    "TotalAmount": "10.00",
+    "LineItem": [
+        {
+            "ItemDescription": "TOBACCO SAMPLES",
+            "ItemTotal": "10.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

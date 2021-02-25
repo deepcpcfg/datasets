@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "01/11/88",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "86,260.00",
+            {
+                "tp": 9.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "2,540,000 FREE STANDING INSERTS, 10 13/16 X 13 BLEED, PTD. 4/C 2 IMPRESSIONS OF DAY GLO ORANGE ON 70# CTD., REPRINT WITH WARNING CHANGE TO \"A,t",
+                            {
+                                "tp": 10.0,
+                                "fp": 133.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 10.0,
+                        "fp": 133.0,
+                        "fn": 22.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "TO SIZE, BULK",
+                            {
+                                "tp": 2.0,
+                                "fp": 11.0,
+                                "fn": 17.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 2.0,
+                        "fp": 11.0,
+                        "fn": 32.0
+                    }
+                ]
+            ],
+            {
+                "tp": 12.0,
+                "fp": 144.0,
+                "fn": 54.0
+            }
+        ],
+        "InvoiceNumber": [
+            "#018417",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 35.0,
+        "fp": 145.0,
+        "fn": 54.0
+    }
+]

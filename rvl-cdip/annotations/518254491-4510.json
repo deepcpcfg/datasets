@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "April 3, 1997",
+    "TotalAmount": "2,775.45",
+    "LineItem": [
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Current Professional Services",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,775.45",
+            "ItemDescription": "Current Disbursements",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

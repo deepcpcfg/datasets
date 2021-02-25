@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "4, M02",
+    "IssuedDate": "79 APR 16",
+    "TotalAmount": "19,109.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CHARACTERIZATION OF ANIMAL INHALATION EXPOSURE DEVICES",
+            "ItemTotal": "19,109.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

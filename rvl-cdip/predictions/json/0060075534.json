@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Videotaping and presentation editing",
+            "ItemTotal": "$2,200.00"
+        },
+        {
+            "ItemDescription": "(10) Tape Stock Fuji H18",
+            "ItemTotal": "$300.00"
+        }
+    ],
+    "TotalAmount": "[$2,500.00"
+}

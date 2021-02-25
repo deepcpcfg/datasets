@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "100049",
+    "IssuedDate": "10 18—8 7",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES PREVIOUSLY",
+            "ItemTotal": "U.S."
+        },
+        {
+            "ItemDescription": "OUT-OF-POCKET",
+            "ItemTotal": "$459.00"
+        }
+    ],
+    "TotalAmount": "$459.00"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="583.0" t="1141.0" r="813.0" b="1184.0">November</box>
+      <box l="834.0" t="1141.0" r="896.0" b="1188.0">IB,</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="583.0" t="1431.0" r="762.0" b="1476.0">National</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

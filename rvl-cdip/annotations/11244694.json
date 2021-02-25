@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1007",
+    "IssuedDate": "March 30, 1990",
+    "TotalAmount": "38.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Tobacco & Health Reference Cigarettes - Code 1R1",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "30.00",
+            "ItemTotal": "30.00"
+        }
+    ]
+}

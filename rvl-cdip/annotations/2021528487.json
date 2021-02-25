@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "November 16, 1992",
+    "TotalAmount": "697,250",
+    "LineItem": [
+        {
+            "ItemDescription": "Funds pledged by Philip Morris for the first five years of the Coronary/Cnncer Prevention Project ",
+            "ItemTotal": "$4,760,000",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Funds received by the Meyer Friedman Institute from Philip Morris as of November 16, 1992",
+            "ItemTotal": "4,062,750",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

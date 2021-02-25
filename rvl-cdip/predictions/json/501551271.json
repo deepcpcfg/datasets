@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "1734",
+    "IssuedDate": "Sept. 30, 1968.",
+    "LineItem": [
+        {
+            "ItemDescription": "Tobacco",
+            "ItemTotal": "$3,763.00"
+        },
+        {
+            "ItemDescription": "Long distance",
+            "ItemTotal": "19.80"
+        }
+    ],
+    "TotalAmount": "3,782.80"
+}

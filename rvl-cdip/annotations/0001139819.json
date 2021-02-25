@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "P-11-0918",
+    "IssuedDate": "NOV21/79",
+    "LineItem": [
+        {
+            "ItemTotal": "4312.42",
+            "ItemDescription": "104675 ENGRAVING ORDER NG1 14043",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "355 5,80",
+            "ItemDescription": "5GZ6T7 ENGRAVING ORDER NO LT39B",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1059,50",
+            "ItemDescription": "409326 ENGRAVING ORDER NO 17399",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "751.00",
+            "ItemDescription": "27376 ENGRAVING ORDER NO L3309",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "561.50",
+            "ItemDescription": "27R7T ENGRAVING ORDF.R MO 13308",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "148.00",
+            "ItemDescription": "27374 PO NG 35394/INV SPLIT 3/W Pt-3fl4, 35 tk 86.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "216.00",
+            "ItemDescription": "Z8070 ENGRAVING ORDER NO 9-31.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "153.00",
+            "ItemDescription": "2T&7& engraving n ROE 11 ND L5J09",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "March 17, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "Credit Issued for Consulting",
+            "ItemTotal": "565.00"
+        },
+        {
+            "ItemDescription": "Credit Issued for Phone Bank",
+            "ItemTotal": "805.00"
+        }
+    ],
+    "TotalAmount": "1,570.00"
+}

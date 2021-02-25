@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "97",
+    "LineItem": [
+        {
+            "ItemTotal": "1^000.00",
+            "ItemDescription": "Development"
+        }
+    ],
+    "TotalAmount": "1,000.00"
+}

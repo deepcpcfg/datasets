@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "September 29, 1987",
+    "LineItem": [
+        {
+            "ItemDescription": "Monthly Retainer for September",
+            "ItemTotal": "5,000.00"
+        },
+        {
+            "ItemDescription": "Staff Services for August September",
+            "ItemTotal": "34,696.25"
+        },
+        {
+            "ItemDescription": "Travel Messenger Expenses",
+            "ItemTotal": "11.88"
+        }
+    ],
+    "TotalAmount": "39,715.63"
+}

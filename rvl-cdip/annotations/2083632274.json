@@ -1,0 +1,61 @@
+{
+    "TotalAmount": "25,750.00",
+    "InvoiceNumber": "I23318",
+    "LineItem": [
+        {
+            "ItemTotal": "1,950.00",
+            "ItemUnitValue": "325",
+            "ItemDescription": "Creative Director",
+            "ItemUnitCount": "6"
+        },
+        {
+            "ItemTotal": "5,175.00",
+            "ItemUnitValue": "225",
+            "ItemDescription": "Associate Design Director",
+            "ItemUnitCount": "23"
+        },
+        {
+            "ItemTotal": "3,500.00",
+            "ItemUnitValue": "200",
+            "ItemDescription": "Group Production Director",
+            "ItemUnitCount": "17.5"
+        },
+        {
+            "ItemTotal": "13,050.00",
+            "ItemUnitValue": "150",
+            "ItemDescription": "Senior Production Manager",
+            "ItemUnitCount": "87"
+        },
+        {
+            "ItemTotal": "150.00",
+            "ItemUnitValue": "50",
+            "ItemDescription": "Intern",
+            "ItemUnitCount": "15"
+        },
+        {
+            "ItemTotal": "675.00",
+            "ItemDescription": "Computer Images",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "50.00",
+            "ItemDescription": "Landor Technology-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,214.14",
+            "ItemDescription": "Computer Images",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "25.00",
+            "ItemDescription": "Transportation",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

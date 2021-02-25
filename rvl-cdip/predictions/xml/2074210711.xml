@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="511.0" fp="19.0" fn="30.0">
+    <InvoiceNumber tp="0.0" fp="3.0" fn="0.0">
+      <box l="2868.0" t="388.0" r="2947.0" b="426.0">639</box>
+    </InvoiceNumber>
+    <LineItem tp="501.0" fp="15.0" fn="22.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="211.0" t="1942.0" r="336.0" b="1981.0">Image</box>
+          <box l="353.0" t="1940.0" r="514.0" b="1975.0">Archive</box>
+          <box l="528.0" t="1940.0" r="669.0" b="1975.0">Server</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2279.0" t="1939.0" r="2294.0" b="1970.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2400.0" t="1939.0" r="2611.0" b="1972.0">$12693.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2787.0" t="1938.0" r="3008.0" b="1976.0">$12,693.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="358.0" t="2050.0" r="448.0" b="2085.0">Link</box>
+          <box l="465.0" t="2050.0" r="603.0" b="2087.0">Server</box>
+          <box l="616.0" t="2054.0" r="803.0" b="2088.0">Software</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2282.0" t="2049.0" r="2294.0" b="2081.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2400.0" t="2047.0" r="2611.0" b="2085.0">$19995.04}</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2787.0" t="2046.0" r="3008.0" b="2088.0">$19,995.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="205.0" t="2163.0" r="340.0" b="2206.0">Digital</box>
+          <box l="357.0" t="2163.0" r="447.0" b="2196.0">Link</box>
+          <box l="465.0" t="2163.0" r="586.0" b="2200.0">Photo</box>
+          <box l="604.0" t="2163.0" r="732.0" b="2201.0">Editor</box>
+          <box l="745.0" t="2163.0" r="932.0" b="2201.0">Software</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2279.0" t="2161.0" r="2294.0" b="2193.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2425.0" t="2160.0" r="2608.0" b="2198.0">$7000.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2812.0" t="2159.0" r="3005.0" b="2199.0">$7,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="207.0" t="2276.0" r="337.0" b="2318.0">Digital</box>
+          <box l="357.0" t="2276.0" r="445.0" b="2310.0">Link</box>
+          <box l="461.0" t="2276.0" r="587.0" b="2318.0">image</box>
+          <box l="604.0" t="2277.0" r="795.0" b="2313.0">Archivist</box>
+          <box l="811.0" t="2280.0" r="857.0" b="2312.0">w/</box>
+          <box l="870.0" t="2276.0" r="945.0" b="2309.0">ISO</box>
+          <box l="959.0" t="2276.0" r="1108.0" b="2311.0">Author</box>
+          <box l="1124.0" t="2276.0" r="1308.0" b="2309.0">Software</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2279.0" t="2274.0" r="2291.0" b="2307.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2425.0" t="2273.0" r="2608.0" b="2309.0">$3750.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2808.0" t="2271.0" r="3004.0" b="2309.0">$3,750.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="204.0" t="2388.0" r="374.0" b="2421.0">External</box>
+          <box l="395.0" t="2388.0" r="524.0" b="2430.0">5-8ay,</box>
+          <box l="544.0" t="2388.0" r="904.0" b="2429.0">SCSI-Connected,</box>
+          <box l="924.0" t="2387.0" r="1162.0" b="2424.0">12GB-RAID</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2275.0" t="2386.0" r="2291.0" b="2418.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2395.0" t="2385.0" r="2607.0" b="2418.0">$12287.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2783.0" t="2384.0" r="3004.0" b="2422.0">$13,287.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="204.0" t="2500.0" r="365.0" b="2534.0">Pioneer</box>
+          <box l="383.0" t="2500.0" r="479.0" b="2534.0">DRM</box>
+          <box l="495.0" t="2501.0" r="566.0" b="2534.0">500</box>
+          <box l="583.0" t="2501.0" r="645.0" b="2534.0">CD</box>
+          <box l="658.0" t="2501.0" r="841.0" b="2535.0">Jukebox</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2275.0" t="2498.0" r="2295.0" b="2531.0">2</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2395.0" t="2498.0" r="2604.0" b="2531.0">516302.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2780.0" t="2493.0" r="3000.0" b="2534.0">$33,804.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="199.0" t="2610.0" r="333.0" b="2651.0">Digital</box>
+          <box l="354.0" t="2609.0" r="441.0" b="2642.0">Link</box>
+          <box l="458.0" t="2610.0" r="620.0" b="2655.0">Storage</box>
+          <box l="637.0" t="2612.0" r="824.0" b="2655.0">Manager</box>
+          <box l="837.0" t="2612.0" r="1021.0" b="2645.0">Software</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2276.0" t="2610.0" r="2287.0" b="2639.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2417.0" t="2608.0" r="2605.0" b="2639.0">$4995.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2805.0" t="2606.0" r="3000.0" b="2642.0">54.995.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="199.0" t="2721.0" r="333.0" b="2763.0">Digital</box>
+          <box l="349.0" t="2721.0" r="438.0" b="2755.0">Link</box>
+          <box l="454.0" t="2721.0" r="583.0" b="2764.0">Image</box>
+          <box l="600.0" t="2721.0" r="796.0" b="2758.0">Database</box>
+          <box l="813.0" t="2720.0" r="1059.0" b="2766.0">(Eight-seat)</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2271.0" t="2719.0" r="2287.0" b="2752.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2417.0" t="2718.0" r="2604.0" b="2756.0">$9995.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2804.0" t="2717.0" r="3001.0" b="2756.0">§9,995.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="199.0" t="2832.0" r="333.0" b="2872.0">Digital</box>
+          <box l="350.0" t="2831.0" r="437.0" b="2865.0">Link</box>
+          <box l="454.0" t="2831.0" r="712.0" b="2867.0">Workstation</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2271.0" t="2831.0" r="2287.0" b="2864.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2417.0" t="2831.0" r="2604.0" b="2864.0">$6737-00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2802.0" t="2827.0" r="3001.0" b="2864.0">56,737.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="200.0" t="2942.0" r="330.0" b="2985.0">Digital</box>
+          <box l="349.0" t="2943.0" r="438.0" b="2977.0">Link</box>
+          <box l="454.0" t="2943.0" r="580.0" b="2978.0">Photo</box>
+          <box l="596.0" t="2943.0" r="724.0" b="2980.0">Editor</box>
+          <box l="738.0" t="2943.0" r="924.0" b="2980.0">Software</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2271.0" t="2941.0" r="2284.0" b="2973.0">1</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2417.0" t="2940.0" r="2601.0" b="2976.0">$7000.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2802.0" t="2936.0" r="2996.0" b="2977.0">$7,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="10.0" fp="1.0" fn="0.0">
+      <box l="2707.0" t="3518.0" r="2977.0" b="3559.0">5129,394.03</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

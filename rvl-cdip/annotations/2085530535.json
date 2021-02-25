@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "December 17th, 2001",
+    "TotalAmount": "26 902,76 ",
+    "LineItem": [
+        {
+            "ItemDescription": "External research agreement",
+            "ItemTotal": "35 007,75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Plus; In directs costs (20%}",
+            "ItemTotal": "7 001,55",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

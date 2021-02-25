@@ -1,0 +1,103 @@
+{
+    "InvoiceNumber": "3. 1990.",
+    "IssuedDate": "31st.,1990",
+    "TotalAmount": "1673.55",
+    "LineItem": [
+        {
+            "ItemDescription": "TAC October 3rd.London. Railfare",
+            "ItemTotal": "70.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxifare",
+            "ItemTotal": "8.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Greece.October 6-12th. Railfare",
+            "ItemTotal": "51.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxifare",
+            "ItemTotal": "12.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Airfare",
+            "ItemTotal": "580.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Hotel",
+            "ItemTotal": "9.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Incidentals",
+            "ItemTotal": "25.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Southampton,TAC- Railfare",
+            "ItemTotal": "24.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxifare",
+            "ItemTotal": "14^75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TAC November 20th.London. Railfare",
+            "ItemTotal": "72.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Taxifare",
+            "ItemTotal": "4.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Incidentals",
+            "ItemTotal": "1.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LGC.Teddington.28-29th November. Hotel",
+            "ItemTotal": "147.83",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Car milage 464 £ 0.32 per mile",
+            "ItemTotal": "148.48",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel Insurance PM business.",
+            "ItemTotal": "234.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Telephone, Fax,Postage.(telephone from July 11th)",
+            "ItemTotal": "270.79",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

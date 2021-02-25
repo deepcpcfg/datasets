@@ -1,0 +1,45 @@
+{
+    "TotalAmount": "222-5060",
+    "IssuedDate": "August 31, 1998",
+    "LineItem": [
+        {
+            "ItemDescription": "W. Ed Whitelaw Exp Wjlness'Sr Econ",
+            "ItemUnitCount": "250.00",
+            "ItemUnitValue": "64.50",
+            "ItemTotal": "$16,125.00"
+        },
+        {
+            "ItemDescription": "Edward MacMullan Economist 3",
+            "ItemUnitCount": "90.00",
+            "ItemUnitValue": "153.50",
+            "ItemTotal": "$13,815.00"
+        },
+        {
+            "ItemDescription": "Helen Rosenau Res Analyst/Ad minist",
+            "ItemUnitCount": "60.00",
+            "ItemUnitValue": "0.75",
+            "ItemTotal": "$45.00"
+        },
+        {
+            "ItemDescription": "Anne Fiflefd Research Analyst 2",
+            "ItemUnitCount": "55.00",
+            "ItemUnitValue": "145.75",
+            "ItemTotal": "$5,016.25"
+        },
+        {
+            "ItemDescription": "RoseAnn Robinson Clerical",
+            "ItemUnitCount": "40.00",
+            "ItemUnitValue": "2.50",
+            "ItemTotal": "$100.00"
+        },
+        {
+            "ItemDescription": "Associates Postage",
+            "ItemTotal": "18,75"
+        },
+        {
+            "ItemDescription": "Publications Telephone",
+            "ItemTotal": "104.71"
+        }
+    ],
+    "InvoiceNumber": "1672"
+}

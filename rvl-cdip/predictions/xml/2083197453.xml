@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="198.0" fp="1.0" fn="8.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2658.0" t="555.0" r="2822.0" b="587.0">1523616</box>
+    </InvoiceNumber>
+    <IssuedDate tp="2.0" fp="0.0" fn="7.0">
+      <box l="2822.0" t="496.0" r="2864.0" b="529.0">95</box>
+    </IssuedDate>
+    <LineItem tp="182.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="517.0" t="1483.0" r="589.0" b="1517.0">’96</box>
+          <box l="621.0" t="1483.0" r="764.0" b="1517.0">MERIT</box>
+          <box l="791.0" t="1481.0" r="1013.0" b="1517.0">BOWLING</box>
+          <box l="1046.0" t="1480.0" r="1334.0" b="1517.0">PROMOTION</box>
+          <box l="1363.0" t="1480.0" r="1654.0" b="1517.0">AGREEMENT</box>
+          <box l="516.0" t="1538.0" r="638.0" b="1577.0">WITH</box>
+          <box l="670.0" t="1538.0" r="1058.0" b="1577.0">INTERNATIONAL</box>
+          <box l="1084.0" t="1538.0" r="1484.0" b="1578.0">MERCHANDISING</box>
+          <box l="1513.0" t="1539.0" r="1641.0" b="1577.0">CORP</box>
+          <box l="517.0" t="1601.0" r="604.0" b="1634.0">PER</box>
+          <box l="633.0" t="1601.0" r="945.0" b="1634.0">AMENDMENT</box>
+          <box l="971.0" t="1601.0" r="1267.0" b="1634.0">AGREEMENT</box>
+          <box l="1296.0" t="1601.0" r="1455.0" b="1634.0">DATED</box>
+          <box l="1484.0" t="1601.0" r="1682.0" b="1634.0">AUGUST</box>
+          <box l="520.0" t="1655.0" r="655.0" b="1701.0">29TH,</box>
+          <box l="688.0" t="1655.0" r="921.0" b="1692.0">INCREASE</box>
+          <box l="951.0" t="1655.0" r="992.0" b="1692.0">IN</box>
+          <box l="1026.0" t="1655.0" r="1096.0" b="1693.0">'96</box>
+          <box l="1126.0" t="1655.0" r="1267.0" b="1692.0">MERIT</box>
+          <box l="1296.0" t="1655.0" r="1516.0" b="1692.0">BOWLING</box>
+          <box l="516.0" t="1716.0" r="851.0" b="1754.0">SANCTIONING</box>
+          <box l="883.0" t="1715.0" r="992.0" b="1751.0">FEES</box>
+          <box l="1021.0" t="1714.0" r="1113.0" b="1752.0">FOR</box>
+          <box l="1142.0" t="1716.0" r="1254.0" b="1752.0">LPBT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2651.0" t="1771.0" r="2859.0" b="1813.0">6,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="2517.0" t="3938.0" r="2688.0" b="3973.0">6,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

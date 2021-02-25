@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "6-197",
+    "IssuedDate": "6/25/74",
+    "TotalAmount": "5,123.93",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost of conducting Winston \"Dick Fewton (Day",
+            "ItemTotal": "4,455.59",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Supervisory Expense",
+            "ItemTotal": "668.34",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="111.0" fp="0.0" fn="8.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="512.0" t="984.0" r="762.0" b="1034.0">December</box>
+      <box l="800.0" t="987.0" r="883.0" b="1041.0">13,</box>
+      <box l="929.0" t="986.0" r="1045.0" b="1034.0">1982</box>
+    </IssuedDate>
+    <LineItem tp="94.0" fp="0.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="508.0" t="2242.0" r="820.0" b="2292.0">EVALUATION</box>
+          <box l="858.0" t="2247.0" r="916.0" b="2292.0">OF</box>
+          <box l="958.0" t="2247.0" r="975.0" b="2292.0">I</box>
+          <box l="983.0" t="2247.0" r="1166.0" b="2292.0">KONOS</box>
+          <box l="1175.0" t="2247.0" r="1229.0" b="2292.0">UP</box>
+          <box l="1237.0" t="2247.0" r="1387.0" b="2292.0">PRES¬</box>
+          <box l="508.0" t="2309.0" r="629.0" b="2355.0">SION</box>
+          <box l="670.0" t="2309.0" r="725.0" b="2355.0">IN</box>
+          <box l="762.0" t="2309.0" r="945.0" b="2355.0">B6C3F1</box>
+          <box l="983.0" t="2309.0" r="1104.0" b="2355.0">MICE</box>
+          <box l="1141.0" t="2309.0" r="1262.0" b="2355.0">WITH</box>
+          <box l="1300.0" t="2309.0" r="1416.0" b="2355.0">Com¬</box>
+          <box l="508.0" t="2372.0" r="691.0" b="2426.0">pounds</box>
+          <box l="729.0" t="2372.0" r="882.0" b="2426.0">A-19,</box>
+          <box l="920.0" t="2372.0" r="1074.0" b="2417.0">B-134</box>
+          <box l="1171.0" t="2372.0" r="1328.0" b="2418.0">B-135</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2155.0" t="2242.0" r="2437.0" b="2301.0">$3,500.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

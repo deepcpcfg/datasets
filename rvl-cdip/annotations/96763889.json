@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "March 17, 1989",
+    "TotalAmount": "1,570.00 ",
+    "LineItem": [
+        {
+            "ItemTotal": "565.00",
+            "ItemDescription": "Credit Issued for Consulting",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "805.00",
+            "ItemDescription": "Credit Issued for Phone Bank",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

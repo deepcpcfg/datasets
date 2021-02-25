@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "7",
+    "IssuedDate": "October 24, 1985",
+    "TotalAmount": "11788",
+    "LineItem": [
+        {
+            "ItemUnitCount": "40,000",
+            "ItemDescription": "telephone calls"
+        },
+        {
+            "ItemDescription": "81.60 Per Call",
+            "ItemTotal": "S64,000.00"
+        },
+        {
+            "ItemDescription": "Estimated advance needs for payment of initial"
+        },
+        {
+            "ItemDescription": "40,000 Mailings First Class Postage 226",
+            "ItemTotal": "8,800.00"
+        },
+        {
+            "ItemDescription": "ADofA"
+        }
+    ]
+}

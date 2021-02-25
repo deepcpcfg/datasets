@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="245.0" fp="7.0" fn="9.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2641.0" t="847.0" r="2768.0" b="892.0">97465</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="0.0" fn="0.0">
+      <box l="1160.0" t="1725.0" r="1313.0" b="1774.0">7/23/97</box>
+    </IssuedDate>
+    <LineItem tp="227.0" fp="5.0" fn="7.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="334.0" t="1865.0" r="467.0" b="1923.0">Expert</box>
+          <box l="480.0" t="1865.0" r="692.0" b="1922.0">Testimony</box>
+          <box l="709.0" t="1865.0" r="981.0" b="1922.0">Development</box>
+          <box l="996.0" t="1876.0" r="1038.0" b="1910.0">as</box>
+          <box l="1055.0" t="1867.0" r="1210.0" b="1913.0">detailed</box>
+          <box l="1230.0" t="1880.0" r="1281.0" b="1914.0">on</box>
+          <box l="1293.0" t="1867.0" r="1471.0" b="1914.0">attached</box>
+          <box l="1489.0" t="1867.0" r="1588.0" b="1915.0">Task</box>
+          <box l="1604.0" t="1866.0" r="1826.0" b="1915.0">Worksheet</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2301.0" t="1868.0" r="2355.0" b="1914.0">58</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2396.0" t="1868.0" r="2542.0" b="1914.0">300.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2631.0" t="1868.0" r="2834.0" b="1921.0">17.400,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="334.0" t="2077.0" r="437.0" b="2123.0">Hotel</box>
+          <box l="455.0" t="2077.0" r="485.0" b="2120.0">in</box>
+          <box l="505.0" t="2076.0" r="625.0" b="2122.0">Miami</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2396.0" t="2077.0" r="2539.0" b="2123.0">317.42</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2693.0" t="2077.0" r="2835.0" b="2123.0">317.42</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="331.0" t="2144.0" r="467.0" b="2190.0">Airfare</box>
+          <box l="481.0" t="2148.0" r="517.0" b="2190.0">to</box>
+          <box l="535.0" t="2144.0" r="609.0" b="2190.0">and</box>
+          <box l="625.0" t="2144.0" r="714.0" b="2189.0">from</box>
+          <box l="731.0" t="2143.0" r="851.0" b="2189.0">Miami</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2372.0" t="2144.0" r="2539.0" b="2193.0">1759.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2656.0" t="2147.0" r="2835.0" b="2200.0">1,759.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="331.0" t="2215.0" r="417.0" b="2260.0">Taxi</box>
+          <box l="431.0" t="2218.0" r="468.0" b="2261.0">to</box>
+          <box l="485.0" t="2214.0" r="560.0" b="2260.0">and</box>
+          <box l="575.0" t="2214.0" r="664.0" b="2260.0">from</box>
+          <box l="681.0" t="2214.0" r="785.0" b="2260.0">Hotel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2422.0" t="2215.0" r="2539.0" b="2261.0">40.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2718.0" t="2215.0" r="2835.0" b="2261.0">40.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="331.0" t="2282.0" r="460.0" b="2328.0">Travel</box>
+          <box l="473.0" t="2282.0" r="685.0" b="2339.0">Expenses:</box>
+          <box l="718.0" t="2282.0" r="851.0" b="2335.0">Miami,</box>
+          <box l="868.0" t="2281.0" r="918.0" b="2327.0">FL</box>
+          <box l="934.0" t="2284.0" r="1081.0" b="2327.0">7/30/97</box>
+          <box l="1127.0" t="2284.0" r="1277.0" b="2330.0">7/22/97</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2653.0" t="2285.0" r="2835.0" b="2335.0">2.116.42</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="2.0" fn="2.0">
+      <box l="2601.0" t="3315.0" r="2835.0" b="3369.0">$1W16.42</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2405.0" t="80.0" r="2605.0" b="116.0">112304</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2439.0" t="195.0" r="2681.0" b="233.0">9/11/92</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2184.0" r="758.0" b="2221.0">RUBBER</box>
+          <box l="554.0" t="2297.0" r="687.0" b="2334.0">PREP</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2706.0" t="2291.0" r="2822.0" b="2330.0">939.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="487.0" t="2533.0" r="513.0" b="2566.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="554.0" t="2531.0" r="658.0" b="2567.0">PMS</box>
+          <box l="697.0" t="2531.0" r="800.0" b="2567.0">872</box>
+          <box l="846.0" t="2530.0" r="1117.0" b="2567.0">INK-COLD</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1931.0" t="2527.0" r="2050.0" b="2563.0">250.</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2676.0" t="2526.0" r="2826.0" b="2563.0">425C.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="554.0" t="2647.0" r="658.0" b="2684.0">RED</box>
+          <box l="700.0" t="2647.0" r="874.0" b="2684.0">MATCH</box>
+          <box l="909.0" t="2647.0" r="1187.0" b="2684.0">CUSTOMER</box>
+          <box l="1234.0" t="2647.0" r="1330.0" b="2684.0">INK</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1934.0" t="2642.0" r="2050.0" b="2680.0">250.</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2076.0" t="2642.0" r="2143.0" b="2680.0">00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

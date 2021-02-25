@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "362334",
+    "IssuedDate": "July 9, 1999",
+    "TotalAmount": "114,512.26",
+    "LineItem": [
+        {
+            "ItemDescription": "Fees For Professional Services",
+            "ItemTotal": "102,270.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses and Advances",
+            "ItemTotal": "12,242.26",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

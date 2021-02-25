@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "September 23, 1983",
+            {
+                "tp": 18.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Induction of Hepatic Microsomal Enzymes with A-56, B-90, 8-158 and A-45 $2,550.00 per compound",
+                            {
+                                "tp": 93.0,
+                                "fp": 1.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 93.0,
+                        "fp": 1.0,
+                        "fn": 13.0
+                    }
+                ]
+            ],
+            {
+                "tp": 93.0,
+                "fp": 1.0,
+                "fn": 13.0
+            }
+        ],
+        "TotalAmount": [
+            "10,200.00",
+            {
+                "tp": 0.0,
+                "fp": 9.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1530-1",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 117.0,
+        "fp": 10.0,
+        "fn": 13.0
+    }
+]

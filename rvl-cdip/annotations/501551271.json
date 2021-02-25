@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1734",
+    "IssuedDate": "Sept. 30, 1968.",
+    "TotalAmount": "3,782.80",
+    "LineItem": [
+        {
+            "ItemDescription": "Tobacco carcinogenesis",
+            "ItemTotal": "$3,763.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Long distance",
+            "ItemTotal": "19.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

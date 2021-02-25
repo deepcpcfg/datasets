@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="39.0" fp="22.0" fn="15.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="507.0" t="761.0" r="718.0" b="808.0">100049</box>
+    </InvoiceNumber>
+    <IssuedDate tp="7.0" fp="2.0" fn="1.0">
+      <box l="505.0" t="889.0" r="568.0" b="935.0">10</box>
+      <box l="619.0" t="891.0" r="755.0" b="935.0">18—8</box>
+      <box l="764.0" t="891.0" r="792.0" b="935.0">7</box>
+    </IssuedDate>
+    <LineItem tp="20.0" fp="19.0" fn="14.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="683.0" t="2796.0" r="827.0" b="2842.0">FEES</box>
+          <box l="874.0" t="2796.0" r="1234.0" b="2842.0">PREVIOUSLY</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1966.0" t="2674.0" r="2100.0" b="2721.0">U.S.</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="497.0" t="2919.0" r="975.0" b="2967.0">OUT-OF-POCKET</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2264.0" t="2927.0" r="2528.0" b="2973.0">$459.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2265.0" t="3174.0" r="2527.0" b="3219.0">$459.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,24 @@
+{
+    "InvoiceNumber": "208-0128",
+    "LineItem": [
+        {
+            "ItemUnitCount": "13",
+            "ItemDescription": "25487 6M 30 WINSTON BOX S1/2PKS",
+            "ItemUnitValue": "73,000",
+            "ItemTotal": "3,014.20"
+        },
+        {
+            "ItemUnitCount": "25",
+            "ItemDescription": "25488 SN 30 WINSTON LT BOX S1/2PKS",
+            "ItemUnitValue": "150,000",
+            "ItemTotal": "7,338.00"
+        },
+        {
+            "ItemUnitCount": "13",
+            "ItemDescription": "2S5S5 6N 30 WINSTON UL LT BX I1/2PKS",
+            "ItemUnitValue": "78,000",
+            "ItemTotal": "3,814.20"
+        }
+    ],
+    "IssuedDate": "09/21"
+}

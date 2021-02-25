@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="51.0" fp="2.0" fn="19.0">
+    <LineItem tp="51.0" fp="2.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="816.0" t="2241.0" r="1040.0" b="2280.0">RESEARCH</box>
+          <box l="1069.0" t="2239.0" r="1265.0" b="2280.0">STUDIES</box>
+          <box l="1295.0" t="2239.0" r="1348.0" b="2278.0">OW</box>
+          <box l="1378.0" t="2239.0" r="1631.0" b="2281.0">CIGARETTE</box>
+          <box l="1660.0" t="2237.0" r="2077.0" b="2278.0">CHARACTERISTICS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2611.0" t="2286.0" r="2832.0" b="2338.0">5,782.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

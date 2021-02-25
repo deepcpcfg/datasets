@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "806053",
+    "IssuedDate": "January 28, 1983",
+    "TotalAmount": "18,78O.14",
+    "LineItem": [
+        {
+            "ItemTotal": "604.31",
+            "ItemUnitValue": "604.31",
+            "ItemDescription": "'Tkrw York Press Event",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "3,376.82",
+            "ItemUnitValue": "3,376.82",
+            "ItemDescription": "Hetroit Press Event",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "57.20",
+            "ItemUnitValue": "57.20",
+            "ItemDescription": "Bo&toa Press Event",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "2,305.00",
+            "ItemUnitValue": "2,305.00",
+            "ItemDescription": "Kew York Media Reception",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "644.08",
+            "ItemUnitValue": "644.08",
+            "ItemDescription": "Invicst ions to press events",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "10,010.00",
+            "ItemUnitValue": "10,010.00",
+            "ItemDescription": "Masters of Hockey media and appearance fees",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "1,409.62",
+            "ItemUnitValue": "1,409.62",
+            "ItemDescription": "RowLand Co. expenses",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemTotal": "373.08",
+            "ItemUnitValue": "373 .08",
+            "ItemDescription": "Miscellaneous expenses",
+            "ItemUnitCount": ""
+        }
+    ]
+}

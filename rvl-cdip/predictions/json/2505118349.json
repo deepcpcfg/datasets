@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "30.10.173PF",
+    "IssuedDate": "W.1999",
+    "LineItem": [
+        {
+            "ItemDescription": "1 BOX CONTAINING TOBACCO SAMPLES",
+            "ItemTotal": "10.00"
+        },
+        {
+            "ItemDescription": "TOTAL VALUE DDU KOELN BONN",
+            "ItemUnitValue": "0.530",
+            "ItemTotal": "0.350"
+        }
+    ]
+}

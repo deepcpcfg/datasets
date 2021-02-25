@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "#L10095",
+    "IssuedDate": "December 12, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "1995 Sponsorship",
+            "ItemTotal": "$700,000."
+        }
+    ],
+    "TotalAmount": "$300,000."
+}

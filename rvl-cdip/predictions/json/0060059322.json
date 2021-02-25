@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "January 27, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Out-of-Pocket Expenses",
+            "ItemTotal": "$523.65",
+            "ItemUnitValue": "$523.65"
+        }
+    ],
+    "TotalAmount": "$523,65"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "II. M39",
+    "IssuedDate": "77 NOV 28",
+    "TotalAmount": "10,353.00",
+    "LineItem": [
+        {
+            "ItemDescription": "DOSIMETRY STUDIES ON THE PROCESS AND INSTRUMENTS SMOKE EXPOSURE MACHINE ",
+            "ItemTotal": "10,353.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

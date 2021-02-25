@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1513-2",
+    "IssuedDate": "June 8, 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "INDUCTION OF HEPATIC MICROSOMAL ENZYMES WITH 8-151 and B-153 0 $2,550.00 per compound INDUCTION OF HEPATIC MICROSOMAL ENZYMES WITH 8-104 (IN-VITRO ASSAY only) @ $1,700.00 per compound",
+            "ItemTotal": "$6,800.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

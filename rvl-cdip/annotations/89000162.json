@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "7622",
+    "IssuedDate": "10/20/89",
+    "LineItem": [
+        {
+            "ItemDescription": "Compound A35",
+            "ItemTotal": "7,533.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7,533.00",
+            "ItemDescription": "Compound A36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,355.00",
+            "ItemDescription": "Inmimcmodulatory Screening Test in Mice and Phase I Range Finding Study Compound 8233",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,355.00",
+            "ItemDescription": "Compound A143",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,355.0(1",
+            "ItemDescription": "Conpound B219",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

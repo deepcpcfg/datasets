@@ -1,0 +1,21 @@
+{
+    "InvoiceNumber": "112304",
+    "IssuedDate": "9/11/92",
+    "LineItem": [
+        {
+            "ItemDescription": "RUBBER PREP",
+            "ItemTotal": "939."
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "PMS 872 INK-COLD",
+            "ItemUnitValue": "250.",
+            "ItemTotal": "425C."
+        },
+        {
+            "ItemDescription": "RED MATCH CUSTOMER INK",
+            "ItemUnitValue": "250.",
+            "ItemTotal": "00"
+        }
+    ]
+}

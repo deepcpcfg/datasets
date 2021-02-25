@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "9701008585",
+    "IssuedDate": "4/4/97",
+    "TotalAmount": "2,844.82",
+    "LineItem": [
+        {
+            "ItemDescription": "AAA/RRP PAYMENT",
+            "ItemUnitValue": "$42.46",
+            "ItemTotal": "$2,844.82",
+            "ItemUnitCount": ""
+        }
+    ]
+}

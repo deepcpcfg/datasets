@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "107-62587",
+    "IssuedDate": "04/17/87",
+    "LineItem": [
+        {
+            "ItemDescription": "450 PURIFIER ASSEMBLY",
+            "ItemTotal": "79.00",
+            "ItemUnitValue": "79.00"
+        },
+        {
+            "ItemDescription": "452 CARTRIDGE",
+            "ItemTotal": "19.00",
+            "ItemUnitValue": "19.00"
+        },
+        {
+            "ItemDescription": "FREIGHT CHARGES",
+            "ItemTotal": "1.24",
+            "ItemUnitValue": "1.24"
+        }
+    ],
+    "TotalAmount": "99.24"
+}

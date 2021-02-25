@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "JJWJSM",
+    "IssuedDate": "10/08/961",
+    "LineItem": [
+        {
+            "ItemDescription": "NUMBER OF PACKAGE/CARTON",
+            "ItemTotal": "5276.00"
+        },
+        {
+            "ItemDescription": "FLOOR DISPLAYS",
+            "ItemTotal": "25.00'=-"
+        }
+    ]
+}

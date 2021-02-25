@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "84905",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES FOR PROFESSIONAL SERVICES:",
+            "ItemTotal": "80,524.50"
+        },
+        {
+            "ItemDescription": "CHARGES:",
+            "ItemTotal": "100,645.97"
+        }
+    ],
+    "TotalAmount": "187,380.37"
+}

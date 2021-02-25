@@ -1,0 +1,16 @@
+{
+    "IssuedDate": "June 30, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "Cardiovascular Testing of"
+        },
+        {
+            "ItemDescription": "in the Beagle Dog",
+            "ItemTotal": ">3,700"
+        },
+        {
+            "ItemDescription": "Compound B-44 per compound.",
+            "ItemTotal": "$3,700.00"
+        }
+    ]
+}

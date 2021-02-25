@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="108.0" fp="3.0" fn="82.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2065.0" t="908.0" r="2168.0" b="966.0">April</box>
+      <box l="2185.0" t="909.0" r="2393.0" b="958.0">30,1991</box>
+    </IssuedDate>
+    <LineItem tp="86.0" fp="2.0" fn="81.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="994.0" t="2135.0" r="1121.0" b="2174.0">Total</box>
+          <box l="1139.0" t="2136.0" r="1267.0" b="2173.0">labor</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2027.0" t="2127.0" r="2224.0" b="2174.0">$168.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="994.0" t="2210.0" r="1121.0" b="2248.0">Total</box>
+          <box l="1139.0" t="2207.0" r="1517.0" b="2249.0">Material/Rental</box>
+          <box l="1538.0" t="2208.0" r="1646.0" b="2245.0">Cost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2085.0" t="2205.0" r="2224.0" b="2250.0">$0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="993.0" t="2282.0" r="1121.0" b="2319.0">Total</box>
+          <box l="1139.0" t="2282.0" r="1446.0" b="2319.0">Subsistence</box>
+          <box l="1514.0" t="2282.0" r="1709.0" b="2336.0">Mileage</box>
+          <box l="1726.0" t="2282.0" r="1834.0" b="2319.0">Cost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2166.0" t="2280.0" r="2224.0" b="2317.0">00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="997.0" t="2503.0" r="1014.0" b="2540.0">1</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2055.0" t="2500.0" r="2214.0" b="2544.0">$25.31</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2329.0" t="3155.0" r="2611.0" b="3205.0">$11,761.47</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

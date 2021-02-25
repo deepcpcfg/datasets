@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "2616",
+    "IssuedDate": "9/30/93",
+    "LineItem": [
+        {
+            "ItemDescription": "Implementation of Portfolio Research for Riviera. Testing with 150 target smokers- Estimated project cost $34,500 10%. First Partial Billing",
+            "ItemTotal": "$17,250",
+            "ItemUnitValue": "$17,250"
+        }
+    ]
+}

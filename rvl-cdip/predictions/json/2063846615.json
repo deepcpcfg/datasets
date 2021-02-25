@@ -1,0 +1,33 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Bam ext 02/10/95 Fulton 07/14/95 Stringfellow 07/14/95 Valentine 02/11/95"
+        },
+        {
+            "ItemDescription": "Joseph's Limousine Service",
+            "ItemTotal": "$84.70"
+        },
+        {
+            "ItemDescription": "Total Ollier",
+            "ItemTotal": "$84.70"
+        },
+        {
+            "ItemDescription": "On-Line Dialog Computer Search)",
+            "ItemTotal": "$478.37"
+        },
+        {
+            "ItemDescription": "Invention.",
+            "ItemTotal": "46.65"
+        },
+        {
+            "ItemDescription": "AP On Line Infannalioii",
+            "ItemTotal": "272.79"
+        },
+        {
+            "ItemDescription": "SYS On Lino [nforrnation",
+            "ItemTotal": "22.45"
+        }
+    ],
+    "IssuedDate": "September I, 1995",
+    "InvoiceNumber": "95-08229"
+}

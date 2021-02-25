@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="102.0" fp="54.0" fn="53.0">
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="1989.0" t="1519.0" r="2218.0" b="1557.0">December</box>
+      <box l="2252.0" t="1518.0" r="2293.0" b="1564.0">1,</box>
+      <box l="2335.0" t="1518.0" r="2443.0" b="1556.0">1993</box>
+    </IssuedDate>
+    <LineItem tp="77.0" fp="53.0" fn="53.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="844.0" t="2599.0" r="1082.0" b="2637.0">December</box>
+          <box l="1115.0" t="2607.0" r="1403.0" b="2637.0">assessment</box>
+          <box l="1440.0" t="2598.0" r="1519.0" b="2638.0">for</box>
+          <box l="1553.0" t="2601.0" r="1666.0" b="2638.0">CIAR</box>
+          <box l="844.0" t="2658.0" r="1082.0" b="2695.0">December</box>
+          <box l="1116.0" t="2656.0" r="1461.0" b="2707.0">supplemental</box>
+          <box l="1495.0" t="2665.0" r="1782.0" b="2697.0">assessment</box>
+          <box l="1820.0" t="2658.0" r="1899.0" b="2695.0">for</box>
+          <box l="1928.0" t="2658.0" r="2073.0" b="2695.0">Johns</box>
+          <box l="2107.0" t="2657.0" r="2328.0" b="2707.0">Hopkins,</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2570.0" t="2596.0" r="2865.0" b="2642.0">$35,531.42</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="994.0" t="2716.0" r="1073.0" b="2752.0">Dr.</box>
+          <box l="1112.0" t="2715.0" r="1395.0" b="2760.0">Matanoski,</box>
+          <box l="1437.0" t="2714.0" r="1750.0" b="2752.0">Confounders</box>
+          <box l="1787.0" t="2716.0" r="1931.0" b="2762.0">Study</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2630.0" t="2712.0" r="2866.0" b="2756.0">7,922.27</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="2571.0" t="2825.0" r="2866.0" b="2871.0">$43,453.69</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

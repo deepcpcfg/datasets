@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "LLD GS 03",
+    "IssuedDate": "April 7, 1999",
+    "TotalAmount": "19,109,49",
+    "LineItem": [
+        {
+            "ItemDescription": "(1/12th of 1999 approved budget for panel maintenance & replenishment)",
+            "ItemTotal": "$18,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(1/2 of monthly COSI lease for March)",
+            "ItemTotal": "262.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(H otel/T rave I Experts es 3/18 meeti ng)",
+            "ItemTotal": "846.99",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

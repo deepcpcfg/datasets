@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "122747",
+    "IssuedDate": "Sep 21, 1999",
+    "LineItem": [
+        {
+            "ItemDescription": "VALIDATIONS PROJECT NAME: CIGARETTE PACKAGING VALIDATIONS REPORT SHIPPING",
+            "ItemTotal": "243.60"
+        }
+    ],
+    "TotalAmount": "283.60"
+}

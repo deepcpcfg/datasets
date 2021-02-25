@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "October 22. 2001",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "PI",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 2.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "Microvessel caBon-Chloride Cokansporf in Cerebral Ischemia E. O'Donnell Human Physiology",
+                            {
+                                "tp": 14.0,
+                                "fp": 74.0,
+                                "fn": 10.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 14.0,
+                        "fp": 74.0,
+                        "fn": 20.0
+                    }
+                ]
+            ],
+            {
+                "tp": 14.0,
+                "fp": 76.0,
+                "fn": 20.0
+            }
+        ],
+        "TotalAmount": [
+            "$49,710.15",
+            {
+                "tp": 0.0,
+                "fp": 10.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "592804",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 2.0
+            }
+        ]
+    },
+    {
+        "tp": 35.0,
+        "fp": 87.0,
+        "fn": 22.0
+    }
+]

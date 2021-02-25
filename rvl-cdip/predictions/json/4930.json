@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "08/22/01",
+    "LineItem": [
+        {
+            "ItemDescription": "Attended participated in Interview with Asst. U.S. Attorney",
+            "ItemUnitCount": "6.5",
+            "ItemUnitValue": "3800",
+            "ItemTotal": "5,200.00"
+        },
+        {
+            "ItemDescription": "In Austin, Texas PREPARATION",
+            "ItemUnitCount": "152,75",
+            "ItemTotal": "399,287"
+        },
+        {
+            "ItemDescription": "Prepared fur Austin interview by participating in selection of Akin Gump Attorney representation for Arbitration Panel, read re-read materials designated by AUS A as focus of the interview, extensive preparation with Mike Maddigan, travel to and from Washington Austin, for interview, interview debriefing, review re-review of interview report prepared by Maddigan."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "530 75",
+    "TotalAmount": "6,899.15",
+    "LineItem": [
+        {
+            "ItemTotal": "6,229.15",
+            "ItemDescription": "HJhie voucher represents relmburseable «costs for period April 19, 1975 thru May 16, 1975",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "670.00",
+            "ItemDescription": "Fixed Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

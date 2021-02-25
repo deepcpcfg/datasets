@@ -1,0 +1,30 @@
+{
+    "InvoiceNumber": "15426",
+    "IssuedDate": "12-31-97",
+    "LineItem": [
+        {
+            "ItemDescription": "ACCOUNT EXECUTIVE",
+            "ItemTotal": "960",
+            "ItemUnitValue": "960.00"
+        },
+        {
+            "ItemDescription": "HRS $80) CREATIVE DIRECTOR",
+            "ItemTotal": "2700.00",
+            "ItemUnitValue": "2700.00"
+        },
+        {
+            "ItemDescription": "(18 HRS $150) ART DIRECTOR",
+            "ItemTotal": "2635.00",
+            "ItemUnitValue": "2635.00"
+        },
+        {
+            "ItemDescription": "(31 HRS $85 COMPUTER ARTIST",
+            "ItemTotal": "3710.00",
+            "ItemUnitValue": "3710.00"
+        },
+        {
+            "ItemDescription": "$70)"
+        }
+    ],
+    "TotalAmount": "10005.00"
+}

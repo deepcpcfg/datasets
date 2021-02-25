@@ -1,0 +1,125 @@
+[
+    {
+        "IssuedDate": [
+            "April 2, 1956",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "7393/54",
+                            {
+                                "tp": 0.0,
+                                "fp": 7.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 7.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "TOt Our Swedish, associate's services in noting our Instructions, prepai’ing and filing an amendment and reporting",
+                            {
+                                "tp": 103.0,
+                                "fp": 11.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 6.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 103.0,
+                        "fp": 11.0,
+                        "fn": 18.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$30*00",
+                            {
+                                "tp": 0.0,
+                                "fp": 6.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "to",
+                            {
+                                "tp": 0.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 8.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 103.0,
+                "fp": 26.0,
+                "fn": 18.0
+            }
+        ],
+        "InvoiceNumber": [
+            "0800",
+            {
+                "tp": 3.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 119.0,
+        "fp": 27.0,
+        "fn": 19.0
+    }
+]

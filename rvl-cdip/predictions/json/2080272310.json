@@ -1,0 +1,43 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "41300 PARL BOX B1G1F",
+            "ItemUnitValue": "115.70",
+            "ItemTotal": "694.20"
+        },
+        {
+            "ItemDescription": "COMP CIGTS",
+            "ItemTotal": "-347.10"
+        },
+        {
+            "ItemDescription": "41310 PARL MEN BOX B1G1F",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "115.70",
+            "ItemTotal": "694,20"
+        },
+        {
+            "ItemDescription": "IXXXXX LESS COMP CIGTS",
+            "ItemTotal": "-347.10"
+        },
+        {
+            "ItemDescription": "41320 PARL LTS BOX B1G1F",
+            "ItemUnitCount": "6,000",
+            "ItemUnitValue": "115.70",
+            "ItemTotal": "694.20"
+        },
+        {
+            "ItemDescription": "neoexx LESS COMP CIGTS",
+            "ItemTotal": "-347.10"
+        },
+        {
+            "ItemDescription": "41330 PARL LTS MEN BOX BlGIF",
+            "ItemUnitCount": "6",
+            "ItemUnitValue": "115.70",
+            "ItemTotal": "694.20"
+        },
+        {
+            "ItemDescription": "IXXXXX",
+            "ItemTotal": "-347.10"
+        }
+    ]
+}

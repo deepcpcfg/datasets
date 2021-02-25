@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "26216",
+    "IssuedDate": "3/26/94",
+    "TotalAmount": "291.70",
+    "LineItem": [
+        {
+            "ItemTotal": "1 32.60",
+            "ItemDescription": "FILL 7 ORDERS; METER AND SHIP AS SPECIFIED",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "14.47",
+            "ItemDescription": "MATERIALS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

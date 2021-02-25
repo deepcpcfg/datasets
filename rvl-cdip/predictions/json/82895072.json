@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "November 13, 1992",
+    "InvoiceNumber": "11547",
+    "LineItem": [
+        {
+            "ItemDescription": "Houston Minneapolis Pittsburgh",
+            "ItemTotal": "56,000-00"
+        }
+    ],
+    "TotalAmount": "56.000,00"
+}

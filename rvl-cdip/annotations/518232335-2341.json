@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "April 2, 1997",
+    "TotalAmount": "1,501,52",
+    "LineItem": [
+        {
+            "ItemDescription": "Telephone",
+            "ItemTotal": "82. 59",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Faxes",
+            "ItemTotal": "37.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copies",
+            "ItemTotal": "25.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "usiness Meals & Entertainment",
+            "ItemTotal": "1,287.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Gas",
+            "ItemTotal": "50.84",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

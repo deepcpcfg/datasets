@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "11-0240",
+    "IssuedDate": "November 30, 1992",
+    "TotalAmount": "47,544.12",
+    "LineItem": [
+        {
+            "ItemTotal": "$43.89610",
+            "ItemDescription": "Database Update & Maintenance",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "882.38",
+            "ItemDescription": "Select spooled Virginia SiimsZPall Mall records & output Into galley format",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "882.38",
+            "ItemDescription": "Rerun to select additional Virginia Slims",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "882.38",
+            "ItemDescription": "Select Carlton records & output into galley format",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "882.38",
+            "ItemDescription": "Rerun to select additional Carlton records",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "118.50",
+            "ItemDescription": "Wise. (Freight, postage, copies, etc.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

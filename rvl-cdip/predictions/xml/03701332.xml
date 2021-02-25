@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="861.0" t="1064.0" r="1122.0" b="1116.0">Prepare</box>
+          <box l="1159.0" t="1060.0" r="1536.0" b="1107.0">trechanioal</box>
+          <box l="1581.0" t="1060.0" r="1690.0" b="1106.0">for</box>
+          <box l="1729.0" t="1065.0" r="1878.0" b="1108.0">Kent</box>
+          <box l="1916.0" t="1062.0" r="2143.0" b="1109.0">Golden</box>
+          <box l="2183.0" t="1061.0" r="2411.0" b="1114.0">Lights</box>
+          <box l="861.0" t="1122.0" r="1123.0" b="1179.0">dangler</box>
+          <box l="1165.0" t="1122.0" r="1423.0" b="1172.0">rovised</box>
+          <box l="1469.0" t="1123.0" r="1498.0" b="1167.0">1</box>
+          <box l="1540.0" t="1122.0" r="1723.0" b="1172.0">tines</box>
+          <box l="1767.0" t="1135.0" r="1836.0" b="1172.0">as</box>
+          <box l="1878.0" t="1135.0" r="1994.0" b="1180.0">per</box>
+          <box l="2033.0" t="1123.0" r="2294.0" b="1173.0">clients</box>
+          <box l="2340.0" t="1128.0" r="2604.0" b="1178.0">reqnest</box>
+          <box l="2645.0" t="1119.0" r="2824.0" b="1178.0">9/15#</box>
+          <box l="2875.0" t="1119.0" r="3024.0" b="1178.0">9/1?</box>
+          <box l="3066.0" t="1124.0" r="3178.0" b="1169.0">and</box>
+          <box l="861.0" t="1187.0" r="1036.0" b="1241.0">9/22*</box>
+          <box l="1123.0" t="1189.0" r="1384.0" b="1243.0">Chargee</box>
+          <box l="1428.0" t="1188.0" r="1577.0" b="1234.0">also</box>
+          <box l="1619.0" t="1185.0" r="1911.0" b="1234.0">innludoa</box>
+          <box l="1957.0" t="1193.0" r="2174.0" b="1235.0">state•</box>
+          <box l="857.0" t="1250.0" r="1231.0" b="1300.0">Mechanical</box>
+          <box l="1273.0" t="1253.0" r="1388.0" b="1298.0">and</box>
+          <box l="1428.0" t="1252.0" r="1460.0" b="1298.0">3</box>
+          <box l="1505.0" t="1249.0" r="3174.0" b="1299.0">revisions*---*-*-'-9120*00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2990.0" t="1312.0" r="3174.0" b="1361.0">14.75</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber>
+      <box l="3371.0" t="406.0" r="3404.0" b="451.0">9</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="3217.0" t="551.0" r="3365.0" b="608.0">10/6</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

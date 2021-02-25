@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "0364^8",
+            {
+                "tp": 4.0,
+                "fp": 2.0,
+                "fn": 3.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "4100.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "MACROPHAGE PROJECT \"EVALUATION OF TWO GENETIC TOXICOLOGY ASSAYS FOR THEIR USE IN MONITORING RODENTS EXPOSED TO CIGARETTE SMOKE’",
+                            {
+                                "tp": 126.0,
+                                "fp": 1.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 7.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 133.0,
+                        "fp": 1.0,
+                        "fn": 11.0
+                    }
+                ]
+            ],
+            {
+                "tp": 133.0,
+                "fp": 1.0,
+                "fn": 11.0
+            }
+        ],
+        "TotalAmount": [
+            "4,100.00",
+            {
+                "tp": 0.0,
+                "fp": 8.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1888051",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 144.0,
+        "fp": 11.0,
+        "fn": 14.0
+    }
+]

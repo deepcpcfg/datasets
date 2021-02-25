@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="458.0" fp="6.0" fn="31.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2201.0" t="641.0" r="2427.0" b="684.0">12/14/98</box>
+    </IssuedDate>
+    <LineItem tp="447.0" fp="5.0" fn="22.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="641.0" t="1890.0" r="840.0" b="1931.0">600,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="1891.0" r="1340.0" b="1922.0">NEWPORT</box>
+          <box l="1370.0" t="1890.0" r="1458.0" b="1923.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1953.0" t="1886.0" r="2124.0" b="1924.0">$33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2425.0" t="1884.0" r="2712.0" b="1924.0">$19,860.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="640.0" t="1947.0" r="840.0" b="1985.0">150,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1134.0" t="1948.0" r="1341.0" b="1978.0">NEWPORT</box>
+          <box l="1370.0" t="1948.0" r="1424.0" b="1974.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1983.0" t="1943.0" r="2124.0" b="1974.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2483.0" t="1942.0" r="2712.0" b="1979.0">4,965.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="670.0" t="2002.0" r="840.0" b="2039.0">30,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2003.0" r="1341.0" b="2032.0">NEWPORT</box>
+          <box l="1371.0" t="2003.0" r="1515.0" b="2032.0">LIGHT</box>
+          <box l="1545.0" t="2003.0" r="1599.0" b="2032.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1982.0" t="1999.0" r="2124.0" b="2031.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2544.0" t="1996.0" r="2715.0" b="2030.0">993.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="670.0" t="2057.0" r="840.0" b="2094.0">30,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2057.0" r="1340.0" b="2088.0">NEWPORT</box>
+          <box l="1374.0" t="2057.0" r="1454.0" b="2086.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1982.0" t="2054.0" r="2124.0" b="2087.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2483.0" t="2050.0" r="2715.0" b="2089.0">1,027.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="698.0" t="2111.0" r="841.0" b="2152.0">6,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2111.0" r="1340.0" b="2143.0">NEWPORT</box>
+          <box l="1373.0" t="2111.0" r="1453.0" b="2140.0">IDO</box>
+          <box l="1487.0" t="2112.0" r="1574.0" b="2141.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1983.0" t="2108.0" r="2124.0" b="2141.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2541.0" t="2105.0" r="2715.0" b="2138.0">205.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="669.0" t="2168.0" r="840.0" b="2206.0">30,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2165.0" r="1249.0" b="2199.0">TRUE</box>
+          <box l="1283.0" t="2165.0" r="1458.0" b="2199.0">FILTER</box>
+          <box l="1487.0" t="2169.0" r="1541.0" b="2199.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1983.0" t="2166.0" r="2124.0" b="2195.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2545.0" t="2163.0" r="2715.0" b="2192.0">993.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1137.0" t="2224.0" r="1248.0" b="2253.0">TRUE</box>
+          <box l="1283.0" t="2224.0" r="1457.0" b="2253.0">FILTER</box>
+          <box l="1487.0" t="2220.0" r="1569.0" b="2253.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1983.0" t="2220.0" r="2124.0" b="2250.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2545.0" t="2217.0" r="2715.0" b="2247.0">616.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="698.0" t="2278.0" r="840.0" b="2314.0">6,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2278.0" r="1248.0" b="2307.0">TRUE</box>
+          <box l="1279.0" t="2278.0" r="1486.0" b="2307.0">MENTHOL</box>
+          <box l="1516.0" t="2279.0" r="1570.0" b="2308.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1982.0" t="2275.0" r="2124.0" b="2306.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2541.0" t="2271.0" r="2715.0" b="2304.0">198.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="668.0" t="2332.0" r="840.0" b="2368.0">24,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2332.0" r="1253.0" b="2362.0">TRUE</box>
+          <box l="1279.0" t="2333.0" r="1486.0" b="2362.0">MENTHOL</box>
+          <box l="1516.0" t="2331.0" r="1598.0" b="2362.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1985.0" t="2329.0" r="2127.0" b="2361.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2544.0" t="2327.0" r="2715.0" b="2359.0">822.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="669.0" t="2386.0" r="840.0" b="2423.0">48,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2386.0" r="1253.0" b="2415.0">KENT</box>
+          <box l="1283.0" t="2386.0" r="1340.0" b="2415.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1982.0" t="2383.0" r="2124.0" b="2413.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2486.0" t="2380.0" r="2715.0" b="2417.0">1,588.80</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1137.0" t="2440.0" r="1253.0" b="2469.0">KENT</box>
+          <box l="1286.0" t="2439.0" r="1365.0" b="2469.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1985.0" t="2437.0" r="2127.0" b="2466.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2545.0" t="2434.0" r="2715.0" b="2464.0">822.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="665.0" t="2493.0" r="840.0" b="2531.0">24,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1137.0" t="2494.0" r="1253.0" b="2524.0">KENT</box>
+          <box l="1287.0" t="2494.0" r="1365.0" b="2524.0">III</box>
+          <box l="1399.0" t="2494.0" r="1456.0" b="2524.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1986.0" t="2491.0" r="2123.0" b="2520.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2544.0" t="2488.0" r="2716.0" b="2518.0">794.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1137.0" t="2549.0" r="1253.0" b="2578.0">KENT</box>
+          <box l="1286.0" t="2549.0" r="1365.0" b="2578.0">III</box>
+          <box l="1403.0" t="2545.0" r="1482.0" b="2578.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1985.0" t="2542.0" r="2127.0" b="2575.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2486.0" t="2542.0" r="2716.0" b="2580.0">1,027.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="669.0" t="2603.0" r="839.0" b="2639.0">12,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1136.0" t="2603.0" r="1253.0" b="2632.0">KENT</box>
+          <box l="1286.0" t="2603.0" r="1456.0" b="2632.0">GOLDEN</box>
+          <box l="1487.0" t="2603.0" r="1630.0" b="2633.0">LIGHT</box>
+          <box l="1657.0" t="2604.0" r="1714.0" b="2633.0">KS</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1983.0" t="2600.0" r="2124.0" b="2631.0">33.10</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2544.0" t="2596.0" r="2716.0" b="2630.0">397.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="668.0" t="2659.0" r="839.0" b="2698.0">24,000</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1136.0" t="2658.0" r="1252.0" b="2690.0">KENT</box>
+          <box l="1286.0" t="2658.0" r="1457.0" b="2690.0">GOLDEN</box>
+          <box l="1487.0" t="2658.0" r="1630.0" b="2690.0">LIGHT</box>
+          <box l="1660.0" t="2658.0" r="1743.0" b="2687.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1985.0" t="2654.0" r="2127.0" b="2687.0">34.25</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2544.0" t="2651.0" r="2717.0" b="2684.0">822.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="3.0" fp="1.0" fn="0.0">
+      <box l="371.0" t="3377.0" r="480.0" b="3410.0">#458</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

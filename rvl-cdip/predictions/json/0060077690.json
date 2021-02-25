@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "87628D",
+    "IssuedDate": "December 28, 1994",
+    "LineItem": [
+        {
+            "ItemDescription": "\"CARLTON PULL OUT' 42,000# of 80# Sterling C2S-36 1/2\"",
+            "ItemTotal": "$20,580."
+        },
+        {
+            "ItemDescription": "31,000# of 80# Sterling C2S-26 1/2\"",
+            "ItemTotal": "15,190."
+        },
+        {
+            "ItemDescription": "Prep-(Line Negatives, paper prints, 1 hour camera/stripping lime)",
+            "ItemTotal": "431."
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "48."
+        }
+    ],
+    "TotalAmount": "$36,250.:"
+}

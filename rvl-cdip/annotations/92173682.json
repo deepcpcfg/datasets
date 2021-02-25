@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "93 7",
+    "TotalAmount": "2,410.83",
+    "LineItem": [
+        {
+            "ItemTotal": "4,428.71",
+            "ItemDescription": "BALANCE FORWARD",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,937.84",
+            "ItemDescription": "NATIONAL PAYMENT THANK YOU",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "80.04",
+            "ItemDescription": "NATIONAL CREDIT ADJUSTMENT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

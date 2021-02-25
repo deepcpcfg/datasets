@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1888.0" t="829.0" r="2017.0" b="872.0">true</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2704.0" t="1239.0" r="2869.0" b="1281.0">08-89</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2986.0" t="1954.0" r="3292.0" b="2011.0">32/905,65</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1139690",
+    "IssuedDate": "04/12/85",
+    "TotalAmount": "106,564.50",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE 4C 3255X",
+            "ItemUnitValue": "125,370.00",
+            "ItemUnitCount": "",
+            "ItemTotal": ""
+        },
+        {
+            "ItemDescription": "AGENCY DISCOUNT",
+            "ItemUnitValue": "18,805.50-",
+            "ItemUnitCount": "",
+            "ItemTotal": ""
+        }
+    ]
+}

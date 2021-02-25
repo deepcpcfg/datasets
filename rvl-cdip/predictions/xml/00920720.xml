@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="83.0" fp="25.0" fn="61.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="507.0" t="821.0" r="631.0" b="874.0">July</box>
+      <box l="665.0" t="821.0" r="753.0" b="874.0">23,</box>
+      <box l="794.0" t="820.0" r="911.0" b="867.0">1982</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="919.0" t="1962.0" r="1081.0" b="2011.0">1450-1</box>
+    </InvoiceNumber>
+    <LineItem tp="64.0" fp="15.0" fn="61.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="512.0" t="2442.0" r="688.0" b="2496.0">B-107.</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="512.0" t="2380.0" r="944.0" b="2430.0">Cardiovascular</box>
+          <box l="978.0" t="2379.0" r="1194.0" b="2440.0">Testing</box>
+          <box l="1229.0" t="2382.0" r="1287.0" b="2428.0">of</box>
+          <box l="1324.0" t="2381.0" r="1596.0" b="2438.0">Compounds</box>
+          <box l="728.0" t="2443.0" r="882.0" b="2491.0">B-118</box>
+          <box l="636.0" t="2508.0" r="878.0" b="2562.0">compound</box>
+          <box l="916.0" t="2445.0" r="1003.0" b="2491.0">and</box>
+          <box l="1041.0" t="2445.0" r="1188.0" b="2498.0">B-23,</box>
+          <box l="1229.0" t="2448.0" r="1287.0" b="2493.0">at</box>
+          <box l="1324.0" t="2443.0" r="1599.0" b="2498.0">$3,700.00</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="10.0" fn="0.0">
+      <box l="2234.0" t="2507.0" r="2542.0" b="2566.0">$11,100.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

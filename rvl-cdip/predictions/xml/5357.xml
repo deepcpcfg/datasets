@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="218.0" fp="99.0" fn="177.0">
+    <InvoiceNumber tp="6.0" fp="4.0" fn="1.0">
+      <box l="2551.0" t="959.0" r="2842.0" b="996.0">No.7D04427</box>
+    </InvoiceNumber>
+    <LineItem tp="203.0" fp="95.0" fn="163.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="337.0" t="1892.0" r="512.0" b="1926.0">Hawaii</box>
+          <box l="340.0" t="1955.0" r="454.0" b="1984.0">Iowa</box>
+          <box l="338.0" t="2008.0" r="570.0" b="2042.0">Illinois</box>
+          <box l="337.0" t="2069.0" r="512.0" b="2101.0">Kansas</box>
+          <box l="341.0" t="2125.0" r="605.0" b="2159.0">Louisiana</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2588.0" t="1905.0" r="2847.0" b="1939.0">18,065.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="337.0" t="2188.0" r="420.0" b="2217.0">Mas</box>
+          <box l="429.0" t="2184.0" r="692.0" b="2217.0">sachusett</box>
+          <box l="700.0" t="2191.0" r="720.0" b="2217.0">b</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2680.0" t="2197.0" r="2847.0" b="2230.0">101.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="337.0" t="2242.0" r="483.0" b="2276.0">Maine</box>
+          <box l="337.0" t="2301.0" r="576.0" b="2342.0">Michigan</box>
+          <box l="337.0" t="2358.0" r="454.0" b="2392.0">Ohio</box>
+          <box l="338.0" t="2416.0" r="575.0" b="2451.0">Qklahocua</box>
+          <box l="341.0" t="2473.0" r="544.0" b="2517.0">Project</box>
+          <box l="576.0" t="2479.0" r="875.0" b="2517.0">Management</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2588.0" t="2488.0" r="2850.0" b="2522.0">14,637.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="341.0" t="2538.0" r="516.0" b="2567.0">Puerto</box>
+          <box l="341.0" t="2592.0" r="458.0" b="2626.0">Utah</box>
+          <box l="550.0" t="2534.0" r="666.0" b="2567.0">Rico</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2622.0" t="2547.0" r="2851.0" b="2583.0">1,355,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="341.0" t="2884.0" r="516.0" b="2921.0">Client</box>
+          <box l="550.0" t="2884.0" r="845.0" b="2919.0">Ccmmunicat</box>
+          <box l="852.0" t="2884.0" r="963.0" b="2918.0">ions</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2622.0" t="2897.0" r="2851.0" b="2931.0">2,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="342.0" t="2943.0" r="608.0" b="2987.0">Equipment</box>
+          <box l="641.0" t="2942.0" r="816.0" b="2977.0">Rental</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2623.0" t="2955.0" r="2851.0" b="2992.0">1,250.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="341.0" t="3001.0" r="577.0" b="3047.0">Graphics</box>
+          <box l="341.0" t="3059.0" r="546.0" b="3105.0">Mileage</box>
+          <box l="345.0" t="3123.0" r="425.0" b="3155.0">Pos</box>
+          <box l="433.0" t="3117.0" r="967.0" b="3163.0">tage/Fedex/courier</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2684.0" t="3130.0" r="2854.0" b="3161.0">124.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="345.0" t="3176.0" r="577.0" b="3222.0">Supplies</box>
+          <box l="345.0" t="3238.0" r="458.0" b="3272.0">Taxi</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2626.0" t="3188.0" r="2855.0" b="3226.0">1,414.02</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="341.0" t="3297.0" r="487.0" b="3330.0">Meals</box>
+          <box l="525.0" t="3293.0" r="733.0" b="3330.0">Related</box>
+          <box l="767.0" t="3301.0" r="820.0" b="3330.0">to</box>
+          <box l="851.0" t="3293.0" r="1058.0" b="3338.0">Working</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2688.0" t="3305.0" r="2855.0" b="3338.0">510.03</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2597.0" t="3478.0" r="2855.0" b="3513.0">73,402.83</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

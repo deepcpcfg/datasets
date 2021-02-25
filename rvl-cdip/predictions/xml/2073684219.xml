@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="49.0" fp="42.0" fn="32.0">
+    <InvoiceNumber tp="7.0" fp="1.0" fn="1.0">
+      <box l="1688.0" t="1123.0" r="1938.0" b="1169.0">098054-1</box>
+    </InvoiceNumber>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="1314.0" t="1195.0" r="1580.0" b="1241.0">November</box>
+      <box l="1598.0" t="1194.0" r="1673.0" b="1241.0">20.</box>
+      <box l="1702.0" t="1197.0" r="1822.0" b="1243.0">1998</box>
+    </IssuedDate>
+    <LineItem tp="25.0" fp="41.0" fn="22.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="415.0" t="2201.0" r="537.0" b="2247.0">Cost</box>
+          <box l="554.0" t="2201.0" r="623.0" b="2250.0">for</box>
+          <box l="641.0" t="2201.0" r="949.0" b="2261.0">interviewing</box>
+          <box l="973.0" t="2201.0" r="1066.0" b="2247.0">300</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1087.0" t="2202.0" r="2706.0" b="2259.0">respondents---$10,200.00</box>
+          <box l="674.0" t="2489.0" r="2695.0" b="2545.0">prepayment-----0</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

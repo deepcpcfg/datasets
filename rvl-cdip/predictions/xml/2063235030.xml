@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1059.0" t="1887.0" r="1292.0" b="1933.0">SOQ^Q^</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="947.0" t="3192.0" r="1258.0" b="3236.0">$6,470,200,</box>
+    </TotalAmount>
+    <InvoiceNumber>
+      <box l="2538.0" t="459.0" r="2705.0" b="498.0">79-004</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

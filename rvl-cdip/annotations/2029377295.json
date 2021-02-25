@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "MO0016",
+    "IssuedDate": "January 9, 1991",
+    "TotalAmount": "8,080.00",
+    "LineItem": [
+        {
+            "ItemDescription": "BO MA Magazine Insert Price to have BOMA insert 11,705 copies of the January/February issue in their magazine. Note: price is for twelve page version of magazine. $ 7.500 Australian ($1 Australian = $0.8 ISA)",
+            "ItemTotal": "$ 6,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Government Equipment News (GEN) Price to insert 14,500 copies in GEN. $ 2,800 Australian ($1 Australian = $0.8 USA} Total price now due for payment ",
+            "ItemTotal": "$ 2,080.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

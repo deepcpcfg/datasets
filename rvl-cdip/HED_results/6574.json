@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "October 24, 1997",
+            {
+                "tp": 16.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$370.22",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$370.22",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Total For Disbursements and Service Charges",
+                            {
+                                "tp": 43.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 49.0,
+                        "fp": 1.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 49.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "5BOS25",
+            {
+                "tp": 3.0,
+                "fp": 3.0,
+                "fn": 3.0
+            }
+        ]
+    },
+    {
+        "tp": 74.0,
+        "fp": 5.0,
+        "fn": 3.0
+    }
+]

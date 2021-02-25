@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "122747",
+    "IssuedDate": "Sep 21 1999",
+    "LineItem": [
+        {
+            "ItemDescription": "VALIDATIONS",
+            "ItemUnitCount": "84.00",
+            "ItemUnitValue": "2.90",
+            "ItemTotal": "243 60"
+        },
+        {
+            "ItemDescription": "REPORT",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "35.00",
+            "ItemTotal": "35.0"
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "5.00",
+            "ItemTotal": "5.00"
+        }
+    ],
+    "TotalAmount": ""
+}

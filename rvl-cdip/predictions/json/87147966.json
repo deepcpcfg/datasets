@@ -1,0 +1,39 @@
+{
+    "InvoiceNumber": "46076",
+    "IssuedDate": "12/3/87",
+    "LineItem": [
+        {
+            "ItemDescription": "Compound 863",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound 8129",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound B127",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound 830",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound Bl15",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound BIO",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound 895",
+            "ItemTotal": "4,450.00"
+        },
+        {
+            "ItemDescription": "Compound 8214",
+            "ItemTotal": "4,450.00"
+        }
+    ],
+    "TotalAmount": "$35,600.00"
+}

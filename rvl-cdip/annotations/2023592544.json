@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "12th July 1992",
+    "TotalAmount": "29,044.06",
+    "LineItem": [
+        {
+            "ItemTotal": "£ 9*350.0",
+            "ItemDescription": "Professional Fees",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£ 3,280.78",
+            "ItemDescription": "Expenses",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£13,717.55",
+            "ItemDescription": "Payments to Consultants",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "£ 2,695.7",
+            "ItemDescription": "Office Expenses",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

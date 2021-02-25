@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "3290",
+    "IssuedDate": "9/29/98",
+    "LineItem": [
+        {
+            "ItemDescription": "CopyT 191 pages",
+            "ItemTotal": "401.10"
+        },
+        {
+            "ItemDescription": "Binding Exhibits",
+            "ItemTotal": "28.75"
+        },
+        {
+            "ItemDescription": "Condensed Transcript",
+            "ItemTotal": "20.00"
+        },
+        {
+            "ItemDescription": "Delivery and Handling",
+            "ItemTotal": ".00"
+        }
+    ],
+    "TotalAmount": "$462.85"
+}

@@ -1,0 +1,67 @@
+{
+    "IssuedDate": "February 23. 1979",
+    "TotalAmount": "40.0",
+    "LineItem": [
+        {
+            "ItemTotal": "$120",
+            "ItemDescription": "Total Tournament Operational Budget",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5",
+            "ItemDescription": "Lori Hard Paid To Date",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1.5",
+            "ItemDescription": "Art/Production/Type",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "20.0",
+            "ItemDescription": "Printing/Brochures. Stationery, Tickets",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5.0",
+            "ItemDescription": "Ken Young (2nd payment)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.0",
+            "ItemDescription": "Production, Distribution, Mailing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1.0",
+            "ItemDescription": "Office Equipment",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.0",
+            "ItemDescription": "Secretary Salary",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5.0",
+            "ItemDescription": "Pro-Am Gifts",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3.5",
+            "ItemDescription": "CASH-O^-HAND",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "18411",
+    "TotalAmount": "29,820.00",
+    "LineItem": [
+        {
+            "ItemUnitCount": "80",
+            "ItemTotal": "$28,400.00",
+            "ItemUnitValue": "355.000",
+            "ItemDescription": "COPIES (44-WARNING \"A\") - (36-WARNING \"B\")"
+        },
+        {
+            "ItemUnitCount": "4",
+            "ItemTotal": "1,420.00",
+            "ItemDescription": "OVERRUN",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

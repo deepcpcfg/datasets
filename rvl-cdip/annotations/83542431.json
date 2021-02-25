@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "01/22/1998",
+    "TotalAmount": "5,000.00",
+    "InvoiceNumber": "012298",
+    "LineItem": [
+        {
+            "ItemTotal": "5,000.00",
+            "ItemDescription": "EXPERT FEES",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

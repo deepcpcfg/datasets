@@ -1,0 +1,38 @@
+{
+    "IssuedDate": "1966",
+    "LineItem": [
+        {
+            "ItemDescription": "50 Charles River CD Mice",
+            "ItemUnitValue": "20.50"
+        },
+        {
+            "ItemDescription": "Laboratory Supplies",
+            "ItemTotal": "53.39"
+        },
+        {
+            "ItemDescription": "Direct Labor Pharmacologist Emil Smith, Ph.D.)",
+            "ItemTotal": "95,19"
+        },
+        {
+            "ItemDescription": "Biochemist (Harris Rosenkranbz:, Ph.D.)",
+            "ItemTotal": "73.28"
+        },
+        {
+            "ItemDescription": "Pathologist (Marcus M,Mason,",
+            "ItemTotal": "10.79"
+        },
+        {
+            "ItemDescription": "Technician pharmacology",
+            "ItemTotal": "45.30"
+        },
+        {
+            "ItemDescription": "Technician biochemistry",
+            "ItemTotal": "235.8]"
+        },
+        {
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemTotal": "525.01"
+        }
+    ],
+    "TotalAmount": "$588,01"
+}

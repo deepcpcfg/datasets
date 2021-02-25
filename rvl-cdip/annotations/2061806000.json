@@ -1,0 +1,25 @@
+{
+    "IssuedDate": "October 29, 1992",
+    "TotalAmount": "24,837.55",
+    "LineItem": [
+        {
+            "ItemDescription": "Phase I • Design Exploration Sixty-nine foil color front cover design for Virginia Slim. (See Attach ment-A)",
+            "ItemTotal": "$23,800.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Out-of-pocket Expenses; -Commissionable items; (15%) Iris print. Audio Supplies. Production Supplies, Research Materials.",
+            "ItemTotal": "$817.52",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Non-commissionable items: MessengerSjLabels,Meals, Cab Fares, Tokens. ",
+            "ItemTotal": "$220,03",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

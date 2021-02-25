@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "Date: 14 June 1984",
+    "InvoiceNumber": "04014",
+    "LineItem": [
+        {
+            "ItemDescription": "Project Magic First Instalment one third; of Agreed Fee for ^Name'Creation Exercise",
+            "ItemTotal": "11,833-33"
+        }
+    ],
+    "TotalAmount": "£11,833.-33"
+}

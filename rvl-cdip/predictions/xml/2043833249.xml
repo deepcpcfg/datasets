@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="51.0" fp="23.0" fn="2.0">
+    <TotalAmount tp="0.0" fp="3.0" fn="0.0">
+      <box l="502.0" t="571.0" r="604.0" b="615.0">704</box>
+    </TotalAmount>
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2697.0" t="309.0" r="2885.0" b="355.0">63145</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="6.0" fn="0.0">
+      <box l="2743.0" t="439.0" r="2925.0" b="485.0">1ft/77</box>
+    </IssuedDate>
+    <LineItem tp="46.0" fp="14.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="763.0" r="1033.0" b="809.0">MARLBORO</box>
+          <box l="1077.0" t="761.0" r="1223.0" b="809.0">KING</box>
+          <box l="1269.0" t="759.0" r="1415.0" b="807.0">SOFT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2776.0" t="758.0" r="2922.0" b="801.0">4.76</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="729.0" t="829.0" r="991.0" b="877.0">MENTHOL</box>
+          <box l="1037.0" t="827.0" r="1339.0" b="873.0">MARLBORO</box>
+          <box l="1381.0" t="827.0" r="1531.0" b="873.0">KING</box>
+          <box l="687.0" t="959.0" r="837.0" b="1005.0">FILL</box>
+          <box l="883.0" t="959.0" r="953.0" b="1003.0">AS</box>
+          <box l="999.0" t="955.0" r="1145.0" b="1005.0">SAND</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2773.0" t="821.0" r="2922.0" b="866.0">4*76</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

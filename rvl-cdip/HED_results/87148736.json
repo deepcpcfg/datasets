@@ -1,0 +1,83 @@
+[
+    {
+        "TotalAmount": [
+            "27762,00",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "27762.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "17010.005: 6 Week. Repeated Smoke Inhalation in Mice to Compare Histopathology and Short Term Endpoints Using Test an-d Reference Cigarettes (DL9 and D29)",
+                            {
+                                "tp": 152.0,
+                                "fp": 2.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 8.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 160.0,
+                        "fp": 2.0,
+                        "fn": 9.0
+                    }
+                ]
+            ],
+            {
+                "tp": 160.0,
+                "fp": 2.0,
+                "fn": 9.0
+            }
+        ],
+        "InvoiceNumber": [
+            "2277050",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "IssuedDate": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 174.0,
+        "fp": 3.0,
+        "fn": 10.0
+    }
+]

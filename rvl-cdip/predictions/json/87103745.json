@@ -1,0 +1,12 @@
+{
+    "InvoiceNumber": "7891",
+    "IssuedDate": "02/27789",
+    "LineItem": [
+        {
+            "ItemUnitCount": "01.000",
+            "ItemDescription": "UDS SINGLE STRAND BREAKS",
+            "ItemTotal": "5,000.00",
+            "ItemUnitValue": "5,000.00"
+        }
+    ]
+}

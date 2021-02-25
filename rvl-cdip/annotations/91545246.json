@@ -1,0 +1,151 @@
+{
+    "InvoiceNumber": "0025  58308",
+    "TotalAmount": "108. 739.65",
+    "LineItem": [
+        {
+            "ItemDescription": "ATLANTA JRNL. L CONST 020 3/5 PC",
+            "ItemTotal": "3.87 7.70",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.416.55",
+            "ItemDescription": "BOSTON HERALD QAO 3/5 PC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,736. 30",
+            "ItemDescription": "BUFFALO NEWS 065 3/5 PC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8, 128. 55",
+            "ItemDescription": "CHICAGO TRIBUNE 110 3/5 PC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3.235.95",
+            "ItemDescription": "CINCINNATI  130 PAGE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3.663.50",
+            "ItemDescription": "CLEVELAND PLAIN DEALER 1 AO 3/5 PC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "3.816.50",
+            "ItemDescription": "COLUMBUS DISPATCH 150 PAGE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.860.45",
+            "ItemDescription": "DALLAS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.832.20",
+            "ItemDescription": "DAYTON DAILY NEWS 182 PAGE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.67 6. 65",
+            "ItemDescription": "DENVER POST 190 3/5 PC",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,208.30",
+            "ItemDescription": "HARTFORD COURANT 230",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,242.35",
+            "ItemDescription": "HOUSTON POST 260",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,287.40",
+            "ItemDescription": "KANSAS CITY STAR 290",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.308.60",
+            "ItemDescription": "LOS ANGELES HERALD EXAM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MEMPHIS COMMERCIAL APPE330 PAGE",
+            "ItemTotal": "3.165.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MIAMI HERALD 340 PAGE",
+            "ItemTotal": "5.703.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MlLWAUKEl JOURNAL 350",
+            "ItemTotal": "1.621.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OMAHA WORLD HERALD 460",
+            "ItemTotal": "3,033.65",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ORLANDO SENTINEL 470 PAGE",
+            "ItemTotal": "2,963.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PROVIDENCE JOURNAL 3/3 ",
+            "ItemTotal": "1 •63 9.15",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ROCHESTER DEM & CHRON. 530",
+            "ItemTotal": "1 .84 8.76",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SAN ANTONIO EXPRESS-NEWSSO PACE",
+            "ItemTotal": "2.240. 25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "tulsa world",
+            "ItemTotal": "2.433.55",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TOLEDO BLADE 095 3/9 PC",
+            "ItemTotal": "1,594.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

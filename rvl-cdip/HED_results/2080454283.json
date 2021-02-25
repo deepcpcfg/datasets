@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "April 9,1999",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "S47.500.00",
+            {
+                "tp": 8.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "1",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "$47,500.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "$47,500.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Deposit for September 1999 Program 2nd deposit",
+                            {
+                                "tp": 46.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 65.0,
+                        "fp": 2.0,
+                        "fn": 1.0
+                    }
+                ]
+            ],
+            {
+                "tp": 65.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 85.0,
+        "fp": 4.0,
+        "fn": 3.0
+    }
+]

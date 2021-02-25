@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "332396",
+    "IssuedDate": "28 May 1990",
+    "TotalAmount": "180.00",
+    "LineItem": [
+        {
+            "ItemTotal": "4,000.00",
+            "ItemDescription": "BUDGET",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$2,570.00",
+            "ItemDescription": "PROFESSIONAL FEE TO DATE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$2,570.00",
+            "ItemDescription": "LESS AMOUNT PREVIOUSLY BILLED",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$281.00",
+            "ItemDescription": "OUT-OF-POCKET EXPENSES TO DATE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$101.00",
+            "ItemDescription": "LESS AMOUNT PREVIOUSLY BILLED",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

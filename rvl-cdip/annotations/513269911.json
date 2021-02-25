@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "9159",
+    "IssuedDate": "10/30/92",
+    "TotalAmount": "57,475.00",
+    "LineItem": [
+        {
+            "ItemDescription": "80th Anniversary Logo",
+            "ItemTotal": "6,250.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Catalog development concept/design/copywriting through revised color comprehensive",
+            "ItemTotal": "21,750.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Premium development revised premium development through mechanical art",
+            "ItemTotal": "29,475.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

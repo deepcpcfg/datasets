@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "8687",
+    "IssuedDate": "AUG.12.1996",
+    "TotalAmount": "2,205.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Management Time",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "$70.00",
+            "ItemTotal": "70.00"
+        },
+        {
+            "ItemDescription": "Clerical Time",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "55.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Phone Hours",
+            "ItemUnitCount": "60.00",
+            "ItemTotal": "2,100.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Data Processing Hours",
+            "ItemUnitCount": "0.00",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

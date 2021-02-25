@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="82.0" fp="24.0" fn="26.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="631.0" t="685.0" r="819.0" b="719.0">JAN25/00</box>
+    </IssuedDate>
+    <InvoiceNumber tp="10.0" fp="1.0" fn="1.0">
+      <box l="2325.0" t="683.0" r="2582.0" b="712.0">PRO1-005935</box>
+    </InvoiceNumber>
+    <LineItem tp="57.0" fp="22.0" fn="24.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="318.0" t="1218.0" r="746.0" b="1247.0">NoD-COffBniaijoPable</box>
+          <box l="773.0" t="1219.0" r="938.0" b="1253.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2394.0" t="1214.0" r="2576.0" b="1242.0">5.000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="321.0" t="1306.0" r="434.0" b="1335.0">Cowii</box>
+          <box l="442.0" t="1306.0" r="504.0" b="1335.0">sal</box>
+          <box l="513.0" t="1307.0" r="650.0" b="1336.0">enable</box>
+          <box l="679.0" t="1307.0" r="842.0" b="1340.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2489.0" t="1301.0" r="2576.0" b="1329.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="488.0" t="1393.0" r="725.0" b="1423.0">CoquiIbbIon</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2489.0" t="1391.0" r="2575.0" b="1417.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="1654.0" t="1568.0" r="1837.0" b="1601.0">6,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

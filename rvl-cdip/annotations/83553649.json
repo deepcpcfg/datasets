@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "5709",
+    "IssuedDate": "5/5/97",
+    "TotalAmount": "75.00",
+    "LineItem": [
+        {
+            "ItemDescription": "\"60 Minutes: The Tobbaco Tapes\" News 5/4/97 8:00pm KSTW-CBS",
+            "ItemUnitCount": "I",
+            "ItemUnitValue": "75.00",
+            "ItemTotal": "75.00"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "DATE;",
+    "IssuedDate": "October 17,1997",
+    "LineItem": [
+        {
+            "ItemDescription": "Conference for 1 hour 15 minutes",
+            "ItemTotal": "$300,00"
+        }
+    ],
+    "TotalAmount": "$300,00"
+}

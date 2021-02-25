@@ -1,0 +1,163 @@
+{
+    "InvoiceNumber": "189138",
+    "TotalAmount": "1426.60",
+    "LineItem": [
+        {
+            "ItemTotal": "12.03",
+            "ItemDescription": "Phone Long Dist",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Long Dist",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "55.84",
+            "ItemDescription": "Deville",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "20.50",
+            "ItemDescription": "Deville Dnr Beverage",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "320.00",
+            "ItemDescription": "Room",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8.40",
+            "ItemDescription": "Phone Long Di st",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7.48",
+            "ItemDescription": "Phone Long Di st",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7.48",
+            "ItemDescription": "Phone Long Dist",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7.48",
+            "ItemDescription": "Phone Long Dist",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "320.00",
+            "ItemDescription": "Room",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4.00",
+            "ItemDescription": "Lobby Lounge",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "25*00",
+            "ItemDescription": "Lobby Beverage",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "24.57",
+            "ItemDescription": "Deville",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6.25",
+            "ItemDescription": "Private Bar Beverage",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4.93",
+            "ItemDescription": "Phone Long Dist",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.54",
+            "ItemDescription": "Phone Local",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "23.20",
+            "ItemDescription": "Courier-FED EX",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "7.00",
+            "ItemDescription": "Valet Parking",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "320.00",
+            "ItemDescription": "Room",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "85.00",
+            "ItemDescription": "Limo-GHLS ghl575235",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

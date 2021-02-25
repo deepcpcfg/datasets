@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "CHOI86",
+    "IssuedDate": "Dec 12, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "One third of budgeted fee as approved by IM 97,200 FF © 0.186 FF/$1",
+            "ItemTotal": "$ 18,079.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "February 27, 1989",
+    "TotalAmount": "42,552.40",
+    "LineItem": [
+        {
+            "ItemDescription": "February Assesament Received",
+            "ItemTotal": "($42,552.40)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "March Assessment for CIAR",
+            "ItemTotal": "42,552.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

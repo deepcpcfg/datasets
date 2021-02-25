@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "10050",
+    "IssuedDate": "10/12/95",
+    "TotalAmount": "84,655.27",
+    "LineItem": [
+        {
+            "ItemDescription": "Professional Fees (2nd half of billing for Phase I",
+            "ItemTotal": "80,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Reimbursable Expenses (August and September 1995)",
+            "ItemTotal": "4655.27",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

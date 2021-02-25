@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "07/31/94",
+    "TotalAmount": "9,465.75",
+    "LineItem": [
+        {
+            "ItemDescription": "Out Of Pocket",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Creative Supervision",
+            "ItemTotal": "9*465.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

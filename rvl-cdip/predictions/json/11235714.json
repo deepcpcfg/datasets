@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "UCN-6453",
+    "LineItem": [
+        {
+            "ItemDescription": "CHARACTERIZATION DEVICES OF ANIMAL INHALATION EXPOSURE MARCH, 1979",
+            "ItemTotal": "19,109.00",
+            "ItemUnitValue": "19,109.00"
+        }
+    ]
+}

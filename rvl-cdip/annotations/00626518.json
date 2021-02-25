@@ -1,0 +1,37 @@
+{
+    "IssuedDate": "October 13. 1977",
+    "TotalAmount": "9,600.00",
+    "LineItem": [
+        {
+            "ItemTotal": "1,500.00",
+            "ItemDescription": "Design exploration and development of seven ooeprehensiva syabols for “Square Shape“ oonoept",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Pack - Regulart Fourteen semi-comprehensive concepts ware presented (Earth Colors)",
+            "ItemTotal": "3,900.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,800.00",
+            "ItemDescription": "Pack - Mentholi Twelve Benl-ooaprehenalva concepts were presentee!",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,200.00",
+            "ItemDescription": "Carton - Regular * Three three-dlmenalonal flat semi-comprehensive ooncepts were presented",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,200*00",
+            "ItemDescription": "Barrel • Regulari Ton semi-comprehensive, three- dimensional dummy concepts were presented",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

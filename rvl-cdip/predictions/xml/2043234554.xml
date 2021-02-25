@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="541.0" t="1750.0" r="799.0" b="1791.0">fWFOSCAN:</box>
+          <box l="850.0" t="1746.0" r="1153.0" b="1788.0">CIGARETTES</box>
+          <box l="533.0" t="1813.0" r="778.0" b="1851.0">VIRGINIA</box>
+          <box l="817.0" t="1813.0" r="966.0" b="1851.0">SLIMS</box>
+          <box l="1004.0" t="1813.0" r="1157.0" b="1851.0">SUPER</box>
+          <box l="1195.0" t="1810.0" r="1340.0" b="1847.0">SLIMS</box>
+          <box l="533.0" t="1875.0" r="682.0" b="1913.0">PANEL</box>
+          <box l="724.0" t="1875.0" r="841.0" b="1913.0">DATA</box>
+          <box l="882.0" t="1876.0" r="999.0" b="1913.0">FROM</box>
+          <box l="1045.0" t="1867.0" r="1153.0" b="1918.0">1087</box>
+          <box l="1192.0" t="1872.0" r="1249.0" b="1910.0">TO</box>
+          <box l="1296.0" t="1872.0" r="1406.0" b="1918.0">&gt;992</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2548.0" t="1236.0" r="2665.0" b="1274.0">JUNE</box>
+      <box l="2712.0" t="1235.0" r="2783.0" b="1279.0">12,</box>
+      <box l="2838.0" t="1234.0" r="2949.0" b="1280.0">1092</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2651.0" t="2934.0" r="2958.0" b="2984.0">$65,000.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

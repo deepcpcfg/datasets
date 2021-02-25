@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "12-53-0020",
+    "LineItem": [
+        {
+            "ItemDescription": "1982 ALLOWANCE PER AGREEMENT",
+            "ItemTotal": "$733,250.00"
+        },
+        {
+            "ItemDescription": "LESS JULY CREDIT",
+            "ItemTotal": "861,850.00"
+        }
+    ],
+    "TotalAmount": "$73,600.00"
+}

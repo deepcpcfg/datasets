@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "■11011",
+    "LineItem": [
+        {
+            "ItemDescription": "This voucher represents reimburseable"
+        },
+        {
+            "ItemDescription": "for period April 19,"
+        },
+        {
+            "ItemDescription": "Fee"
+        }
+    ],
+    "TotalAmount": "*27,091-38"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "60-0700-5075F",
+    "IssuedDate": "Nov 16, 1996",
+    "TotalAmount": "5,416.32",
+    "LineItem": [
+        {
+            "ItemDescription": "FEES: Project Cost",
+            "ItemTotal": "$5,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

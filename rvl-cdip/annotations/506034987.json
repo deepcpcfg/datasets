@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "N379000",
+    "IssuedDate": "September 29, 1987",
+    "TotalAmount": "39,715.63",
+    "LineItem": [
+        {
+            "ItemDescription": "Staff Services for August & September",
+            "ItemTotal": "$ 34,696.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Total Out-of-Pocket Expenses",
+            "ItemTotal": "19.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

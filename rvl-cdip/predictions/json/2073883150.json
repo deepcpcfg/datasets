@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "December 3, 1998",
+    "InvoiceNumber": "119865391",
+    "LineItem": [
+        {
+            "ItemDescription": "Regulatory and Legislative Matters Fees Expenses",
+            "ItemTotal": "102,013.50"
+        },
+        {
+            "ItemDescription": "Special Project for Philip",
+            "ItemTotal": "375.00"
+        }
+    ]
+}

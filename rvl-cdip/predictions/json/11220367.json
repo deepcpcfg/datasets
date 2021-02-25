@@ -1,0 +1,34 @@
+{
+    "IssuedDate": "16 April 1970",
+    "LineItem": [
+        {
+            "ItemDescription": "Bedding..",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "Project Manager(H. Rosenkrantzr",
+            "ItemTotal": "865.18"
+        },
+        {
+            "ItemDescription": "Analytical ChemistfM. Hagc-pian, Ph.D.)",
+            "ItemTotal": "1,161.74"
+        },
+        {
+            "ItemDescription": "Pathologist Baker)",
+            "ItemTotal": "446"
+        },
+        {
+            "ItemDescription": "Laboratory Technicians",
+            "ItemTotal": "1,796.19"
+        },
+        {
+            "ItemDescription": "Animal Care Technician*",
+            "ItemTotal": "114.00"
+        },
+        {
+            "ItemDescription": "Clerk-Data Processing",
+            "ItemTotal": "2.34"
+        }
+    ],
+    "TotalAmount": "$11,481.15"
+}

@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1516-1",
+    "IssuedDate": "July 20, 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "Rat Metabolism Study With A-57 (^C)",
+            "ItemTotal": "$8,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

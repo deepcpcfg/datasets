@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "9-0",
+    "IssuedDate": "1/19/79",
+    "LineItem": [
+        {
+            "ItemDescription": "Worker1a Compensation",
+            "ItemTotal": "3,673,000",
+            "ItemUnitValue": "3,673,00"
+        },
+        {
+            "ItemDescription": "General Liability",
+            "ItemTotal": "1,046,500"
+        },
+        {
+            "ItemDescription": "Automobile Liability",
+            "ItemTotal": "296,800"
+        }
+    ],
+    "TotalAmount": "860,300"
+}

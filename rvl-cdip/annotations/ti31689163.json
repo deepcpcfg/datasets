@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "26029",
+    "IssuedDate": "2/28/9-4",
+    "TotalAmount": "618. 24",
+    "LineItem": [
+        {
+            "ItemDescription": "TATE TAX REPORT & CIGARETTE TAX DATA - January ’94 I /18/94 - (799)",
+            "ItemTotal": "386.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE USED",
+            "ItemTotal": "232.14",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

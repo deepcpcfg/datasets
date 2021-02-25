@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "26029",
+    "IssuedDate": "2/28/9-4",
+    "LineItem": [
+        {
+            "ItemDescription": "STATE TAX REPORT CIGARETTE TAX DATA January ’94 1 /18/94 (799)",
+            "ItemTotal": "386.10"
+        },
+        {
+            "ItemDescription": "POSTAGE USED-",
+            "ItemTotal": "£32.14"
+        }
+    ]
+}

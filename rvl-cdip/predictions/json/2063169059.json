@@ -1,0 +1,45 @@
+{
+    "InvoiceNumber": "0581",
+    "LineItem": [
+        {
+            "ItemDescription": "Audited Premiixn Retrospective Premium",
+            "ItemTotal": "7,706,078"
+        },
+        {
+            "ItemDescription": "Previously Billed Premium",
+            "ItemUnitValue": "4,838,583",
+            "ItemTotal": "7,717,330"
+        },
+        {
+            "ItemDescription": "Gross Adjustment (2 3)",
+            "ItemUnitValue": "127,864",
+            "ItemTotal": "11.252CR"
+        },
+        {
+            "ItemDescription": "Dividend on Retro. Ptemiimi",
+            "ItemTotal": "744,967",
+            "ItemUnitValue": "744,967"
+        },
+        {
+            "ItemDescription": "Previously Billed Dividend",
+            "ItemTotal": "725,787",
+            "ItemUnitValue": "725,787"
+        },
+        {
+            "ItemDescription": "7. Dividend Offset",
+            "ItemTotal": "19.180CR",
+            "ItemUnitValue": "19,180CR"
+        },
+        {
+            "ItemDescription": "8. K.Y Assess. Prev. Billed",
+            "ItemTotal": "28,973",
+            "ItemUnitValue": "28,973"
+        },
+        {
+            "ItemDescription": "Revised RY Assess",
+            "ItemTotal": "28,161",
+            "ItemUnitValue": "28,161"
+        }
+    ],
+    "TotalAmount": "31,244CR"
+}

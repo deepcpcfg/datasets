@@ -1,0 +1,25 @@
+{
+    "TotalAmount": "51 3. 26",
+    "LineItem": [
+        {
+            "ItemDescription": "5164 RECORDS",
+            "ItemTotal": "469.26",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ONE TAPE AT <525. 00",
+            "ItemTotal": "25. OO",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemTotal": "1 9. 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="174.0" fp="24.0" fn="5.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2407.0" t="1424.0" r="2699.0" b="1490.0">003223</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2198.0" t="1577.0" r="2447.0" b="1624.0">10/26/94</box>
+    </IssuedDate>
+    <LineItem tp="154.0" fp="23.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="720.0" t="1846.0" r="995.0" b="1890.0">Evaluation</box>
+          <box l="1020.0" t="1847.0" r="1073.0" b="1889.0">of</box>
+          <box l="1095.0" t="1844.0" r="1270.0" b="1891.0">Riviera</box>
+          <box l="1295.0" t="1847.0" r="1503.0" b="1892.0">outdoor</box>
+          <box l="1528.0" t="1849.0" r="1835.0" b="1901.0">advertising.</box>
+          <box l="1882.0" t="1849.0" r="2078.0" b="1906.0">Testing</box>
+          <box l="721.0" t="1915.0" r="833.0" b="1957.0">with</box>
+          <box l="859.0" t="1913.0" r="962.0" b="1958.0">300</box>
+          <box l="987.0" t="1921.0" r="1143.0" b="1968.0">target</box>
+          <box l="1167.0" t="1917.0" r="1404.0" b="1961.0">smokers.</box>
+          <box l="1433.0" t="1917.0" r="1692.0" b="1962.0">Estimated</box>
+          <box l="1722.0" t="1921.0" r="1901.0" b="1972.0">project</box>
+          <box l="1926.0" t="1929.0" r="2037.0" b="1964.0">cost</box>
+          <box l="723.0" t="1979.0" r="952.0" b="2027.0">$43,500</box>
+          <box l="1098.0" t="1983.0" r="1235.0" b="2030.0">10%,</box>
+          <box l="1264.0" t="1987.0" r="1369.0" b="2034.0">plus</box>
+          <box l="1394.0" t="1985.0" r="1732.0" b="2039.0">photography</box>
+          <box l="1758.0" t="1995.0" r="1898.0" b="2030.0">costs</box>
+          <box l="1924.0" t="1990.0" r="2037.0" b="2036.0">(est.</box>
+          <box l="2070.0" t="1988.0" r="2281.0" b="2038.0">$1,200}</box>
+          <box l="1360.0" t="2190.0" r="1473.0" b="2234.0">First</box>
+          <box l="1499.0" t="2189.0" r="1661.0" b="2234.0">Partial</box>
+          <box l="1687.0" t="2191.0" r="1840.0" b="2246.0">Billing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2396.0" t="2192.0" r="2624.0" b="2242.0">$21,750</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="6.0" fp="1.0" fn="0.0">
+      <box l="2394.0" t="2332.0" r="2622.0" b="2381.0">$21,750</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

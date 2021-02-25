@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "11-0197 ",
+    "IssuedDate": "November 23. 1992",
+    "TotalAmount": "11,264.65",
+    "LineItem": [
+        {
+            "ItemTotal": "$5,602.84",
+            "ItemDescription": "Art/Mecharucate",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "235,88",
+            "ItemDescription": "Type",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,463.95",
+            "ItemDescription": "Lisi Pull/database Services",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "280.50",
+            "ItemDescription": "Stats",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "110.00",
+            "ItemDescription": "Copies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "24.00",
+            "ItemDescription": "Faxes",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "27.00",
+            "ItemDescription": "creight (Mair tapes) “",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "89.96",
+            "ItemDescription": "Messenger’",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "55.33",
+            "ItemDescription": "Miscellaneous’",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

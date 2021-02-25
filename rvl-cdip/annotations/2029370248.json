@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "M00073",
+    "IssuedDate": "Sep 9, 1991",
+    "LineItem": [
+        {
+            "ItemDescription": "To the services distributing the Invoice #91124 of I of Svenska PR byran in planning and HBI Magazine in July 1991. Svenska September 15, 1991 refers.",
+            "ItemTotal": "2.221.61",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

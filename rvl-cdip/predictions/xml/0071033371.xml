@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="155.0" fp="17.0" fn="17.0">
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="404.0" t="563.0" r="533.0" b="613.0">1754</box>
+    </InvoiceNumber>
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2022.0" t="570.0" r="2201.0" b="617.0">March</box>
+      <box l="2247.0" t="571.0" r="2301.0" b="629.0">1,</box>
+      <box l="2360.0" t="570.0" r="2497.0" b="620.0">1964</box>
+    </IssuedDate>
+    <LineItem tp="138.0" fp="17.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="538.0" t="1291.0" r="862.0" b="1338.0">Statement</box>
+          <box l="904.0" t="1304.0" r="1004.0" b="1338.0">for</box>
+          <box l="1051.0" t="1301.0" r="1151.0" b="1338.0">the</box>
+          <box l="1192.0" t="1301.0" r="1368.0" b="1338.0">month</box>
+          <box l="1405.0" t="1301.0" r="1475.0" b="1339.0">of</box>
+          <box l="1518.0" t="1292.0" r="1722.0" b="1352.0">March,</box>
+          <box l="1776.0" t="1291.0" r="1942.0" b="1351.0">1964,</box>
+          <box l="541.0" t="1367.0" r="829.0" b="1405.0">RENDERED</box>
+          <box l="866.0" t="1367.0" r="1041.0" b="1405.0">UNDER</box>
+          <box l="1083.0" t="1367.0" r="1475.0" b="1408.0">CONTRACTUAL</box>
+          <box l="1518.0" t="1367.0" r="1838.0" b="1408.0">AGREEMENT</box>
+          <box l="1880.0" t="1367.0" r="2059.0" b="1408.0">DATED</box>
+          <box l="541.0" t="1428.0" r="716.0" b="1471.0">March</box>
+          <box l="765.0" t="1425.0" r="816.0" b="1484.0">1,</box>
+          <box l="876.0" t="1424.0" r="1033.0" b="1484.0">1964,</box>
+          <box l="1084.0" t="1437.0" r="1154.0" b="1476.0">AS</box>
+          <box l="1193.0" t="1434.0" r="1479.0" b="1475.0">provided</box>
+          <box l="1518.0" t="1434.0" r="1621.0" b="1475.0">FOR</box>
+          <box l="1664.0" t="1434.0" r="1729.0" b="1471.0">BY</box>
+          <box l="1772.0" t="1434.0" r="2093.0" b="1475.0">PARAGRAPH</box>
+          <box l="540.0" t="1491.0" r="642.0" b="1539.0">4-H</box>
+          <box l="683.0" t="1505.0" r="750.0" b="1541.0">or</box>
+          <box l="796.0" t="1501.0" r="933.0" b="1541.0">SAID</box>
+          <box l="976.0" t="1504.0" r="1258.0" b="1539.0">CONTRACT</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2643.0" t="1487.0" r="2934.0" b="1545.0">$1964.17</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

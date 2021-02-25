@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1199",
+    "IssuedDate": "3/21/94",
+    "TotalAmount": "2,500.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$2,200.00",
+            "ItemDescription": "Videotaping and presentation editing",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$300.00",
+            "ItemDescription": "(10) Tape Stock Full H`18",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

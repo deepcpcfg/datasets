@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="2665.0" t="861.0" r="2811.0" b="916.0">4711</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2535.0" t="1854.0" r="2672.0" b="1895.0">4/2/99</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="942.0" t="2077.0" r="1021.0" b="2118.0">Old</box>
+          <box l="1038.0" t="2077.0" r="1146.0" b="2119.0">Gold</box>
+          <box l="1163.0" t="2078.0" r="1332.0" b="2120.0">Smoker</box>
+          <box l="1346.0" t="2075.0" r="1496.0" b="2118.0">Profile</box>
+          <box l="1513.0" t="2076.0" r="1637.0" b="2126.0">Study</box>
+          <box l="937.0" t="2210.0" r="1049.0" b="2252.0">Total</box>
+          <box l="1067.0" t="2211.0" r="1166.0" b="2253.0">Cost</box>
+          <box l="1474.0" t="2209.0" r="1651.0" b="2256.0">$41,600</box>
+          <box l="936.0" t="2274.0" r="1170.0" b="2324.0">Previously</box>
+          <box l="1187.0" t="2274.0" r="1320.0" b="2316.0">Billed</box>
+          <box l="1474.0" t="2272.0" r="1652.0" b="2319.0">$27,000</box>
+          <box l="1834.0" t="2402.0" r="1943.0" b="2443.0">Final</box>
+          <box l="1960.0" t="2403.0" r="2113.0" b="2453.0">Billing</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2419.0" t="2402.0" r="2608.0" b="2448.0">$14,600.</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "June 30, 1982",
+            {
+                "tp": 13.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$6,625.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Teratogenic and Peri natal/Postnatal Study in the Rat with D-8, and D-9",
+                            {
+                                "tp": 2.0,
+                                "fp": 69.0,
+                                "fn": 3.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 71.0,
+                        "fn": 6.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "6,625.00)",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "1st Installment of four AWARD",
+                            {
+                                "tp": 4.0,
+                                "fp": 25.0,
+                                "fn": 11.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 13.0,
+                        "fp": 25.0,
+                        "fn": 13.0
+                    }
+                ]
+            ],
+            {
+                "tp": 22.0,
+                "fp": 96.0,
+                "fn": 19.0
+            }
+        ],
+        "InvoiceNumber": [
+            "246638",
+            {
+                "tp": 2.0,
+                "fp": 4.0,
+                "fn": 4.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ]
+    },
+    {
+        "tp": 37.0,
+        "fp": 100.0,
+        "fn": 32.0
+    }
+]

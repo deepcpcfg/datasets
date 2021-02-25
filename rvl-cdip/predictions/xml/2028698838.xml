@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="199.0" fp="3.0" fn="6.0">
+    <IssuedDate tp="6.0" fp="0.0" fn="3.0">
+      <box l="2675.0" t="1444.0" r="2883.0" b="1489.0">Jun.91</box>
+    </IssuedDate>
+    <LineItem tp="184.0" fp="3.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="833.0" t="2115.0" r="1183.0" b="2168.0">biological</box>
+          <box l="1226.0" t="2115.0" r="1510.0" b="2168.0">Activity</box>
+          <box l="1552.0" t="2113.0" r="1614.0" b="2156.0">of</box>
+          <box l="1659.0" t="2118.0" r="1695.0" b="2157.0">A</box>
+          <box l="1738.0" t="2115.0" r="1833.0" b="2158.0">245</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="2116.0" r="2706.0" b="2164.0">88,800</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="833.0" t="2236.0" r="1183.0" b="2289.0">Biological</box>
+          <box l="1229.0" t="2236.0" r="1509.0" b="2289.0">Activity</box>
+          <box l="1551.0" t="2235.0" r="1613.0" b="2279.0">of</box>
+          <box l="1663.0" t="2238.0" r="1798.0" b="2280.0">FRSS</box>
+          <box l="1841.0" t="2238.0" r="1945.0" b="2279.0">and</box>
+          <box l="1991.0" t="2239.0" r="2126.0" b="2280.0">ELSS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2388.0" t="2237.0" r="2705.0" b="2289.0">5,083,000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="832.0" t="2358.0" r="1182.0" b="2410.0">Biological</box>
+          <box l="1225.0" t="2359.0" r="1509.0" b="2413.0">Activity</box>
+          <box l="1551.0" t="2359.0" r="1613.0" b="2401.0">of</box>
+          <box l="1662.0" t="2362.0" r="1767.0" b="2401.0">New</box>
+          <box l="1804.0" t="2359.0" r="1979.0" b="2401.0">Smoke</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2463.0" t="2362.0" r="2705.0" b="2411.0">133,200</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="829.0" t="2475.0" r="1183.0" b="2518.0">Scientific</box>
+          <box l="1229.0" t="2479.0" r="1329.0" b="2519.0">and</box>
+          <box l="1372.0" t="2477.0" r="1688.0" b="2521.0">Technical</box>
+          <box l="1737.0" t="2482.0" r="2158.0" b="2532.0">Improvements</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2463.0" t="2481.0" r="2705.0" b="2531.0">281,200</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="832.0" t="2600.0" r="1074.0" b="2653.0">Project</box>
+          <box l="1116.0" t="2601.0" r="1471.0" b="2652.0">Management</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2462.0" t="2603.0" r="2706.0" b="2648.0">950.000</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2388.0" t="2725.0" r="2705.0" b="2776.0">7,336,200</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

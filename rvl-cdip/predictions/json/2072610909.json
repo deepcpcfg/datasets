@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "November 10, 1990",
+    "InvoiceNumber": "3000",
+    "LineItem": [
+        {
+            "ItemDescription": "Total",
+            "ItemTotal": "(8,530.00)"
+        },
+        {
+            "ItemDescription": "Plus facility food",
+            "ItemTotal": "450.00"
+        },
+        {
+            "ItemDescription": "Pius travel",
+            "ItemTotal": "918.00"
+        }
+    ],
+    "TotalAmount": "9,761.00"
+}

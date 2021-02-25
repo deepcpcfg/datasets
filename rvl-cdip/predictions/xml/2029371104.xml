@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="319.0" fp="60.0" fn="76.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2383.0" t="1060.0" r="2563.0" b="1106.0">010238</box>
+    </InvoiceNumber>
+    <IssuedDate tp="10.0" fp="7.0" fn="2.0">
+      <box l="2270.0" t="1187.0" r="2370.0" b="1221.0">□att</box>
+      <box l="2386.0" t="1184.0" r="2473.0" b="1225.0">Jul</box>
+      <box l="2511.0" t="1187.0" r="2590.0" b="1233.0">23.</box>
+      <box l="2633.0" t="1187.0" r="2744.0" b="1228.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="299.0" fp="53.0" fn="70.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="480.0" t="1831.0" r="629.0" b="1876.0">Trane</box>
+          <box l="664.0" t="1834.0" r="749.0" b="1876.0">Air</box>
+          <box l="784.0" t="1834.0" r="1145.0" b="1890.0">Conditioning</box>
+          <box l="1178.0" t="1839.0" r="1383.0" b="1892.0">Clinic,</box>
+          <box l="1424.0" t="1840.0" r="1537.0" b="1884.0">Jwie</box>
+          <box l="1579.0" t="1842.0" r="1654.0" b="1892.0">M,</box>
+          <box l="1699.0" t="1843.0" r="1717.0" b="1887.0">1</box>
+          <box l="1755.0" t="1842.0" r="1837.0" b="1894.0">day</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2512.0" t="1849.0" r="2743.0" b="1896.0">1,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="480.0" t="1896.0" r="629.0" b="1939.0">Clean</box>
+          <box l="664.0" t="1896.0" r="747.0" b="1938.0">Air</box>
+          <box l="786.0" t="1899.0" r="992.0" b="1950.0">Society</box>
+          <box l="1030.0" t="1899.0" r="1082.0" b="1944.0">of</box>
+          <box l="1117.0" t="1902.0" r="1387.0" b="1946.0">Australia</box>
+          <box l="1421.0" t="1904.0" r="1508.0" b="1946.0">and</box>
+          <box l="1545.0" t="1904.0" r="1632.0" b="1946.0">New</box>
+          <box l="1663.0" t="1905.0" r="1870.0" b="1948.0">Zealand</box>
+          <box l="485.0" t="1956.0" r="747.0" b="2006.0">Brisbane,</box>
+          <box l="786.0" t="1958.0" r="900.0" b="2007.0">July</box>
+          <box l="939.0" t="1959.0" r="1050.0" b="2011.0">7-8,</box>
+          <box l="1091.0" t="1962.0" r="1115.0" b="2002.0">2</box>
+          <box l="1150.0" t="1961.0" r="1262.0" b="2011.0">days</box>
+          <box l="1305.0" t="1960.0" r="1990.0" b="2011.0">(airfare/aceannodatIon)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2511.0" t="1970.0" r="2744.0" b="2016.0">2,900.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="481.0" t="2020.0" r="780.0" b="2063.0">Australian</box>
+          <box l="818.0" t="2021.0" r="1022.0" b="2070.0">Society</box>
+          <box l="1065.0" t="2020.0" r="1142.0" b="2065.0">for</box>
+          <box l="1180.0" t="2023.0" r="1563.0" b="2068.0">Environmental</box>
+          <box l="1596.0" t="2024.0" r="1838.0" b="2070.0">Medicine</box>
+          <box l="486.0" t="2079.0" r="747.0" b="2129.0">Brisbane,</box>
+          <box l="789.0" t="2080.0" r="901.0" b="2133.0">July</box>
+          <box l="944.0" t="2082.0" r="1109.0" b="2132.0">12-13,</box>
+          <box l="1151.0" t="2086.0" r="1175.0" b="2127.0">1</box>
+          <box l="1210.0" t="2085.0" r="1296.0" b="2135.0">day</box>
+          <box l="1338.0" t="2080.0" r="1896.0" b="2133.0">(alrfare/aeccnmodat</box>
+          <box l="1913.0" t="2086.0" r="2020.0" b="2135.0">Ion)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2516.0" t="2092.0" r="2744.0" b="2137.0">1.000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="491.0" t="2140.0" r="569.0" b="2180.0">l£S</box>
+          <box l="602.0" t="2141.0" r="931.0" b="2194.0">Conference,</box>
+          <box l="969.0" t="2145.0" r="1171.0" b="2196.0">Sydney,</box>
+          <box l="1210.0" t="2146.0" r="1325.0" b="2197.0">July</box>
+          <box l="1364.0" t="2147.0" r="1443.0" b="2197.0">21,</box>
+          <box l="1485.0" t="2150.0" r="1506.0" b="2189.0">1</box>
+          <box l="1543.0" t="2147.0" r="1627.0" b="2199.0">day</box>
+          <box l="495.0" t="2202.0" r="571.0" b="2243.0">[ES</box>
+          <box l="602.0" t="2203.0" r="930.0" b="2258.0">Conference,</box>
+          <box l="965.0" t="2208.0" r="1260.0" b="2261.0">Melbourne,</box>
+          <box l="1301.0" t="2210.0" r="1417.0" b="2260.0">July</box>
+          <box l="1456.0" t="2210.0" r="1534.0" b="2259.0">28,</box>
+          <box l="1576.0" t="2213.0" r="1597.0" b="2255.0">2</box>
+          <box l="1635.0" t="2212.0" r="1746.0" b="2258.0">days</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2513.0" t="2154.0" r="2744.0" b="2203.0">1,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="4.0" fp="0.0" fn="4.0">
+      <box l="2514.0" t="2341.0" r="2742.0" b="2391.0">8,00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

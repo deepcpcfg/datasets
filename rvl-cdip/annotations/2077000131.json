@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "M500953",
+    "IssuedDate": "June 8, 1995",
+    "TotalAmount": "1,231,648.10",
+    "LineItem": [
+        {
+            "ItemTotal": "247,906.00",
+            "ItemDescription": "FEES FOR PROFESSIONAL SERVICES",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "179,943.77",
+            "ItemDescription": "CHARGES:",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "427,849.77",
+            "ItemDescription": "TOTAL CURRENT FEES AND CHARGES:",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "803,798.33",
+            "ItemDescription": "OUTSTANDING BALANCE(s);",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

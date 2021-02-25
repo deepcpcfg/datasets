@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "Fri, Nov 16t 1996",
+    "InvoiceNumber": "60-0700-5075F",
+    "LineItem": [
+        {
+            "ItemDescription": "Project Cost",
+            "ItemTotal": "$5,200.00"
+        }
+    ],
+    "TotalAmount": "$5,416.32"
+}

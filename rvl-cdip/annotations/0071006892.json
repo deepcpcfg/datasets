@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1616",
+    "IssuedDate": "11/29/88",
+    "TotalAmount": "17,800",
+    "LineItem": [
+        {
+            "ItemDescription": "Study cost",
+            "ItemTotal": "$16,500",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Photography",
+            "ItemTotal": "1,300",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

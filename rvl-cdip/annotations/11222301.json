@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "CTR 2220-37",
+    "IssuedDate": "8 11 72",
+    "TotalAmount": "11,422.77",
+    "LineItem": [
+        {
+            "ItemTotal": "10,272.77",
+            "ItemDescription": "This Voucher represents reinburseablc coats fur period 15 July 1972 thru 11 August 1972",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,150.00",
+            "ItemDescription": "Fixed Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

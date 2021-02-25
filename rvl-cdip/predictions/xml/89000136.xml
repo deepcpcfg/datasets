@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="70.0" fp="25.0" fn="13.0">
+    <InvoiceNumber tp="0.0" fp="5.0" fn="4.0">
+      <box l="2540.0" t="638.0" r="2773.0" b="701.0">49448</box>
+    </InvoiceNumber>
+    <IssuedDate tp="6.0" fp="0.0" fn="0.0">
+      <box l="374.0" t="1673.0" r="537.0" b="1724.0">2/6/89</box>
+    </IssuedDate>
+    <LineItem tp="64.0" fp="20.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="460.0" t="1894.0" r="817.0" b="1948.0">Range-Finding</box>
+          <box l="846.0" t="1898.0" r="980.0" b="1947.0">Study</box>
+          <box l="1068.0" t="1897.0" r="1284.0" b="1947.0">Compound</box>
+          <box l="1314.0" t="1897.0" r="1393.0" b="1942.0">A98</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2251.0" t="1899.0" r="2470.0" b="1947.0">5,350.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1068.0" t="1955.0" r="1284.0" b="2006.0">Compound</box>
+          <box l="1314.0" t="1955.0" r="1359.0" b="1996.0">Bl</box>
+          <box l="1370.0" t="1955.0" r="1421.0" b="1996.0">70</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2252.0" t="1957.0" r="2468.0" b="2003.0">5,350.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1068.0" t="2010.0" r="1285.0" b="2060.0">Compound</box>
+          <box l="1310.0" t="2010.0" r="1356.0" b="2050.0">Al</box>
+          <box l="1368.0" t="2010.0" r="1419.0" b="2050.0">47</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2251.0" t="2011.0" r="2468.0" b="2063.0">5,350.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,24 @@
+{
+    "IssuedDate": "February 23, 1979",
+    "LineItem": [
+        {
+            "ItemDescription": "Art/Production/Type",
+            "ItemUnitCount": "1.5"
+        },
+        {
+            "ItemDescription": "b. Printing/Brochures, Stationery, Tickets c. Ken Young (2nd payment)",
+            "ItemTotal": "20.0",
+            "ItemUnitCount": "5.0"
+        },
+        {
+            "ItemDescription": "d. Production, Distribution, Mailing e. Office Equipment f. Secretary Salary",
+            "ItemUnitCount": "2.0",
+            "ItemTotal": "2.0"
+        },
+        {
+            "ItemDescription": "Pro-Am Gifts",
+            "ItemTotal": "5.0"
+        }
+    ],
+    "TotalAmount": "40.0"
+}

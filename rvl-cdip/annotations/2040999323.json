@@ -1,0 +1,19 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Accessory units purchased as per our inventory",
+            "ItemUnitCount": "2589",
+            "ItemTotal": "$197,532.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dress units purchased as per our inventory",
+            "ItemUnitCount": "167",
+            "ItemTotal": "$67,320",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

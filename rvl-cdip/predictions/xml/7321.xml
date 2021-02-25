@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="76.0" fp="24.0" fn="36.0">
+    <LineItem tp="67.0" fp="23.0" fn="16.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="327.0" t="1208.0" r="758.0" b="1240.0">Non-Ctximissleviable</box>
+          <box l="784.0" t="1212.0" r="947.0" b="1245.0">Charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2360.0" t="1207.0" r="2591.0" b="1240.0">102,495-06</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="329.0" t="1298.0" r="467.0" b="1328.0">CotiMnis</box>
+          <box l="475.0" t="1297.0" r="515.0" b="1328.0">si</box>
+          <box l="521.0" t="1298.0" r="658.0" b="1328.0">enable</box>
+          <box l="689.0" t="1298.0" r="850.0" b="1333.0">Chaxgcs</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="1296.0" r="2592.0" b="1324.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="325.0" t="1389.0" r="471.0" b="1424.0">Ageucy</box>
+          <box l="496.0" t="1386.0" r="732.0" b="1416.0">Coaunisaion</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2501.0" t="1387.0" r="2589.0" b="1412.0">0,00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="1.0">
+      <box l="2359.0" t="1474.0" r="2588.0" b="1503.0">102,495.09</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

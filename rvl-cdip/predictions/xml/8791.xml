@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="106.0" fp="66.0" fn="4.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2492.0" t="336.0" r="2659.0" b="370.0">15426</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2492.0" t="391.0" r="2772.0" b="429.0">12-31-97</box>
+    </IssuedDate>
+    <LineItem tp="85.0" fp="66.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="801.0" t="1310.0" r="1038.0" b="1346.0">ACCOUNT</box>
+          <box l="1080.0" t="1312.0" r="1386.0" b="1347.0">EXECUTIVE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2141.0" t="1317.0" r="2242.0" b="1351.0">960</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2705.0" t="1320.0" r="2912.0" b="1358.0">960.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="938.0" t="1371.0" r="1040.0" b="1406.0">HRS</box>
+          <box l="1151.0" t="1371.0" r="1284.0" b="1413.0">$80)</box>
+          <box l="801.0" t="1429.0" r="1074.0" b="1463.0">CREATIVE</box>
+          <box l="1117.0" t="1430.0" r="1392.0" b="1466.0">DIRECTOR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2108.0" t="1434.0" r="2347.0" b="1471.0">2700.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2667.0" t="1438.0" r="2912.0" b="1476.0">2700.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="800.0" t="1483.0" r="900.0" b="1529.0">(18</box>
+          <box l="941.0" t="1488.0" r="1040.0" b="1523.0">HRS</box>
+          <box l="1151.0" t="1487.0" r="1317.0" b="1530.0">$150)</box>
+          <box l="801.0" t="1545.0" r="900.0" b="1580.0">ART</box>
+          <box l="942.0" t="1545.0" r="1213.0" b="1583.0">DIRECTOR</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2108.0" t="1551.0" r="2347.0" b="1588.0">2635.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2668.0" t="1555.0" r="2911.0" b="1592.0">2635.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="801.0" t="1597.0" r="895.0" b="1642.0">(31</box>
+          <box l="941.0" t="1605.0" r="1041.0" b="1638.0">HRS</box>
+          <box l="1151.0" t="1605.0" r="1246.0" b="1641.0">$85</box>
+          <box l="801.0" t="1659.0" r="1076.0" b="1696.0">COMPUTER</box>
+          <box l="1117.0" t="1663.0" r="1317.0" b="1696.0">ARTIST</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2109.0" t="1666.0" r="2348.0" b="1701.0">3710.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2672.0" t="1667.0" r="2910.0" b="1704.0">3710.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1151.0" t="1717.0" r="1284.0" b="1758.0">$70)</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="1.0">
+      <box l="2638.0" t="3797.0" r="2905.0" b="3834.0">10005.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

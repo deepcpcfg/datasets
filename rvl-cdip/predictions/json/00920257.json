@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "September 1, 1983",
+    "InvoiceNumber": "1500-6",
+    "LineItem": [
+        {
+            "ItemDescription": "MOUSE SKIN PAINTING STUDY WITH D-l and 0-10",
+            "ItemTotal": "15,000.00"
+        }
+    ],
+    "TotalAmount": "84,000.00"
+}

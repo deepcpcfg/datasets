@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "18556",
+    "IssuedDate": "August 5, 1997",
+    "TotalAmount": "1,624.04",
+    "LineItem": [
+        {
+            "ItemDescription": "For Services Rendered Through July 31, 1997 Current Costs",
+            "ItemTotal": "1,624,04",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

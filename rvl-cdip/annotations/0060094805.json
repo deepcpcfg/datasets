@@ -1,0 +1,13 @@
+{
+    "IssuedDate": "January 28, 1983",
+    "InvoiceNumber": "806055",
+    "TotalAmount": "4,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Sponsorship Fee",
+            "ItemUnitValue": "$4,000.00",
+            "ItemTotal": "$4,000.00",
+            "ItemUnitCount": ""
+        }
+    ]
+}

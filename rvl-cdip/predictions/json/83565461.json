@@ -1,0 +1,31 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Fees September I, 1998 September 30. 1998",
+            "ItemUnitCount": "345",
+            "ItemUnitValue": "$158",
+            "ItemTotal": "$54,510"
+        },
+        {
+            "ItemDescription": "Airfare Lodging",
+            "ItemTotal": "3,918"
+        },
+        {
+            "ItemDescription": "Ground Travel",
+            "ItemTotal": "854"
+        },
+        {
+            "ItemDescription": "Per Diems",
+            "ItemTotal": "561"
+        },
+        {
+            "ItemDescription": "Courier Charges",
+            "ItemTotal": "66"
+        },
+        {
+            "ItemDescription": "Computer Processing Capacity",
+            "ItemTotal": "20,022"
+        }
+    ],
+    "TotalAmount": "S83,m"
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "104264528",
+    "TotalAmount": "7,397.04",
+    "LineItem": [
+        {
+            "ItemDescription": "MISCELLANEOUS",
+            "ItemTotal": "2.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MISCELLANEOUS",
+            "ItemTotal": "18.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "011565",
+    "IssuedDate": "2/04/92",
+    "LineItem": [
+        {
+            "ItemDescription": "5164 RECORDS 150 RECORDS WITH CONTACT NAMES",
+            "ItemTotal": "469.26"
+        },
+        {
+            "ItemDescription": "ONE TAPE AT *25- 00",
+            "ItemTotal": "25."
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemTotal": "9."
+        }
+    ]
+}

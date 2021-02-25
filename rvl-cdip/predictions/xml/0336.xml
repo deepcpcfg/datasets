@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="66.0" fp="36.0" fn="27.0">
+    <InvoiceNumber tp="0.0" fp="12.0" fn="0.0">
+      <box l="2246.0" t="718.0" r="2500.0" b="745.0">FR.11-018G21</box>
+    </InvoiceNumber>
+    <LineItem tp="58.0" fp="23.0" fn="26.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="279.0" t="1242.0" r="695.0" b="1272.0">Non-CafiM*ifleion*bl«</box>
+          <box l="721.0" t="1241.0" r="883.0" b="1276.0">Chargee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2291.0" t="1239.0" r="2495.0" b="1268.0">13.932.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="278.0" t="1329.0" r="599.0" b="1358.0">Coranieeionjible</box>
+          <box l="628.0" t="1331.0" r="786.0" b="1362.0">Chargee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2404.0" t="1326.0" r="2495.0" b="1354.0">0,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="442.0" t="1414.0" r="672.0" b="1444.0">Camniafllon</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2407.0" t="1411.0" r="2494.0" b="1437.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="1.0">
+      <box l="2288.0" t="1498.0" r="2493.0" b="1529.0">13,932,50</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "December 1, 1983",
+    "TotalAmount": "2,000.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$1,000.00",
+            "ItemDescription": "HB ad in Fall Fer.ton Hill BA,/JFK Price List",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,000,00",
+            "ItemDescription": "HB ad in Fenton HiU IDF/JFK Fall Price List",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

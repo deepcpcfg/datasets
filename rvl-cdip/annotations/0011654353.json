@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "156177-003",
+    "IssuedDate": "10/29/90",
+    "LineItem": [
+        {
+            "ItemDescription": "EXCESS LIABILITY",
+            "ItemTotal": "31,19500",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS COMMISSION",
+            "ItemTotal": "2,339.63",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

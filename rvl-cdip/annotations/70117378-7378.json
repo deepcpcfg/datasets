@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "CTR-01-010S",
+    "IssuedDate": "10/29/01",
+    "TotalAmount": "35,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Site Setup Fee Includes all hardware & software needed both sites, Including database management software, web server software and imago & database hardware. Also included 8tq tho database setup & data transfer and Imago- setup transfer.",
+            "ItemTotal": "$36,000 00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

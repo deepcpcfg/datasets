@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="160.0" fp="8.0" fn="23.0">
+    <IssuedDate tp="5.0" fp="3.0" fn="3.0">
+      <box l="1182.0" t="1593.0" r="1444.0" b="1630.0">12-21-93</box>
+    </IssuedDate>
+    <LineItem tp="147.0" fp="5.0" fn="12.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="796.0" t="1651.0" r="996.0" b="1687.0">VACUUM</box>
+          <box l="1035.0" t="1651.0" r="1168.0" b="1687.0">UNIT</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2142.0" t="1655.0" r="2301.0" b="1691.0">16.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2552.0" t="1654.0" r="2717.0" b="1693.0">70.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2902.0" t="1656.0" r="3168.0" b="1701.0">1,120.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="802.0" t="1708.0" r="1140.0" b="1745.0">SUPERVISOR</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2140.0" t="1710.0" r="2307.0" b="1747.0">20.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2554.0" t="1712.0" r="2720.0" b="1749.0">22.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2971.0" t="1713.0" r="3170.0" b="1751.0">616.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="797.0" t="1763.0" r="1064.0" b="1802.0">OPERATOR</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2135.0" t="1768.0" r="2302.0" b="1805.0">56.00</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2552.0" t="1769.0" r="2719.0" b="1805.0">20.50</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2903.0" t="1770.0" r="3166.0" b="1813.0">1,140.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="800.0" t="1822.0" r="1068.0" b="1858.0">PRESSURE</box>
+          <box l="1109.0" t="1822.0" r="1313.0" b="1858.0">WASHER</box>
+          <box l="1351.0" t="1823.0" r="1481.0" b="1859.0">COST</box>
+          <box l="1593.0" t="1824.0" r="1687.0" b="1859.0">20%</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2217.0" t="1827.0" r="2305.0" b="1862.0">.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2522.0" t="1827.0" r="2722.0" b="1863.0">546.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2968.0" t="1827.0" r="3172.0" b="1864.0">546.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="798.0" t="1879.0" r="1065.0" b="1915.0">SUPPLIES</box>
+          <box l="1104.0" t="1879.0" r="1237.0" b="1915.0">COST</box>
+          <box l="1350.0" t="1881.0" r="1444.0" b="1915.0">207.</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2177.0" t="1883.0" r="2303.0" b="1918.0">1.00</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2550.0" t="1882.0" r="2717.0" b="1920.0">94.38</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="3001.0" t="1884.0" r="3166.0" b="1921.0">94.32</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2896.0" t="2112.0" r="3166.0" b="2154.0">3,524.38</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

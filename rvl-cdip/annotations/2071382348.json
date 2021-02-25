@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "D5X7111",
+    "IssuedDate": "03/30/84",
+    "TotalAmount": "1.948.50",
+    "LineItem": [
+        {
+            "ItemDescription": "SYSTEM ENGINEER LABOR, PER HOUR 1 HOUR PER MONTH-COMPAQ SYSTEMPRO",
+            "ItemUnitCount": "12",
+            "ItemUnitValue": "15.00",
+            "ItemTotal": "1.800.00"
+        }
+    ]
+}

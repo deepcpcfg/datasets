@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "09-0252 ",
+    "IssuedDate": "September 28. 1992",
+    "TotalAmount": "49,439.25",
+    "LineItem": [
+        {
+            "ItemDescription": "Art/Mechanicai",
+            "ItemTotal": "$34,521.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Type",
+            "ItemTotal": "666.23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "List Pdf",
+            "ItemTotal": "9,383.41",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Stats",
+            "ItemTotal": "1,541.28",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copies",
+            "ItemTotal": "462.S0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Faxes",
+            "ItemTotal": "8.0C",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Messenger*",
+            "ItemTotal": "234.12",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fraighr",
+            "ItemTotal": "97.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel* (includes press checks)",
+            "ItemTotal": "292.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

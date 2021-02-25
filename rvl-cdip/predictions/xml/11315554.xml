@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="2196.0" t="615.0" r="2379.0" b="660.0">APRIL</box>
+      <box l="2429.0" t="616.0" r="2522.0" b="670.0">17,</box>
+      <box l="2575.0" t="613.0" r="2711.0" b="661.0">197^</box>
+    </IssuedDate>
+    <InvoiceNumber>
+      <box l="2316.0" t="740.0" r="2453.0" b="786.0">9511</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="655.0" t="1695.0" r="979.0" b="1737.0">ENVELOPES</box>
+          <box l="1023.0" t="1692.0" r="1275.0" b="1735.0">PRINTED</box>
+          <box l="1322.0" t="1692.0" r="1388.0" b="1735.0">IN</box>
+          <box l="1435.0" t="1690.0" r="1613.0" b="1732.0">BLACK</box>
+          <box l="1660.0" t="1690.0" r="1767.0" b="1732.0">INK</box>
+          <box l="1805.0" t="1685.0" r="2204.0" b="1734.0">-61/2X9</box>
+          <box l="2254.0" t="1681.0" r="2350.0" b="1731.0">1/2</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="880.0" t="1756.0" r="1090.0" b="1812.0">13,000</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

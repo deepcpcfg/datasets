@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "7 5 3 4",
+    "IssuedDate": "MAY 24, 197 3",
+    "TotalAmount": "102.52",
+    "LineItem": [
+        {
+            "ItemDescription": "PLATES EMBOSSED @ 304 EACH",
+            "ItemTotal": "18.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "0UTFIL1NG AND JNFILING PLATES, CHECKING LISTS, RUNNING CARDS",
+            "ItemTotal": "37.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RUNNING 4 SETS CTR-5 ON ZAHN ENVELOPES",
+            "ItemTotal": "4,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "plating NEW LISTS Z~$_SZ^ 60 PLATES EMBOSSED @304 EACH",
+            "ItemTotal": "18.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

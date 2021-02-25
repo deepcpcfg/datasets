@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="78.0" fp="19.0" fn="24.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="366.0" t="1064.0" r="478.0" b="1121.0">April</box>
+      <box l="499.0" t="1064.0" r="539.0" b="1115.0">2,</box>
+      <box l="566.0" t="1065.0" r="674.0" b="1107.0">1997</box>
+    </IssuedDate>
+    <TotalAmount tp="1.0" fp="3.0" fn="7.0">
+      <box l="1251.0" t="2031.0" r="1363.0" b="2076.0">1997</box>
+    </TotalAmount>
+    <LineItem tp="64.0" fp="16.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="612.0" t="2361.0" r="862.0" b="2421.0">Telephone</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1803.0" t="2354.0" r="1857.0" b="2397.0">59</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="614.0" t="2444.0" r="747.0" b="2490.0">Faxes</box>
+          <box l="615.0" t="2525.0" r="773.0" b="2586.0">Copies</box>
+          <box l="614.0" t="2607.0" r="798.0" b="2666.0">Postage</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1723.0" t="2434.0" r="1857.0" b="2479.0">37.89</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="611.0" t="2687.0" r="818.0" b="2736.0">Business</box>
+          <box l="835.0" t="2687.0" r="976.0" b="2734.0">Meals</box>
+          <box l="1060.0" t="2685.0" r="1397.0" b="2733.0">Entertainment</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1656.0" t="2680.0" r="1855.0" b="2735.0">1,287.96</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="614.0" t="2769.0" r="701.0" b="2816.0">Gas</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1727.0" t="2762.0" r="1855.0" b="2808.0">50.84</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

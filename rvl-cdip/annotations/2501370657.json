@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "17172074",
+    "IssuedDate": "August 31, 1972.",
+    "LineItem": [
+        {
+            "ItemDescription": "For experimental services rendered on above project we are charging on account",
+            "ItemTotal": "US $ 50,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

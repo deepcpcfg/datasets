@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "12-0489",
+    "IssuedDate": "December 22, 1993",
+    "TotalAmount": "30,525.07",
+    "LineItem": [
+        {
+            "ItemDescription": "Design",
+            "ItemTotal": "&9 423.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Ccmprehensives",
+            "ItemTotal": "6.776.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "1.820,50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "3.750 10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": ",026.64",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

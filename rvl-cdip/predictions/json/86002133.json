@@ -1,0 +1,53 @@
+{
+    "InvoiceNumber": "0489116",
+    "IssuedDate": "04-07-69",
+    "LineItem": [
+        {
+            "ItemDescription": "Direct Labor Pram. Cost for Overtime",
+            "ItemUnitValue": "4.15",
+            "ItemTotal": "222.89"
+        },
+        {
+            "ItemDescription": "Bldg. A Utilities",
+            "ItemUnitValue": "4,930.87",
+            "ItemTotal": "18,387.74"
+        },
+        {
+            "ItemDescription": "Tech. Mgmt. Cost",
+            "ItemUnitValue": "6,602.56",
+            "ItemTotal": "29,79837"
+        },
+        {
+            "ItemDescription": "T ravel",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Org, Facil ity/Equip. Costs",
+            "ItemUnitValue": "5,718.75",
+            "ItemTotal": "21,699.43"
+        },
+        {
+            "ItemDescription": "Other Direct Costs",
+            "ItemUnitValue": "107.61",
+            "ItemTotal": "11,304.25"
+        },
+        {
+            "ItemDescription": "Materials Other Hanford Contractor Services",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Gen. Admin. Cost",
+            "ItemTotal": "0.00"
+        },
+        {
+            "ItemDescription": "Cost of Facility Capital Battelle Bldgs.",
+            "ItemUnitValue": "1,995.52",
+            "ItemTotal": "7,931.79"
+        },
+        {
+            "ItemDescription": "DOE Bldgs.",
+            "ItemUnitValue": "47,95",
+            "ItemTotal": "84,51"
+        }
+    ]
+}

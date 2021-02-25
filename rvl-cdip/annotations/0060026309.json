@@ -1,0 +1,115 @@
+{
+    "InvoiceNumber": "2582",
+    "IssuedDate": "JANUARY 25, 1994",
+    "TotalAmount": "2,736.62",
+    "LineItem": [
+        {
+            "ItemTotal": "539",
+            "ItemDescription": "MEMBERSHIP KIT",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "117",
+            "ItemDescription": "CERTIFICATES TO BE KEYED ONLY",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "149",
+            "ItemDescription": "COUPONS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "61",
+            "ItemDescription": "LIGHTERS",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "248",
+            "ItemDescription": "$50 BOND ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "188",
+            "ItemDescription": "$100 BOND",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemUnitCount": "539",
+            "ItemUnitValue": "$0.60",
+            "ItemTotal": "$323.40",
+            "ItemDescription": "SERVICE: MEMBERSHIP KITS"
+        },
+        {
+            "ItemUnitCount": "117",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$35.10",
+            "ItemDescription": "UPDATE RECORDS"
+        },
+        {
+            "ItemUnitCount": "14 9",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$44.70",
+            "ItemDescription": "COUPONS"
+        },
+        {
+            "ItemUnitCount": "61",
+            "ItemUnitValue": "$0.30",
+            "ItemTotal": "$18.30",
+            "ItemDescription": "LIGHTERS"
+        },
+        {
+            "ItemUnitCount": "436",
+            "ItemUnitValue": "$2.25",
+            "ItemTotal": "$981.00",
+            "ItemDescription": "BONDS"
+        },
+        {
+            "ItemTotal": "$50.00",
+            "ItemDescription": "DUPE ELINIMATION @ 35.00/M OR $50 MINIMUM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STATEMENT #2",
+            "ItemUnitCount": "42 2 7 ",
+            "ItemUnitValue": "$0.25",
+            "ItemTotal": "$1,056.75"
+        },
+        {
+            "ItemDescription": "MAILERS: LIGHTERS",
+            "ItemUnitCount": "61",
+            "ItemUnitValue": "$0.17",
+            "ItemTotal": "$10.07"
+        },
+        {
+            "ItemTotal": "$130.00",
+            "ItemDescription": "MESSENGER SERVICE] TO SEND BOND TAPE TO FEDERA£i RESERVE",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MAG TAPE 1418 RECORDS 6 17.50/M OR $50 MINIMUM",
+            "ItemTotal": "$50.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "TAPE REEL",
+            "ItemTotal": "$35.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "POSTAGE VIA UPS",
+            "ItemTotal": "$2.30",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

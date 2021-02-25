@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="134.0" fp="56.0" fn="26.0">
+    <InvoiceNumber tp="1.0" fp="1.0" fn="1.0">
+      <box l="2225.0" t="1329.0" r="2268.0" b="1366.0">33</box>
+    </InvoiceNumber>
+    <IssuedDate tp="16.0" fp="0.0" fn="0.0">
+      <box l="2005.0" t="1387.0" r="2212.0" b="1433.0">September</box>
+      <box l="2222.0" t="1386.0" r="2370.0" b="1428.0">2,1997</box>
+    </IssuedDate>
+    <LineItem tp="117.0" fp="55.0" fn="17.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="953.0" t="2048.0" r="1053.0" b="2091.0">Taxi</box>
+          <box l="1074.0" t="2053.0" r="1119.0" b="2091.0">to</box>
+          <box l="1134.0" t="2048.0" r="1245.0" b="2091.0">hotel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2098.0" t="2042.0" r="2232.0" b="2086.0">33.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="949.0" t="2116.0" r="1163.0" b="2158.0">Research</box>
+          <box l="1178.0" t="2115.0" r="1357.0" b="2158.0">Review</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1648.0" t="2114.0" r="1719.0" b="2156.0">4.0</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2048.0" t="2112.0" r="2229.0" b="2154.0">1400.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="950.0" t="2184.0" r="1093.0" b="2224.0">Room</box>
+          <box l="1108.0" t="2183.0" r="1283.0" b="2237.0">charges</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2070.0" t="2179.0" r="2228.0" b="2220.0">475,73</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="953.0" t="2248.0" r="1116.0" b="2292.0">Shuttle</box>
+          <box l="1129.0" t="2258.0" r="1174.0" b="2291.0">to</box>
+          <box l="1193.0" t="2246.0" r="1362.0" b="2292.0">SeaTac</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2129.0" t="2245.0" r="2229.0" b="2287.0">7.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="949.0" t="2316.0" r="1133.0" b="2370.0">Parking</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2099.0" t="2312.0" r="2229.0" b="2351.0">26.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1147.0" t="2755.0" r="1326.0" b="2799.0">1129.10</box>
+          <box l="1344.0" t="2757.0" r="1493.0" b="2798.0">Travel</box>
+          <box l="1506.0" t="2757.0" r="1725.0" b="2811.0">Expenses</box>
+          <box l="1743.0" t="2756.0" r="1809.0" b="2802.0">for</box>
+          <box l="1824.0" t="2759.0" r="1980.0" b="2813.0">Expert</box>
+          <box l="1993.0" t="2758.0" r="2246.0" b="2801.0">Consultant</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2564.0" t="2761.0" r="2756.0" b="2811.0">1,942.23</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1344.0" t="2824.0" r="1494.0" b="2879.0">Expert</box>
+          <box l="1511.0" t="2826.0" r="1760.0" b="2868.0">Consultant</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2557.0" t="2828.0" r="2756.0" b="2878.0">2,310.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

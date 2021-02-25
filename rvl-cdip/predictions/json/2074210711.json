@@ -1,0 +1,66 @@
+{
+    "InvoiceNumber": "639",
+    "LineItem": [
+        {
+            "ItemDescription": "Image Archive Server",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$12693.00",
+            "ItemTotal": "$12,693.00"
+        },
+        {
+            "ItemDescription": "Link Server Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$19995.04}",
+            "ItemTotal": "$19,995.00"
+        },
+        {
+            "ItemDescription": "Digital Link Photo Editor Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$7000.00",
+            "ItemTotal": "$7,000.00"
+        },
+        {
+            "ItemDescription": "Digital Link image Archivist w/ ISO Author Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$3750.00",
+            "ItemTotal": "$3,750.00"
+        },
+        {
+            "ItemDescription": "External 5-8ay, SCSI-Connected, 12GB-RAID",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$12287.00",
+            "ItemTotal": "$13,287.00"
+        },
+        {
+            "ItemDescription": "Pioneer DRM 500 CD Jukebox",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "516302.00",
+            "ItemTotal": "$33,804.00"
+        },
+        {
+            "ItemDescription": "Digital Link Storage Manager Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$4995.00",
+            "ItemTotal": "54.995.00"
+        },
+        {
+            "ItemDescription": "Digital Link Image Database (Eight-seat)",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$9995.00",
+            "ItemTotal": "§9,995.00"
+        },
+        {
+            "ItemDescription": "Digital Link Workstation",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$6737-00",
+            "ItemTotal": "56,737.00"
+        },
+        {
+            "ItemDescription": "Digital Link Photo Editor Software",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "$7000.00",
+            "ItemTotal": "$7,000.00"
+        }
+    ],
+    "TotalAmount": "5129,394.03"
+}

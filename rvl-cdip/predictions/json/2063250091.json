@@ -1,0 +1,27 @@
+{
+    "InvoiceNumber": "14638",
+    "IssuedDate": "DATE Dec. 1,",
+    "LineItem": [
+        {
+            "ItemDescription": "Phillip Morris 5.00 Hours $41.00/Hour Miller Brewing",
+            "ItemTotal": "$205.CO"
+        },
+        {
+            "ItemDescription": "5.50 Hours $41.00/Hour",
+            "ItemTotal": "22,5.5"
+        },
+        {
+            "ItemDescription": "Phillip Morris 117.30 Hours $41.00/Hour",
+            "ItemTotal": "4,809.3"
+        },
+        {
+            "ItemDescription": "Miller Brewing 100.25 Hours $41.00/Eour",
+            "ItemTotal": "4,110.25"
+        },
+        {
+            "ItemDescription": "Industrial Hygiene 29.13 Hours $48.00/Hour",
+            "ItemTotal": "1,398.24"
+        }
+    ],
+    "TotalAmount": "$10,748.29"
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "September 25, 1989",
+    "TotalAmount": "3,066.00",
+    "LineItem": [
+        {
+            "ItemTotal": "$3,000.00",
+            "ItemDescription": "For replacement banners",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "66.00",
+            "ItemDescription": "Extra envelopes",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

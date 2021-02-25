@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="83.0" fp="85.0" fn="355.0">
+    <IssuedDate tp="7.0" fp="0.0" fn="9.0">
+      <box l="2631.0" t="100.0" r="2693.0" b="145.0">30</box>
+      <box l="2757.0" t="96.0" r="2877.0" b="144.0">1976</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2362.0" t="255.0" r="2571.0" b="306.0">7606078</box>
+    </InvoiceNumber>
+    <LineItem tp="69.0" fp="77.0" fn="346.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="921.0" t="1546.0" r="1171.0" b="1607.0">30,00/hr</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2481.0" t="1550.0" r="2664.0" b="1599.0">120,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="464.0" t="1740.0" r="824.0" b="1784.0">ffiVEWPlSWT:</box>
+          <box l="526.0" t="1803.0" r="671.0" b="1842.0">TIMEi</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2482.0" t="1607.0" r="2666.0" b="1661.0">23U.OO</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="527.0" t="2045.0" r="669.0" b="2087.0">TIME:</box>
+          <box l="919.0" t="2029.0" r="1165.0" b="2091.0">30,00/hr</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1964.0" t="2038.0" r="1998.0" b="2086.0">9</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2482.0" t="2028.0" r="2665.0" b="2082.0">205*00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="580.0" t="2165.0" r="737.0" b="2206.0">TRIPS</box>
+          <box l="767.0" t="2166.0" r="830.0" b="2207.0">TO</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2514.0" t="2091.0" r="2660.0" b="2143.0">78*72</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="520.0" t="2224.0" r="669.0" b="2267.0">TH®:</box>
+          <box l="919.0" t="2216.0" r="1165.0" b="2271.0">30,00/hr</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1933.0" t="2213.0" r="1990.0" b="2261.0">16</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2479.0" t="2210.0" r="2667.0" b="2261.0">U80.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="761.0" t="2286.0" r="1035.0" b="2327.0">EXPENSES:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2482.0" t="2274.0" r="2666.0" b="2321.0">201.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="889.0" t="2397.0" r="951.0" b="2438.0">ON</box>
+          <box l="981.0" t="2395.0" r="1133.0" b="2437.0">IWS</box>
+          <box l="1164.0" t="2396.0" r="1226.0" b="2438.0">II</box>
+          <box l="1265.0" t="2386.0" r="1527.0" b="2444.0">($991*22)</box>
+          <box l="1626.0" t="2395.0" r="1717.0" b="2436.0">HI</box>
+          <box l="1755.0" t="2383.0" r="2014.0" b="2442.0">($588.50)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2482.0" t="2379.0" r="2664.0" b="2430.0">126*38</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="0.0" fp="8.0" fn="0.0">
+      <box l="2484.0" t="2439.0" r="3158.0" b="2506.0">160,58__</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

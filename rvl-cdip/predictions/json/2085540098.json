@@ -1,0 +1,27 @@
+{
+    "IssuedDate": "August 23. 2001",
+    "LineItem": [
+        {
+            "ItemDescription": "5d 5/01 First Quarter",
+            "ItemTotal": "21,996.00"
+        },
+        {
+            "ItemDescription": "Second Quarter",
+            "ItemTotal": "21,996.00",
+            "ItemUnitValue": "21,996.00"
+        },
+        {
+            "ItemDescription": "Third Quarter",
+            "ItemTotal": "21,996.00"
+        },
+        {
+            "ItemDescription": "Fourth Quarter 22.5%",
+            "ItemTotal": "21,996"
+        },
+        {
+            "ItemDescription": "Upon Delivery of Second Progress Report",
+            "ItemTotal": "9,776.00"
+        }
+    ],
+    "TotalAmount": "21,996.00"
+}

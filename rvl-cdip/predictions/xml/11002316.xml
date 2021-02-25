@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="242.0" fp="75.0" fn="38.0">
+    <LineItem tp="234.0" fp="74.0" fn="37.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="866.0" t="1515.0" r="1127.0" b="1570.0">Laboratory</box>
+          <box l="1153.0" t="1515.0" r="1357.0" b="1571.0">Supplies</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1707.0" t="1512.0" r="1881.0" b="1555.0">235.33</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="861.0" t="1578.0" r="1032.0" b="1623.0">Animal</box>
+          <box l="861.0" t="1641.0" r="1060.0" b="1687.0">Animals</box>
+          <box l="1065.0" t="1579.0" r="1177.0" b="1621.0">Feed</box>
+          <box l="1201.0" t="1577.0" r="1288.0" b="1622.0">and</box>
+          <box l="1315.0" t="1578.0" r="1507.0" b="1629.0">Bedding</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2486.0" t="1694.0" r="2666.0" b="1738.0">520.73</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="707.0" t="1929.0" r="970.0" b="1972.0">Biochemist</box>
+          <box l="786.0" t="1992.0" r="949.0" b="2042.0">(Harris</box>
+          <box l="978.0" t="1991.0" r="1289.0" b="2039.0">Rosenkrnnte,</box>
+          <box l="1327.0" t="1987.0" r="1501.0" b="2037.0">Ph.D.)</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1738.0" t="1986.0" r="1797.0" b="2026.0">20</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2063.0" t="1981.0" r="2242.0" b="2024.0">203.17</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="710.0" t="2051.0" r="981.0" b="2101.0">Pathologist</box>
+          <box l="788.0" t="2110.0" r="984.0" b="2167.0">(Marcus</box>
+          <box l="1005.0" t="2112.0" r="1081.0" b="2158.0">M»</box>
+          <box l="1104.0" t="2113.0" r="1283.0" b="2161.0">Mason,</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1737.0" t="2107.0" r="1799.0" b="2149.0">43</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2062.0" t="2101.0" r="2232.0" b="2145.0">555.61</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="708.0" t="2175.0" r="983.0" b="2219.0">Technician</box>
+          <box l="1055.0" t="2172.0" r="1403.0" b="2228.0">pharmacology</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1737.0" t="2170.0" r="1799.0" b="2209.0">44</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2095.0" t="2165.0" r="2240.0" b="2208.0">86.16</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="708.0" t="2239.0" r="983.0" b="2284.0">Technician</box>
+          <box l="1054.0" t="2235.0" r="1282.0" b="2292.0">histology</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1715.0" t="2232.0" r="1798.0" b="2273.0">249</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2066.0" t="2228.0" r="2243.0" b="2271.0">728.93</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="708.0" t="2305.0" r="982.0" b="2347.0">Technician</box>
+          <box l="1054.0" t="2300.0" r="1374.0" b="2353.0">biochemistry</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2068.0" t="2291.0" r="2242.0" b="2336.0">233.45</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="707.0" t="2367.0" r="845.0" b="2409.0">Clerk</box>
+          <box l="915.0" t="2365.0" r="1023.0" b="2408.0">data</box>
+          <box l="1048.0" t="2364.0" r="1305.0" b="2420.0">processing</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1748.0" t="2358.0" r="1801.0" b="2399.0">17</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2098.0" t="2355.0" r="2242.0" b="2399.0">38.53</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2471.0" t="2413.0" r="2703.0" b="2465.0">1,845.35</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="713.0" t="2556.0" r="954.0" b="2600.0">Overhead</box>
+          <box l="983.0" t="2553.0" r="1137.0" b="2608.0">(100%</box>
+          <box l="1157.0" t="2555.0" r="1207.0" b="2597.0">of</box>
+          <box l="1233.0" t="2555.0" r="1390.0" b="2595.0">Direct</box>
+          <box l="1416.0" t="2547.0" r="1570.0" b="2601.0">Labor)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2474.0" t="2541.0" r="2707.0" b="2591.0">1,845.85</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2445.0" t="2818.0" r="2708.0" b="2869.0">$4,717.92</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

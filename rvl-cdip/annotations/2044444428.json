@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "04309",
+    "IssuedDate": "30 APRIL 1986",
+    "TotalAmount": "5,457.00",
+    "LineItem": [
+        {
+            "ItemDescription": "PROFESSIONAL SERVICE FEES",
+            "ItemTotal": "$9, 155.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS PREVIOUSLY BILLED",
+            "ItemTotal": "4,250,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="875.0" fp="22.0" fn="34.0">
+    <InvoiceNumber tp="11.0" fp="1.0" fn="1.0">
+      <box l="2326.0" t="185.0" r="2773.0" b="233.0">£77000003204</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2362.0" t="435.0" r="2654.0" b="476.0">02/14/91</box>
+    </IssuedDate>
+    <LineItem tp="848.0" fp="20.0" fn="33.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="564.0" t="1618.0" r="856.0" b="1660.0">VIRGINIA</box>
+          <box l="906.0" t="1619.0" r="1047.0" b="1657.0">SLIM</box>
+          <box l="1102.0" t="1619.0" r="1196.0" b="1657.0">SPR</box>
+          <box l="1252.0" t="1619.0" r="1392.0" b="1658.0">SLIM</box>
+          <box l="1443.0" t="1620.0" r="1584.0" b="1658.0">MNTH</box>
+          <box l="1638.0" t="1620.0" r="1813.0" b="1662.0">100'S</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2402.0" t="1622.0" r="2505.0" b="1661.0">423</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2752.0" t="1624.0" r="3001.0" b="1665.0">$211.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="560.0" t="1681.0" r="855.0" b="1722.0">VIRGINIA</box>
+          <box l="906.0" t="1682.0" r="1047.0" b="1723.0">SLIM</box>
+          <box l="1097.0" t="1682.0" r="1201.0" b="1723.0">SPR</box>
+          <box l="1252.0" t="1682.0" r="1392.0" b="1724.0">SLIM</box>
+          <box l="1439.0" t="1683.0" r="1547.0" b="1724.0">REG</box>
+          <box l="1599.0" t="1683.0" r="1776.0" b="1724.0">100'S</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2059.0" t="1684.0" r="2159.0" b="1725.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2402.0" t="1685.0" r="2505.0" b="1726.0">387</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2826.0" t="1689.0" r="3001.0" b="1728.0">93.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="560.0" t="1744.0" r="855.0" b="1786.0">VIRGINIA</box>
+          <box l="906.0" t="1745.0" r="1049.0" b="1786.0">SLIM</box>
+          <box l="1101.0" t="1745.0" r="1430.0" b="1788.0">SUPERSLIM</box>
+          <box l="1480.0" t="1747.0" r="1622.0" b="1787.0">MTHL</box>
+          <box l="1673.0" t="1749.0" r="1776.0" b="1788.0">100</box>
+          <box l="1830.0" t="1747.0" r="1892.0" b="1787.0">0X</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2018.0" t="1750.0" r="2159.0" b="1790.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2443.0" t="1750.0" r="2505.0" b="1790.0">27</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2789.0" t="1752.0" r="3004.0" b="1791.0">&lt;54.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="1806.0" r="859.0" b="1847.0">VIRGINIA</box>
+          <box l="905.0" t="1807.0" r="1051.0" b="1848.0">SLIM</box>
+          <box l="1101.0" t="1808.0" r="1433.0" b="1849.0">SUPERSLIM</box>
+          <box l="1480.0" t="1808.0" r="1584.0" b="1849.0">REG</box>
+          <box l="1638.0" t="1808.0" r="1738.0" b="1849.0">100</box>
+          <box l="1789.0" t="1809.0" r="1892.0" b="1850.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2022.0" t="1809.0" r="2162.0" b="1850.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2439.0" t="1810.0" r="2504.0" b="1851.0">31</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2787.0" t="1815.0" r="3004.0" b="1853.0">$62.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="1868.0" r="859.0" b="1910.0">VIRGINIA</box>
+          <box l="908.0" t="1869.0" r="1088.0" b="1911.0">SLIMS</box>
+          <box l="1134.0" t="1869.0" r="1317.0" b="1911.0">ULTRA</box>
+          <box l="1367.0" t="1870.0" r="1547.0" b="1909.0">LIGHT</box>
+          <box l="1598.0" t="1870.0" r="1742.0" b="1909.0">MNTH</box>
+          <box l="1792.0" t="1871.0" r="1892.0" b="1909.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2059.0" t="1871.0" r="2162.0" b="1913.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2368.0" t="1872.0" r="2505.0" b="1914.0">1390</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="1877.0" r="3001.0" b="1915.0">$695.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="1932.0" r="859.0" b="1976.0">VIRGINIA</box>
+          <box l="905.0" t="1932.0" r="1084.0" b="1977.0">SLIMS</box>
+          <box l="1134.0" t="1933.0" r="1316.0" b="1975.0">ULTRA</box>
+          <box l="1363.0" t="1933.0" r="1550.0" b="1974.0">LIGHT</box>
+          <box l="1601.0" t="1934.0" r="1776.0" b="1978.0">100’S</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2059.0" t="1935.0" r="2159.0" b="1976.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2368.0" t="1938.0" r="2505.0" b="1980.0">1749</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="1940.0" r="3001.0" b="1982.0">$874.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="1995.0" r="858.0" b="2036.0">VIRGINIA</box>
+          <box l="908.0" t="1998.0" r="1051.0" b="2039.0">SLIM</box>
+          <box l="1100.0" t="1998.0" r="1279.0" b="2040.0">ULTRA</box>
+          <box l="1326.0" t="1996.0" r="1509.0" b="2038.0">LIGHT</box>
+          <box l="1558.0" t="1996.0" r="1741.0" b="2041.0">MNTHL</box>
+          <box l="1792.0" t="1999.0" r="1891.0" b="2038.0">100</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2022.0" t="1999.0" r="2162.0" b="2039.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2438.0" t="2001.0" r="2504.0" b="2040.0">72</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="2002.0" r="3004.0" b="2044.0">$144.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="2057.0" r="858.0" b="2103.0">VIRGINIA</box>
+          <box l="905.0" t="2057.0" r="1050.0" b="2103.0">SLIM</box>
+          <box l="1100.0" t="2057.0" r="1279.0" b="2103.0">ULTRA</box>
+          <box l="1329.0" t="2059.0" r="1508.0" b="2104.0">LIGHT</box>
+          <box l="1559.0" t="2061.0" r="1737.0" b="2104.0">100'S</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2018.0" t="2063.0" r="2162.0" b="2105.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2443.0" t="2061.0" r="2504.0" b="2106.0">82</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="2063.0" r="3004.0" b="2107.0">$164.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="2123.0" r="858.0" b="2164.0">VIRGINIA</box>
+          <box l="908.0" t="2124.0" r="1050.0" b="2164.0">SLIM</box>
+          <box l="1100.0" t="2124.0" r="1279.0" b="2163.0">LIGHT</box>
+          <box l="1329.0" t="2125.0" r="1583.0" b="2166.0">MENTHOL</box>
+          <box l="1637.0" t="2126.0" r="1741.0" b="2164.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2059.0" t="2127.0" r="2161.0" b="2165.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2368.0" t="2127.0" r="2505.0" b="2164.0">1103</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="2128.0" r="3004.0" b="2169.0">$551.5G</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="562.0" t="2185.0" r="858.0" b="2227.0">VIRGINIA</box>
+          <box l="905.0" t="2184.0" r="1050.0" b="2228.0">SLIM</box>
+          <box l="1100.0" t="2186.0" r="1354.0" b="2229.0">MENTHOL</box>
+          <box l="1407.0" t="2187.0" r="1621.0" b="2229.0">FILTER</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2059.0" t="2188.0" r="2162.0" b="2230.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2368.0" t="2187.0" r="2508.0" b="2231.0">1094</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="2190.0" r="3004.0" b="2232.0">$547.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="562.0" t="2251.0" r="861.0" b="2289.0">VIRGINIA</box>
+          <box l="905.0" t="2249.0" r="1050.0" b="2290.0">SLIM</box>
+          <box l="1100.0" t="2250.0" r="1279.0" b="2290.0">LIGHT</box>
+          <box l="1329.0" t="2250.0" r="1546.0" b="2291.0">FILTER</box>
+          <box l="1600.0" t="2251.0" r="1700.0" b="2291.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2100.0" t="2252.0" r="2162.0" b="2289.0">50</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2751.0" t="2254.0" r="3004.0" b="2294.0">$689.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="2311.0" r="858.0" b="2356.0">VIRGINIA</box>
+          <box l="907.0" t="2311.0" r="1050.0" b="2357.0">SLIM</box>
+          <box l="1100.0" t="2312.0" r="1354.0" b="2357.0">REGULAR</box>
+          <box l="1408.0" t="2312.0" r="1586.0" b="2354.0">120'S</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2059.0" t="2314.0" r="2162.0" b="2355.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2368.0" t="2314.0" r="2504.0" b="2356.0">1730</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2753.0" t="2316.0" r="3003.0" b="2357.0">$365.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="563.0" t="2375.0" r="858.0" b="2415.0">VIRGINIA</box>
+          <box l="908.0" t="2375.0" r="1053.0" b="2415.0">SLIM</box>
+          <box l="1100.0" t="2375.0" r="1354.0" b="2416.0">MENTHOL</box>
+          <box l="1408.0" t="2376.0" r="1585.0" b="2416.0">120'S</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2061.0" t="2377.0" r="2162.0" b="2417.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2367.0" t="2377.0" r="2504.0" b="2418.0">1080</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2754.0" t="2378.0" r="3004.0" b="2419.0">$540.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="566.0" t="2436.0" r="858.0" b="2478.0">VIRGINIA</box>
+          <box l="908.0" t="2436.0" r="1053.0" b="2478.0">SLIM</box>
+          <box l="1104.0" t="2437.0" r="1278.0" b="2480.0">100'S</box>
+          <box l="1329.0" t="2437.0" r="1545.0" b="2479.0">FILTER</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2061.0" t="2439.0" r="2161.0" b="2480.0">.50</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2367.0" t="2439.0" r="2507.0" b="2481.0">1836</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2754.0" t="2442.0" r="3001.0" b="2484.0">$918.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="565.0" t="2502.0" r="861.0" b="2543.0">VIRGINIA</box>
+          <box l="908.0" t="2503.0" r="1053.0" b="2544.0">SLIM</box>
+          <box l="1100.0" t="2503.0" r="1357.0" b="2544.0">MENTHOL</box>
+          <box l="1408.0" t="2504.0" r="1586.0" b="2545.0">120'S</box>
+          <box l="1637.0" t="2505.0" r="1740.0" b="2545.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2021.0" t="2506.0" r="2161.0" b="2546.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2441.0" t="2507.0" r="2503.0" b="2547.0">78</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2753.0" t="2510.0" r="3003.0" b="2548.0">1156.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="566.0" t="2564.0" r="861.0" b="2607.0">VIRGINIA</box>
+          <box l="908.0" t="2565.0" r="1053.0" b="2607.0">SLIM</box>
+          <box l="1100.0" t="2565.0" r="1354.0" b="2608.0">REGULAR</box>
+          <box l="1407.0" t="2566.0" r="1585.0" b="2609.0">IZO’S</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2021.0" t="2567.0" r="2161.0" b="2608.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2408.0" t="2568.0" r="2504.0" b="2608.0">123</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2754.0" t="2569.0" r="3003.0" b="2611.0">S246.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="565.0" t="2627.0" r="860.0" b="2664.0">VIRGINIA</box>
+          <box l="907.0" t="2625.0" r="1050.0" b="2665.0">SLIM</box>
+          <box l="1100.0" t="2625.0" r="1354.0" b="2666.0">MENTHOL</box>
+          <box l="1407.0" t="2626.0" r="1624.0" b="2666.0">FILTER</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2024.0" t="2627.0" r="2161.0" b="2667.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2442.0" t="2628.0" r="2507.0" b="2664.0">74</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2749.0" t="2631.0" r="3000.0" b="2669.0">$148.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="565.0" t="2690.0" r="860.0" b="2731.0">VIRGINIA</box>
+          <box l="908.0" t="2691.0" r="1052.0" b="2732.0">SLIM</box>
+          <box l="1100.0" t="2691.0" r="1279.0" b="2732.0">LIGHT</box>
+          <box l="1328.0" t="2691.0" r="1585.0" b="2733.0">MENTHOL</box>
+          <box l="1637.0" t="2692.0" r="1740.0" b="2733.0">80X</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2020.0" t="2694.0" r="2160.0" b="2734.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2442.0" t="2693.0" r="2507.0" b="2732.0">74</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2749.0" t="2695.0" r="3001.0" b="2736.0">$148.OC</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="565.0" t="2756.0" r="860.0" b="2794.0">VIRGINIA</box>
+          <box l="907.0" t="2756.0" r="1049.0" b="2795.0">SLIM</box>
+          <box l="1099.0" t="2757.0" r="1279.0" b="2795.0">LIGHT</box>
+          <box l="1331.0" t="2754.0" r="1548.0" b="2795.0">FILTER</box>
+          <box l="1599.0" t="2759.0" r="1703.0" b="2796.0">BOX</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2020.0" t="2757.0" r="2161.0" b="2797.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2441.0" t="2758.0" r="2507.0" b="2794.0">97</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2752.0" t="2761.0" r="3003.0" b="2802.0">$194.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="564.0" t="2818.0" r="860.0" b="2860.0">VIRGINIA</box>
+          <box l="907.0" t="2818.0" r="1050.0" b="2858.0">SLIM</box>
+          <box l="1103.0" t="2818.0" r="1278.0" b="2858.0">100’S</box>
+          <box l="1332.0" t="2817.0" r="1548.0" b="2858.0">FILTER</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2020.0" t="2821.0" r="2161.0" b="2860.0">2.00</box>
+        </ItemUnitValue>
+        <ItemUnitCount>
+          <box l="2407.0" t="2822.0" r="2503.0" b="2863.0">106</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2753.0" t="2820.0" r="3002.0" b="2864.0">$212.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2672.0" t="3703.0" r="3001.0" b="3744.0">$7,613.50</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

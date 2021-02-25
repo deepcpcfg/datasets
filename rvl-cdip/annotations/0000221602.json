@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2041",
+    "IssuedDate": "August 9. 1983",
+    "TotalAmount": "647.7",
+    "LineItem": [
+        {
+            "ItemDescription": "Your share of the multibrand ad that appeared International (Spring) publication. in the Duty Free",
+            "ItemTotal": "$262.6",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Your share of the oultibrand ad that appeared Travel Food Service, March 1983, publication. in the Airline &",
+            "ItemTotal": "$385.0",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

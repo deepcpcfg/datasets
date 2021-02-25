@@ -1,0 +1,38 @@
+{
+    "InvoiceNumber": "8415",
+    "LineItem": [
+        {
+            "ItemDescription": "Straight time 40 hrs. X $30.43",
+            "ItemTotal": "$1,217.20"
+        },
+        {
+            "ItemDescription": "Time and one half 6 hrs. X $39.27",
+            "ItemTotal": "235.62"
+        },
+        {
+            "ItemDescription": "Doubletime 13 hrs. X $54.48",
+            "ItemTotal": "708.24"
+        },
+        {
+            "ItemDescription": "Journeymen"
+        },
+        {
+            "ItemDescription": "Straight time 172.50 hrs. X $28.78",
+            "ItemTotal": "$4,964.55"
+        },
+        {
+            "ItemDescription": "Time and one half 27 hrs. X $37,14",
+            "ItemTotal": "1,002.78"
+        },
+        {
+            "ItemDescription": "Doubletime 22 hrs. X $51.53",
+            "ItemTotal": "1,133.66"
+        },
+        {
+            "ItemDescription": "Material $141-91 X 102",
+            "ItemTotal": "$156.10"
+        }
+    ],
+    "IssuedDate": "9-24-91",
+    "TotalAmount": "$9,418.15"
+}

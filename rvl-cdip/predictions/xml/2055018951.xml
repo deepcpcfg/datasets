@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="82.0" fp="1.0" fn="9.0">
+    <IssuedDate tp="11.0" fp="0.0" fn="0.0">
+      <box l="2562.0" t="705.0" r="2640.0" b="742.0">Oct</box>
+      <box l="2658.0" t="706.0" r="2836.0" b="748.0">12,1995</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="1.0" fn="1.0">
+      <box l="2563.0" t="776.0" r="2716.0" b="815.0">S10122</box>
+    </InvoiceNumber>
+    <LineItem tp="66.0" fp="0.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="546.0" t="1326.0" r="667.0" b="1363.0">MH30</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1772.0" t="1331.0" r="1792.0" b="1364.0">3</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2130.0" t="1331.0" r="2250.0" b="1367.0">60.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2505.0" t="1330.0" r="2647.0" b="1368.0">180.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="542.0" t="1395.0" r="734.0" b="1431.0">Nicotine</box>
+          <box l="752.0" t="1397.0" r="935.0" b="1432.0">Content</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2131.0" t="1399.0" r="2248.0" b="1433.0">19.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2532.0" t="1401.0" r="2648.0" b="1435.0">57.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="543.0" t="1465.0" r="765.0" b="1509.0">Reducing</box>
+          <box l="782.0" t="1468.0" r="944.0" b="1512.0">Sugars</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2157.0" t="1470.0" r="2249.0" b="1504.0">7.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2532.0" t="1471.0" r="2649.0" b="1506.0">21.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

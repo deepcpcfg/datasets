@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "8004",
+    "IssuedDate": "May 21. 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Chattanooga HD AMU",
+            "ItemTotal": "$27,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "First half billing",
+            "ItemTotal": "$13,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

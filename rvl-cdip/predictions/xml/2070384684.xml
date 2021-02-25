@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="301.0" t="2007.0" r="543.0" b="2064.0">Purpose:</box>
+          <box l="482.0" t="2175.0" r="815.0" b="2220.0">Advertisement</box>
+          <box l="831.0" t="2175.0" r="870.0" b="2220.0">in</box>
+          <box l="882.0" t="2179.0" r="1103.0" b="2220.0">American</box>
+          <box l="1120.0" t="2177.0" r="1320.0" b="2221.0">Smoker's</box>
+          <box l="1334.0" t="2178.0" r="1520.0" b="2225.0">Journal,</box>
+          <box l="1541.0" t="2177.0" r="1611.0" b="2220.0">fall</box>
+          <box l="1632.0" t="2177.0" r="1739.0" b="2222.0">1994</box>
+          <box l="1756.0" t="2175.0" r="1894.0" b="2231.0">(Back</box>
+          <box l="1911.0" t="2176.0" r="2056.0" b="2230.0">Cpver,</box>
+          <box l="2077.0" t="2174.0" r="2186.0" b="2220.0">four-</box>
+          <box l="481.0" t="2248.0" r="598.0" b="2290.0">color</box>
+          <box l="610.0" t="2249.0" r="941.0" b="2292.0">Accomodation</box>
+          <box l="957.0" t="2249.0" r="1056.0" b="2302.0">Ad),</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="480.0" t="2627.0" r="734.0" b="2680.0">525,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2148.0" t="1110.0" r="2587.0" b="1161.0">November25,1994</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

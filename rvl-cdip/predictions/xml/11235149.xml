@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="71.0" fp="46.0" fn="35.0">
+    <InvoiceNumber tp="1.0" fp="14.0" fn="6.0">
+      <box l="2167.0" t="1215.0" r="2617.0" b="1267.0">3512-L-02840-03</box>
+    </InvoiceNumber>
+    <LineItem tp="70.0" fp="32.0" fn="11.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="923.0" t="1893.0" r="1193.0" b="1942.0">DOSIMETRY</box>
+          <box l="1226.0" t="1894.0" r="1436.0" b="1943.0">STUDIES</box>
+          <box l="1465.0" t="1898.0" r="1525.0" b="1943.0">QM</box>
+          <box l="1557.0" t="1896.0" r="1646.0" b="1944.0">THE</box>
+          <box l="1677.0" t="1896.0" r="1888.0" b="1945.0">PROCESS</box>
+          <box l="1918.0" t="1896.0" r="2010.0" b="1946.0">AHO</box>
+          <box l="2044.0" t="1898.0" r="2373.0" b="1947.0">IHSTRUHEHTS</box>
+          <box l="923.0" t="1955.0" r="1072.0" b="1999.0">SMOKE</box>
+          <box l="1102.0" t="1955.0" r="1344.0" b="2000.0">EXPOSURE</box>
+          <box l="1373.0" t="1957.0" r="1584.0" b="2002.0">KACHIHE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2318.0" t="1960.0" r="2585.0" b="2012.0">10.353.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1043.0" t="2072.0" r="1280.0" b="2128.0">OCTOBER,</box>
+          <box l="1318.0" t="2073.0" r="1435.0" b="2123.0">1977</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2864.0" t="2021.0" r="3131.0" b="2075.0">10.353.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="96.0" fp="4.0" fn="106.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="1647.0" t="926.0" r="1767.0" b="981.0">April</box>
+      <box l="1785.0" t="926.0" r="1831.0" b="976.0">7,</box>
+      <box l="1860.0" t="926.0" r="1985.0" b="969.0">1999</box>
+    </IssuedDate>
+    <LineItem tp="74.0" fp="3.0" fn="97.0">
+      <lineItem>
+        <ItemTotal>
+          <box l="1193.0" t="2755.0" r="1488.0" b="2809.0">$18,000.00</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="1555.0" t="2828.0" r="1694.0" b="2881.0">panel</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="1317.0" t="2897.0" r="1496.0" b="2942.0">262.50</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="1555.0" t="2894.0" r="1619.0" b="2952.0">(Vi</box>
+          <box l="1637.0" t="2894.0" r="1687.0" b="2943.0">of</box>
+          <box l="1704.0" t="2894.0" r="1912.0" b="2953.0">monthly</box>
+          <box l="1933.0" t="2895.0" r="2017.0" b="2940.0">CO</box>
+          <box l="2025.0" t="2895.0" r="2075.0" b="2941.0">SI</box>
+          <box l="2100.0" t="2895.0" r="2238.0" b="2941.0">lease</box>
+          <box l="2259.0" t="2896.0" r="2329.0" b="2941.0">for</box>
+          <box l="2346.0" t="2896.0" r="2530.0" b="2955.0">March)</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemTotal>
+          <box l="1318.0" t="2968.0" r="1496.0" b="3014.0">846.99</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="2195.0" t="2970.0" r="2308.0" b="3016.0">3/18</box>
+          <box l="2330.0" t="2971.0" r="2558.0" b="3026.0">meeting)</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="1.0" fn="0.0">
+      <box l="1199.0" t="3038.0" r="1496.0" b="3092.0">$19,109,49</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

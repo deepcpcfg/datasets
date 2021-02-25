@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="2255.0" t="1184.0" r="2429.0" b="1213.0">OUTDOOR</box>
+          <box l="2262.0" t="1251.0" r="2409.0" b="1280.0">PAINTED</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber>
+      <box l="2447.0" t="1686.0" r="2830.0" b="1721.0">001-3050067</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2447.0" t="1801.0" r="2797.0" b="1837.0">05/01/1993</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

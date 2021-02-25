@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "1099",
+    "IssuedDate": "March 4,1993",
+    "LineItem": [
+        {
+            "ItemDescription": "4lh Payment for Research Entitled \"Comparative Evaluation of Displacement Ventilation Conventional VAV Systems for Indoor Air Quality Control.\" (\"2H5/93 Progress Report' Contract No. \"Agreement 2\"",
+            "ItemTotal": "30"
+        }
+    ],
+    "TotalAmount": "$29,249.00"
+}

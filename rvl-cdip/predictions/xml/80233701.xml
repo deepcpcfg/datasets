@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="80.0" fp="31.0" fn="4.0">
+    <IssuedDate tp="10.0" fp="2.0" fn="2.0">
+      <box l="710.0" t="1220.0" r="825.0" b="1276.0">July</box>
+      <box l="860.0" t="1225.0" r="910.0" b="1275.0">9.</box>
+      <box l="948.0" t="1224.0" r="1059.0" b="1269.0">19&amp;4</box>
+    </IssuedDate>
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="1132.0" t="2055.0" r="1295.0" b="2098.0">1599-1</box>
+    </InvoiceNumber>
+    <LineItem tp="64.0" fp="29.0" fn="2.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="713.0" t="2350.0" r="884.0" b="2404.0">14-Day</box>
+          <box l="919.0" t="2349.0" r="1152.0" b="2394.0">Subacute</box>
+          <box l="1185.0" t="2351.0" r="1419.0" b="2404.0">Toxicity</box>
+          <box l="1452.0" t="2351.0" r="1598.0" b="2403.0">Study</box>
+          <box l="1634.0" t="2352.0" r="1684.0" b="2394.0">in</box>
+          <box l="1719.0" t="2351.0" r="1826.0" b="2397.0">Rats</box>
+          <box l="1864.0" t="2350.0" r="1976.0" b="2396.0">with</box>
+          <box l="2010.0" t="2351.0" r="2151.0" b="2402.0">A-57,</box>
+          <box l="2189.0" t="2351.0" r="2359.0" b="2402.0">A-I56,</box>
+          <box l="710.0" t="2406.0" r="881.0" b="2457.0">A-L69,</box>
+          <box l="919.0" t="2407.0" r="1060.0" b="2459.0">B-24,</box>
+          <box l="1097.0" t="2409.0" r="1235.0" b="2459.0">B-71,</box>
+          <box l="1273.0" t="2409.0" r="1360.0" b="2451.0">and</box>
+          <box l="1394.0" t="2408.0" r="1506.0" b="2453.0">B-73</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2609.0" t="2351.0" r="2869.0" b="2402.0">12,300.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

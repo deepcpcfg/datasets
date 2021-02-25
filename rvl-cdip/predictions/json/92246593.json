@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "008069003-A",
+    "LineItem": [
+        {
+            "ItemDescription": "ISSUE: JULY 25, 1989 INVOICE: 008069003 PRODUCTION CHARGES WAS",
+            "ItemTotal": "S2.888.73"
+        },
+        {
+            "ItemDescription": "ATS 4.000.00",
+            "ItemTotal": "2,888.73"
+        }
+    ],
+    "IssuedDate": "04/23/91",
+    "TotalAmount": "2.888.73"
+}

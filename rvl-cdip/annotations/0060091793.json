@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "09-0110",
+    "IssuedDate": "September 11,1992",
+    "TotalAmount": "4,889.12",
+    "LineItem": [
+        {
+            "ItemDescription": "Select universe from database - min.",
+            "ItemTotal": "$882.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dedupe records (merge/ourge) 44B.5B8 @ $Z94/M",
+            "ItemTotal": "1.318.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Select control cells",
+            "ItemTotal": "882.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Programming",
+            "ItemTotal": "882.38",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Produce ouiput tapes & reports",
+            "ItemTotal": "882.33",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shlpoing",
+            "ItemTotal": "40.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

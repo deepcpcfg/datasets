@@ -1,0 +1,38 @@
+{
+    "InvoiceNumber": "12039",
+    "IssuedDate": "FOOD",
+    "LineItem": [
+        {
+            "ItemUnitCount": "3",
+            "ItemDescription": "Assorted Chilled Soft Drinks",
+            "ItemUnitValue": "$2.50",
+            "ItemTotal": "$7.50"
+        },
+        {
+            "ItemDescription": "Non-Sparkling Mineral Water",
+            "ItemUnitValue": "$3.00",
+            "ItemTotal": "$6.00"
+        },
+        {
+            "ItemDescription": "A Slice of Chicago",
+            "ItemUnitValue": "$30.95",
+            "ItemTotal": "$123.80"
+        },
+        {
+            "ItemDescription": "Room Set-up Fee",
+            "ItemTotal": "$600.00",
+            "ItemUnitValue": "$600.00"
+        },
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "Labor Charge for Groups of Less Than 25",
+            "ItemTotal": "$45.00",
+            "ItemUnitValue": "$45.00"
+        },
+        {
+            "ItemDescription": "and",
+            "ItemTotal": "$26.09"
+        }
+    ],
+    "TotalAmount": "$846.00"
+}

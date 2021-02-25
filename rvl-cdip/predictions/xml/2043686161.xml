@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="187.0" fp="39.0" fn="4.0">
+    <IssuedDate tp="16.0" fp="1.0" fn="1.0">
+      <box l="2552.0" t="709.0" r="2830.0" b="754.0">November</box>
+      <box l="2872.0" t="709.0" r="2963.0" b="755.0">30,</box>
+      <box l="3021.0" t="710.0" r="3147.0" b="753.0">1992</box>
+    </IssuedDate>
+    <LineItem tp="162.0" fp="38.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="1854.0" r="1067.0" b="1903.0">Courtside</box>
+          <box l="1109.0" t="1858.0" r="1209.0" b="1904.0">Box</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2670.0" t="1855.0" r="2906.0" b="1902.0">1800.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="3027.0" t="1856.0" r="3298.0" b="1902.0">10800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="759.0" t="1921.0" r="891.0" b="1977.0">Loge</box>
+          <box l="934.0" t="1923.0" r="1034.0" b="1966.0">Box</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2490.0" t="1920.0" r="2515.0" b="1965.0">6</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2673.0" t="1921.0" r="2906.0" b="1966.0">1300.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="3060.0" t="1920.0" r="3298.0" b="1965.0">7800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="755.0" t="1985.0" r="887.0" b="2043.0">Open</box>
+          <box l="933.0" t="1982.0" r="1066.0" b="2032.0">Club</box>
+          <box l="1112.0" t="1984.0" r="1312.0" b="2031.0">Passes</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2460.0" t="1983.0" r="2519.0" b="2028.0">10</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2706.0" t="1983.0" r="2909.0" b="2030.0">100.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="3065.0" t="1982.0" r="3298.0" b="2029.0">1000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="758.0" t="2048.0" r="1029.0" b="2104.0">Racquets</box>
+          <box l="1078.0" t="2049.0" r="1278.0" b="2092.0">Passes</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="2705.0" t="2048.0" r="2909.0" b="2093.0">300.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="3064.0" t="2049.0" r="3300.0" b="2092.0">1800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="2111.0" r="1032.0" b="2158.0">Pre-Paid</box>
+          <box l="1079.0" t="2109.0" r="1315.0" b="2168.0">Parking</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2494.0" t="2113.0" r="2518.0" b="2157.0">4</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2705.0" t="2110.0" r="2909.0" b="2158.0">200.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="3096.0" t="2111.0" r="3300.0" b="2157.0">800.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="2173.0" r="1032.0" b="2232.0">Shipping</box>
+          <box l="1074.0" t="2174.0" r="1282.0" b="2233.0">Charge</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2776.0" t="2176.0" r="2909.0" b="2219.0">7.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="3168.0" t="2175.0" r="3300.0" b="2221.0">7.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1185.0" t="2367.0" r="1455.0" b="2423.0">Racquets</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2707.0" t="2365.0" r="2912.0" b="2414.0">300.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1359.0" t="2431.0" r="1496.0" b="2477.0">Club</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2712.0" t="2431.0" r="2912.0" b="2476.0">100.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1187.0" t="2494.0" r="1458.0" b="2552.0">Pre-paid</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2707.0" t="2494.0" r="2911.0" b="2540.0">200.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="9.0" fp="0.0" fn="0.0">
+      <box l="2993.0" t="2621.0" r="3305.0" b="2676.0">22,207.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

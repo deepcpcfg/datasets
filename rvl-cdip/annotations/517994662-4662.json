@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "600470",
+    "IssuedDate": "August 30,1996",
+    "LineItem": [
+        {
+            "ItemDescription": "Camel Cotl. 40 pk Disp",
+            "ItemTotal": "0.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Camel Filler Collector",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "15.53",
+            "ItemTotal": "15.53"
+        },
+        {
+            "ItemDescription": "Cannel Box Collector",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "15.53",
+            "ItemTotal": "15.53"
+        },
+        {
+            "ItemDescription": "Cannel Light Collector",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "15.53",
+            "ItemTotal": "15.53"
+        },
+        {
+            "ItemDescription": "Camel LI.",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "15.53",
+            "ItemTotal": "15.53"
+        }
+    ],
+    "TotalAmount": ""
+}

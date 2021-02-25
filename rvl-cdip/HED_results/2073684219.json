@@ -1,0 +1,100 @@
+[
+    {
+        "IssuedDate": [
+            "November 20. 1998",
+            {
+                "tp": 17.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "Cost for interviewing 300",
+                            {
+                                "tp": 25.0,
+                                "fp": 0.0,
+                                "fn": 12.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 25.0,
+                        "fp": 0.0,
+                        "fn": 22.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "respondents---$10,200.00 prepayment-----0",
+                            {
+                                "tp": 0.0,
+                                "fp": 41.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 41.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 25.0,
+                "fp": 41.0,
+                "fn": 22.0
+            }
+        ],
+        "InvoiceNumber": [
+            "098054-1",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 9.0
+            }
+        ]
+    },
+    {
+        "tp": 49.0,
+        "fp": 42.0,
+        "fn": 32.0
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "InvoiceNumber": "44493",
+    "IssuedDate": "5/18/87",
+    "LineItem": [
+        {
+            "ItemDescription": "Immunomo dulatory Screening Teat in Mice Compound A178",
+            "ItemTotal": "3,850.00"
+        },
+        {
+            "ItemDescription": "Iranninomo d ul a t ory Screening Test in Mice Compound B205",
+            "ItemTotal": "3,850.00"
+        },
+        {
+            "ItemDescription": "Immunomodulatory Screening Test in Mice Compound A75",
+            "ItemTotal": "3,850.00"
+        },
+        {
+            "ItemDescription": "Immunomod ul a t o ry Screening Test in Mice Compound A141",
+            "ItemTotal": "3,850.00"
+        }
+    ]
+}

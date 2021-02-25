@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "314557",
+    "IssuedDate": "November 8, 2000",
+    "TotalAmount": "10.382.62",
+    "LineItem": [
+        {
+            "ItemTotal": "24.00",
+            "ItemDescription": "(El01) Copying Charges",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5,463.46",
+            "ItemDescription": "(El02) Outside Printing Outside Copying Charges Westside Reprograpliics S,",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,984.97",
+            "ItemDescription": "Long/litigation Copies - RMI Depo and Exhib. Copies for Plaintiff, Jury and Judge 8/08/00 Outside Copying Charges Imagotek 8/30/00 61065 Copies (Split Cost with Matter #42) 40% Share",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "6.51",
+            "ItemDescription": "(E105) Long Distance Telephone",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(E124) Other - Catch All Temporary Services Bowne Business Solutions July 2000: Tony Cantero 20 Hrs; Manuel Jaoo 24.10 Hrs.",
+            "ItemTotal": "1,143.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "137.50",
+            "ItemDescription": "emporary Services Bowne Business Solutions 8/2000: Tony Cantero 5.5 Hrs.",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "622,43",
+            "ItemDescription": "Equipment Rental Bowne Business Solutions 8/2000 Marshall Islands - Kodak 90E",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Equipment Rental Bowne Business Solutions 8/2000 Marshall Islands - Kodak 90E",
+            "ItemTotal": "622,43",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

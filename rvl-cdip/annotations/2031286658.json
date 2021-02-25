@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "S-5601",
+    "IssuedDate": "APR 2 1967",
+    "LineItem": [
+        {
+            "ItemDescription": "\"sample' Resinoid 0-50",
+            "ItemTotal": "$4.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "\"sample\" Resinoid B-50",
+            "ItemTotal": "$1.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "\"sample” Resinoid F-50",
+            "ItemTotal": "$1.35",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

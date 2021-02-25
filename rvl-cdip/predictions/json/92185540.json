@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "1039206",
+    "IssuedDate": "10 14",
+    "LineItem": [
+        {
+            "ItemDescription": "JET",
+            "ItemTotal": "1*104.00"
+        },
+        {
+            "ItemDescription": "4 COLOR ORDER NUMBER LH8733 5TH COLOR PREH NEWPORT 1 PAGE OCT.21*1991 JET 4TH COVER 4 COLOR ORDER NUMBER LN0733",
+            "ItemTotal": "22*698.00"
+        },
+        {
+            "ItemDescription": "FROM ABOVE ITEM",
+            "ItemTotal": "3*434.70C"
+        }
+    ],
+    "TotalAmount": "20*567.30"
+}

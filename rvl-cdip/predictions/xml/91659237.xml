@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="113.0" fp="2.0" fn="18.0">
+    <InvoiceNumber tp="7.0" fp="0.0" fn="0.0">
+      <box l="2326.0" t="1438.0" r="2554.0" b="1487.0">1025968</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="0.0" fn="0.0">
+      <box l="1986.0" t="1617.0" r="2354.0" b="1659.0">JUL.16,1984</box>
+    </IssuedDate>
+    <LineItem tp="87.0" fp="2.0" fn="18.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="734.0" t="2092.0" r="758.0" b="2130.0">1</box>
+          <box l="801.0" t="2088.0" r="929.0" b="2127.0">PAGE</box>
+          <box l="1036.0" t="2083.0" r="1405.0" b="2126.0">JUL.23,1984</box>
+          <box l="1446.0" t="2080.0" r="1538.0" b="2122.0">JET</box>
+          <box l="595.0" t="2150.0" r="625.0" b="2188.0">4</box>
+          <box l="659.0" t="2147.0" r="829.0" b="2187.0">COLOR</box>
+          <box l="871.0" t="2142.0" r="1030.0" b="2184.0">ORDER</box>
+          <box l="1071.0" t="2140.0" r="1267.0" b="2183.0">NUMBER</box>
+          <box l="1309.0" t="2138.0" r="1437.0" b="2180.0">T513</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2362.0" t="2067.0" r="2654.0" b="2112.0">11,048.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="595.0" t="2313.0" r="854.0" b="2359.0">COMMISSI</box>
+          <box l="870.0" t="2317.0" r="930.0" b="2355.0">ON</box>
+          <box l="967.0" t="2313.0" r="1100.0" b="2354.0">FROM</box>
+          <box l="1138.0" t="2312.0" r="1302.0" b="2351.0">ABOVE</box>
+          <box l="1346.0" t="2309.0" r="1475.0" b="2350.0">ITEM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2397.0" t="2297.0" r="2550.0" b="2338.0">1,657</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2390.0" t="3095.0" r="2647.0" b="3138.0">9,390.80</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

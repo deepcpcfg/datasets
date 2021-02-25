@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1667039",
+    "IssuedDate": "2 21 86",
+    "TotalAmount": "7500.00",
+    "LineItem": [
+        {
+            "ItemDescription": "15027.401: INDUCTION OF HEPATIC MICROSOMAL ENZYMES IN RATS BY A48",
+            "ItemUnitValue": "2500.00",
+            "ItemTotal": "2500.0",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "15028.401: INDUCTION OF HEPATIC MICROSOMAL ENZYMES IN RATS BY Al02",
+            "ItemUnitValue": "2500.00",
+            "ItemTotal": "2500.0",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "15029.401: INDUCTION OF HEPATIC MICROSOMAL ENZYMES IN RATS BY A105",
+            "ItemUnitValue": "2500.00",
+            "ItemTotal": "2500.0",
+            "ItemUnitCount": ""
+        }
+    ]
+}

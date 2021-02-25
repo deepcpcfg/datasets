@@ -1,0 +1,49 @@
+{
+    "IssuedDate": "July 16,1998",
+    "TotalAmount": "4900.00",
+    "LineItem": [
+        {
+            "ItemDescription": "5-18-98 Reviewof documents",
+            "ItemTotal": "350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "6-5-98 Review of new documents provided",
+            "ItemTotal": "350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "6-8 to  6-9-98 Review of medical records documents 3 hours",
+            "ItemTotal": "1050.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "6-10-98 Meeting. 2hours",
+            "ItemTotal": "700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "6-10 to 9-23-98 Review of literature and preparation affidavit 4 hours ",
+            "ItemTotal": "1400.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "6-23-98 Conference call",
+            "ItemTotal": "175.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "6-7-98 Conference call and affidavit",
+            "ItemTotal": "875.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

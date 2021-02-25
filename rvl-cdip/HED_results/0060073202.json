@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "April ID, 1973",
+            {
+                "tp": 12.0,
+                "fp": 2.0,
+                "fn": 2.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "§36.00",
+                            {
+                                "tp": 5.0,
+                                "fp": 1.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "72 Smokeshop cigarotte machine replacement panels with PALL MALL GOLD display, shipped by Automatic Products Company during the month of March, 1973, as per attached lists, 50*r",
+                            {
+                                "tp": 170.0,
+                                "fp": 7.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 175.0,
+                        "fp": 8.0,
+                        "fn": 7.0
+                    }
+                ]
+            ],
+            {
+                "tp": 175.0,
+                "fp": 8.0,
+                "fn": 7.0
+            }
+        ],
+        "TotalAmount": [
+            "INC.",
+            {
+                "tp": 0.0,
+                "fp": 4.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 187.0,
+        "fp": 14.0,
+        "fn": 9.0
+    }
+]

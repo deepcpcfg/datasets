@@ -1,0 +1,12 @@
+{
+    "InvoiceNumber": "#CCPIC~0196",
+    "IssuedDate": "January 1996",
+    "LineItem": [
+        {
+            "ItemDescription": "Interagency Coordination."
+        },
+        {
+            "ItemDescription": "TOTAL DUE"
+        }
+    ]
+}

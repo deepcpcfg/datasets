@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "Oct 4, 1991",
+    "InvoiceNumber": "4194",
+    "LineItem": [
+        {
+            "ItemDescription": "To the services of HBI technicians in completing an indoor air quality survey of the Benedum CenterTs new smoking lounge on September 5, 1991 at the request of Mr. Lance Pressed. I i Survey fee (reports sent directly to Mr. Pressed",
+            "ItemTotal": "$ 4,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "$ 751.08",
+            "ItemDescription": "Expenses | Airfare (Gray Robertson) .....$ 416.00 Taxi charges . 54.00 Technician vehicle cost (512 miles (l $0.25/mile) .... 128.00 Hotels 84.00 Parking 8.00 Tolls 8.30 Meals 52.78 Total expenses t 751.08",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

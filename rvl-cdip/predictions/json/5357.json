@@ -1,0 +1,42 @@
+{
+    "InvoiceNumber": "No.7D04427",
+    "LineItem": [
+        {
+            "ItemDescription": "Hawaii Iowa Illinois Kansas Louisiana",
+            "ItemTotal": "18,065.00"
+        },
+        {
+            "ItemDescription": "Mas sachusett b",
+            "ItemTotal": "101.25"
+        },
+        {
+            "ItemDescription": "Maine Michigan Ohio Qklahocua Project Management",
+            "ItemTotal": "14,637.50"
+        },
+        {
+            "ItemDescription": "Puerto Utah Rico",
+            "ItemTotal": "1,355,00"
+        },
+        {
+            "ItemDescription": "Client Ccmmunicat ions",
+            "ItemTotal": "2,000.00"
+        },
+        {
+            "ItemDescription": "Equipment Rental",
+            "ItemTotal": "1,250.00"
+        },
+        {
+            "ItemDescription": "Graphics Mileage Pos tage/Fedex/courier",
+            "ItemTotal": "124.20"
+        },
+        {
+            "ItemDescription": "Supplies Taxi",
+            "ItemTotal": "1,414.02"
+        },
+        {
+            "ItemDescription": "Meals Related to Working",
+            "ItemTotal": "510.03"
+        }
+    ],
+    "TotalAmount": "73,402.83"
+}

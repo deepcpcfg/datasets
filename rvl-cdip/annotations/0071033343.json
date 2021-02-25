@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2323",
+    "IssuedDate": "May 31, 1966",
+    "LineItem": [
+        {
+            "ItemDescription": "FOR SERVICE6 RENDERED Statement for the month of June, 1966; One “twelfth of Research Fund as per Research Agreement, Project 84, dated March 1, 1966",
+            "ItemTotal": "$2,075.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

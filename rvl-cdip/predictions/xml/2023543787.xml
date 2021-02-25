@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="43.0" fp="36.0" fn="18.0">
+    <InvoiceNumber tp="1.0" fp="5.0" fn="3.0">
+      <box l="1827.0" t="169.0" r="2031.0" b="207.0">802392</box>
+    </InvoiceNumber>
+    <LineItem tp="34.0" fp="30.0" fn="6.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="324.0" t="1287.0" r="349.0" b="1322.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="646.0" t="1288.0" r="850.0" b="1322.0">PORTAB</box>
+          <box l="646.0" t="1347.0" r="854.0" b="1385.0">SYSTEM</box>
+          <box l="896.0" t="1288.0" r="924.0" b="1322.0">E</box>
+          <box l="970.0" t="1286.0" r="1070.0" b="1322.0">AIR</box>
+          <box l="1113.0" t="1286.0" r="1392.0" b="1323.0">SAMPLING</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2159.0" t="1287.0" r="2471.0" b="1324.0">7000.0000</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2700.0" t="1287.0" r="2972.0" b="1321.0">14000*00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="646.0" t="1410.0" r="846.0" b="1443.0">SHIPPI</box>
+          <box l="877.0" t="1410.0" r="924.0" b="1443.0">(G</box>
+          <box l="971.0" t="1410.0" r="1104.0" b="1443.0">CHGS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2842.0" t="1407.0" r="2972.0" b="1442.0">7.53</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="1.0">
+      <box l="2673.0" t="3176.0" r="2981.0" b="3214.0">14,007,53</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

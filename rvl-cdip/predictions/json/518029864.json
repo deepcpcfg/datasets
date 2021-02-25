@@ -1,0 +1,30 @@
+{
+    "InvoiceNumber": "10-69",
+    "IssuedDate": "800023",
+    "LineItem": [
+        {
+            "ItemDescription": "CAMEL FILTER BiOIF",
+            "ItemUnitValue": "e38,000",
+            "ItemTotal": "36,538.20"
+        },
+        {
+            "ItemDescription": "CAMEL FILTER BOX B1G1F",
+            "ItemUnitValue": "636j000",
+            "ItemTotal": "30,538.20"
+        },
+        {
+            "ItemDescription": "CAMEL LIGHTS B1G1F",
+            "ItemUnitValue": "636,000",
+            "ItemTotal": "36.53B.20"
+        },
+        {
+            "ItemDescription": "CAMEL LIGHTS BOX BiGIF",
+            "ItemUnitValue": "636,000",
+            "ItemTotal": "36,538.20"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE",
+            "ItemTotal": "73,076.40-"
+        }
+    ]
+}

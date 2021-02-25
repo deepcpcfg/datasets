@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="53.0" fp="43.0" fn="6.0">
+    <IssuedDate tp="12.0" fp="0.0" fn="0.0">
+      <box l="515.0" t="936.0" r="639.0" b="982.0">June</box>
+      <box l="677.0" t="936.0" r="727.0" b="990.0">9,</box>
+      <box l="774.0" t="934.0" r="890.0" b="983.0">1982</box>
+    </IssuedDate>
+    <LineItem tp="41.0" fp="43.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="518.0" t="2103.0" r="792.0" b="2153.0">Induction</box>
+          <box l="830.0" t="2103.0" r="892.0" b="2152.0">of</box>
+          <box l="926.0" t="2102.0" r="1138.0" b="2160.0">Hepatic</box>
+          <box l="1173.0" t="2102.0" r="1477.0" b="2152.0">Microsomal</box>
+          <box l="517.0" t="2166.0" r="730.0" b="2223.0">Enzymes</box>
+          <box l="767.0" t="2178.0" r="826.0" b="2214.0">on</box>
+          <box l="863.0" t="2164.0" r="1138.0" b="2227.0">Compounds</box>
+          <box l="1176.0" t="2167.0" r="1325.0" b="2221.0">B-99,</box>
+          <box l="1364.0" t="2167.0" r="1517.0" b="2215.0">B-105</box>
+          <box l="514.0" t="2229.0" r="605.0" b="2278.0">and</box>
+          <box l="642.0" t="2231.0" r="795.0" b="2278.0">B-115</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2310.0" t="2103.0" r="2619.0" b="2161.0">$10,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="96.0" fp="56.0" fn="86.0">
+    <LineItem tp="80.0" fp="56.0" fn="78.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="797.0" t="1439.0" r="894.0" b="1474.0">12M</box>
+          <box l="973.0" t="1439.0" r="1146.0" b="1474.0">CAMEL</box>
+          <box l="1189.0" t="1433.0" r="1796.0" b="1482.0">FILTER/COLLECTORS</box>
+          <box l="795.0" t="1498.0" r="894.0" b="1533.0">12M</box>
+          <box l="974.0" t="1499.0" r="1147.0" b="1534.0">CAMEL</box>
+          <box l="1190.0" t="1494.0" r="1757.0" b="1539.0">LIGHT/COLLECTORS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2342.0" t="1503.0" r="2624.0" b="1539.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="796.0" t="1557.0" r="895.0" b="1593.0">12M</box>
+          <box l="974.0" t="1558.0" r="1148.0" b="1594.0">CAMEL</box>
+          <box l="1190.0" t="1560.0" r="1290.0" b="1593.0">FIL</box>
+          <box l="1335.0" t="1554.0" r="1795.0" b="1600.0">BX/COLLECTORS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2060.0" t="1561.0" r="2119.0" b="1598.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2343.0" t="1562.0" r="2625.0" b="1599.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="796.0" t="1616.0" r="895.0" b="1651.0">12M</box>
+          <box l="975.0" t="1617.0" r="1146.0" b="1650.0">CAMEL</box>
+          <box l="1191.0" t="1618.0" r="1290.0" b="1652.0">LTS</box>
+          <box l="1336.0" t="1612.0" r="1795.0" b="1657.0">BX/COLLECTORS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2060.0" t="1620.0" r="2119.0" b="1656.0">36</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2344.0" t="1620.0" r="2623.0" b="1658.0">671.4000</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2793.0" t="3185.0" r="3068.0" b="3227.0">9,094.11</box>
+    </TotalAmount>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2794.0" t="3838.0" r="3073.0" b="3885.0">03/02/94</box>
+    </IssuedDate>
+  </Invoice>
+</InvoiceDoc>

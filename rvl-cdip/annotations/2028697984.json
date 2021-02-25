@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "26 maa.91",
+    "TotalAmount": "1.740,-",
+    "LineItem": [
+        {
+            "ItemDescription": "2 ml, nr. 3700-07",
+            "ItemTotal": "280,-",
+            "ItemUnitCount": "5",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "stuk 5 ml, nr. 3700-11",
+            "ItemTotal": "380,-",
+            "ItemUnitCount": "5",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "stuk 10 ml, nr. 3700-12",
+            "ItemTotal": "480,-",
+            "ItemUnitCount": "5",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "stuk 25 ml, nr. 3700-14",
+            "ItemTotal": "600.-",
+            "ItemUnitCount": "5",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

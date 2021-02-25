@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "95",
+            {
+                "tp": 2.0,
+                "fp": 0.0,
+                "fn": 7.0
+            }
+        ],
+        "TotalAmount": [
+            "6,000.00",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "6,000.00",
+                            {
+                                "tp": 8.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "’96 MERIT BOWLING PROMOTION AGREEMENT WITH INTERNATIONAL MERCHANDISING CORP PER AMENDMENT AGREEMENT DATED AUGUST 29TH, INCREASE IN '96 MERIT BOWLING SANCTIONING FEES FOR LPBT",
+                            {
+                                "tp": 174.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 182.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 182.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1523616",
+            {
+                "tp": 7.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 198.0,
+        "fp": 1.0,
+        "fn": 8.0
+    }
+]

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="429.0" t="1126.0" r="434.0" b="1135.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="760.0" t="1429.0" r="967.0" b="1466.0">WINSTON</box>
+          <box l="1001.0" t="1429.0" r="1055.0" b="1466.0">20</box>
+          <box l="1089.0" t="1429.0" r="1143.0" b="1466.0">KS</box>
+          <box l="1177.0" t="1433.0" r="1234.0" b="1466.0">EX</box>
+          <box l="1526.0" t="1425.0" r="2038.0" b="1472.0">NOS(000001-000025)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2735.0" t="1431.0" r="2847.0" b="1468.0">25.7</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="768.0" t="1489.0" r="818.0" b="1525.0">IN</box>
+          <box l="911.0" t="1488.0" r="964.0" b="1525.0">18</box>
+          <box l="997.0" t="1488.0" r="1025.0" b="1525.0">X</box>
+          <box l="1089.0" t="1488.0" r="1143.0" b="1526.0">09</box>
+          <box l="1176.0" t="1491.0" r="1206.0" b="1526.0">X</box>
+          <box l="1265.0" t="1491.0" r="1318.0" b="1528.0">11</box>
+          <box l="1436.0" t="1490.0" r="1493.0" b="1527.0">KT</box>
+          <box l="1526.0" t="1489.0" r="2017.0" b="1527.0">0.457X0.238X0.277</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2743.0" t="1489.0" r="2852.0" b="1530.0">.756</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="549.0" t="2107.0" r="666.0" b="2143.0">8530</box>
+          <box l="1347.0" t="2108.0" r="1513.0" b="2148.0">204-PI</box>
+          <box l="1554.0" t="2107.0" r="1632.0" b="2148.0">INS</box>
+          <box l="1665.0" t="2105.0" r="1895.0" b="2152.0">POL(ASIA</box>
+          <box l="1929.0" t="2110.0" r="2015.0" b="2146.0">PAC</box>
+          <box l="2050.0" t="2109.0" r="2133.0" b="2146.0">INC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2733.0" t="1673.0" r="2847.0" b="1710.0">25.7</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="284.0" t="2227.0" r="633.0" b="2268.0">MUNICIPALITY</box>
+          <box l="667.0" t="2231.0" r="725.0" b="2267.0">OF</box>
+          <box l="759.0" t="2231.0" r="933.0" b="2268.0">DEDEDO</box>
+          <box l="284.0" t="2290.0" r="537.0" b="2331.0">TANUNING,</box>
+          <box l="280.0" t="2473.0" r="367.0" b="2512.0">RJR</box>
+          <box l="400.0" t="2473.0" r="571.0" b="2511.0">PAPERS</box>
+          <box l="578.0" t="2290.0" r="695.0" b="2326.0">GUAM</box>
+          <box l="759.0" t="2292.0" r="900.0" b="2326.0">96911</box>
+          <box l="1347.0" t="2474.0" r="1566.0" b="2514.0">11&amp;-P.1.</box>
+          <box l="1605.0" t="2473.0" r="1709.0" b="2512.0">INV*</box>
+          <box l="1759.0" t="2469.0" r="1892.0" b="2518.0">(ASIA</box>
+          <box l="1926.0" t="2476.0" r="2130.0" b="2513.0">PACIFIC</box>
+          <box l="2164.0" t="2476.0" r="2217.0" b="2513.0">IN</box>
+          <box l="1344.0" t="2532.0" r="1572.0" b="2578.0">804-N/N/</box>
+          <box l="1605.0" t="2532.0" r="1688.0" b="2578.0">B/L</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1344.0" t="2598.0" r="1510.0" b="2637.0">204-PI</box>
+          <box l="1552.0" t="2598.0" r="1630.0" b="2636.0">INS</box>
+          <box l="1663.0" t="2594.0" r="1892.0" b="2640.0">POL(ASIA</box>
+          <box l="1926.0" t="2601.0" r="2010.0" b="2637.0">PAC</box>
+          <box l="2047.0" t="2601.0" r="2130.0" b="2638.0">INC</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1344.0" t="2783.0" r="1564.0" b="2819.0">116-P.I.</box>
+          <box l="1606.0" t="2782.0" r="1706.0" b="2819.0">INV.</box>
+          <box l="1756.0" t="2778.0" r="1889.0" b="2822.0">(ASIA</box>
+          <box l="1923.0" t="2784.0" r="2126.0" b="2818.0">PACIFIC</box>
+          <box l="2161.0" t="2784.0" r="2214.0" b="2818.0">IN</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1341.0" t="2837.0" r="1569.0" b="2889.0">804-N/N/</box>
+          <box l="1344.0" t="2904.0" r="1569.0" b="2945.0">300-2149</box>
+          <box l="1602.0" t="2837.0" r="1685.0" b="2886.0">B/L</box>
+          <box l="1344.0" t="2966.0" r="1570.0" b="3008.0">301-7525</box>
+          <box l="1341.0" t="3029.0" r="1507.0" b="3066.0">204-PI</box>
+          <box l="1545.0" t="3028.0" r="1623.0" b="3065.0">INS</box>
+          <box l="1658.0" t="3025.0" r="1828.0" b="3068.0">POL(AS</box>
+          <box l="1840.0" t="3030.0" r="1890.0" b="3064.0">IA</box>
+          <box l="1923.0" t="3031.0" r="2007.0" b="3064.0">PAC</box>
+          <box l="2044.0" t="3030.0" r="2123.0" b="3067.0">INC</box>
+          <box l="1341.0" t="3215.0" r="1507.0" b="3249.0">204-PI</box>
+          <box l="1546.0" t="3215.0" r="1623.0" b="3249.0">INS</box>
+          <box l="1658.0" t="3211.0" r="1887.0" b="3256.0">POL(ASIA</box>
+          <box l="1920.0" t="3214.0" r="2007.0" b="3252.0">PAC</box>
+          <box l="2042.0" t="3214.0" r="2124.0" b="3251.0">INC</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

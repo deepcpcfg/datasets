@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2869",
+    "TotalAmount": "18,307.30",
+    "LineItem": [
+        {
+            "ItemUnitCount": "1",
+            "ItemDescription": "1990 Chicago Cubs Magazine Scorecard advertisement (back cover, 4-color)",
+            "ItemTotal": "$21,538.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS: Commis sion",
+            "ItemTotal": "(3,230.70)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

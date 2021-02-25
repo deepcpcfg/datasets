@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "59280-1",
+    "IssuedDate": "October 22. 2001",
+    "LineItem": [
+        {
+            "ItemDescription": "Amount due per agreement",
+            "ItemTotal": "49,710.15 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

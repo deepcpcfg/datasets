@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "65810",
+    "LineItem": [
+        {
+            "ItemDescription": "c",
+            "ItemUnitCount": "110",
+            "ItemTotal": "132«.55"
+        },
+        {
+            "ItemDescription": "FRANCISCO EXAM",
+            "ItemUnitValue": "16/89",
+            "ItemTotal": "11*847*56"
+        }
+    ],
+    "TotalAmount": "26*980.11"
+}

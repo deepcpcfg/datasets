@@ -1,0 +1,41 @@
+{
+    "IssuedDate": "Dec. 10, 1990",
+    "LineItem": [
+        {
+            "ItemDescription": "Duplicating Catering services (ingredients,",
+            "ItemTotal": "779.20"
+        },
+        {
+            "ItemDescription": "\"fire-safe*1 meetings)",
+            "ItemTotal": "852.53"
+        },
+        {
+            "ItemDescription": "Mail/messenger service",
+            "ItemTotal": "150.79"
+        },
+        {
+            "ItemDescription": "Long distance telephone",
+            "ItemTotal": "153.23"
+        },
+        {
+            "ItemDescription": "Telecommunications service",
+            "ItemTotal": "288.82"
+        },
+        {
+            "ItemDescription": "Local transportation",
+            "ItemTotal": "22.00"
+        },
+        {
+            "ItemDescription": "Computer research charges",
+            "ItemTotal": "617.36"
+        },
+        {
+            "ItemDescription": "Lodging Meals Telephone",
+            "ItemTotal": "39.07"
+        },
+        {
+            "ItemDescription": "Cabs Miscellaneous",
+            "ItemTotal": "5,301.25"
+        }
+    ]
+}

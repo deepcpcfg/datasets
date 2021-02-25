@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="68.0" fp="18.0" fn="67.0">
+    <IssuedDate tp="0.0" fp="11.0" fn="0.0">
+      <box l="2365.0" t="933.0" r="2528.0" b="974.0">Augu-t</box>
+      <box l="2564.0" t="932.0" r="2669.0" b="968.0">igg4</box>
+    </IssuedDate>
+    <LineItem tp="68.0" fp="7.0" fn="67.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="757.0" t="1312.0" r="1031.0" b="1357.0">Cigaretten</box>
+          <box l="1065.0" t="1315.0" r="1307.0" b="1352.0">Fabrieken</box>
+          <box l="1339.0" t="1313.0" r="1474.0" b="1363.0">being</box>
+          <box l="1507.0" t="1316.0" r="1749.0" b="1362.0">royalties</box>
+          <box l="1786.0" t="1319.0" r="1865.0" b="1357.0">for</box>
+          <box l="761.0" t="1398.0" r="835.0" b="1430.0">the</box>
+          <box l="866.0" t="1398.0" r="1003.0" b="1431.0">month</box>
+          <box l="1036.0" t="1398.0" r="1086.0" b="1436.0">of</box>
+          <box l="1116.0" t="1402.0" r="1278.0" b="1443.0">Auguat</box>
+          <box l="1315.0" t="1397.0" r="1419.0" b="1434.0">1984</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2476.0" t="1571.0" r="2742.0" b="1616.0">£52.540.05</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

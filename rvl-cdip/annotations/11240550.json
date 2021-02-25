@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "CTR-0025-12",
+    "IssuedDate": "10 20 75",
+    "TotalAmount": "8,635.86",
+    "LineItem": [
+        {
+            "ItemDescription": "This voucher represents reimburseable costs for period September 6, 1975 thru October 3, 1975",
+            "ItemTotal": "$7,965.86",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fixed Fee",
+            "ItemTotal": "670.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

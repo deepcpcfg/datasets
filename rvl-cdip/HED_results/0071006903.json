@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "10/26/94",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$21,750",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$21,750",
+                            {
+                                "tp": 6.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Evaluation of Riviera outdoor advertising. Testing with 300 target smokers. Estimated project cost $43,500 10%, plus photography costs (est. $1,200} First Partial Billing",
+                            {
+                                "tp": 148.0,
+                                "fp": 22.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 154.0,
+                        "fp": 23.0,
+                        "fn": 5.0
+                    }
+                ]
+            ],
+            {
+                "tp": 154.0,
+                "fp": 23.0,
+                "fn": 5.0
+            }
+        ],
+        "InvoiceNumber": [
+            "003223",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 174.0,
+        "fp": 24.0,
+        "fn": 5.0
+    }
+]

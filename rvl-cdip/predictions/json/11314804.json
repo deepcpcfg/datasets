@@ -1,0 +1,47 @@
+{
+    "InvoiceNumber": "2379",
+    "TotalAmount": "30",
+    "IssuedDate": "May21, 1971",
+    "LineItem": [
+        {
+            "ItemDescription": "Addressing your"
+        },
+        {
+            "ItemDescription": "Research envelope to A, CD, Total Office Based Prim ry U. S. PUD, R, total office and secondary, in U.S. TS, care in U.S."
+        },
+        {
+            "ItemDescription": "GE, Tobacco PH, PATH, specialty, in based, primary total patient",
+            "ItemUnitCount": "19910",
+            "ItemTotal": "361.37"
+        },
+        {
+            "ItemDescription": "Addressing above envelopes to Medical School libraries",
+            "ItemUnitCount": "328",
+            "ItemTotal": "35.00"
+        },
+        {
+            "ItemDescription": "Di re Enclosing cbor book \"Report of the Scientific",
+            "ItemTotal": "364.28"
+        },
+        {
+            "ItemDescription": "Sort and mail",
+            "ItemTotal": "156.84"
+        },
+        {
+            "ItemDescription": "AMA fee",
+            "ItemTotal": "119.46,"
+        },
+        {
+            "ItemDescription": "Postage advanced",
+            "ItemTotal": "951.36"
+        },
+        {
+            "ItemDescription": "Bulk fee",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "Truckin g",
+            "ItemTotal": "35.50"
+        }
+    ]
+}

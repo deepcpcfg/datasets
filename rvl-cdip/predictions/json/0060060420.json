@@ -1,0 +1,23 @@
+{
+    "IssuedDate": "7 May, 1993",
+    "InvoiceNumber": "1003",
+    "LineItem": [
+        {
+            "ItemDescription": "FEE",
+            "ItemTotal": "$4,250.00"
+        },
+        {
+            "ItemDescription": "QMS Output",
+            "ItemTotal": "$400.00"
+        },
+        {
+            "ItemDescription": "Art and Computer S applies",
+            "ItemTotal": "$46.00"
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "$48.00"
+        }
+    ],
+    "TotalAmount": "$4,744.00"
+}

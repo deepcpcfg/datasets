@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="143.0" fp="2.0" fn="0.0">
+    <IssuedDate tp="14.0" fp="0.0" fn="0.0">
+      <box l="1946.0" t="785.0" r="2091.0" b="829.0">.March</box>
+      <box l="2125.0" t="787.0" r="2171.0" b="838.0">7,</box>
+      <box l="2209.0" t="785.0" r="2321.0" b="829.0">1989</box>
+    </IssuedDate>
+    <LineItem tp="115.0" fp="1.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="504.0" t="1806.0" r="708.0" b="1855.0">January</box>
+          <box l="737.0" t="1805.0" r="963.0" b="1842.0">Retainer</box>
+          <box l="1005.0" t="1801.0" r="1108.0" b="1850.0">(see</box>
+          <box l="1139.0" t="1801.0" r="1388.0" b="1851.0">attached)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1862.0" t="1801.0" r="2087.0" b="1851.0">3,000.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="505.0" t="1917.0" r="787.0" b="1959.0">Additional</box>
+          <box l="821.0" t="1920.0" r="962.0" b="1959.0">Hours</box>
+          <box l="1005.0" t="1917.0" r="1109.0" b="1967.0">(see</box>
+          <box l="1138.0" t="1917.0" r="1388.0" b="1966.0">attached-)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1921.0" t="1916.0" r="2087.0" b="1958.0">698.75</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="505.0" t="2384.0" r="705.0" b="2430.0">January</box>
+          <box l="734.0" t="2380.0" r="963.0" b="2430.0">Expenses</box>
+          <box l="1005.0" t="2377.0" r="1105.0" b="2425.0">(see</box>
+          <box l="1138.0" t="2376.0" r="1388.0" b="2426.0">attached)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1862.0" t="2376.0" r="2087.0" b="2426.0">1,683.48</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="6.0" fp="1.0" fn="0.0">
+      <box l="2066.0" t="904.0" r="2262.0" b="945.0">#89-133</box>
+    </InvoiceNumber>
+    <TotalAmount tp="8.0" fp="0.0" fn="0.0">
+      <box l="2580.0" t="3587.0" r="2805.0" b="3635.0">5,382.23</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,29 @@
+{
+    "TotalAmount": "198,689.00",
+    "InvoiceNumber": "2",
+    "LineItem": [
+        {
+            "ItemDescription": "Salaries and Wages",
+            "ItemUnitValue": "2,757.55",
+            "ItemTotal": "119,768.66"
+        },
+        {
+            "ItemDescription": "Salaries Cost-Shared",
+            "ItemTotal": "2,208.75"
+        },
+        {
+            "ItemDescription": "Fringe Benefits",
+            "ItemUnitValue": "4,304.06",
+            "ItemTotal": "4.804.86"
+        },
+        {
+            "ItemDescription": "Safaries Cost-Sharing Contribution",
+            "ItemTotal": "(2.713.57)",
+            "ItemUnitValue": "(2,713.57)"
+        },
+        {
+            "ItemDescription": "Supplies and Mal&riais",
+            "ItemTotal": "5,487.26"
+        }
+    ]
+}

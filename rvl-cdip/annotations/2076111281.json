@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "700227-01",
+    "IssuedDate": "Fev 27,1997",
+    "TotalAmount": "14,400 ",
+    "LineItem": [
+        {
+            "ItemDescription": "Marlbolo Box ",
+            "ItemUnitCount": "12",
+            "ItemTotal": "7,200 Japanese Yen",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Marlbolo Light Box ",
+            "ItemUnitCount": "12",
+            "ItemTotal": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

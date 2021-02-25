@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "1059",
+    "IssuedDate": "December 9, 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Payment for Research Entitled \"Comparative Evaluation of Displacement Ventilation Conventional VAV Systems for Indoor Air Quality Control.\" Contract No. \"Agreement 2\""
+        }
+    ],
+    "TotalAmount": "$29,249.00"
+}

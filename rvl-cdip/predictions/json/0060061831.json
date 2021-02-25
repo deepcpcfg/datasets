@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "92223",
+    "LineItem": [
+        {
+            "ItemDescription": "Misty Look Book fulfillment"
+        }
+    ],
+    "TotalAmount": "0,000,00",
+    "IssuedDate": "July 29, 1992"
+}

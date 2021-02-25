@@ -1,0 +1,79 @@
+{
+    "TotalAmount": "5,427.22",
+    "LineItem": [
+        {
+            "ItemTotal": "562.58",
+            "ItemDescription": "Laboratory Supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "36.69",
+            "ItemDescription": "Animal Feed and Bedding",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "42.50",
+            "ItemDescription": "Pharmacologist (Emil R. Smith, Ph.D.)",
+            "ItemUnitCount": "5",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "181.64",
+            "ItemDescription": "Biochemist (Harris Rosenkraritz, Fh. D.)",
+            "ItemUnitCount": "20",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "91.01",
+            "ItemDescription": "Pathologist (Marcus M. Mason, D.V.M.)",
+            "ItemUnitCount": "8",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "306.27",
+            "ItemDescription": "Histochemist (Alexandras GouvelIs,D.VJiA.",
+            "ItemUnitCount": "95",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,136.00",
+            "ItemDescription": "Technician - pharmacology",
+            "ItemUnitCount": "474",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "222.09",
+            "ItemDescription": "Technician - biochemist",
+            "ItemUnitCount": "91 1/2 ",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "138.52",
+            "ItemDescription": "Technician - histology",
+            "ItemUnitCount": "71",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5.20",
+            "ItemDescription": "Clerk-data processsing",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Overhead (100 % of Direct Labor)",
+            "ItemTotal": "2,123,23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Fee (12%)",
+            "ItemTotal": "581.49",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

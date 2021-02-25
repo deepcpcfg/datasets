@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="108.0" fp="147.0" fn="51.0">
+    <InvoiceNumber tp="6.0" fp="3.0" fn="2.0">
+      <box l="1987.0" t="1109.0" r="2209.0" b="1141.0">P-11-0927</box>
+    </InvoiceNumber>
+    <IssuedDate tp="5.0" fp="3.0" fn="4.0">
+      <box l="1909.0" t="1151.0" r="2104.0" b="1181.0">NOV21/74</box>
+    </IssuedDate>
+    <LineItem tp="97.0" fp="141.0" fn="45.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="442.0" t="1742.0" r="512.0" b="1771.0">ART</box>
+          <box l="541.0" t="1742.0" r="662.0" b="1771.0">ORDER</box>
+          <box l="692.0" t="1743.0" r="742.0" b="1770.0">HO</box>
+          <box l="847.0" t="1742.0" r="1017.0" b="1771.0">ASPIRIN</box>
+          <box l="1048.0" t="1742.0" r="1118.0" b="1773.0">m</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1405.0" t="1742.0" r="1571.0" b="1772.0">124-0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="442.0" t="1870.0" r="512.0" b="1900.0">ART</box>
+          <box l="541.0" t="1867.0" r="665.0" b="1896.0">ORDER</box>
+          <box l="692.0" t="1870.0" r="742.0" b="1896.0">NO</box>
+          <box l="847.0" t="1867.0" r="1020.0" b="1901.0">ASPIRIN</box>
+          <box l="1050.0" t="1867.0" r="1117.0" b="1901.0">INC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1426.0" t="1871.0" r="1572.0" b="1901.0">995,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="467.0" t="1996.0" r="537.0" b="2025.0">ART</box>
+          <box l="570.0" t="1996.0" r="690.0" b="2026.0">ORDER</box>
+          <box l="721.0" t="1996.0" r="766.0" b="2025.0">NO</box>
+          <box l="846.0" t="1996.0" r="966.0" b="2026.0">GERRY</box>
+          <box l="996.0" t="1996.0" r="1092.0" b="2026.0">UINti</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1422.0" t="1996.0" r="1571.0" b="2026.0">+1P.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="467.0" t="2123.0" r="537.0" b="2149.0">ART</box>
+          <box l="567.0" t="2122.0" r="687.0" b="2151.0">ORDER</box>
+          <box l="716.0" t="2122.0" r="765.0" b="2151.0">MO</box>
+          <box l="846.0" t="2122.0" r="966.0" b="2151.0">GERRY</box>
+          <box l="996.0" t="2122.0" r="1092.0" b="2151.0">WIND</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="316.0" t="2163.0" r="409.0" b="2192.0">5000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="467.0" t="2250.0" r="537.0" b="2276.0">ART</box>
+          <box l="567.0" t="2250.0" r="687.0" b="2279.0">ORDER</box>
+          <box l="721.0" t="2251.0" r="766.0" b="2280.0">NO</box>
+          <box l="846.0" t="2250.0" r="966.0" b="2280.0">GERRY</box>
+          <box l="996.0" t="2251.0" r="1092.0" b="2280.0">HIND</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1426.0" t="2251.0" r="1571.0" b="2280.0">U80.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="438.0" t="2588.0" r="512.0" b="2617.0">ART</box>
+          <box l="541.0" t="2588.0" r="662.0" b="2617.0">DROER</box>
+          <box l="692.0" t="2588.0" r="741.0" b="2617.0">NO</box>
+          <box l="846.0" t="2591.0" r="891.0" b="2617.0">AV</box>
+          <box l="922.0" t="2588.0" r="1067.0" b="2617.0">STUDIO</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2236.0" t="2591.0" r="2381.0" b="2621.0">325.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="466.0" t="2926.0" r="536.0" b="2955.0">ART</box>
+          <box l="567.0" t="2926.0" r="687.0" b="2956.0">OKDLfc</box>
+          <box l="717.0" t="2930.0" r="765.0" b="2955.0">NO</box>
+          <box l="846.0" t="2927.0" r="966.0" b="2955.0">GERRY</box>
+          <box l="997.0" t="2927.0" r="1092.0" b="2955.0">UNO</box>
+          <box l="1123.0" t="2930.0" r="1142.0" b="2955.0">L</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1447.0" t="3055.0" r="1571.0" b="3084.0">75.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="317.0" t="3263.0" r="410.0" b="3292.0">1320</box>
+          <box l="437.0" t="3263.0" r="509.0" b="3292.0">ART</box>
+          <box l="541.0" t="3264.0" r="658.0" b="3292.0">UROER</box>
+          <box l="692.0" t="3263.0" r="741.0" b="3292.0">NO</box>
+          <box l="848.0" t="3264.0" r="1020.0" b="3292.0">ASPIRIN</box>
+          <box l="1047.0" t="3264.0" r="1112.0" b="3292.0">INC</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1447.0" t="3264.0" r="1571.0" b="3293.0">T9.20</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

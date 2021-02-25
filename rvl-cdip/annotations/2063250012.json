@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "10488",
+    "IssuedDate": "12/1/80",
+    "LineItem": [
+        {
+            "ItemDescription": "SERVICE FEE FOR CASUALTY PROGRAM",
+            "ItemTotal": "$13,750.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

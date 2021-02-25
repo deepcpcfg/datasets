@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "11/30/46",
+    "LineItem": [
+        {
+            "ItemDescription": "KEDIA DAVIDSON",
+            "ItemTotal": "*0"
+        },
+        {
+            "ItemDescription": "OR"
+        },
+        {
+            "ItemDescription": "SERVICES",
+            "ItemTotal": "3,901-36"
+        }
+    ],
+    "TotalAmount": "164.24"
+}

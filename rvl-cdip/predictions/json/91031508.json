@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "470",
+    "IssuedDate": "October 1, 1972",
+    "LineItem": [
+        {
+            "ItemDescription": "September 1972 Racing Days",
+            "ItemTotal": "<$9,507."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "September 9, 1974",
+    "LineItem": [
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "329.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "1,807.93",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Long distance telephone",
+            "ItemTotal": "149.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Postage",
+            "ItemTotal": "23.95",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Miscellaneous",
+            "ItemTotal": "181.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Copies of District Court documents",
+            "ItemTotal": "12.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "TotalAmount": ""
+}

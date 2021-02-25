@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "DATE: March 26, 1998",
+    "LineItem": [
+        {
+            "ItemUnitCount": "500,000",
+            "ItemDescription": "Code 1R4F Research",
+            "ItemUnitValue": "$40.00/M",
+            "ItemTotal": "$20,000.00"
+        },
+        {
+            "ItemUnitCount": "550,000",
+            "ItemDescription": "Code 1R5F Research",
+            "ItemUnitValue": "$40.00/M",
+            "ItemTotal": "$22,000.00"
+        }
+    ],
+    "TotalAmount": "$45,742-66"
+}

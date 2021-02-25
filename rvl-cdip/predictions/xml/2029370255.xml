@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="464.0" fp="37.0" fn="73.0">
+    <IssuedDate tp="13.0" fp="1.0" fn="1.0">
+      <box l="2507.0" t="1146.0" r="2636.0" b="1197.0">April</box>
+      <box l="2678.0" t="1148.0" r="2749.0" b="1194.0">30.</box>
+      <box l="2791.0" t="1150.0" r="2899.0" b="1191.0">1991</box>
+    </IssuedDate>
+    <LineItem tp="451.0" fp="36.0" fn="59.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="452.0" t="2347.0" r="530.0" b="2390.0">Six</box>
+          <box l="568.0" t="2347.0" r="681.0" b="2400.0">days</box>
+          <box l="720.0" t="2352.0" r="768.0" b="2389.0">at</box>
+          <box l="810.0" t="2347.0" r="1664.0" b="2402.0">SI,250/day..</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2682.0" t="2356.0" r="2899.0" b="2403.0">7*500.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="460.0" t="2537.0" r="537.0" b="2578.0">Air</box>
+          <box l="577.0" t="2534.0" r="722.0" b="2580.0">fares.</box>
+          <box l="460.0" t="2599.0" r="636.0" b="2642.0">Hotels:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2682.0" t="2545.0" r="2898.0" b="2595.0">5,864.30</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="553.0" t="2664.0" r="819.0" b="2715.0">Bonaparte</box>
+          <box l="859.0" t="2662.0" r="1016.0" b="2713.0">Hotel,</box>
+          <box l="1054.0" t="2662.0" r="1195.0" b="2706.0">Milan</box>
+          <box l="1233.0" t="2663.0" r="1454.0" b="2709.0">(335.000</box>
+          <box l="1492.0" t="2666.0" r="1579.0" b="2708.0">lire</box>
+          <box l="1697.0" t="2668.0" r="1811.0" b="2710.0">1213</box>
+          <box l="1850.0" t="2665.0" r="2046.0" b="2714.0">lira/$l)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2734.0" t="2671.0" r="2900.0" b="2715.0">276.17</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="550.0" t="2727.0" r="687.0" b="2767.0">Hotel</box>
+          <box l="721.0" t="2726.0" r="1117.0" b="2779.0">Steigenberger*</box>
+          <box l="1156.0" t="2727.0" r="1306.0" b="2771.0">Berlin</box>
+          <box l="1348.0" t="2727.0" r="1534.0" b="2778.0">(446,75</box>
+          <box l="1577.0" t="2730.0" r="1651.0" b="2771.0">DM</box>
+          <box l="1697.0" t="2733.0" r="1729.0" b="2778.0">0</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2731.0" t="2736.0" r="2898.0" b="2779.0">270.76</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="545.0" t="2786.0" r="928.0" b="2836.0">Schweizerhof,</box>
+          <box l="965.0" t="2787.0" r="1119.0" b="2832.0">Berlin</box>
+          <box l="1160.0" t="2786.0" r="1344.0" b="2835.0">(2074.9</box>
+          <box l="1389.0" t="2791.0" r="1461.0" b="2833.0">DM</box>
+          <box l="1508.0" t="2793.0" r="1540.0" b="2840.0">(1</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2683.0" t="2797.0" r="2896.0" b="2845.0">1,257.51</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="453.0" t="2849.0" r="612.0" b="2892.0">Taxis:</box>
+          <box l="549.0" t="2913.0" r="713.0" b="2956.0">Milan:</box>
+          <box l="749.0" t="2912.0" r="942.0" b="2957.0">Tolfran</box>
+          <box l="984.0" t="2913.0" r="1162.0" b="2967.0">airport</box>
+          <box l="1201.0" t="2914.0" r="1389.0" b="2965.0">(46,000</box>
+          <box l="1427.0" t="2917.0" r="1517.0" b="2959.0">lira</box>
+          <box l="1635.0" t="2919.0" r="1746.0" b="2961.0">1213</box>
+          <box l="1784.0" t="2916.0" r="2288.0" b="2964.0">lira/$l).</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2764.0" t="2923.0" r="2898.0" b="2965.0">37.92</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="548.0" t="2977.0" r="794.0" b="3028.0">Germany:</box>
+          <box l="836.0" t="2974.0" r="1031.0" b="3020.0">Tolfran</box>
+          <box l="1069.0" t="2978.0" r="1248.0" b="3031.0">airport</box>
+          <box l="1290.0" t="2978.0" r="1364.0" b="3024.0">(46</box>
+          <box l="1407.0" t="2979.0" r="1481.0" b="3021.0">DM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2762.0" t="2986.0" r="2899.0" b="3027.0">27.88</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="456.0" t="3037.0" r="823.0" b="3081.0">Miscellaneous</box>
+          <box l="862.0" t="3038.0" r="1165.0" b="3095.0">drinks/tips,</box>
+          <box l="1203.0" t="3047.0" r="2287.0" b="3087.0">etc...</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2762.0" t="3049.0" r="2897.0" b="3091.0">20.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="452.0" t="3223.0" r="602.0" b="3267.0">Slides</box>
+          <box l="644.0" t="3227.0" r="698.0" b="3278.0">by</box>
+          <box l="740.0" t="3228.0" r="1006.0" b="3279.0">Corporate</box>
+          <box l="1045.0" t="3228.0" r="1245.0" b="3276.0">Visions,</box>
+          <box l="1287.0" t="3229.0" r="1466.0" b="3272.0">#23069</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2730.0" t="3236.0" r="2891.0" b="3280.0">533.31</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="450.0" t="3287.0" r="603.0" b="3331.0">Slides</box>
+          <box l="642.0" t="3290.0" r="699.0" b="3341.0">by</box>
+          <box l="738.0" t="3289.0" r="1004.0" b="3341.0">Corporate</box>
+          <box l="1046.0" t="3291.0" r="1246.0" b="3342.0">Visions,</box>
+          <box l="1284.0" t="3292.0" r="2288.0" b="3338.0">#22538.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2731.0" t="3299.0" r="2896.0" b="3342.0">163.17</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="455.0" t="3352.0" r="572.0" b="3394.0">Hard</box>
+          <box l="613.0" t="3353.0" r="772.0" b="3404.0">copies</box>
+          <box l="809.0" t="3351.0" r="863.0" b="3392.0">of</box>
+          <box l="897.0" t="3353.0" r="1064.0" b="3404.0">slides,</box>
+          <box l="1105.0" t="3355.0" r="2286.0" b="3402.0">#23101..</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2732.0" t="3363.0" r="2895.0" b="3406.0">125.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="456.0" t="3415.0" r="539.0" b="3458.0">300</box>
+          <box l="581.0" t="3415.0" r="810.0" b="3468.0">portfolio</box>
+          <box l="849.0" t="3429.0" r="2286.0" b="3467.0">covers...</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2729.0" t="3427.0" r="2895.0" b="3471.0">600.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

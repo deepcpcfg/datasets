@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <IssuedDate>
+      <box l="459.0" t="1626.0" r="584.0" b="1681.0">April</box>
+      <box l="610.0" t="1627.0" r="676.0" b="1673.0">14,</box>
+      <box l="701.0" t="1624.0" r="809.0" b="1669.0">1993</box>
+    </IssuedDate>
+    <InvoiceNumber>
+      <box l="1617.0" t="1227.0" r="1827.0" b="1275.0">#L9O51)</box>
+    </InvoiceNumber>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1393.0" t="2482.0" r="1538.0" b="2524.0">F2000</box>
+          <box l="1154.0" t="2550.0" r="1454.0" b="2597.0">FORMULA</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1476.0" t="2548.0" r="1778.0" b="2595.0">ATLANTIC</box>
+          <box l="1799.0" t="2546.0" r="2000.0" b="2593.0">SERIES</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1423.0" t="2751.0" r="1630.0" b="2796.0">Formula</box>
+          <box l="1651.0" t="2750.0" r="1845.0" b="2794.0">Atlantic</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <TotalAmount>
+      <box l="1835.0" t="3221.0" r="2060.0" b="3267.0">$1,992.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

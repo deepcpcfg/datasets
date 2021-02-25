@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "018417",
+    "IssuedDate": "01/11/88",
+    "TotalAmount": "86,260.00",
+    "LineItem": [
+        {
+            "ItemDescription": "HARLEY DAVIDSON",
+            "ItemTotal": "82260.00",
+            "ItemUnitValue": "82260.000",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "Interstate Trucking",
+            "ItemTotal": "4000.00",
+            "ItemUnitValue": "4000.000",
+            "ItemUnitCount": ""
+        }
+    ]
+}

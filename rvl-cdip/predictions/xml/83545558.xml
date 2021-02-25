@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="437.0" fp="12.0" fn="15.0">
+    <InvoiceNumber tp="5.0" fp="1.0" fn="1.0">
+      <box l="1413.0" t="1292.0" r="1608.0" b="1331.0">189139</box>
+    </InvoiceNumber>
+    <LineItem tp="425.0" fp="11.0" fn="14.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="1029.0" t="1584.0" r="1192.0" b="1630.0">Phone</box>
+          <box l="1234.0" t="1588.0" r="1370.0" b="1641.0">Long</box>
+          <box l="1409.0" t="1587.0" r="1542.0" b="1630.0">Dist</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2108.0" t="1587.0" r="2275.0" b="1630.0">12.03</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1029.0" t="1646.0" r="1192.0" b="1689.0">Phone</box>
+          <box l="1234.0" t="1651.0" r="1370.0" b="1700.0">Long</box>
+          <box l="1409.0" t="1650.0" r="1542.0" b="1688.0">Dist</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="1650.0" r="2276.0" b="1688.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="1708.0" r="1263.0" b="1750.0">Deville</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2108.0" t="1709.0" r="2276.0" b="1746.0">55.84</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1025.0" t="1766.0" r="1263.0" b="1809.0">Deville</box>
+          <box l="1301.0" t="1771.0" r="1405.0" b="1806.0">Dnr</box>
+          <box l="1442.0" t="1771.0" r="1716.0" b="1817.0">Beverage</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2109.0" t="1767.0" r="2276.0" b="1805.0">20.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1025.0" t="1888.0" r="1162.0" b="1926.0">Room</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2072.0" t="1884.0" r="2275.0" b="1921.0">320.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1029.0" t="2001.0" r="1192.0" b="2042.0">Phone</box>
+          <box l="1234.0" t="2005.0" r="1370.0" b="2051.0">Long</box>
+          <box l="1409.0" t="2001.0" r="1471.0" b="2042.0">Di</box>
+          <box l="1480.0" t="2005.0" r="1542.0" b="2042.0">st</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="2005.0" r="2276.0" b="2038.0">8.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2059.0" r="1192.0" b="2101.0">Phone</box>
+          <box l="1234.0" t="2063.0" r="1370.0" b="2109.0">Long</box>
+          <box l="1409.0" t="2059.0" r="1542.0" b="2101.0">Dist</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="2059.0" r="2275.0" b="2097.0">7.49</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2117.0" r="1192.0" b="2159.0">Phone</box>
+          <box l="1234.0" t="2122.0" r="1370.0" b="2167.0">Long</box>
+          <box l="1409.0" t="2118.0" r="1542.0" b="2159.0">Dist</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="2122.0" r="2275.0" b="2158.0">7.48</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2176.0" r="1192.0" b="2217.0">Phone</box>
+          <box l="1234.0" t="2180.0" r="1370.0" b="2229.0">Long</box>
+          <box l="1406.0" t="2176.0" r="1542.0" b="2217.0">Dist</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="2176.0" r="2275.0" b="2214.0">7.46</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2234.0" r="1192.0" b="2277.0">Phone</box>
+          <box l="1234.0" t="2235.0" r="1401.0" b="2277.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="2238.0" r="2275.0" b="2276.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1029.0" t="2292.0" r="1192.0" b="2330.0">Phone</box>
+          <box l="1234.0" t="2292.0" r="1401.0" b="2330.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="2296.0" r="2275.0" b="2329.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2351.0" r="1163.0" b="2388.0">Room</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2076.0" t="2347.0" r="2276.0" b="2384.0">320.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1196.0" t="2409.0" r="1301.0" b="2451.0">Tax</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2109.0" t="2408.0" r="2276.0" b="2450.0">54.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2472.0" r="1195.0" b="2525.0">Lobby</box>
+          <box l="1234.0" t="2473.0" r="1438.0" b="2523.0">Lounge</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2142.0" t="2472.0" r="2275.0" b="2510.0">4.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2530.0" r="1196.0" b="2584.0">Lobby</box>
+          <box l="1234.0" t="2534.0" r="1509.0" b="2584.0">Beverage</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2108.0" t="2533.0" r="2277.0" b="2573.0">25.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2647.0" r="1192.0" b="2689.0">Phone</box>
+          <box l="1234.0" t="2647.0" r="1401.0" b="2689.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="2651.0" r="2275.0" b="2688.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1021.0" t="2706.0" r="1263.0" b="2748.0">Deville</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2109.0" t="2709.0" r="2276.0" b="2747.0">24.57</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2767.0" r="1192.0" b="2809.0">Phone</box>
+          <box l="1234.0" t="2767.0" r="1401.0" b="2809.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="2767.0" r="2275.0" b="2806.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2826.0" r="1192.0" b="2867.0">Phone</box>
+          <box l="1234.0" t="2826.0" r="1401.0" b="2867.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="2826.0" r="2275.0" b="2863.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="2885.0" r="1263.0" b="2927.0">Private</box>
+          <box l="1302.0" t="2888.0" r="1405.0" b="2926.0">Bar</box>
+          <box l="1442.0" t="2888.0" r="1717.0" b="2936.0">Beverage</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="2885.0" r="2275.0" b="2922.0">6.25</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="3002.0" r="1192.0" b="3046.0">Phone</box>
+          <box l="1234.0" t="3002.0" r="1401.0" b="3047.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="3005.0" r="2275.0" b="3042.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="3063.0" r="1192.0" b="3101.0">Phone</box>
+          <box l="1234.0" t="3066.0" r="1368.0" b="3113.0">Long</box>
+          <box l="1409.0" t="3063.0" r="1542.0" b="3101.0">Dist</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="3063.0" r="2275.0" b="3101.0">4.93</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="3122.0" r="1192.0" b="3163.0">Phone</box>
+          <box l="1234.0" t="3122.0" r="1401.0" b="3163.0">Local</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2147.0" t="3122.0" r="2275.0" b="3160.0">0.54</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="3180.0" r="1405.0" b="3217.0">Courier-FED</box>
+          <box l="1443.0" t="3181.0" r="1512.0" b="3216.0">EX</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2108.0" t="3180.0" r="2275.0" b="3213.0">23.20</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1021.0" t="3291.0" r="1191.0" b="3334.0">Valet</box>
+          <box l="1234.0" t="3292.0" r="1475.0" b="3342.0">Parking</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2146.0" t="3292.0" r="2276.0" b="3331.0">7.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="3355.0" r="1163.0" b="3393.0">Room</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2075.0" t="3353.0" r="2279.0" b="3392.0">320.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1026.0" t="3472.0" r="1335.0" b="3514.0">Limo-GHLS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2109.0" t="3472.0" r="2279.0" b="3510.0">85.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="0.0" fn="0.0">
+      <box l="2040.0" t="3591.0" r="2276.0" b="3630.0">1426.60</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

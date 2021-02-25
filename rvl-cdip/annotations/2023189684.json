@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "RB00059354",
+    "IssuedDate": "02/02/95",
+    "TotalAmount": "13.20",
+    "LineItem": [
+        {
+            "ItemDescription": "Drug Metabolism & Disposition Title : NICOTINE IN HAIR Author: GERSTENBERG REPRINTS",
+            "ItemUnitCount": "100",
+            "ItemTotal": "229 .00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "SHIPPING",
+            "ItemTotal": "13.20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADVANCED PAYMENT",
+            "ItemTotal": "-229.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

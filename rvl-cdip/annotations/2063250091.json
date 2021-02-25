@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "14638",
+    "IssuedDate": "Dec. 1, 1980",
+    "TotalAmount": "10,748.29",
+    "LineItem": [
+        {
+            "ItemDescription": "Phillip Morris 5.00 Hours @ $41.00/Hour",
+            "ItemTotal": "$205.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "22,5.50",
+            "ItemDescription": "Miller Brewing 5.50 Hours @ $41.00/Hour",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,809.30",
+            "ItemDescription": "Phillip Morris 117.30 Hours @ $41.00/Hour",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "4,110.25",
+            "ItemDescription": "Miller Brewing 100.25 Hours @ $41.00/Hour",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "1,398.24",
+            "ItemDescription": "Industrial Hygiene ” 29.13 Hours 6 $48.00/Hour",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "InvoiceNumber": "10624",
+    "IssuedDate": "Oct.lltL96",
+    "LineItem": [
+        {
+            "ItemDescription": "TS,under 65 in"
+        },
+        {
+            "ItemDescription": "practice in"
+        },
+        {
+            "ItemDescription": "private TS,"
+        },
+        {
+            "ItemDescription": "all ages"
+        },
+        {
+            "ItemDescription": "in t.S. EED1CAL"
+        },
+        {
+            "ItemDescription": "in in private in p/p Report;",
+            "ItemTotal": "184"
+        },
+        {
+            "ItemDescription": "eealing* Sorting in accordance with postal regulation;; tying, bagging and Bailing. Postal Service Charge A.M.A, FEE POSTAGE ADVANCED 445.44",
+            "ItemTotal": "366"
+        },
+        {
+            "ItemDescription": "Trucking",
+            "ItemTotal": "460"
+        }
+    ]
+}

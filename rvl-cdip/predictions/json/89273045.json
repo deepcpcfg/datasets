@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "277",
+    "IssuedDate": "13-Jun-95",
+    "LineItem": [
+        {
+            "ItemDescription": "Nos; 1360/1 to 6 inclusive"
+        },
+        {
+            "ItemDescription": "Conduct of a study to measure environmental tobacco by personal monitoring in European as described in the Application for Research Contract"
+        },
+        {
+            "ItemDescription": "3rd quarterly"
+        },
+        {
+            "ItemDescription": "94-08 cities",
+            "ItemTotal": "302,200.00"
+        }
+    ]
+}

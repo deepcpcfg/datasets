@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "PF48XX",
+    "LineItem": [
+        {
+            "ItemDescription": "Salaries and Expense-Market Mgrs.",
+            "ItemTotal": "$0.00"
+        },
+        {
+            "ItemDescription": "Salaries and Expense-SPR’s",
+            "ItemTotal": "$0.00"
+        },
+        {
+            "ItemDescription": "Salaries and Expense-Floaters",
+            "ItemTotal": "$0.00"
+        }
+    ],
+    "TotalAmount": "$0.00"
+}

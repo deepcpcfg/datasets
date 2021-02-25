@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2 Z40432",
+    "IssuedDate": "01/13/72",
+    "TotalAmount": "25.60",
+    "LineItem": [
+        {
+            "ItemDescription": "U S PURCH EKCH",
+            "ItemTotal": "25.60",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

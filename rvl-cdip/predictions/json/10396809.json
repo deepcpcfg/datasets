@@ -1,0 +1,29 @@
+{
+    "IssuedDate": "MAY 2<t, 1973",
+    "InvoiceNumber": "7534",
+    "LineItem": [
+        {
+            "ItemDescription": "1*3 ED"
+        },
+        {
+            "ItemDescription": "ADDITIONS CHANGES PLATES EMBOSSED 304 DELETIONS FROM LISTS",
+            "ItemTotal": "18.0C"
+        },
+        {
+            "ItemDescription": "OUTFIL1NG AND INF I LING PLATES, CHECKING LISTS, RUNNING CARDS",
+            "ItemTotal": "37.00"
+        },
+        {
+            "ItemDescription": "2/13 RUNNING 4 SETS CTR-5 ON ZAHN ENVELOPES 2/21 PLATING NEN LISTS Z^8 $Zr9",
+            "ItemTotal": "4.00"
+        },
+        {
+            "ItemDescription": "GO PLATES EMBOSSED 3D4 EACH RUNNING ONE GALLEY, ONE SET CARDS,",
+            "ItemTotal": "IB.00"
+        },
+        {
+            "ItemDescription": "3 SETS ENVELOPES EACH CATEGORY",
+            "ItemTotal": "J5.00"
+        }
+    ]
+}

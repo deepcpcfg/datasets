@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1724",
+    "IssuedDate": "March 2, 1981",
+    "TotalAmount": "15,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Partial Billing -- April 1, 1991 - April 30, 1981",
+            "ItemTotal": "15,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

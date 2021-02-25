@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="392.0" fp="42.0" fn="32.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="721.0" t="759.0" r="916.0" b="808.0">February</box>
+      <box l="940.0" t="759.0" r="997.0" b="800.0">19.</box>
+      <box l="1025.0" t="759.0" r="1125.0" b="800.0">1993</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="1.0" fn="1.0">
+      <box l="926.0" t="1489.0" r="1178.0" b="1534.0">#02-0130</box>
+    </InvoiceNumber>
+    <LineItem tp="368.0" fp="41.0" fn="25.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="716.0" t="1713.0" r="837.0" b="1755.0">*Data</box>
+          <box l="857.0" t="1714.0" r="966.0" b="1763.0">Entry</box>
+          <box l="1016.0" t="1717.0" r="1083.0" b="1755.0">Tar</box>
+          <box l="1101.0" t="1716.0" r="1208.0" b="1755.0">Wars</box>
+          <box l="1230.0" t="1714.0" r="1505.0" b="1755.0">Bounceback</box>
+          <box l="1525.0" t="1717.0" r="1722.0" b="1764.0">Requests</box>
+          <box l="1743.0" t="1717.0" r="1801.0" b="1763.0">(21</box>
+          <box l="1814.0" t="1717.0" r="1905.0" b="1759.0">,498</box>
+          <box l="1926.0" t="1726.0" r="2014.0" b="1762.0">pcs.</box>
+          <box l="2093.0" t="1716.0" r="2340.0" b="1763.0">S470.60/M)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2397.0" t="1715.0" r="2643.0" b="1758.0">$10.116.96</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="716.0" t="1788.0" r="837.0" b="1826.0">’Data</box>
+          <box l="855.0" t="1788.0" r="966.0" b="1834.0">Entry</box>
+          <box l="1017.0" t="1788.0" r="1283.0" b="1833.0">Redemption</box>
+          <box l="1304.0" t="1786.0" r="1500.0" b="1834.0">Coupons</box>
+          <box l="1518.0" t="1788.0" r="1704.0" b="1834.0">(193,039</box>
+          <box l="1722.0" t="1796.0" r="1813.0" b="1833.0">pcs.</box>
+          <box l="1890.0" t="1788.0" r="2108.0" b="1833.0">$47.06/14)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2451.0" t="1788.0" r="2642.0" b="1829.0">9,084.42</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="716.0" t="1859.0" r="837.0" b="1896.0">’Data</box>
+          <box l="854.0" t="1859.0" r="966.0" b="1905.0">Entry</box>
+          <box l="1017.0" t="1859.0" r="1283.0" b="1903.0">Redemption</box>
+          <box l="1301.0" t="1858.0" r="1497.0" b="1905.0">Coupons</box>
+          <box l="1518.0" t="1859.0" r="1702.0" b="1905.0">(153,535</box>
+          <box l="1722.0" t="1867.0" r="1813.0" b="1905.0">pcs.</box>
+          <box l="1889.0" t="1859.0" r="2109.0" b="1904.0">$47.06/14)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2451.0" t="1859.0" r="2640.0" b="1901.0">7.225.36</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="717.0" t="1931.0" r="1027.0" b="1981.0">*Programming</box>
+          <box l="1050.0" t="1929.0" r="1104.0" b="1970.0">for</box>
+          <box l="1122.0" t="1934.0" r="1217.0" b="1970.0">data</box>
+          <box l="1237.0" t="1930.0" r="1346.0" b="1976.0">Entry</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2493.0" t="1930.0" r="2639.0" b="1971.0">352.95</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="717.0" t="2004.0" r="996.0" b="2045.0">'■Nixie/Promo</box>
+          <box l="1013.0" t="2003.0" r="1133.0" b="2042.0">Code</box>
+          <box l="1154.0" t="2003.0" r="1321.0" b="2045.0">Reports</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2493.0" t="2004.0" r="2639.0" b="2042.0">294.13</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="730.0" t="2077.0" r="1016.0" b="2126.0">Managameni</box>
+          <box l="1038.0" t="2076.0" r="1103.0" b="2114.0">fee</box>
+          <box l="1125.0" t="2079.0" r="1308.0" b="2126.0">covering</box>
+          <box l="1330.0" t="2080.0" r="1579.0" b="2122.0">supervision</box>
+          <box l="1597.0" t="2078.0" r="1633.0" b="2117.0">of</box>
+          <box l="1651.0" t="2080.0" r="1746.0" b="2117.0">data</box>
+          <box l="1764.0" t="2080.0" r="1875.0" b="2126.0">entry</box>
+          <box l="1893.0" t="2080.0" r="1972.0" b="2117.0">and</box>
+          <box l="1997.0" t="2080.0" r="2189.0" b="2126.0">reporting</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2451.0" t="2077.0" r="2639.0" b="2117.0">3.762.85</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="763.0" t="2151.0" r="808.0" b="2188.0">D.</box>
+          <box l="829.0" t="2148.0" r="991.0" b="2188.0">Srnolen</box>
+          <box l="1009.0" t="2151.0" r="1158.0" b="2197.0">(27,25.</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="762.0" t="2225.0" r="800.0" b="2262.0">L.</box>
+          <box l="821.0" t="2223.0" r="1040.0" b="2263.0">Warnecke</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="716.0" t="2296.0" r="846.0" b="2334.0">•Misc.</box>
+          <box l="866.0" t="2296.0" r="1041.0" b="2342.0">(copies,</box>
+          <box l="1062.0" t="2293.0" r="1187.0" b="2334.0">faxes,</box>
+          <box l="1209.0" t="2296.0" r="1354.0" b="2342.0">freight,</box>
+          <box l="1379.0" t="2297.0" r="1475.0" b="2342.0">etc.)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2489.0" t="2297.0" r="2639.0" b="2334.0">796,97</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

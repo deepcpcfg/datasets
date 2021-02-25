@@ -1,0 +1,117 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "M 00114 6M KNTI1I 100BX",
+            "ItemUnitValue": "LOG.2000",
+            "ItemTotal": "637,20"
+        },
+        {
+            "ItemDescription": "0017$ 12M KENT III 100",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40"
+        },
+        {
+            "ItemDescription": "0027$ 12M TRUE FIL KNG",
+            "ItemUnitValue": "106.ZO00",
+            "ItemTotal": "1,274.40"
+        },
+        {
+            "ItemDescription": "0030$ 12M NEWPORT BOX",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "11,469.60"
+        },
+        {
+            "ItemDescription": "6M NPT LITE BX",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "637.20"
+        },
+        {
+            "ItemDescription": "0036$ 12M NEWPORT KING",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "2f548.80"
+        },
+        {
+            "ItemDescription": "12M KENT 100",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40"
+        },
+        {
+            "ItemDescription": "0043$ 12M KENT KING",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40"
+        },
+        {
+            "ItemDescription": "12M KENT GL KS",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40"
+        },
+        {
+            "ItemDescription": "12M KENT GL 100",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "1,274.40"
+        },
+        {
+            "ItemDescription": "12M NPT 100 BOX",
+            "ItemUnitValue": "106.2000"
+        },
+        {
+            "ItemDescription": "GM MAV 5? MBX100 L?",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.4"
+        },
+        {
+            "ItemDescription": "GM MAV S? M 80BX LP",
+            "ItemUnitValue": "92,7000",
+            "ItemTotal": "556.20"
+        },
+        {
+            "ItemDescription": "GM MV SP LTM100BXLP",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.40"
+        },
+        {
+            "ItemDescription": "MAV s? LTM80BXLP",
+            "ItemTotal": "556.20"
+        },
+        {
+            "ItemDescription": "6M MAV 100 BOX",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "3,337.20"
+        },
+        {
+            "ItemDescription": "GM MAV LT ICO BOX",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.40"
+        },
+        {
+            "ItemDescription": "0362^ GM TRUE BOX",
+            "ItemUnitValue": "106.2000",
+            "ItemTotal": "637.20"
+        },
+        {
+            "ItemDescription": "0368* GM MAVSP 85 LP",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "556.20"
+        },
+        {
+            "ItemDescription": "M 03 BO* 6M MAVSP LT 85 LP",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "556.20"
+        },
+        {
+            "ItemDescription": "M 03B7^ GM MAVSP 80 BX LF",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "2,781.00"
+        },
+        {
+            "ItemDescription": "0399^ GM MAVSP 10C LP",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,G68.60"
+        },
+        {
+            "ItemDescription": "0390* 6M MAVSP LT 100 LP",
+            "ItemUnitValue": "92.7000",
+            "ItemTotal": "1,112.40"
+        }
+    ]
+}

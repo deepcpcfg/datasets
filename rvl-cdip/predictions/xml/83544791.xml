@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="77.0" fp="1.0" fn="160.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="1839.0" t="900.0" r="1976.0" b="934.0">June</box>
+      <box l="2016.0" t="899.0" r="2104.0" b="945.0">25,</box>
+      <box l="2159.0" t="900.0" r="2284.0" b="937.0">1999</box>
+    </IssuedDate>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2191.0" t="1128.0" r="2496.0" b="1179.0">$8,452.50</box>
+    </TotalAmount>
+    <LineItem tp="56.0" fp="0.0" fn="154.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="212.0" t="2469.0" r="308.0" b="2505.0">822</box>
+          <box l="351.0" t="2467.0" r="450.0" b="2505.0">PGS</box>
+          <box l="562.0" t="2463.0" r="762.0" b="2513.0">$10.00</box>
+          <box l="805.0" t="2467.0" r="905.0" b="2516.0">P/P</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2405.0" t="2467.0" r="2676.0" b="2513.0">8,220.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="213.0" t="2821.0" r="454.0" b="2859.0">POSTAGE</box>
+          <box l="562.0" t="2821.0" r="837.0" b="2859.0">HANDLING</box>
+          <box l="872.0" t="2821.0" r="976.0" b="2859.0">VIA</box>
+          <box l="1013.0" t="2821.0" r="1116.0" b="2859.0">UPS</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2480.0" t="2820.0" r="2679.0" b="2859.0">232.50</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

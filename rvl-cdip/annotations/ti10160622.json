@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "5499",
+    "IssuedDate": "Sep 30, 1993",
+    "TotalAmount": "901.78",
+    "LineItem": [
+        {
+            "ItemDescription": "Presentations to five casinos, Atlantic City, New Jersey (8/9-11/93) Hotels $ 277.69 •’>, J cage 98.25 Dinner 15.86 Lunch 13.61 Park ing 20.50 ",
+            "ItemTotal": "425.91",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Presentation two casinos Ci tv, W (9/27-28/93) and Casino Association. Atlantic Hotels $ 314.57 M1J eage 100.00 Mea 1 s 45.40 Tolls 13.90 Park ing >1 Q 0 ",
+            "ItemTotal": "475.87",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

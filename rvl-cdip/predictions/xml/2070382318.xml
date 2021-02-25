@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="105.0" fp="14.0" fn="6.0">
+    <IssuedDate tp="0.0" fp="11.0" fn="0.0">
+      <box l="1459.0" t="905.0" r="1628.0" b="942.0">6/13f</box>
+      <box l="1640.0" t="905.0" r="1771.0" b="943.0">1?«F4</box>
+    </IssuedDate>
+    <LineItem tp="98.0" fp="2.0" fn="4.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="91.0" t="1596.0" r="370.0" b="1637.0">SERVICES</box>
+          <box l="408.0" t="1600.0" r="683.0" b="1638.0">RENDERED</box>
+          <box l="720.0" t="1601.0" r="817.0" b="1638.0">PER</box>
+          <box l="859.0" t="1601.0" r="1134.0" b="1642.0">ATTACKED</box>
+          <box l="1181.0" t="1604.0" r="1242.0" b="1642.0">IN</box>
+          <box l="1280.0" t="1605.0" r="1625.0" b="1642.0">PROCESSING</box>
+          <box l="1663.0" t="1605.0" r="1797.0" b="1643.0">YOUR</box>
+          <box l="1837.0" t="1604.0" r="2008.0" b="1642.0">NAMES</box>
+          <box l="92.0" t="1713.0" r="333.0" b="1753.0">THROUGH</box>
+          <box l="370.0" t="1716.0" r="470.0" b="1755.0">OUR</box>
+          <box l="512.0" t="1717.0" r="645.0" b="1755.0">NCSA</box>
+          <box l="688.0" t="1717.0" r="742.0" b="1755.0">XI</box>
+          <box l="788.0" t="1717.0" r="1171.0" b="1759.0">ENHANCEMENT</box>
+          <box l="1209.0" t="1721.0" r="1416.0" b="1759.0">SYSTEM</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2472.0" t="1721.0" r="2655.0" b="1760.0">11457.</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="2.0">
+      <box l="2400.0" t="1838.0" r="2654.0" b="1877.0">*11.457.</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

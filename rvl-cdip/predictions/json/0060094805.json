@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "January 28, 1983",
+    "LineItem": [
+        {
+            "ItemDescription": "Sponsorship Fee",
+            "ItemTotal": "$4,000.00",
+            "ItemUnitValue": "$4,000.00"
+        }
+    ],
+    "TotalAmount": "$4,000.00"
+}

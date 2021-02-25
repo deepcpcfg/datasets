@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "805748",
+    "IssuedDate": "December 2 0, 1982",
+    "TotalAmount": "2,863.98",
+    "LineItem": [
+        {
+            "ItemUnitValue": "$2,516.28",
+            "ItemTotal": "$2,516.28",
+            "ItemDescription": "Travel & out-of-pocket",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemUnitValue": "347.7 0",
+            "ItemTotal": "347.70",
+            "ItemDescription": "Sponsorship costs",
+            "ItemUnitCount": ""
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "044550",
+    "IssuedDate": "08/31/87",
+    "LineItem": [
+        {
+            "ItemDescription": "ACVA/ Non Retainer"
+        },
+        {
+            "ItemDescription": "TOTAL PAGE 1",
+            "ItemTotal": "$2,124.78"
+        }
+    ],
+    "TotalAmount": "$2,124.78"
+}

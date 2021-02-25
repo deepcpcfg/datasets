@@ -1,0 +1,9 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "Seattle Mariners",
+            "ItemTotal": "$1,625.00"
+        }
+    ],
+    "TotalAmount": "^1,625.00"
+}

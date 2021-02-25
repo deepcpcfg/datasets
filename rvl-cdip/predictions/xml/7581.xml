@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="86.0" fp="252.0" fn="72.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2208.0" t="761.0" r="2337.0" b="811.0">July</box>
+      <box l="2372.0" t="765.0" r="2452.0" b="809.0">31,</box>
+      <box l="2501.0" t="765.0" r="2626.0" b="800.0">2001</box>
+    </IssuedDate>
+    <InvoiceNumber tp="5.0" fp="1.0" fn="1.0">
+      <box l="2531.0" t="1449.0" r="2719.0" b="1485.0">211733</box>
+    </InvoiceNumber>
+    <LineItem tp="68.0" fp="251.0" fn="71.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="456.0" t="1756.0" r="743.0" b="1793.0">MARKETING</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1624.0" t="1758.0" r="1682.0" b="1793.0">IL</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="457.0" t="1882.0" r="552.0" b="1914.0">For</box>
+          <box l="586.0" t="1878.0" r="967.0" b="1917.0">Professional</box>
+          <box l="1007.0" t="1880.0" r="1260.0" b="1917.0">Services</box>
+          <box l="1299.0" t="1880.0" r="1578.0" b="1917.0">Rendered:</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2827.0" t="1882.0" r="3106.0" b="1928.0">$4,034.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="681.0" t="2001.0" r="902.0" b="2038.0">Winners</box>
+          <box l="943.0" t="2005.0" r="1098.0" b="2038.0">Press</box>
+          <box l="1136.0" t="2001.0" r="1423.0" b="2038.0">Materials</box>
+          <box l="682.0" t="2123.0" r="1065.0" b="2172.0">Scholarships</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2531.0" t="2007.0" r="2719.0" b="2040.0">752.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="777.0" t="2494.0" r="902.0" b="2530.0">Liza</box>
+          <box l="936.0" t="2493.0" r="1194.0" b="2530.0">Michaels</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2140.0" t="2499.0" r="2295.0" b="2531.0">30.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="778.0" t="2554.0" r="903.0" b="2589.0">Liza</box>
+          <box l="936.0" t="2552.0" r="1194.0" b="2589.0">Michaels</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2140.0" t="2558.0" r="2295.0" b="2592.0">15.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="778.0" t="2613.0" r="903.0" b="2651.0">Liza</box>
+          <box l="937.0" t="2613.0" r="1194.0" b="2651.0">Michaels</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2140.0" t="2620.0" r="2291.0" b="2654.0">33.28</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="775.0" t="2676.0" r="936.0" b="2713.0">Sarah</box>
+          <box l="969.0" t="2680.0" r="1132.0" b="2723.0">Trego</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2107.0" t="2680.0" r="2291.0" b="2716.0">283.56</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="775.0" t="2738.0" r="903.0" b="2776.0">Liza</box>
+          <box l="936.0" t="2738.0" r="1194.0" b="2776.0">Michaels</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2140.0" t="2745.0" r="2294.0" b="2779.0">15-00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="777.0" t="2801.0" r="936.0" b="2838.0">Sarah</box>
+          <box l="970.0" t="2804.0" r="1129.0" b="2847.0">Trego</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2104.0" t="2805.0" r="2295.0" b="2841.0">227.90</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="775.0" t="2864.0" r="966.0" b="2898.0">Renata</box>
+          <box l="1004.0" t="2864.0" r="1161.0" b="2897.0">Moore</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2137.0" t="2867.0" r="2290.0" b="2900.0">68.73</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="774.0" t="2923.0" r="903.0" b="2969.0">Hugh</box>
+          <box l="937.0" t="2922.0" r="1191.0" b="2960.0">Williams</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2140.0" t="2928.0" r="2291.0" b="2962.0">16.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="775.0" t="3169.0" r="995.0" b="3205.0">Federal</box>
+          <box l="1034.0" t="3172.0" r="1255.0" b="3218.0">Express</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2141.0" t="3174.0" r="2290.0" b="3208.0">10.94</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1034.0" t="3234.0" r="1254.0" b="3276.0">Express</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2171.0" t="3233.0" r="2291.0" b="3270.0">7.BQ</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="771.0" t="3476.0" r="1095.0" b="3514.0">Associated</box>
+          <box l="1130.0" t="3477.0" r="1354.0" b="3513.0">Release</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2040.0" t="3482.0" r="2291.0" b="3521.0">1,011.40</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="771.0" t="3538.0" r="1095.0" b="3576.0">Associated</box>
+          <box l="1130.0" t="3539.0" r="1354.0" b="3576.0">Release</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2104.0" t="3545.0" r="2291.0" b="3579.0">172.50</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

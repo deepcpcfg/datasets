@@ -1,0 +1,63 @@
+{
+    "InvoiceNumber": "16055",
+    "IssuedDate": "03/ 13/96",
+    "LineItem": [
+        {
+            "ItemDescription": "Pins (Qty 600.000 6 per kK]",
+            "ItemTotal": "$15,222.10"
+        },
+        {
+            "ItemDescription": "Window decals (Qty: 300,000)",
+            "ItemTotal": "$29,366.00"
+        },
+        {
+            "ItemDescription": "Counter displays (Qty: 200,000 2 per kit)",
+            "ItemTotal": "546.750.00"
+        },
+        {
+            "ItemDescription": "Calendars (Qty: 100.000}",
+            "ItemTotal": "$124,832.50"
+        },
+        {
+            "ItemDescription": "Calendar Slickers (Qty- 750,000}",
+            "ItemTotal": "$20,521.25"
+        },
+        {
+            "ItemDescription": "Training videos (Qty: 100.000)",
+            "ItemTotal": "$19,040.50"
+        },
+        {
+            "ItemDescription": "Training audios (Qty: 100,900)",
+            "ItemTotal": "$26,461.00"
+        },
+        {
+            "ItemDescription": "Exira video sleeves (Qty: 100.000)",
+            "ItemTotal": "$2,184,00"
+        },
+        {
+            "ItemDescription": "Training workbooks (Qty; 600,COO 6 per tai}",
+            "ItemTotal": "$163.00"
+        },
+        {
+            "ItemDescription": "Tear Dads (Qty 600.COO 6 per kit]",
+            "ItemTotal": "$12,617.00"
+        },
+        {
+            "ItemDescription": "Breakroom Pesters (Qty: ICO,000)",
+            "ItemTotal": "$3,807.75"
+        },
+        {
+            "ItemDescription": "Kit Boxes preprinted (Qty: 100,0001",
+            "ItemTotal": "$30,563.25"
+        },
+        {
+            "ItemDescription": "Re-order forms (Qty: 100,000)",
+            "ItemTotal": "$174.75"
+        },
+        {
+            "ItemDescription": "Re-order magnets (Qty: 100.300)",
+            "ItemTotal": "$3,630.00"
+        }
+    ],
+    "TotalAmount": "$350,082.10"
+}

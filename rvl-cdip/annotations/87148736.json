@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "2277050",
+    "TotalAmount": "27762.00",
+    "LineItem": [
+        {
+            "ItemDescription": "17010.005: 6 Week Repeated Smoke Inhalation in Mice to Compare Histopathology and Short Term Endpoints Using Test and Reference Cigarettes (DL9 and D29)",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "55524.00",
+            "ItemTotal": "27762.00"
+        }
+    ],
+    "IssuedDate": ""
+}

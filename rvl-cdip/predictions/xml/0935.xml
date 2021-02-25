@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="50.0" fp="47.0" fn="33.0">
+    <IssuedDate tp="0.0" fp="13.0" fn="0.0">
+      <box l="1321.0" t="1297.0" r="1451.0" b="1361.0">April</box>
+      <box l="1475.0" t="1301.0" r="1517.0" b="1359.0">J,</box>
+      <box l="1551.0" t="1301.0" r="1661.0" b="1351.0">1993</box>
+    </IssuedDate>
+    <LineItem tp="42.0" fp="33.0" fn="20.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="445.0" t="1651.0" r="751.0" b="1707.0">Professional</box>
+          <box l="775.0" t="1655.0" r="983.0" b="1707.0">Service!</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2350.0" t="1659.0" r="2457.0" b="1709.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="601.0" t="2009.0" r="816.0" b="2071.0">Airplane</box>
+          <box l="601.0" t="2081.0" r="737.0" b="2134.0">Hotel</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2288.0" t="2084.0" r="2454.0" b="2134.0">184.98</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="601.0" t="2155.0" r="691.0" b="2205.0">Car</box>
+          <box l="712.0" t="2155.0" r="870.0" b="2205.0">Rental</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2313.0" t="2151.0" r="2454.0" b="2203.0">86.56</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="600.0" t="2226.0" r="713.0" b="2278.0">Taxi</box>
+          <box l="601.0" t="2298.0" r="750.0" b="2347.0">Meals</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2312.0" t="2226.0" r="2454.0" b="2277.0">30.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2201.0" t="2435.0" r="2455.0" b="2493.0">$1,714.09</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

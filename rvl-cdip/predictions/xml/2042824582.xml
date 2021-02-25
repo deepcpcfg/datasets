@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="416.0" t="1763.0" r="666.0" b="1813.0">LciiteheA-</box>
+          <box l="712.0" t="1767.0" r="966.0" b="1821.0">FebAucLtt/</box>
+          <box l="1012.0" t="1767.0" r="1062.0" b="1812.0">J4</box>
+          <box l="1101.0" t="1763.0" r="1230.0" b="1811.0">tlvia</box>
+          <box l="1271.0" t="1763.0" r="1529.0" b="1817.0">FebAiuvtt/</box>
+          <box l="1567.0" t="1767.0" r="1647.0" b="1817.0">20,</box>
+          <box l="412.0" t="1892.0" r="667.0" b="1940.0">DZhheaa-</box>
+          <box l="712.0" t="1892.0" r="967.0" b="1951.0">Fe.bAuctAy</box>
+          <box l="1012.0" t="1891.0" r="1130.0" b="1938.0">14th</box>
+          <box l="1167.0" t="1891.0" r="1297.0" b="1939.0">th/iu</box>
+          <box l="1334.0" t="1892.0" r="1592.0" b="1946.0">FebAtm;ttj</box>
+          <box l="1638.0" t="1892.0" r="1712.0" b="1946.0">19,</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <IssuedDate>
+      <box l="2513.0" t="867.0" r="2534.0" b="909.0">2</box>
+      <box l="2547.0" t="876.0" r="2593.0" b="917.0">s,</box>
+      <box l="2651.0" t="867.0" r="2764.0" b="909.0">1953</box>
+    </IssuedDate>
+    <TotalAmount>
+      <box l="2443.0" t="2455.0" r="2730.0" b="2514.0">$7,263.40</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

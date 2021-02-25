@@ -1,0 +1,10 @@
+{
+    "InvoiceNumber": "10947",
+    "IssuedDate": "30/7/79",
+    "LineItem": [
+        {
+            "ItemDescription": "Being for charges as per attached invoices ex Cambridge®",
+            "ItemTotal": "$375.00"
+        }
+    ]
+}

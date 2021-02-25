@@ -1,0 +1,66 @@
+{
+    "IssuedDate": "April 30, 2001",
+    "InvoiceNumber": "205119",
+    "LineItem": [
+        {
+            "ItemDescription": "For",
+            "ItemTotal": "$48,334.00"
+        },
+        {
+            "ItemDescription": "TeenHIP Awards",
+            "ItemTotal": "812.50"
+        },
+        {
+            "ItemDescription": "TeenHIP Grant Program",
+            "ItemTotal": "5,860.00"
+        },
+        {
+            "ItemDescription": "TeenHIP Cool News",
+            "ItemTotal": "4,706.50"
+        },
+        {
+            "ItemDescription": "But toutnow.c om",
+            "ItemTotal": "1,847.00"
+        },
+        {
+            "ItemDescription": "Take 10 General",
+            "ItemTotal": "6,123.00"
+        },
+        {
+            "ItemDescription": "Parent 5-City Tour",
+            "ItemTotal": "13,226,00"
+        },
+        {
+            "ItemDescription": "Parent Influencer Outreach",
+            "ItemTotal": "13,361.50"
+        },
+        {
+            "ItemDescription": "\"SB 2take10.com Degrees Sponsorship",
+            "ItemTotal": "2,037.50"
+        },
+        {
+            "ItemDescription": "Aram's Limousine",
+            "ItemTotal": "74.00"
+        },
+        {
+            "ItemDescription": "Amen5 s Limousine",
+            "ItemTotal": "66.00"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "2,610.40"
+        },
+        {
+            "ItemDescription": "Diners Club",
+            "ItemTotal": "846.50"
+        },
+        {
+            "ItemDescription": "Katy Homburger",
+            "ItemTotal": "903.86"
+        },
+        {
+            "ItemDescription": "Club",
+            "ItemTotal": "609.00"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "3664",
+    "IssuedDate": "08-22-2000",
+    "TotalAmount": "160.63",
+    "LineItem": [
+        {
+            "ItemDescription": "Beta SPOT EACH:",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "90.00",
+            "ItemTotal": "90.00"
+        },
+        {
+            "ItemDescription": "3/4“ 10 mln cs OF EACH",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "30.00",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "messenger midtown",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "20.00",
+            "ItemTotal": "20.00"
+        },
+        {
+            "ItemDescription": "2 Lb domestic freight",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "16.50",
+            "ItemTotal": "16.50"
+        }
+    ]
+}

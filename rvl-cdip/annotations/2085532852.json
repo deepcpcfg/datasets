@@ -1,0 +1,49 @@
+{
+    "IssuedDate": "October 22, 2001",
+    "InvoiceNumber": "1",
+    "TotalAmount": "32,422.75",
+    "LineItem": [
+        {
+            "ItemTotal": "14,943.04",
+            "ItemDescription": "Salaries",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,455.82",
+            "ItemDescription": "Fringe Benefits",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "320.08",
+            "ItemDescription": "Travel - Domestic",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "0.00",
+            "ItemDescription": "Animal Care",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,068.09",
+            "ItemDescription": "Supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2.616.00",
+            "ItemDescription": "Equipment",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "199.65",
+            "ItemDescription": "Other Expense",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

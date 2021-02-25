@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "330335",
+    "IssuedDate": "29 Oct 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "SUPERSLIMS",
+            "ItemTotal": "4,500.00"
+        },
+        {
+            "ItemDescription": "PROFESSIONAL FEE TO DATE",
+            "ItemTotal": "$4,595.00"
+        }
+    ],
+    "TotalAmount": "$5,239.00"
+}

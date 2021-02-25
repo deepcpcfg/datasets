@@ -1,0 +1,17 @@
+{
+    "IssuedDate": "3/14/95",
+    "InvoiceNumber": "503258",
+    "LineItem": [
+        {
+            "ItemDescription": "NICOTINE CONTENT",
+            "ItemUnitCount": "3",
+            "ItemUnitValue": "17.00",
+            "ItemTotal": "51.00"
+        },
+        {
+            "ItemDescription": "REQUESTED BY",
+            "ItemUnitValue": "60.00",
+            "ItemTotal": "180.00"
+        }
+    ]
+}

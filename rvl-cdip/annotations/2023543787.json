@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "3761",
+    "IssuedDate": "11/17/86",
+    "TotalAmount": "14,007.53",
+    "LineItem": [
+        {
+            "ItemDescription": "AIR SAMPLING",
+            "ItemUnitCount": "2",
+            "ItemUnitValue": "7000.0000",
+            "ItemTotal": "14000.00"
+        },
+        {
+            "ItemDescription": "SHIPPI",
+            "ItemTotal": "7.53",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

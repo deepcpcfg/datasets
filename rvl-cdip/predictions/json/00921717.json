@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "4437",
+    "IssuedDate": "9 Decenbot. ID33",
+    "TotalAmount": "4.500.CO",
+    "LineItem": [
+        {
+            "ItemDescription": "Service Rendered: Ar»a SaleoneIla Plate Assay Ln ocopounda B84. B96. B156. B157 and B165",
+            "ItemTotal": "$4,500.00."
+        },
+        {
+            "ItemDescription": "Triplicate on the",
+            "ItemTotal": "$900.00"
+        }
+    ]
+}

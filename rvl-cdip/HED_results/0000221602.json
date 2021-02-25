@@ -1,0 +1,124 @@
+[
+    {
+        "IssuedDate": [
+            "9, 1983-",
+            {
+                "tp": 6.0,
+                "fp": 2.0,
+                "fn": 8.0
+            }
+        ],
+        "TotalAmount": [
+            "$647.7",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$262.6",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Your share of the multibrand ad that appeared in the Duty Free International (Spring) publication.",
+                            {
+                                "tp": 81.0,
+                                "fp": 17.0,
+                                "fn": 17.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 87.0,
+                        "fp": 17.0,
+                        "fn": 17.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "$385.0",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Your share of the multibrand ad that appeared in the Airline Travel Food Service, March 1983, publication.",
+                            {
+                                "tp": 90.0,
+                                "fp": 16.0,
+                                "fn": 18.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 96.0,
+                        "fp": 16.0,
+                        "fn": 18.0
+                    }
+                ]
+            ],
+            {
+                "tp": 183.0,
+                "fp": 33.0,
+                "fn": 35.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 194.0,
+        "fp": 36.0,
+        "fn": 47.0
+    }
+]

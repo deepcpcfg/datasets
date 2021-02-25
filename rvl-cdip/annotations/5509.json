@@ -1,0 +1,43 @@
+{
+    "IssuedDate": "30-APR-86",
+    "TotalAmount": "13,283.25",
+    "LineItem": [
+        {
+            "ItemDescription": "ADJUSTMENT-CNT ADJ MAR 86 1 18200-06 TRUE CIGARETTES",
+            "ItemTotal": "8.21",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADJUSTMENT-CNT ADJ MAR 86 118200-06 TRUE CIGARETTES",
+            "ItemTotal": "24.28",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADJUSTMENT-CNT ADJ DEC 85 118200-07 NEWPORT",
+            "ItemTotal": "21.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADJUSTMENT-CHI ADJ DEC 13 118200-07 NEWPORT",
+            "ItemTotal": "12.16",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "ADJUSTMENT-CNT ADJ DEC 85 118200-07 NEWPORT",
+            "ItemTotal": "141.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PAYMENT CK. NO- 1246",
+            "ItemTotal": "13,074.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="175.0" fp="26.0" fn="58.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2522.0" t="363.0" r="2688.0" b="400.0">15445</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2522.0" t="420.0" r="2791.0" b="455.0">12-31-97</box>
+    </IssuedDate>
+    <LineItem tp="157.0" fp="24.0" fn="56.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="838.0" t="1370.0" r="1076.0" b="1405.0">ACCOUNT</box>
+          <box l="1117.0" t="1371.0" r="1426.0" b="1409.0">EXECUTIVE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2168.0" t="1380.0" r="2375.0" b="1415.0">640.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2730.0" t="1384.0" r="2930.0" b="1420.0">640.OC</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="180.0" t="1479.0" r="196.0" b="1512.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="841.0" t="1483.0" r="1112.0" b="1519.0">CREATIVE</box>
+          <box l="1155.0" t="1484.0" r="1430.0" b="1521.0">DIRECTOR</box>
+          <box l="943.0" t="1540.0" r="1042.0" b="1576.0">HRS</box>
+          <box l="1084.0" t="1542.0" r="1113.0" b="1576.0">8</box>
+          <box l="1155.0" t="1542.0" r="1327.0" b="1585.0">*150)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2137.0" t="1492.0" r="2375.0" b="1530.0">1050.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2701.0" t="1496.0" r="2925.0" b="1534.0">1050.OC</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="180.0" t="1591.0" r="199.0" b="1625.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="842.0" t="1595.0" r="938.0" b="1630.0">ART</box>
+          <box l="980.0" t="1596.0" r="1257.0" b="1634.0">DIRECTOR</box>
+          <box l="842.0" t="1650.0" r="940.0" b="1695.0">(18</box>
+          <box l="980.0" t="1655.0" r="1080.0" b="1689.0">HRS</box>
+          <box l="1117.0" t="1655.0" r="1150.0" b="1691.0">8</box>
+          <box l="1188.0" t="1655.0" r="1326.0" b="1696.0">*85)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2141.0" t="1605.0" r="2375.0" b="1642.0">1530.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2698.0" t="1609.0" r="2925.0" b="1646.0">1530.0C</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="179.0" t="1706.0" r="199.0" b="1738.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="842.0" t="1710.0" r="1116.0" b="1746.0">COMPUTER</box>
+          <box l="1156.0" t="1713.0" r="1358.0" b="1750.0">ARTIST</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2137.0" t="1721.0" r="2375.0" b="1758.0">3290.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2697.0" t="1726.0" r="2934.0" b="1760.0">3290.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="180.0" t="1827.0" r="200.0" b="1859.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="980.0" t="1771.0" r="1080.0" b="1809.0">HRS</box>
+          <box l="1117.0" t="1772.0" r="1150.0" b="1808.0">8</box>
+          <box l="1192.0" t="1771.0" r="1326.0" b="1813.0">*70)</box>
+          <box l="842.0" t="1830.0" r="1183.0" b="1867.0">MECHANICAL</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2141.0" t="1838.0" r="2375.0" b="1876.0">1120.00</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2701.0" t="1842.0" r="2934.0" b="1879.0">1120.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="5.0" fp="2.0" fn="2.0">
+      <box l="2697.0" t="3310.0" r="2931.0" b="3348.0">7630.OC</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

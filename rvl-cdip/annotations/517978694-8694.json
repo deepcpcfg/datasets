@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "099-0054",
+    "IssuedDate": "04/09/88",
+    "TotalAmount": "1,153.04",
+    "LineItem": [
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "2.109.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTABLE GROSS",
+            "ItemTotal": "2.109.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STD TERMS DISCOUNT OF 3.25%",
+            "ItemTotal": "68.56-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "68.56-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "1,972.48",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT TERMS DISCOUNT OF 1,40%",
+            "ItemTotal": "27.61-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS STATE TAX FOR FREE PRODUCT",
+            "ItemTotal": "888.00-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

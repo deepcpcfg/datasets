@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "10. M52",
+    "IssuedDate": "77 OCT 27",
+    "TotalAmount": "9,093.00",
+    "LineItem": [
+        {
+            "ItemDescription": "CHARACTERIZATION OF ANIMAL INHALATION EXPOSURE DEVICES SEPTEWER, 1977",
+            "ItemTotal": "9,093.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

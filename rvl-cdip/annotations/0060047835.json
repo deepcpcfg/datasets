@@ -1,0 +1,13 @@
+{
+    "TotalAmount": "2,000.00",
+    "LineItem": [
+        {
+            "ItemDescription": "ADVANCE POSTAGE",
+            "ItemTotal": "$2,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

@@ -1,0 +1,16 @@
+{
+    "InvoiceNumber": "<371900",
+    "IssuedDate": "11/09/92",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE 4C BLD IX AGENCY DISCOUNT",
+            "ItemUnitValue": "16.562.30",
+            "ItemTotal": "2.484.35-"
+        },
+        {
+            "ItemDescription": "•SPLIT RUN 2 WAY",
+            "ItemTotal": "1.700.00"
+        }
+    ],
+    "TotalAmount": "15.777.95"
+}

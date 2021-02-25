@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "M00009",
+    "IssuedDate": "December 11, 1990",
+    "LineItem": [
+        {
+            "ItemDescription": "Invoice in Swedish Kroner = 84.659 SEK. Using exchange rate of $1.00 = 5.56 SEK... Total price now due for payment",
+            "ItemTotal": "15,226.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

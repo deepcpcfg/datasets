@@ -1,0 +1,76 @@
+{
+    "LineItem": [
+        {
+            "ItemUnitCount": "189",
+            "ItemDescription": "Retrieval of comments"
+        },
+        {
+            "ItemDescription": "in OST-96-1880.",
+            "ItemUnitCount": "5.00",
+            "ItemTotal": "275.00"
+        },
+        {
+            "ItemUnitCount": "408",
+            "ItemDescription": "Review latest DOT docket submissions; draft memo to M. Pottorff on ICAO"
+        },
+        {
+            "ItemDescription": "meetings, matters. Airbus draft and related",
+            "ItemUnitCount": "1.50"
+        },
+        {
+            "ItemUnitCount": "409",
+            "ItemDescription": "Draft memo to Ambassador Peissik; prepare summary of FAA funding process and Aviation Trust Fund; send to"
+        },
+        {
+            "ItemDescription": "Peissik; draft and send memo to N. Bertrand (Air France) on ICAO meeting. 409 Telephone conference with M. Pottorff on",
+            "ItemUnitCount": "3.00",
+            "ItemTotal": "945.00"
+        },
+        {
+            "ItemDescription": "DOT statistics, Airbus draft, NYC meeting and related matters.",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "315.00"
+        },
+        {
+            "ItemDescription": "408 Review latest DOT docket submissions; discuss with M. Crews.",
+            "ItemUnitCount": "1.00",
+            "ItemTotal": "315.00"
+        },
+        {
+            "ItemUnitCount": "408",
+            "ItemDescription": "Travel DCA/NYC",
+            "ItemUnitValue": "4.00",
+            "ItemTotal": "1260.00"
+        },
+        {
+            "ItemTotal": "409",
+            "ItemDescription": "Meeting with N. Pottorff, M. Winokur 120"
+        },
+        {
+            "ItemDescription": "Park Ave on various matters",
+            "ItemUnitCount": "3.00",
+            "ItemTotal": "945.00"
+        },
+        {
+            "ItemUnitCount": "409",
+            "ItemDescription": "Travel NYC/DCA",
+            "ItemUnitValue": "4.00",
+            "ItemTotal": "1260.00"
+        },
+        {
+            "ItemUnitCount": "17.50",
+            "ItemDescription": "Taxi",
+            "ItemUnitValue": "5.00",
+            "ItemTotal": "275.00"
+        },
+        {
+            "ItemDescription": "Air Express",
+            "ItemTotal": "521.68"
+        },
+        {
+            "ItemDescription": "Xerox",
+            "ItemTotal": "46.3"
+        }
+    ],
+    "TotalAmount": "$12791.09"
+}

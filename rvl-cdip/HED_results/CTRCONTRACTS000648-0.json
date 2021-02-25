@@ -1,0 +1,297 @@
+[
+    {
+        "IssuedDate": [
+            "24/* .ay 19/0",
+            {
+                "tp": 9.0,
+                "fp": 4.0,
+                "fn": 2.0
+            }
+        ],
+        "TotalAmount": [
+            "$15,509.(7/",
+            {
+                "tp": 8.0,
+                "fp": 3.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "5",
+                            {
+                                "tp": 0.0,
+                                "fp": 1.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "655.00",
+                            {
+                                "tp": 1.0,
+                                "fp": 5.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Direct Labar Froiect ManogerfH, RceenkranU, Ph.D.)",
+                            {
+                                "tp": 17.0,
+                                "fp": 33.0,
+                                "fn": 56.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 18.0,
+                        "fp": 39.0,
+                        "fn": 61.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "937.51",
+                            {
+                                "tp": 2.0,
+                                "fp": 4.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Analytical Chemlit(.\\ Hagoplan, Ph.D.)",
+                            {
+                                "tp": 33.0,
+                                "fp": 5.0,
+                                "fn": 253.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 35.0,
+                        "fp": 9.0,
+                        "fn": 259.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "36.05",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Immunol agistfH. Fiber, Ph.D.)",
+                            {
+                                "tp": 0.0,
+                                "fp": 30.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 35.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "496,15",
+                            {
+                                "tp": 2.0,
+                                "fp": 4.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pathologl»t(J. Baker)",
+                            {
+                                "tp": 6.0,
+                                "fp": 15.0,
+                                "fn": 21.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 8.0,
+                        "fp": 19.0,
+                        "fn": 27.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "33.17",
+                            {
+                                "tp": 0.0,
+                                "fp": 5.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Pathdlogl»t(R.W. Fleischman, 0,",
+                            {
+                                "tp": 0.0,
+                                "fp": 31.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 36.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "3,597.45",
+                            {
+                                "tp": 3.0,
+                                "fp": 5.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Labcrutory Techrtf alone",
+                            {
+                                "tp": 6.0,
+                                "fp": 18.0,
+                                "fn": 16.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 9.0,
+                        "fp": 23.0,
+                        "fn": 21.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "226.00",
+                            {
+                                "tp": 1.0,
+                                "fp": 5.0,
+                                "fn": 7.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Animal Core Technicians",
+                            {
+                                "tp": 2.0,
+                                "fp": 21.0,
+                                "fn": 6.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 3.0,
+                        "fp": 26.0,
+                        "fn": 13.0
+                    }
+                ]
+            ],
+            {
+                "tp": 73.0,
+                "fp": 187.0,
+                "fn": 381.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 90.0,
+        "fp": 194.0,
+        "fn": 384.0
+    }
+]

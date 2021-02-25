@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="52.0" fp="44.0" fn="56.0">
+    <InvoiceNumber tp="9.0" fp="2.0" fn="2.0">
+      <box l="2364.0" t="675.0" r="2618.0" b="703.0">PR04-007S5L</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="6.0" fn="8.0">
+      <box l="349.0" t="944.0" r="491.0" b="973.0">fiscal</box>
+    </IssuedDate>
+    <LineItem tp="43.0" fp="36.0" fn="38.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="348.0" t="1211.0" r="556.0" b="1237.0">Non-Cocirni</box>
+          <box l="565.0" t="1208.0" r="776.0" b="1238.0">aaionaJble</box>
+          <box l="803.0" t="1209.0" r="966.0" b="1242.0">Charges</box>
+          <box l="347.0" t="1298.0" r="680.0" b="1329.0">CoramisBionsble</box>
+          <box l="706.0" t="1299.0" r="870.0" b="1334.0">Chargee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2524.0" t="1297.0" r="2615.0" b="1322.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="347.0" t="1389.0" r="489.0" b="1423.0">Agency</box>
+          <box l="514.0" t="1386.0" r="751.0" b="1417.0">Conaisaion</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2524.0" t="1384.0" r="2614.0" b="1409.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "99-A02007A",
+    "IssuedDate": "April 6, 1999",
+    "TotalAmount": "15,800.00",
+    "LineItem": [
+        {
+            "ItemDescription": "(Product Test)",
+            "ItemTotal": "$14,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "(Co-Op Fund)",
+            "ItemTotal": "1,550.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

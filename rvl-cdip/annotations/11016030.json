@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "26691",
+    "LineItem": [
+        {
+            "ItemDescription": "Charge for the work specified in Franklin Institute Agreement bfo. 19210-1 for the period covering 7/15/78 to 8/11/78",
+            "ItemTotal": "13,715.26",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

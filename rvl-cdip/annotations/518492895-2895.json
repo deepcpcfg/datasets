@@ -1,0 +1,73 @@
+{
+    "InvoiceNumber": "309-0084",
+    "IssuedDate": "11/04/96",
+    "TotalAmount": "293.48",
+    "LineItem": [
+        {
+            "ItemDescription": "DORAL",
+            "ItemTotal": "275.70",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "275.7000"
+        },
+        {
+            "ItemDescription": "DORAL",
+            "ItemTotal": "275.70",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "275.7000"
+        },
+        {
+            "ItemDescription": "DORAL",
+            "ItemTotal": "275.70",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "275.7000"
+        },
+        {
+            "ItemDescription": "DORAL",
+            "ItemTotal": "275.70",
+            "ItemUnitCount": "1",
+            "ItemUnitValue": "275.7000"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "651.40-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTABLE GROSS",
+            "ItemTotal": "551.40",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STD TERMS DISCOUNT OF 3.25%",
+            "ItemTotal": "17.92-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "17.92-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "515.56",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT TERMS DISCOUNT OF 70%",
+            "ItemTotal": "3.61-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS STATE TAX FOR FREE PRODUCT",
+            "ItemTotal": "240.00-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

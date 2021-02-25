@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "24",
+    "IssuedDate": "2/27/90",
+    "TotalAmount": "93,270.00",
+    "LineItem": [
+        {
+            "ItemDescription": "AMOUNT RECEIVED ",
+            "ItemTotal": "0 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

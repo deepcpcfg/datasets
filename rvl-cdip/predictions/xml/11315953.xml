@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="89.0" fp="54.0" fn="13.0">
+    <IssuedDate tp="13.0" fp="0.0" fn="0.0">
+      <box l="2120.0" t="633.0" r="2258.0" b="670.0">JULY</box>
+      <box l="2312.0" t="633.0" r="2403.0" b="682.0">13,</box>
+      <box l="2461.0" t="630.0" r="2595.0" b="675.0">1983</box>
+    </IssuedDate>
+    <InvoiceNumber tp="3.0" fp="0.0" fn="2.0">
+      <box l="2232.0" t="758.0" r="2332.0" b="804.0">699</box>
+    </InvoiceNumber>
+    <LineItem tp="73.0" fp="54.0" fn="5.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="341.0" t="1530.0" r="592.0" b="1568.0">RUNNING</box>
+          <box l="637.0" t="1531.0" r="737.0" b="1568.0">ONE</box>
+          <box l="783.0" t="1531.0" r="995.0" b="1571.0">GALLEY</box>
+          <box l="1045.0" t="1532.0" r="1143.0" b="1572.0">FOR</box>
+          <box l="1190.0" t="1532.0" r="1323.0" b="1572.0">LIST</box>
+          <box l="1370.0" t="1532.0" r="1469.0" b="1573.0">Z-l</box>
+          <box l="1599.0" t="1535.0" r="1690.0" b="1578.0">375</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="674.0" t="1656.0" r="920.0" b="1696.0">CHANGES</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1782.0" t="1661.0" r="1989.0" b="1700.0">PLATES</box>
+          <box l="2036.0" t="1662.0" r="2326.0" b="1703.0">EMBOSSED</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2747.0" t="1658.0" r="2951.0" b="1706.0">$93.60</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="674.0" t="1718.0" r="995.0" b="1760.0">DELETIONS</box>
+          <box l="1632.0" t="1723.0" r="1984.0" b="1774.0">DELETIONS,</box>
+          <box l="2033.0" t="1724.0" r="2401.0" b="1766.0">ADDRESSING</box>
+          <box l="1631.0" t="1787.0" r="1910.0" b="1837.0">GALLEYS,</box>
+          <box l="1964.0" t="1788.0" r="2250.0" b="1829.0">CHECKING</box>
+          <box l="2297.0" t="1788.0" r="2438.0" b="1830.0">LIST</box>
+          <box l="2484.0" t="1791.0" r="2613.0" b="1830.0">ETC.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2784.0" t="1788.0" r="2951.0" b="1830.0">92.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

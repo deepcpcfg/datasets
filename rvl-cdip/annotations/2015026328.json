@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "2247",
+    "IssuedDate": "12-1-71",
+    "TotalAmount": "6,399.00",
+    "LineItem": [
+        {
+            "ItemDescription": "RJR No. 0777745",
+            "ItemTotal": "§3,199.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RJR No. 0777746",
+            "ItemTotal": "3,200,00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

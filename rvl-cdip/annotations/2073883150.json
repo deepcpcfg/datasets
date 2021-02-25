@@ -1,0 +1,49 @@
+{
+    "InvoiceNumber": "119865391",
+    "IssuedDate": "December 3, 1998",
+    "LineItem": [
+        {
+            "ItemDescription": "Fees",
+            "ItemTotal": "102,013.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Expenses",
+            "ItemTotal": "2,740.23",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Philip Morris 49.26% ",
+            "ItemTotal": "51.601.69",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "The Barents Group LLC Special Project for Philip Morris (Invoice attached)",
+            "ItemTotal": "375.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Brown & Williamson ",
+            "ItemTotal": "16,970.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RJR Nabisco ",
+            "ItemTotal": "25,654.19",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "UST ",
+            "ItemTotal": "1,340.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="299.0" fp="53.0" fn="450.0">
+    <LineItem tp="292.0" fp="52.0" fn="432.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="452.0" t="2035.0" r="747.0" b="2081.0">RESEARCH</box>
+          <box l="785.0" t="2035.0" r="1117.0" b="2081.0">FULL-TIME</box>
+          <box l="1159.0" t="2027.0" r="1341.0" b="2081.0">H0SP7</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="266.0" t="2287.0" r="333.0" b="2331.0">TS</box>
+          <box l="450.0" t="2286.0" r="636.0" b="2332.0">TOTAL</box>
+          <box l="675.0" t="2288.0" r="1041.0" b="2333.0">PHYSICIANS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1973.0" t="2288.0" r="2185.0" b="2342.0">19,256</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2785.0" t="2290.0" r="3072.0" b="2345.0">1,116.85</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="192.0" t="2412.0" r="408.0" b="2455.0">SELECT</box>
+          <box l="451.0" t="2412.0" r="558.0" b="2454.0">And</box>
+          <box l="600.0" t="2410.0" r="854.0" b="2455.0">ADDRESS</box>
+          <box l="896.0" t="2409.0" r="1046.0" b="2454.0">YOUR</box>
+          <box l="1087.0" t="2411.0" r="1337.0" b="2453.0">SPECIAL</box>
+          <box l="1377.0" t="2410.0" r="1657.0" b="2454.0">LIST....</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="2086.0" t="2409.0" r="2185.0" b="2455.0">304</box>
+        </ItemUnitCount>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="189.0" t="2536.0" r="563.0" b="2580.0">ADDITIONAL</box>
+          <box l="605.0" t="2535.0" r="818.0" b="2581.0">CHARGE</box>
+          <box l="859.0" t="2534.0" r="972.0" b="2579.0">FOR</box>
+          <box l="1009.0" t="2536.0" r="1337.0" b="2581.0">OVERSIZED</box>
+          <box l="1376.0" t="2536.0" r="1629.0" b="2580.0">MAILERS</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1974.0" t="2534.0" r="2186.0" b="2589.0">19,560</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2382.0" t="2535.0" r="2519.0" b="2582.0">4.15</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2895.0" t="2533.0" r="3072.0" b="2582.0">81.17</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1011.0" t="2723.0" r="1118.0" b="2767.0">THE</box>
+          <box l="1159.0" t="2722.0" r="1414.0" b="2766.0">COUNCIL</box>
+          <box l="1455.0" t="2722.0" r="1564.0" b="2767.0">FOR</box>
+          <box l="1600.0" t="2721.0" r="1855.0" b="2766.0">TOBACCO</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="903.0" t="2788.0" r="1036.0" b="2830.0">INC.</box>
+          <box l="1090.0" t="2782.0" r="1227.0" b="2832.0">1983</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1973.0" t="2784.0" r="2185.0" b="2839.0">19,560</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2788.0" t="2782.0" r="3072.0" b="2838.0">1,907.10</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="196.0" t="2911.0" r="337.0" b="2955.0">SORT</box>
+          <box l="379.0" t="2911.0" r="487.0" b="2954.0">AND</box>
+          <box l="525.0" t="2911.0" r="674.0" b="2953.0">MAIL</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1973.0" t="2909.0" r="2185.0" b="2963.0">19,560</box>
+        </ItemUnitCount>
+        <ItemUnitValue>
+          <box l="2344.0" t="2907.0" r="2518.0" b="2957.0">31.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2863.0" t="2907.0" r="3072.0" b="2955.0">606.36</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="193.0" t="3160.0" r="413.0" b="3205.0">POSTAL</box>
+          <box l="456.0" t="3159.0" r="710.0" b="3204.0">SERVICE</box>
+          <box l="752.0" t="3160.0" r="856.0" b="3202.0">FEE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2862.0" t="3156.0" r="3077.0" b="3203.0">250.61</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="190.0" t="3284.0" r="304.0" b="3327.0">AMA</box>
+          <box l="344.0" t="3283.0" r="449.0" b="3326.0">FEE</box>
+        </ItemDescription>
+        <ItemUnitCount>
+          <box l="1976.0" t="3277.0" r="2188.0" b="3334.0">19,256</box>
+        </ItemUnitCount>
+        <ItemTotal>
+          <box l="2863.0" t="3278.0" r="3075.0" b="3324.0">259.96</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="191.0" t="3393.0" r="449.0" b="3439.0">POSTAGE</box>
+          <box l="491.0" t="3393.0" r="782.0" b="3436.0">ADVANCED</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2788.0" t="3388.0" r="3075.0" b="3445.0">4,136.85</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="192.0" t="3484.0" r="341.0" b="3527.0">BULK</box>
+          <box l="379.0" t="3483.0" r="487.0" b="3526.0">FEE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2898.0" t="3482.0" r="3075.0" b="3528.0">40.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="191.0" t="3537.0" r="449.0" b="3581.0">FREIGHT</box>
+          <box l="488.0" t="3537.0" r="600.0" b="3579.0">AND</box>
+          <box l="641.0" t="3539.0" r="933.0" b="3582.0">HANDLING</box>
+          <box l="975.0" t="3538.0" r="1228.0" b="3583.0">CHARGES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2864.0" t="3536.0" r="3073.0" b="3584.0">251.57</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="2786.0" t="3716.0" r="3082.0" b="3793.0">8,920.7£</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

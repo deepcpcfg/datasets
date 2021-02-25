@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "*2/25/74",
+    "LineItem": [
+        {
+            "ItemDescription": "Cost of conducting '.valuation of Four Alternate Carspa ign Approches for Kinston",
+            "ItemTotal": "23,015.07"
+        },
+        {
+            "ItemDescription": "I Supervisory Lxpense",
+            "ItemTotal": "3.452.71"
+        },
+        {
+            "ItemDescription": "Out-of-pocket expenses",
+            "ItemTotal": "1,138.15"
+        }
+    ],
+    "InvoiceNumber": "65",
+    "TotalAmount": "$27,608.93"
+}

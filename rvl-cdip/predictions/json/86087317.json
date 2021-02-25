@@ -1,0 +1,11 @@
+{
+    "IssuedDate": "DBCOS/99 DEC16/99",
+    "InvoiceNumber": "MG12-005024",
+    "LineItem": [
+        {
+            "ItemDescription": "12/13/99",
+            "ItemTotal": "103,224,00"
+        }
+    ],
+    "TotalAmount": "103,224.00"
+}

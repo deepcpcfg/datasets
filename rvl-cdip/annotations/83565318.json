@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "26949",
+    "IssuedDate": "07/17/98",
+    "TotalAmount": "5189.55",
+    "LineItem": [
+        {
+            "ItemDescription": "SW 5 Node Image Network",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "4495.000",
+            "ItemTotal": "4495.00"
+        },
+        {
+            "ItemDescription": "SW 5 Node image — Maint enance Maintenance End s: Augus t 17, 1999",
+            "ItemUnitCount": "1.00",
+            "ItemUnitValue": "675.000",
+            "ItemTotal": "675.00"
+        }
+    ]
+}

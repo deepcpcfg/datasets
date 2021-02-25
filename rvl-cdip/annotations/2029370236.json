@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "4147",
+    "IssuedDate": "Aug 31. 1991",
+    "TotalAmount": "52,800.00",
+    "LineItem": [
+        {
+            "ItemDescription": "VOCs - 44 © $1,200 per building",
+            "ItemTotal": "$ 52,800.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

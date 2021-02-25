@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="110.0" fp="44.0" fn="21.0">
+    <IssuedDate tp="0.0" fp="17.0" fn="0.0">
+      <box l="2227.0" t="1404.0" r="2401.0" b="1446.0">August</box>
+      <box l="2435.0" t="1405.0" r="2700.0" b="1446.0">31,_</box>
+      <box l="2859.0" t="1405.0" r="2901.0" b="1441.0">19</box>
+      <box l="2943.0" t="1395.0" r="3001.0" b="1430.0">78</box>
+    </IssuedDate>
+    <LineItem tp="108.0" fp="14.0" fn="18.0">
+      <lineItem>
+        <ItemTotal>
+          <box l="1182.0" t="1596.0" r="1323.0" b="1634.0">10019</box>
+        </ItemTotal>
+        <ItemDescription>
+          <box l="571.0" t="1876.0" r="750.0" b="1921.0">Charge</box>
+          <box l="787.0" t="1876.0" r="870.0" b="1912.0">for</box>
+          <box l="904.0" t="1876.0" r="994.0" b="1913.0">the</box>
+          <box l="1025.0" t="1876.0" r="1140.0" b="1913.0">work</box>
+          <box l="1181.0" t="1876.0" r="1445.0" b="1921.0">specified</box>
+          <box l="1481.0" t="1879.0" r="1535.0" b="1914.0">in</box>
+          <box l="1569.0" t="1880.0" r="1803.0" b="1917.0">Franklin</box>
+          <box l="1836.0" t="1880.0" r="2102.0" b="1917.0">Institute</box>
+          <box l="575.0" t="1934.0" r="841.0" b="1977.0">Agreement</box>
+          <box l="575.0" t="1980.0" r="804.0" b="2034.0">8/11/78=</box>
+          <box l="879.0" t="1934.0" r="957.0" b="1971.0">Nd.</box>
+          <box l="1003.0" t="1934.0" r="1203.0" b="1971.0">19210-1</box>
+          <box l="1240.0" t="1934.0" r="1327.0" b="1970.0">for</box>
+          <box l="1361.0" t="1934.0" r="1445.0" b="1971.0">the</box>
+          <box l="1478.0" t="1934.0" r="1652.0" b="1980.0">period</box>
+          <box l="1687.0" t="1937.0" r="1922.0" b="1983.0">covering</box>
+          <box l="1956.0" t="1929.0" r="2159.0" b="1984.0">7/15/78</box>
+          <box l="2197.0" t="1938.0" r="2248.0" b="1971.0">to</box>
+        </ItemDescription>
+      </lineItem>
+    </LineItem>
+    <InvoiceNumber tp="2.0" fp="4.0" fn="3.0">
+      <box l="2739.0" t="1571.0" r="2901.0" b="1609.0">19210-</box>
+    </InvoiceNumber>
+    <TotalAmount tp="0.0" fp="9.0" fn="0.0">
+      <box l="2743.0" t="1992.0" r="3002.0" b="2034.0">13,715-26</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

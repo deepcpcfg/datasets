@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "0125",
+    "TotalAmount": "7626",
+    "LineItem": [
+        {
+            "ItemDescription": "01 01-75 To 01-01-70 11324877 11333038",
+            "ItemTotal": "7618",
+            "ItemUnitValue": "8961",
+            "ItemUnitCount": ""
+        },
+        {
+            "ItemDescription": "01 -01-78 TO 01-01-79 7602351 7601016",
+            "ItemTotal": "912",
+            "ItemUnitValue": "1335",
+            "ItemUnitCount": ""
+        }
+    ],
+    "IssuedDate": ""
+}

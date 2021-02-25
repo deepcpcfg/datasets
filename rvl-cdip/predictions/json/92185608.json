@@ -1,0 +1,18 @@
+{
+    "InvoiceNumber": "1036508",
+    "IssuedDate": "MAY 6,1991",
+    "LineItem": [
+        {
+            "ItemDescription": "1 PAGE MAY 13,1991 JET 4 COLOR ORDER NUMBER LMR3089",
+            "ItemTotal": "17,549.00"
+        },
+        {
+            "ItemDescription": "MAY 13,1991 JET 4 COLOR ORDER NUMBER LMR3089",
+            "ItemTotal": ",2,631<6CCP"
+        },
+        {
+            "ItemDescription": "COLOR PREM"
+        }
+    ],
+    "TotalAmount": "\"—16,016.40"
+}

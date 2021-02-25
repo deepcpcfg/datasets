@@ -1,0 +1,49 @@
+{
+    "IssuedDate": "22, 1995",
+    "LineItem": [
+        {
+            "ItemDescription": "Duplicating Local Transportation",
+            "ItemTotal": "5,015.25"
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "327.32"
+        },
+        {
+            "ItemDescription": "Mail and Messenger Services Miscellaneous Telecommunications Travel",
+            "ItemTotal": "33"
+        },
+        {
+            "ItemDescription": "Duplicating Local Transportation",
+            "ItemTotal": "37.90"
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "62.62"
+        },
+        {
+            "ItemDescription": "Mail and Messenger Services",
+            "ItemTotal": "9.32"
+        },
+        {
+            "ItemDescription": "Miscellaneous Telecommunications",
+            "ItemTotal": "235.71"
+        },
+        {
+            "ItemDescription": "Travel",
+            "ItemTotal": "1,343.49"
+        },
+        {
+            "ItemDescription": "Duplicating",
+            "ItemTotal": "40.65"
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "53.13"
+        },
+        {
+            "ItemDescription": "Telecommunications",
+            "ItemTotal": "51.27"
+        }
+    ]
+}

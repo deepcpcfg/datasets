@@ -1,0 +1,73 @@
+{
+    "InvoiceNumber": "258-0048",
+    "IssuedDate": "09/08/95",
+    "TotalAmount": "12,014.84",
+    "LineItem": [
+        {
+            "ItemDescription": "WINSTON",
+            "ItemUnitCount": "27",
+            "ItemUnitValue": "344.7000",
+            "ItemTotal": "9,306.90"
+        },
+        {
+            "ItemDescription": "WINSTON",
+            "ItemUnitCount": "27",
+            "ItemUnitValue": "344.7000",
+            "ItemTotal": "9,306.90"
+        },
+        {
+            "ItemDescription": "WINSTON",
+            "ItemUnitCount": "27",
+            "ItemUnitValue": "344.7000",
+            "ItemTotal": "9,306.90"
+        },
+        {
+            "ItemDescription": "WINSTON",
+            "ItemUnitCount": "27",
+            "ItemUnitValue": "344.7000",
+            "ItemTotal": "9,306.90"
+        },
+        {
+            "ItemDescription": "LESS CREDIT FOR FREE PRODUCT",
+            "ItemTotal": "18,013.80-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "DISCOUNTABLE GROSS",
+            "ItemTotal": "18,613.80",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "STD TERMS DISCOUNT OF 3.25%",
+            "ItemTotal": "604.95-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS HANDLING ALLOWANCE",
+            "ItemTotal": "604.96-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT DISCOUNTABLE AMT",
+            "ItemTotal": "17,403.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "EFT TERNS DISCOUNT OF 1,40%",
+            "ItemTotal": "243.65-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "LESS STATE TAX FOR FREE PRODUCT",
+            "ItemTotal": "5,994.00-",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

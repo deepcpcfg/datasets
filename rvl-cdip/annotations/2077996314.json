@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "3021-2136",
+    "TotalAmount": "10,968.93",
+    "LineItem": [
+        {
+            "ItemDescription": "CD-ROM Duplication",
+            "ItemUnitCount": "538",
+            "ItemUnitValue": "18.00",
+            "ItemTotal": "9,684.00"
+        }
+    ],
+    "IssuedDate": ""
+}

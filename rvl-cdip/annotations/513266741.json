@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "05-164B",
+    "IssuedDate": "MAY 22, 1990",
+    "TotalAmount": "3,068.01",
+    "LineItem": [
+        {
+            "ItemTotal": "$ 350.00",
+            "ItemDescription": "VEHICLE RENTAL",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "GAS",
+            "ItemTotal": "305.96",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "WAREHOUSE",
+            "ItemTotal": "1,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "OVERNIGHTS",
+            "ItemTotal": "253.95",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "MISCELLANEOUS",
+            "ItemTotal": "1,158.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

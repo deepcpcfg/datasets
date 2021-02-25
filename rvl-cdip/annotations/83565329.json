@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "810027",
+    "IssuedDate": "November 5. 1998",
+    "TotalAmount": "$1,959,76",
+    "LineItem": [
+        {
+            "ItemDescription": "Information Systems Manage",
+            "ItemTotal": "1.020.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "116.00",
+            "ItemDescription": "Corporate Operations Manager",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "627.00",
+            "ItemDescription": "Missoula Operations Manager",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "28.50",
+            "ItemDescription": "Administrator",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "CD-ROM Production",
+            "ItemTotal": "125.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Shipping",
+            "ItemTotal": "38.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Reproduction",
+            "ItemTotal": "0.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Long Distance Telephone",
+            "ItemTotal": "4.76",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

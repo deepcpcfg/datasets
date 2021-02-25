@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="179.0" fp="80.0" fn="97.0">
+    <LineItem tp="154.0" fp="80.0" fn="97.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="170.0" t="1001.0" r="258.0" b="1038.0">Bam</box>
+          <box l="262.0" t="1009.0" r="313.0" b="1039.0">ext</box>
+          <box l="605.0" t="1000.0" r="784.0" b="1039.0">02/10/95</box>
+          <box l="169.0" t="1063.0" r="295.0" b="1101.0">Fulton</box>
+          <box l="604.0" t="1061.0" r="783.0" b="1098.0">07/14/95</box>
+          <box l="169.0" t="1122.0" r="412.0" b="1168.0">Stringfellow</box>
+          <box l="604.0" t="1120.0" r="780.0" b="1157.0">07/14/95</box>
+          <box l="170.0" t="1184.0" r="353.0" b="1220.0">Valentine</box>
+          <box l="603.0" t="1181.0" r="779.0" b="1219.0">02/11/95</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="168.0" t="1617.0" r="325.0" b="1667.0">Joseph's</box>
+          <box l="339.0" t="1615.0" r="546.0" b="1656.0">Limousine</box>
+          <box l="561.0" t="1615.0" r="706.0" b="1653.0">Service</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1011.0" t="1613.0" r="1143.0" b="1657.0">$84.70</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="167.0" t="1755.0" r="264.0" b="1792.0">Total</box>
+          <box l="280.0" t="1756.0" r="392.0" b="1793.0">Ollier</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1011.0" t="1755.0" r="1143.0" b="1795.0">$84.70</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="165.0" t="2385.0" r="325.0" b="2419.0">On-Line</box>
+          <box l="341.0" t="2385.0" r="470.0" b="2427.0">Dialog</box>
+          <box l="516.0" t="2384.0" r="712.0" b="2428.0">Computer</box>
+          <box l="727.0" t="2383.0" r="874.0" b="2425.0">Search)</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1294.0" t="2381.0" r="1449.0" b="2418.0">$478.37</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="164.0" t="2442.0" r="361.0" b="2484.0">Invention.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1341.0" t="2439.0" r="1449.0" b="2477.0">46.65</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="164.0" t="2506.0" r="226.0" b="2538.0">AP</box>
+          <box l="265.0" t="2506.0" r="324.0" b="2539.0">On</box>
+          <box l="337.0" t="2505.0" r="427.0" b="2539.0">Line</box>
+          <box l="441.0" t="2502.0" r="677.0" b="2538.0">Infannalioii</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1316.0" t="2501.0" r="1449.0" b="2536.0">272.79</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="164.0" t="2563.0" r="248.0" b="2599.0">SYS</box>
+          <box l="293.0" t="2564.0" r="351.0" b="2598.0">On</box>
+          <box l="365.0" t="2560.0" r="452.0" b="2598.0">Lino</box>
+          <box l="469.0" t="2561.0" r="702.0" b="2599.0">[nforrnation</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1341.0" t="2560.0" r="1448.0" b="2594.0">22.45</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="2369.0" t="576.0" r="2577.0" b="622.0">September</box>
+      <box l="2595.0" t="577.0" r="2627.0" b="616.0">I,</box>
+      <box l="2648.0" t="577.0" r="2732.0" b="611.0">1995</box>
+    </IssuedDate>
+    <InvoiceNumber tp="8.0" fp="0.0" fn="0.0">
+      <box l="2369.0" t="635.0" r="2559.0" b="672.0">95-08229</box>
+    </InvoiceNumber>
+  </Invoice>
+</InvoiceDoc>

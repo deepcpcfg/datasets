@@ -1,0 +1,12 @@
+{
+    "IssuedDate": "12/16/99",
+    "InvoiceNumber": "PQ242596",
+    "LineItem": [
+        {
+            "ItemDescription": "VMS Dub 1/2\"",
+            "ItemUnitCount": "1",
+            "ItemTotal": "24.00"
+        }
+    ],
+    "TotalAmount": "$25.98"
+}

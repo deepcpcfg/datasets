@@ -1,0 +1,43 @@
+{
+    "InvoiceNumber": "473057",
+    "IssuedDate": "4/12/06",
+    "TotalAmount": "1,772.00",
+    "LineItem": [
+        {
+            "ItemDescription": "PICKED UP FLATS AMO CHARGED",
+            "ItemTotal": "75.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "GUIDO LIME 4 1RPCRTANT NOTICE",
+            "ItemTotal": "100.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "PRESS PREP",
+            "ItemTotal": "650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "RUNOFF SO PROGS A 50 PROOFS",
+            "ItemTotal": "750.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "100 QUANTITY PROOFS",
+            "ItemTotal": "22.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "1 SET OF FILM (TC INSIDE SPORTS ILL (3|>",
+            "ItemTotal": "165.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

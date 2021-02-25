@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1015",
+    "IssuedDate": "December 19,1997",
+    "TotalAmount": "37.500",
+    "LineItem": [
+        {
+            "ItemTotal": "37,500",
+            "ItemDescription": "First Half of Project Fee",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

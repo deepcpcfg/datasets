@@ -1,0 +1,15 @@
+{
+    "InvoiceNumber": "05-164B",
+    "IssuedDate": "MAY 22, 1990",
+    "LineItem": [
+        {
+            "ItemDescription": "VEHICLE RENTAL",
+            "ItemTotal": "350.00"
+        },
+        {
+            "ItemDescription": "GAS WAREHOUSE OVERNIGHTS MISCELLANEOUS",
+            "ItemTotal": "253.95"
+        }
+    ],
+    "TotalAmount": "$3,068.01"
+}

@@ -1,0 +1,19 @@
+{
+    "IssuedDate": ".March 7, 1989",
+    "LineItem": [
+        {
+            "ItemDescription": "January Retainer (see attached)",
+            "ItemTotal": "3,000.00"
+        },
+        {
+            "ItemDescription": "Additional Hours (see attached-)",
+            "ItemTotal": "698.75"
+        },
+        {
+            "ItemDescription": "January Expenses (see attached)",
+            "ItemTotal": "1,683.48"
+        }
+    ],
+    "InvoiceNumber": "#89-133",
+    "TotalAmount": "5,382.23"
+}

@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "362334",
+    "IssuedDate": "9,1999",
+    "LineItem": [
+        {
+            "ItemDescription": "Fees For Professional Services",
+            "ItemTotal": "102^270.00"
+        },
+        {
+            "ItemDescription": "Expenses and Advances",
+            "ItemTotal": "12,242.26"
+        }
+    ]
+}

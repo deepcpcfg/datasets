@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="69.0" fp="18.0" fn="40.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="716.0" t="755.0" r="908.0" b="801.0">February</box>
+      <box l="926.0" t="755.0" r="991.0" b="795.0">24,</box>
+      <box l="1016.0" t="754.0" r="1120.0" b="792.0">1993</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="1.0" fn="1.0">
+      <box l="921.0" t="1484.0" r="1171.0" b="1527.0">#02-0230</box>
+    </InvoiceNumber>
+    <LineItem tp="37.0" fp="16.0" fn="39.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="712.0" t="2071.0" r="966.0" b="2121.0">Typography</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2456.0" t="1996.0" r="2635.0" b="2037.0">$224.29</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="712.0" t="2147.0" r="958.0" b="2184.0">Mechanic^</box>
+          <box l="712.0" t="2217.0" r="933.0" b="2255.0">Photostats</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2514.0" t="2216.0" r="2635.0" b="2254.0">11.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="709.0" t="2288.0" r="854.0" b="2327.0">Travel*</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2539.0" t="2288.0" r="2634.0" b="2326.0">6.60</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="8.0" fp="1.0" fn="0.0">
+      <box l="2415.0" t="2651.0" r="2630.0" b="2692.0">$2,160.22</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

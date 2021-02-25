@@ -1,0 +1,11 @@
+{
+    "InvoiceNumber": "468",
+    "IssuedDate": "11/18/70",
+    "LineItem": [
+        {
+            "ItemDescription": "Spectroscopic Investigation of Tobacco Smoke Constituents on Mammals: First Quarterly Billing in Advance in accordance with agreement dated October 1, 1970",
+            "ItemTotal": "644.00"
+        }
+    ],
+    "TotalAmount": "20,644.00"
+}

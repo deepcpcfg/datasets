@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1558-1",
+    "IssuedDate": "March 21, 1984",
+    "LineItem": [
+        {
+            "ItemDescription": "Induction of Hepatic Microsomal Enzymes with A-73, A-84 and A-94",
+            "ItemTotal": "7,650.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

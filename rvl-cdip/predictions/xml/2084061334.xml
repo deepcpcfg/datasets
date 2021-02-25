@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice>
+    <InvoiceNumber>
+      <box l="1616.0" t="1305.0" r="1775.0" b="1351.0">#7728</box>
+    </InvoiceNumber>
+    <IssuedDate>
+      <box l="2397.0" t="1442.0" r="2516.0" b="1487.0">Juno</box>
+      <box l="2530.0" t="1441.0" r="2716.0" b="1492.0">2,1997</box>
+    </IssuedDate>
+    <LineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="437.0" t="2334.0" r="558.0" b="2380.0">June</box>
+          <box l="580.0" t="2334.0" r="762.0" b="2388.0">1,1997</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="988.0" t="2337.0" r="1096.0" b="2393.0">May</box>
+          <box l="1113.0" t="2337.0" r="1342.0" b="2391.0">31,1996.</box>
+        </ItemDescription>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1413.0" t="2267.0" r="1691.0" b="2315.0">Silverdome</box>
+          <box l="1708.0" t="2267.0" r="1804.0" b="2313.0">1-75</box>
+          <box l="1821.0" t="2267.0" r="2121.0" b="2325.0">Spectacular</box>
+          <box l="2134.0" t="2269.0" r="2237.0" b="2326.0">sign</box>
+          <box l="2255.0" t="2267.0" r="2322.0" b="2313.0">for</box>
+          <box l="2334.0" t="2267.0" r="2412.0" b="2313.0">the</box>
+          <box l="2430.0" t="2267.0" r="2584.0" b="2326.0">period</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1616.0" t="2613.0" r="1930.0" b="2667.0">$150,000.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

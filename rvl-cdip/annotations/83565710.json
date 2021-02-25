@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "June 16, 1998",
+    "TotalAmount": "120.00",
+    "LineItem": [
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "Wl Merchants 6/15/98 97cv328 Dane ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "WI Assoc of Distributors 6/15/98 97cv328 Dane",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "WI Assoc Truck Stops 6/15/98 97cv328 Dane ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "30.00",
+            "ItemDescription": "WI Grocers Assoc 6/15/98 97CV328 Dane ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

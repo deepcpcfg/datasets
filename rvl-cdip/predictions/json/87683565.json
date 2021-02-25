@@ -1,0 +1,14 @@
+{
+    "IssuedDate": "April 1st, 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Membership fee",
+            "ItemTotal": "17000.00"
+        },
+        {
+            "ItemDescription": "Subscription to Bulletin FRF",
+            "ItemTotal": "1500.00"
+        }
+    ],
+    "TotalAmount": "16500.00"
+}

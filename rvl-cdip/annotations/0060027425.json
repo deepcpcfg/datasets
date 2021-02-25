@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "02-0188 ",
+    "IssuedDate": "February 23, 1993",
+    "TotalAmount": "7,881,77",
+    "LineItem": [
+        {
+            "ItemDescription": "Production",
+            "ItemTotal": "$323.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Typography",
+            "ItemTotal": "1,455.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Mechanicals",
+            "ItemTotal": "5.156.89",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

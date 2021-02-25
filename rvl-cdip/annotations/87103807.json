@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "0670",
+    "TotalAmount": "395 ",
+    "LineItem": [
+        {
+            "ItemDescription": "Primary Irritation of Mucous Membrane. The Rabbit — - - — X Eye Irritation Test of Material A50-LL. Protocol b LRC-5A.",
+            "ItemTotal": "375",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Protocol Change Order #1",
+            "ItemTotal": "20",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "NOVEMBER 25, 1981",
+            {
+                "tp": 17.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$3700.60",
+            {
+                "tp": 7.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$885.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "TYPING COPIES OF COUNCIL FOR TOBACCO RESEARCH 61/2X9 1/2 ANNUAL REPORT ENVELOPES TO DOCTORS LIST. ANNUAL REPORT BOOKS INSERTED INTO ENVELOPES, HAND SEALED, METERED AND MAILED THIRD CLASS MAIL.",
+                            {
+                                "tp": 94.0,
+                                "fp": 98.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 101.0,
+                        "fp": 98.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 101.0,
+                "fp": 98.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 125.0,
+        "fp": 99.0,
+        "fn": 4.0
+    }
+]

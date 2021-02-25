@@ -1,0 +1,61 @@
+{
+    "TotalAmount": "588.01",
+    "LineItem": [
+        {
+            "ItemTotal": "20.50",
+            "ItemDescription": "Animals 50 Charles River CD Mice",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "32.89",
+            "ItemDescription": "Laboratory Supplies",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "95.19",
+            "ItemDescription": "harmacologist Emil Smith, Ph.D.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "73.28",
+            "ItemDescription": "Biochemist (Harris Rosenkrantz, Ph.D.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10.79",
+            "ItemDescription": "Pathologist (Marcus M.Mason, D.V.M.)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "45.30",
+            "ItemDescription": "Technician - pharmacology",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "11.25",
+            "ItemDescription": "Technician - biochemistry",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "235,81",
+            "ItemDescription": "Overhead (100% of Direct Labor)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "63.00",
+            "ItemDescription": "Fee (12%)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": "",
+    "IssuedDate": ""
+}

@@ -1,0 +1,23 @@
+{
+    "InvoiceNumber": "CH0215",
+    "IssuedDate": "DATE Mar 31, 1092",
+    "LineItem": [
+        {
+            "ItemDescription": "Sydney, HBI-Australia invoice #498",
+            "ItemTotal": "1,098.00"
+        },
+        {
+            "ItemDescription": "Melbourne, HRI-Aus t ral ia invoice #499",
+            "ItemTotal": "1,950-00"
+        },
+        {
+            "ItemDescription": "Brisbane, HBI-Australia invoice #500",
+            "ItemTotal": "1,950.00"
+        },
+        {
+            "ItemDescription": "Melbourne, RBI-Australia invoice #501",
+            "ItemTotal": "1,750.00"
+        }
+    ],
+    "TotalAmount": "6,748.00"
+}

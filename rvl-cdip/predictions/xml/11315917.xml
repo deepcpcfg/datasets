@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="125.0" fp="99.0" fn="4.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="2186.0" t="691.0" r="2481.0" b="736.0">NOVEMBER</box>
+      <box l="2524.0" t="695.0" r="2620.0" b="750.0">25,</box>
+      <box l="2674.0" t="695.0" r="2809.0" b="743.0">1981</box>
+    </IssuedDate>
+    <LineItem tp="101.0" fp="98.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="383.0" t="1755.0" r="603.0" b="1799.0">TYPING</box>
+          <box l="643.0" t="1756.0" r="858.0" b="1799.0">COPIES</box>
+          <box l="900.0" t="1755.0" r="970.0" b="1800.0">OF</box>
+          <box l="1009.0" t="1755.0" r="1266.0" b="1800.0">COUNCIL</box>
+          <box l="1308.0" t="1756.0" r="1416.0" b="1798.0">FOR</box>
+          <box l="1453.0" t="1756.0" r="1708.0" b="1800.0">TOBACCO</box>
+          <box l="1749.0" t="1756.0" r="2041.0" b="1801.0">RESEARCH</box>
+          <box l="2083.0" t="1754.0" r="2407.0" b="1806.0">61/2X9</box>
+          <box l="2457.0" t="1756.0" r="2553.0" b="1806.0">1/2</box>
+          <box l="381.0" t="1817.0" r="603.0" b="1862.0">ANNUAL</box>
+          <box l="647.0" t="1819.0" r="859.0" b="1861.0">REPORT</box>
+          <box l="901.0" t="1820.0" r="1229.0" b="1863.0">ENVELOPES</box>
+          <box l="1270.0" t="1820.0" r="1337.0" b="1862.0">TO</box>
+          <box l="1379.0" t="1821.0" r="1633.0" b="1866.0">DOCTORS</box>
+          <box l="1675.0" t="1820.0" r="1850.0" b="1867.0">LIST.</box>
+          <box l="381.0" t="1946.0" r="604.0" b="1990.0">ANNUAL</box>
+          <box l="644.0" t="1948.0" r="859.0" b="1989.0">REPORT</box>
+          <box l="902.0" t="1947.0" r="1081.0" b="1991.0">BOOKS</box>
+          <box l="1126.0" t="1946.0" r="1414.0" b="1991.0">INSERTED</box>
+          <box l="1460.0" t="1947.0" r="1596.0" b="1992.0">INTO</box>
+          <box l="1639.0" t="1948.0" r="1992.0" b="2003.0">ENVELOPES,</box>
+          <box l="2043.0" t="1950.0" r="2187.0" b="1992.0">HAND</box>
+          <box l="2230.0" t="1949.0" r="2474.0" b="2006.0">SEALED,</box>
+          <box l="2521.0" t="1950.0" r="2782.0" b="1994.0">METERED</box>
+          <box l="382.0" t="2009.0" r="494.0" b="2053.0">AND</box>
+          <box l="531.0" t="2009.0" r="750.0" b="2054.0">MAILED</box>
+          <box l="790.0" t="2010.0" r="969.0" b="2054.0">THIRD</box>
+          <box l="1010.0" t="2010.0" r="1193.0" b="2054.0">CLASS</box>
+          <box l="1231.0" t="2010.0" r="1410.0" b="2055.0">MAIL.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2493.0" t="2131.0" r="2743.0" b="2188.0">$885.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="0.0">
+      <box l="2457.0" t="2321.0" r="2741.0" b="2377.0">$3700.60</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

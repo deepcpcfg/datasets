@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "December 22. 1993",
+    "LineItem": [
+        {
+            "ItemDescription": "Design",
+            "ItemTotal": "423.20"
+        },
+        {
+            "ItemDescription": "Cornprahensivejs Production",
+            "ItemTotal": "6.776.80"
+        },
+        {
+            "ItemDescription": "Typography Mechanicals",
+            "ItemTotal": "S28.797.24"
+        }
+    ],
+    "TotalAmount": "$30,525.07"
+}

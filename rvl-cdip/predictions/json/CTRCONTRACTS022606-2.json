@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "0045821",
+    "LineItem": [
+        {
+            "ItemDescription": "TERMINAL ,,CHARCES_",
+            "ItemTotal": "55.00"
+        },
+        {
+            "ItemDescription": "ENTRY FEE",
+            "ItemTotal": "57.50"
+        },
+        {
+            "ItemDescription": "TMMFBTATE DELIVERY",
+            "ItemTotal": "15.00"
+        },
+        {
+            "ItemDescription": "_VALUATION 1 CLA8SIF t_",
+            "ItemTotal": "7.50"
+        },
+        {
+            "ItemDescription": "EELt ORDER 1 RELEASE",
+            "ItemTotal": "10*00"
+        }
+    ]
+}

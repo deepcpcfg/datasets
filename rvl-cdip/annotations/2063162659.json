@@ -1,0 +1,55 @@
+{
+    "InvoiceNumber": "0690",
+    "LineItem": [
+        {
+            "ItemDescription": "Audited Premium",
+            "ItemTotal": "1,856,659",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Retrospective Premium",
+            "ItemTotal": "2,572,595",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Previously Billed Premium",
+            "ItemTotal": "2,589,681",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Gross Adjustment (2 - 3)",
+            "ItemTotal": "17,086CR",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dividend on Retro. Premium",
+            "ItemTotal": "256,660",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Previously Billed Dividend",
+            "ItemTotal": "259,223",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Dividend Offset (5-6)",
+            "ItemTotal": "2,563",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Balance Due Insured (4 + 7)",
+            "ItemTotal": "14,52308",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": "",
+    "IssuedDate": ""
+}

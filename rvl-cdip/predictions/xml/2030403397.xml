@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="402.0" fp="18.0" fn="34.0">
+    <IssuedDate tp="4.0" fp="5.0" fn="7.0">
+      <box l="2240.0" t="41.0" r="2323.0" b="76.0">Feb</box>
+      <box l="2356.0" t="42.0" r="2490.0" b="79.0">20/91</box>
+    </IssuedDate>
+    <InvoiceNumber tp="4.0" fp="0.0" fn="0.0">
+      <box l="2772.0" t="983.0" r="2879.0" b="1021.0">8882</box>
+    </InvoiceNumber>
+    <LineItem tp="394.0" fp="13.0" fn="27.0">
+      <lineItem>
+        <ItemUnitCount>
+          <box l="857.0" t="1402.0" r="877.0" b="1435.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1015.0" t="1388.0" r="1151.0" b="1434.0">Upper</box>
+          <box l="1186.0" t="1386.0" r="1322.0" b="1423.0">blade</box>
+          <box l="1357.0" t="1386.0" r="1518.0" b="1433.0">guide,</box>
+          <box l="1020.0" t="1446.0" r="1461.0" b="1492.0">interchangeable,</box>
+          <box l="1017.0" t="1507.0" r="1238.0" b="1553.0">complete</box>
+          <box l="1018.0" t="1568.0" r="1124.0" b="1601.0">Part</box>
+          <box l="1158.0" t="1561.0" r="1553.0" b="1606.0">#1122/15/16/17</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="1703.0" t="1562.0" r="1916.0" b="1604.0">7,700.0C</box>
+        </ItemTotal>
+        <ItemUnitValue>
+          <box l="2721.0" t="1570.0" r="2944.0" b="1618.0">7,700.00</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="861.0" t="1695.0" r="877.0" b="1731.0">1</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="1019.0" t="1687.0" r="1155.0" b="1720.0">Lower</box>
+          <box l="1189.0" t="1684.0" r="1326.0" b="1719.0">blade</box>
+          <box l="1364.0" t="1690.0" r="1553.0" b="1729.0">support</box>
+          <box l="1020.0" t="1744.0" r="1178.0" b="1788.0">guide,</box>
+          <box l="1222.0" t="1740.0" r="1639.0" b="1786.0">interchangeable</box>
+          <box l="1020.0" t="1803.0" r="1240.0" b="1849.0">complete</box>
+          <box l="1021.0" t="1864.0" r="1127.0" b="1899.0">Part</box>
+          <box l="1161.0" t="1857.0" r="1556.0" b="1903.0">#1122/20/21/22</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1707.0" t="1858.0" r="1928.0" b="1900.0">5,980.0(1</box>
+        </ItemUnitValue>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="834.0" t="1957.0" r="883.0" b="1992.0">20</box>
+          <box l="1022.0" t="1951.0" r="1186.0" b="1987.0">Roller</box>
+          <box l="1217.0" t="1951.0" r="1332.0" b="1985.0">with</box>
+          <box l="1367.0" t="1949.0" r="1499.0" b="1984.0">shaft</box>
+          <box l="1026.0" t="2013.0" r="1158.0" b="2046.0">inner</box>
+          <box l="1192.0" t="2010.0" r="1329.0" b="2044.0">blade</box>
+          <box l="1364.0" t="2008.0" r="1500.0" b="2055.0">guide</box>
+          <box l="1023.0" t="2076.0" r="1130.0" b="2114.0">part</box>
+          <box l="1163.0" t="2063.0" r="1472.0" b="2109.0">#1122/24/25</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1797.0" t="2121.0" r="1930.0" b="2157.0">26-00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2784.0" t="2131.0" r="2946.0" b="2168.0">520.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="834.0" t="2278.0" r="885.0" b="2315.0">30</box>
+          <box l="1025.0" t="2275.0" r="1190.0" b="2311.0">Roller</box>
+          <box l="1221.0" t="2273.0" r="1332.0" b="2310.0">with</box>
+          <box l="1370.0" t="2272.0" r="1503.0" b="2309.0">shaft</box>
+          <box l="1026.0" t="2345.0" r="1162.0" b="2379.0">upper</box>
+          <box l="1196.0" t="2332.0" r="1333.0" b="2369.0">blade</box>
+          <box l="1370.0" t="2332.0" r="1504.0" b="2377.0">guide</box>
+          <box l="1027.0" t="2400.0" r="1134.0" b="2439.0">part</box>
+          <box l="1167.0" t="2387.0" r="1475.0" b="2432.0">#1122/16/17</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1797.0" t="2388.0" r="1934.0" b="2423.0">31.00</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2783.0" t="2397.0" r="2949.0" b="2434.0">930.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="1027.0" t="2482.0" r="1193.0" b="2518.0">Roller</box>
+          <box l="1223.0" t="2480.0" r="1338.0" b="2519.0">with</box>
+          <box l="1373.0" t="2479.0" r="1530.0" b="2521.0">shaft,</box>
+          <box l="1032.0" t="2542.0" r="1164.0" b="2579.0">lower</box>
+          <box l="1199.0" t="2540.0" r="1335.0" b="2577.0">blade</box>
+          <box l="1370.0" t="2541.0" r="1506.0" b="2586.0">guide</box>
+          <box l="1029.0" t="2604.0" r="1136.0" b="2637.0">Part</box>
+          <box l="1170.0" t="2596.0" r="1478.0" b="2640.0">#1122/21/22</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1802.0" t="2595.0" r="1939.0" b="2631.0">26.0)</box>
+        </ItemUnitValue>
+        <ItemTotal>
+          <box l="2731.0" t="2602.0" r="2948.0" b="2647.0">1,040.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemUnitCount>
+          <box l="630.0" t="2692.0" r="647.0" b="2729.0">2</box>
+        </ItemUnitCount>
+        <ItemDescription>
+          <box l="867.0" t="2693.0" r="888.0" b="2727.0">2</box>
+          <box l="1030.0" t="2690.0" r="1169.0" b="2728.0">Chuck</box>
+          <box l="1200.0" t="2693.0" r="1362.0" b="2734.0">valve,</box>
+          <box l="1404.0" t="2697.0" r="1508.0" b="2736.0">type</box>
+          <box l="1031.0" t="2748.0" r="1196.0" b="2791.0">304/13</box>
+          <box l="1032.0" t="2813.0" r="1138.0" b="2846.0">Part</box>
+          <box l="1171.0" t="2805.0" r="1393.0" b="2853.0">#1115/13</box>
+        </ItemDescription>
+        <ItemUnitValue>
+          <box l="1748.0" t="2804.0" r="1912.0" b="2842.0">138.00</box>
+        </ItemUnitValue>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

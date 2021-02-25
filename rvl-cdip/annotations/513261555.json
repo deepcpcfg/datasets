@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "63001",
+    "TotalAmount": "3,355.25",
+    "LineItem": [
+        {
+            "ItemDescription": "Supervision",
+            "ItemTotal": "$194.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Printing",
+            "ItemTotal": "$3,361.25",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "IssuedDate": ""
+}

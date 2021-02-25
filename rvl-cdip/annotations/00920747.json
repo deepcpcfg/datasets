@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1418-6",
+    "IssuedDate": "June 30, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "For submission of final Report",
+            "ItemTotal": "$3,700.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

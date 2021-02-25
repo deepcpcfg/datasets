@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "98.033",
+    "IssuedDate": "4.30.98",
+    "TotalAmount": "2,500.0",
+    "LineItem": [
+        {
+            "ItemDescription": "Tolal design fees, proposal dated April 30,1998",
+            "ItemTotal": "$ 16,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Project Fees Total fees, project retainer, this invoice #1 of progressive billing through project completion",
+            "ItemTotal": "$ 2,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

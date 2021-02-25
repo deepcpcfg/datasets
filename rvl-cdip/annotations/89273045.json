@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "277",
+    "IssuedDate": "13-Jun-95",
+    "TotalAmount": "302,200.00",
+    "LineItem": [
+        {
+            "ItemDescription": "Sponsor's Monitor: Max Eisenberg CONTRACT 94-08 He Study Nos; 1360/1 to 6 inclusive Conduct of a study to measure environmental tobacco by personal monitoring in European cities as described in the Application for Research Contract To 3rd quarterly payment due or. above study",
+            "ItemTotal": "302,200.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

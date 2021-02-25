@@ -1,0 +1,18 @@
+{
+    "IssuedDate": "03/16/931",
+    "LineItem": [
+        {
+            "ItemDescription": "VM.I/E",
+            "ItemTotal": "$432.00"
+        },
+        {
+            "ItemDescription": "NUMBER OFPACKAGE/CARTON",
+            "ItemTotal": "$150.00,"
+        },
+        {
+            "ItemDescription": "FLOOR DISPLAYS",
+            "ItemUnitCount": "1",
+            "ItemTotal": "$75.00"
+        }
+    ]
+}

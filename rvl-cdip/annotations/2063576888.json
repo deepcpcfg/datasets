@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1059",
+    "IssuedDate": "DEC 1 1 1992",
+    "TotalAmount": "29,249,00",
+    "LineItem": [
+        {
+            "ItemDescription": "Payment for Research Entitled \"Comparative Evaluation of Displacement Ventilation & Conventional VAV Systems for Indoor Air Quality Control.\" Contract No. \"Agreement 2\" Principal Investigator: J.E, Woods Ref. Proposal #92-1802-04. Credit: 435304/0300",
+            "ItemTotal": "29,249.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

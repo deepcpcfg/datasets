@@ -1,0 +1,59 @@
+{
+    "InvoiceNumber": "262805",
+    "LineItem": [
+        {
+            "ItemDescription": "Transportation Allowance",
+            "ItemTotal": "324.12"
+        },
+        {
+            "ItemDescription": "Meal Allowance",
+            "ItemTotal": "248.33"
+        },
+        {
+            "ItemDescription": "Lexis Computer Research",
+            "ItemTotal": "1,321.29"
+        },
+        {
+            "ItemDescription": "Westlaw Research",
+            "ItemTotal": "1,434.00"
+        },
+        {
+            "ItemDescription": "Trave1-Trans. Lodg ing",
+            "ItemTotal": "16,317.66"
+        },
+        {
+            "ItemDescription": "Travel Meals",
+            "ItemTotal": "199.26"
+        },
+        {
+            "ItemDescription": "Local Transportation",
+            "ItemTotal": "496.12"
+        },
+        {
+            "ItemDescription": "Local Meals",
+            "ItemTotal": "437.61"
+        },
+        {
+            "ItemDescription": "Office Supplies",
+            "ItemTotal": "155.93"
+        },
+        {
+            "ItemDescription": "Conference Room Expenses",
+            "ItemTotal": "20.00"
+        },
+        {
+            "ItemDescription": "Duplicating Binding Telephone Telecopy Courier Air Delivery Services",
+            "ItemTotal": "388.72"
+        },
+        {
+            "ItemDescription": "Consulting Fees",
+            "ItemTotal": "82.00"
+        },
+        {
+            "ItemDescription": "Document Retrieval",
+            "ItemTotal": "104.30"
+        }
+    ],
+    "IssuedDate": "May 13, 1992",
+    "TotalAmount": "330,121.30"
+}

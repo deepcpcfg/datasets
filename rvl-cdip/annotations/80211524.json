@@ -1,0 +1,31 @@
+{
+    "InvoiceNumber": "7021-1",
+    "IssuedDate": "June 1, 1984",
+    "TotalAmount": "2,550.00",
+    "LineItem": [
+        {
+            "ItemDescription": "A-155 (Phase I) ",
+            "ItemTotal": "350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A-156 (Phase I)",
+            "ItemTotal": "350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "B-169 (Phase I)",
+            "ItemTotal": "350.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "A-160 (Phase I & II) ",
+            "ItemTotal": "1,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

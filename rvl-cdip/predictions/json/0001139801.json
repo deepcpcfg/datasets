@@ -1,0 +1,38 @@
+{
+    "InvoiceNumber": "P-11-0927",
+    "IssuedDate": "NOV21/74",
+    "LineItem": [
+        {
+            "ItemDescription": "ART ORDER HO ASPIRIN m",
+            "ItemTotal": "124-0.00"
+        },
+        {
+            "ItemDescription": "ART ORDER NO ASPIRIN INC",
+            "ItemTotal": "995,00"
+        },
+        {
+            "ItemDescription": "ART ORDER NO GERRY UINti",
+            "ItemTotal": "+1P.00"
+        },
+        {
+            "ItemDescription": "ART ORDER MO GERRY WIND",
+            "ItemTotal": "5000"
+        },
+        {
+            "ItemDescription": "ART ORDER NO GERRY HIND",
+            "ItemTotal": "U80.00"
+        },
+        {
+            "ItemDescription": "ART DROER NO AV STUDIO",
+            "ItemTotal": "325.00"
+        },
+        {
+            "ItemDescription": "ART OKDLfc NO GERRY UNO L",
+            "ItemTotal": "75.00"
+        },
+        {
+            "ItemDescription": "1320 ART UROER NO ASPIRIN INC",
+            "ItemTotal": "T9.20"
+        }
+    ]
+}

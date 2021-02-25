@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="66.0" fp="15.0" fn="21.0">
+    <IssuedDate tp="17.0" fp="0.0" fn="0.0">
+      <box l="712.0" t="755.0" r="908.0" b="801.0">February</box>
+      <box l="929.0" t="754.0" r="991.0" b="796.0">23,</box>
+      <box l="1017.0" t="755.0" r="1120.0" b="795.0">1993</box>
+    </IssuedDate>
+    <InvoiceNumber tp="7.0" fp="1.0" fn="1.0">
+      <box l="921.0" t="1482.0" r="1171.0" b="1527.0">#02-0188</box>
+    </InvoiceNumber>
+    <LineItem tp="35.0" fp="12.0" fn="19.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="708.0" t="2067.0" r="941.0" b="2108.0">Production</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2460.0" t="2067.0" r="2639.0" b="2109.0">$323.50</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="709.0" t="2141.0" r="966.0" b="2188.0">Typography</box>
+          <box l="708.0" t="2213.0" r="983.0" b="2255.0">Mechanicals</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2451.0" t="2140.0" r="2635.0" b="2184.0">1,455.25</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="2.0" fn="1.0">
+      <box l="2418.0" t="2580.0" r="2636.0" b="2626.0">$7,831,77</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

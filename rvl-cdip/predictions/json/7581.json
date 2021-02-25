@@ -1,0 +1,68 @@
+{
+    "IssuedDate": "July 31, 2001",
+    "InvoiceNumber": "211733",
+    "LineItem": [
+        {
+            "ItemDescription": "MARKETING"
+        },
+        {
+            "ItemDescription": "IL"
+        },
+        {
+            "ItemDescription": "For Professional Services Rendered:",
+            "ItemTotal": "$4,034.00"
+        },
+        {
+            "ItemDescription": "Winners Press Materials Scholarships",
+            "ItemTotal": "752.50"
+        },
+        {
+            "ItemDescription": "Liza Michaels",
+            "ItemTotal": "30.00"
+        },
+        {
+            "ItemDescription": "Liza Michaels",
+            "ItemTotal": "15.00"
+        },
+        {
+            "ItemDescription": "Liza Michaels",
+            "ItemTotal": "33.28"
+        },
+        {
+            "ItemDescription": "Sarah Trego",
+            "ItemTotal": "283.56"
+        },
+        {
+            "ItemDescription": "Liza Michaels",
+            "ItemTotal": "15-00"
+        },
+        {
+            "ItemDescription": "Sarah Trego",
+            "ItemTotal": "227.90"
+        },
+        {
+            "ItemDescription": "Renata Moore",
+            "ItemTotal": "68.73"
+        },
+        {
+            "ItemDescription": "Hugh Williams",
+            "ItemTotal": "16.00"
+        },
+        {
+            "ItemDescription": "Federal Express",
+            "ItemTotal": "10.94"
+        },
+        {
+            "ItemDescription": "Express",
+            "ItemTotal": "7.BQ"
+        },
+        {
+            "ItemDescription": "Associated Release",
+            "ItemTotal": "1,011.40"
+        },
+        {
+            "ItemDescription": "Associated Release",
+            "ItemTotal": "172.50"
+        }
+    ]
+}

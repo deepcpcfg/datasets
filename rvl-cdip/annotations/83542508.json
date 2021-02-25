@@ -1,0 +1,37 @@
+{
+    "InvoiceNumber": "3290",
+    "IssuedDate": "10/12/98",
+    "TotalAmount": "462.85",
+    "LineItem": [
+        {
+            "ItemDescription": "State of Arizona v. American Tobacco Co., Case No. CV <>6-14 769 Witnesses): Anthony Phillips, m.d. CopyT 191 pages",
+            "ItemTotal": "401.10",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Binding",
+            "ItemTotal": "6.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Exhibits",
+            "ItemTotal": "28.75",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Condensed Transcript",
+            "ItemTotal": "20.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Delivery and Handling",
+            "ItemTotal": "7.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

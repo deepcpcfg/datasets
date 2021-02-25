@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "December 11,",
+            {
+                "tp": 12.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "317,650.00",
+            {
+                "tp": 9.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$17,850.00",
+                            {
+                                "tp": 10.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Raleigh Trust Stoppers Program 1981 Partial Billing January 1, 1981 January 31, 1901",
+                            {
+                                "tp": 84.0,
+                                "fp": 0.0,
+                                "fn": 57.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 94.0,
+                        "fp": 0.0,
+                        "fn": 57.0
+                    }
+                ]
+            ],
+            {
+                "tp": 94.0,
+                "fp": 0.0,
+                "fn": 57.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 4.0
+            }
+        ]
+    },
+    {
+        "tp": 115.0,
+        "fp": 1.0,
+        "fn": 61.0
+    }
+]

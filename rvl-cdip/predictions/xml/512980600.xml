@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="81.0" fp="8.0" fn="9.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2718.0" t="359.0" r="2938.0" b="404.0">05-145</box>
+    </InvoiceNumber>
+    <IssuedDate tp="11.0" fp="0.0" fn="0.0">
+      <box l="771.0" t="1326.0" r="883.0" b="1377.0">May</box>
+      <box l="930.0" t="1324.0" r="986.0" b="1371.0">2,</box>
+      <box l="1046.0" t="1321.0" r="1183.0" b="1366.0">1989</box>
+    </IssuedDate>
+    <LineItem tp="61.0" fp="3.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="930.0" t="2372.0" r="1229.0" b="2426.0">Security</box>
+          <box l="1355.0" t="2372.0" r="1454.0" b="2413.0">201</box>
+          <box l="1500.0" t="2371.0" r="1610.0" b="2413.0">hrs</box>
+          <box l="1659.0" t="2368.0" r="1683.0" b="2416.0">6</box>
+          <box l="1734.0" t="2367.0" r="1917.0" b="2413.0">16.00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2305.0" t="2365.0" r="2604.0" b="2417.0">3,216,00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="933.0" t="2434.0" r="1192.0" b="2489.0">Sampler</box>
+          <box l="1354.0" t="2434.0" r="1457.0" b="2477.0">949</box>
+          <box l="1501.0" t="2433.0" r="1611.0" b="2477.0">hrs</box>
+          <box l="1659.0" t="2433.0" r="1684.0" b="2480.0">0</box>
+          <box l="1738.0" t="2431.0" r="1917.0" b="2476.0">12.00</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2272.0" t="2428.0" r="2604.0" b="2484.0">11,388.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="3.0" fp="5.0" fn="6.0">
+      <box l="2310.0" t="2717.0" r="2605.0" b="2776.0">5,772,00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

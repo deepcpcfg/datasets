@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "1475-1",
+    "IssuedDate": "December 13, 1982",
+    "LineItem": [
+        {
+            "ItemDescription": "EVALUATION OF I KONOS UP PRES¬ SION IN B6C3F1 MICE WITH Com¬ pounds A-19, B-134 & B-135",
+            "ItemTotal": "$3,500.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

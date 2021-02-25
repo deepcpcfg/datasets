@@ -1,0 +1,14 @@
+{
+    "InvoiceNumber": "#0-1^7",
+    "IssuedDate": "6/^/74",
+    "LineItem": [
+        {
+            "ItemDescription": "■Wick Test",
+            "ItemTotal": "4,455>59"
+        },
+        {
+            "ItemDescription": "Supervisory ->xpenso",
+            "ItemTotal": "668,34"
+        }
+    ]
+}

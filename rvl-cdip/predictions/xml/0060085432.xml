@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="110.0" fp="1.0" fn="1.0">
+    <InvoiceNumber tp="6.0" fp="0.0" fn="0.0">
+      <box l="2039.0" t="583.0" r="2247.0" b="625.0">002586</box>
+    </InvoiceNumber>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2039.0" t="699.0" r="2317.0" b="742.0">03/08/93</box>
+    </IssuedDate>
+    <LineItem tp="89.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="95.0" t="1751.0" r="304.0" b="1792.0">DIRECT</box>
+          <box l="341.0" t="1751.0" r="658.0" b="1793.0">MAIL/NAME</box>
+          <box l="697.0" t="1751.0" r="866.0" b="1792.0">ENTRY</box>
+          <box l="905.0" t="1751.0" r="1146.0" b="1792.0">CHARGES</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2568.0" t="1755.0" r="2847.0" b="1796.0">5,494.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="92.0" t="1809.0" r="304.0" b="1851.0">PALLET</box>
+          <box l="341.0" t="1809.0" r="584.0" b="1851.0">STORAGE</box>
+          <box l="625.0" t="1809.0" r="830.0" b="1851.0">CHARGE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2672.0" t="1813.0" r="2847.0" b="1852.0">21.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="92.0" t="1867.0" r="304.0" b="1909.0">PALLET</box>
+          <box l="341.0" t="1867.0" r="621.0" b="1909.0">HANDLING</box>
+          <box l="662.0" t="1867.0" r="762.0" b="1909.0">FEE</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2643.0" t="1871.0" r="2847.0" b="1912.0">170.00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+    <TotalAmount tp="7.0" fp="1.0" fn="1.0">
+      <box l="2568.0" t="2101.0" r="2847.0" b="2142.0">5,885.00</box>
+    </TotalAmount>
+  </Invoice>
+</InvoiceDoc>

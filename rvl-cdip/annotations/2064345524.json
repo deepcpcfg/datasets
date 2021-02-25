@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "ERP-94-1207",
+    "IssuedDate": "04-14-95.",
+    "LineItem": [
+        {
+            "ItemDescription": "ERD 94—1207; Amendment 4 \"Analysis of Origin of Residual Stresses in Phillip Morris U.S.A. Suparalloy Proprietary Components\" Advance Payment",
+            "ItemTotal": "$ 20,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

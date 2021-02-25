@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="21.0" fp="190.0" fn="3.0">
+    <InvoiceNumber tp="5.0" fp="0.0" fn="0.0">
+      <box l="2411.0" t="808.0" r="2542.0" b="844.0">2854D</box>
+    </InvoiceNumber>
+    <TotalAmount tp="0.0" fp="3.0" fn="0.0">
+      <box l="2674.0" t="370.0" r="3002.0" b="598.0">Inc</box>
+    </TotalAmount>
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2415.0" t="966.0" r="2620.0" b="1008.0">10/15/93</box>
+    </IssuedDate>
+    <LineItem tp="8.0" fp="187.0" fn="3.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="779.0" t="1677.0" r="829.0" b="1710.0">Jte</box>
+          <box l="833.0" t="1674.0" r="962.0" b="1710.0">touch</box>
+          <box l="991.0" t="1674.0" r="1146.0" b="1717.0">pbotos</box>
+          <box l="1179.0" t="1673.0" r="1280.0" b="1705.0">used</box>
+          <box l="1313.0" t="1670.0" r="1386.0" b="1703.0">for</box>
+          <box l="1415.0" t="1665.0" r="1753.0" b="1707.0">comprehensive</box>
+          <box l="1786.0" t="1666.0" r="1986.0" b="1708.0">layouts.:</box>
+          <box l="911.0" t="1832.0" r="1152.0" b="1869.0">Fishernen</box>
+          <box l="1177.0" t="1840.0" r="1231.0" b="1866.0">on</box>
+          <box l="1260.0" t="1831.0" r="1361.0" b="1865.0">lake</box>
+          <box l="1443.0" t="1827.0" r="1598.0" b="1863.0">smooth</box>
+          <box l="1624.0" t="1829.0" r="1704.0" b="1861.0">exit</box>
+          <box l="1732.0" t="1826.0" r="1812.0" b="1860.0">and</box>
+          <box l="1838.0" t="1824.0" r="1996.0" b="1859.0">extend</box>
+          <box l="2018.0" t="1828.0" r="2153.0" b="1858.0">water</box>
+          <box l="913.0" t="1944.0" r="991.0" b="1976.0">Man</box>
+          <box l="1021.0" t="1938.0" r="1070.0" b="1974.0">in</box>
+          <box l="1102.0" t="1947.0" r="1208.0" b="1972.0">snow</box>
+          <box l="1230.0" t="1935.0" r="1492.0" b="1970.0">wilderness</box>
+          <box l="1576.0" t="1935.0" r="1707.0" b="1968.0">clean</box>
+          <box l="1734.0" t="1941.0" r="1786.0" b="1974.0">up</box>
+          <box l="1813.0" t="1939.0" r="1916.0" b="1963.0">snew</box>
+          <box l="1946.0" t="1931.0" r="2021.0" b="1964.0">and</box>
+          <box l="994.0" t="1993.0" r="1074.0" b="2028.0">add</box>
+          <box l="1101.0" t="1997.0" r="1230.0" b="2029.0">trees</box>
+          <box l="916.0" t="2107.0" r="1048.0" b="2147.0">Bayou</box>
+          <box l="1075.0" t="2110.0" r="1206.0" b="2137.0">scene</box>
+          <box l="1286.0" t="2096.0" r="1444.0" b="2135.0">extend</box>
+          <box l="1470.0" t="2095.0" r="1735.0" b="2140.0">background</box>
+          <box l="1761.0" t="2104.0" r="1814.0" b="2129.0">cn</box>
+          <box l="1840.0" t="2092.0" r="1945.0" b="2129.0">both</box>
+          <box l="1974.0" t="2090.0" r="2102.0" b="2127.0">sides</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2576.0" t="1657.0" r="2679.0" b="1692.0">S800</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

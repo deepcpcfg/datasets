@@ -1,0 +1,20 @@
+{
+    "InvoiceNumber": "5430030",
+    "LineItem": [
+        {
+            "ItemDescription": "WINSTON BOX S1/2PKS",
+            "ItemUnitValue": "78,000",
+            "ItemTotal": "3,814.20"
+        },
+        {
+            "ItemDescription": "WINSTON LT BOX S1/2PKS",
+            "ItemUnitValue": "150.000",
+            "ItemTotal": "283.4000"
+        },
+        {
+            "ItemUnitCount": "13",
+            "ItemDescription": "WINSTON UL LT BX S1/2PKS",
+            "ItemTotal": "283.4000"
+        }
+    ]
+}

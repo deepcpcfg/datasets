@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "S-9MM0",
+    "IssuedDate": "Npyfcmbec4J924",
+    "LineItem": [
+        {
+            "ItemDescription": "3-Page Contract Icor vending machine column",
+            "ItemUnitCount": "500",
+            "ItemUnitValue": "@682",
+            "ItemTotal": "341,000"
+        }
+    ],
+    "TotalAmount": "392,000"
+}

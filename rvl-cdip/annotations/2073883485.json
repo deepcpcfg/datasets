@@ -1,0 +1,151 @@
+{
+    "InvoiceNumber": "39865391",
+    "IssuedDate": "March 9,1998",
+    "LineItem": [
+        {
+            "ItemTotal": "22,605.90",
+            "ItemDescription": "Expenses posted (February 1-28, 1998)",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "31,000.00",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354619",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "48,500.00",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354620",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "23,200.00",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354621",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "38,500.00",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354627 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "76.25",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354629 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "905.56",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354630",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "10.25",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354631 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "60.80",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354632 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "124.53",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354633 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "23,842.52",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354634 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,605.34",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354635 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "23,678.41",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354636 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "18,934.20",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354637",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "22.80",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 354638 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "88,639.86",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 394401 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "200,000.00",
+            "ItemDescription": "Bozell Sawyer Miller Group Invoice 394403 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "39,425.00",
+            "ItemDescription": "Joe R. Dabro Invoices 102 through 107",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "77,083.25",
+            "ItemDescription": "Barents Group L.L.C. Invoice 6 ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "317j832.74",
+            "ItemDescription": "Philip Morris ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "56,585.33",
+            "ItemDescription": "Loews Corporation ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "104,524.78",
+            "ItemDescription": "Brown Si Williamson ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "158,013.07",
+            "ItemDescription": "RJR Na bi sco ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "8,258.75",
+            "ItemDescription": "UST ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

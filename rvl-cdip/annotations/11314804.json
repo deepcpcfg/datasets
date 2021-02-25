@@ -1,0 +1,61 @@
+{
+    "InvoiceNumber": "2379",
+    "IssuedDate": "May 21, 1971",
+    "TotalAmount": "1160.53",
+    "LineItem": [
+        {
+            "ItemDescription": "Addressing your Council for Tobacco Research envelope to A, CD, GE, PH, PATH, Total Office Based Prim ry specialty, in U. S. PUD, R, total office based, primary and secondary, in U.S. TS, total patient care in U.S.",
+            "ItemUnitCount": "19910",
+            "ItemUnitValue": "18.15",
+            "ItemTotal": "361.37"
+        },
+        {
+            "ItemDescription": "Addressing above envelopes to Medical School libraries",
+            "ItemUnitCount": "328",
+            "ItemTotal": "35.00",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Enclosing book \"Report of the Scientific Direcoor",
+            "ItemUnitCount": "20238",
+            "ItemUnitValue": "18.00",
+            "ItemTotal": "364.28"
+        },
+        {
+            "ItemDescription": "Sort and mail",
+            "ItemUnitCount": "20238",
+            "ItemUnitValue": "7.75",
+            "ItemTotal": "156.84"
+        },
+        {
+            "ItemDescription": "AMA fee",
+            "ItemUnitCount": "19910",
+            "ItemUnitValue": "6.00",
+            "ItemTotal": "119.46,"
+        },
+        {
+            "ItemDescription": "Postage advanced",
+            "ItemTotal": "951.36",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Bulk fee",
+            "ItemTotal": "30.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Trucking",
+            "ItemTotal": "35.50",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Freight",
+            "ItemTotal": "10.85",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

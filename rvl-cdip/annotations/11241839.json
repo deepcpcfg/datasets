@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "7 - 468 ",
+    "IssuedDate": "75 JUL 29",
+    "TotalAmount": "25,383.00",
+    "LineItem": [
+        {
+            "ItemDescription": "RESEARCH STUDIES GM CIGARETTE CHARACTERISTICS",
+            "ItemTotal": "25.383.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

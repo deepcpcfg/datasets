@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="60.0" fp="90.0" fn="7.0">
+    <IssuedDate tp="8.0" fp="0.0" fn="0.0">
+      <box l="2093.0" t="1265.0" r="2309.0" b="1310.0">10/26/94</box>
+    </IssuedDate>
+    <InvoiceNumber tp="9.0" fp="0.0" fn="0.0">
+      <box l="2539.0" t="1267.0" r="2788.0" b="1307.0">CCC94-114</box>
+    </InvoiceNumber>
+    <LineItem tp="43.0" fp="90.0" fn="0.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="531.0" t="1923.0" r="669.0" b="1961.0">Video</box>
+          <box l="701.0" t="1924.0" r="952.0" b="1959.0">Print-out</box>
+          <box l="986.0" t="1924.0" r="1094.0" b="1960.0">Cost</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2739.0" t="1918.0" r="2936.0" b="1964.0">¥13,000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="535.0" t="2124.0" r="576.0" b="2165.0">1)</box>
+          <box l="614.0" t="2125.0" r="668.0" b="2162.0">A3</box>
+          <box l="843.0" t="2137.0" r="872.0" b="2159.0">x</box>
+          <box l="904.0" t="2122.0" r="981.0" b="2159.0">120</box>
+          <box l="1022.0" t="2122.0" r="1230.0" b="2166.0">03¥450):</box>
+          <box l="1298.0" t="2127.0" r="1551.0" b="2170.0">Newspaper</box>
+          <box l="1584.0" t="2124.0" r="1657.0" b="2159.0">ad.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2776.0" t="2118.0" r="2939.0" b="2161.0">34,000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="617.0" t="2179.0" r="667.0" b="2216.0">B4</box>
+          <box l="701.0" t="2191.0" r="809.0" b="2216.0">sj.2e</box>
+          <box l="843.0" t="2192.0" r="871.0" b="2217.0">x</box>
+          <box l="905.0" t="2180.0" r="980.0" b="2217.0">120</box>
+          <box l="1297.0" t="2173.0" r="1521.0" b="2228.0">Magazine</box>
+          <box l="1556.0" t="2184.0" r="1630.0" b="2216.0">ad.</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2776.0" t="2175.0" r="2938.0" b="2218.0">42,000</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="613.0" t="2240.0" r="668.0" b="2275.0">A4</box>
+          <box l="703.0" t="2241.0" r="809.0" b="2275.0">size</box>
+          <box l="843.0" t="2251.0" r="871.0" b="2276.0">x</box>
+          <box l="908.0" t="2238.0" r="984.0" b="2276.0">120</box>
+          <box l="1021.0" t="2236.0" r="1234.0" b="2283.0">(9S280Jt</box>
+          <box l="1301.0" t="2240.0" r="1411.0" b="2274.0">TVCF</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2777.0" t="2234.0" r="2941.0" b="2275.0">33,600</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

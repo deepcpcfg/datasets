@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "May 26. 1992",
+    "InvoiceNumber": "#05-0229",
+    "LineItem": [
+        {
+            "ItemDescription": "Produclior.",
+            "ItemTotal": "$773,00"
+        },
+        {
+            "ItemDescription": "Typography Mechanicals",
+            "ItemTotal": "3.202.61"
+        },
+        {
+            "ItemDescription": "Wise. (Copies, Stats]",
+            "ItemTotal": "295.25"
+        }
+    ],
+    "TotalAmount": "$5,185.16"
+}

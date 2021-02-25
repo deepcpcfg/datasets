@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "14507-B",
+    "IssuedDate": "September 30, 1988",
+    "LineItem": [
+        {
+            "ItemDescription": "FIELDWORK PORTION: POSTAGE: 3466 MAILED X $.65 each",
+            "ItemTotal": "$2,252.90",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

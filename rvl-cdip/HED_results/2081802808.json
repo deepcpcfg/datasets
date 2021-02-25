@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "6/28/95",
+            {
+                "tp": 6.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "TotalAmount": [
+            "$5,450,00",
+            {
+                "tp": 7.0,
+                "fp": 2.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "$5,450,00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 1.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "Agency fees for additional recipe development, supervision, tracking and reporting; meeting and administration!",
+                            {
+                                "tp": 109.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 116.0,
+                        "fp": 4.0,
+                        "fn": 3.0
+                    }
+                ]
+            ],
+            {
+                "tp": 116.0,
+                "fp": 4.0,
+                "fn": 3.0
+            }
+        ],
+        "InvoiceNumber": [
+            "94382",
+            {
+                "tp": 5.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 134.0,
+        "fp": 7.0,
+        "fn": 5.0
+    }
+]

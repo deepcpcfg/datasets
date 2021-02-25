@@ -1,0 +1,10 @@
+{
+    "IssuedDate": "12/1/80",
+    "InvoiceNumber": "10488",
+    "LineItem": [
+        {
+            "ItemDescription": "12th INST SERVICE FEE FOR CASUALTY PROGRAM",
+            "ItemTotal": "513,750.00"
+        }
+    ]
+}

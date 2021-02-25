@@ -1,0 +1,13 @@
+{
+    "InvoiceNumber": "5S-1101",
+    "IssuedDate": "6/28/93",
+    "LineItem": [
+        {
+            "ItemDescription": "ENGINEERING DONE DURING FIRST QUARTER 1993",
+            "ItemTotal": "$70,000.00",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "TotalAmount": ""
+}

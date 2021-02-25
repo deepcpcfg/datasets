@@ -1,0 +1,58 @@
+{
+    "LineItem": [
+        {
+            "ItemDescription": "RESEARCH FULL-TIME H0SP7"
+        },
+        {
+            "ItemDescription": "TS TOTAL PHYSICIANS",
+            "ItemUnitCount": "19,256",
+            "ItemTotal": "1,116.85"
+        },
+        {
+            "ItemDescription": "SELECT And ADDRESS YOUR SPECIAL LIST....",
+            "ItemUnitCount": "304"
+        },
+        {
+            "ItemDescription": "ADDITIONAL CHARGE FOR OVERSIZED MAILERS",
+            "ItemUnitCount": "19,560",
+            "ItemUnitValue": "4.15",
+            "ItemTotal": "81.17"
+        },
+        {
+            "ItemDescription": "THE COUNCIL FOR TOBACCO"
+        },
+        {
+            "ItemDescription": "INC. 1983",
+            "ItemUnitCount": "19,560",
+            "ItemTotal": "1,907.10"
+        },
+        {
+            "ItemDescription": "SORT AND MAIL",
+            "ItemUnitCount": "19,560",
+            "ItemUnitValue": "31.00",
+            "ItemTotal": "606.36"
+        },
+        {
+            "ItemDescription": "POSTAL SERVICE FEE",
+            "ItemTotal": "250.61"
+        },
+        {
+            "ItemDescription": "AMA FEE",
+            "ItemUnitCount": "19,256",
+            "ItemTotal": "259.96"
+        },
+        {
+            "ItemDescription": "POSTAGE ADVANCED",
+            "ItemTotal": "4,136.85"
+        },
+        {
+            "ItemDescription": "BULK FEE",
+            "ItemTotal": "40.00"
+        },
+        {
+            "ItemDescription": "FREIGHT AND HANDLING CHARGES",
+            "ItemTotal": "251.57"
+        }
+    ],
+    "TotalAmount": "8,920.7£"
+}

@@ -1,0 +1,19 @@
+{
+    "InvoiceNumber": "CRO101",
+    "IssuedDate": "Dec 18, 1991",
+    "TotalAmount": "12,863.84",
+    "LineItem": [
+        {
+            "ItemDescription": "FH Invoice #072/91 of 12/4/91 refers 273,500 EF @ 33 BF = $1",
+            "ItemTotal": "$ 8,287.87",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemDescription": "Government Relation Activities. FH Invoice 1071/91 of 11/28/91 refers 151,007 EF € 33 ff = $1",
+            "ItemTotal": "$ 4,575.97",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

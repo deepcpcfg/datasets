@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceDoc>
+  <Invoice tp="50.0" fp="33.0" fn="55.0">
+    <InvoiceNumber tp="9.0" fp="3.0" fn="2.0">
+      <box l="2317.0" t="684.0" r="2569.0" b="710.0">Pft0l-0D5936</box>
+    </InvoiceNumber>
+    <IssuedDate tp="0.0" fp="4.0" fn="8.0">
+      <box l="632.0" t="994.0" r="719.0" b="1023.0">1999</box>
+    </IssuedDate>
+    <LineItem tp="41.0" fp="26.0" fn="39.0">
+      <lineItem>
+        <ItemDescription>
+          <box l="319.0" t="1306.0" r="647.0" b="1335.0">Coomiasionable</box>
+          <box l="674.0" t="1307.0" r="836.0" b="1340.0">Chargee</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2477.0" t="1304.0" r="2565.0" b="1330.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="318.0" t="1401.0" r="460.0" b="1435.0">Agency</box>
+          <box l="485.0" t="1394.0" r="718.0" b="1428.0">Cwanissipn</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2477.0" t="1393.0" r="2565.0" b="1422.0">0.00</box>
+        </ItemTotal>
+      </lineItem>
+      <lineItem>
+        <ItemDescription>
+          <box l="318.0" t="1489.0" r="480.0" b="1518.0">Invoice</box>
+          <box l="505.0" t="1493.0" r="647.0" b="1519.0">Aiwunz</box>
+        </ItemDescription>
+        <ItemTotal>
+          <box l="2427.0" t="1484.0" r="2564.0" b="1513.0">209-00</box>
+        </ItemTotal>
+      </lineItem>
+    </LineItem>
+  </Invoice>
+</InvoiceDoc>

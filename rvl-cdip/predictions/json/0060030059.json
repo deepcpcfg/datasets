@@ -1,0 +1,26 @@
+{
+    "IssuedDate": "December 30, 1992",
+    "LineItem": [
+        {
+            "ItemDescription": "Produce Trial Mailing #2 Profile Report",
+            "ItemTotal": "$4,91i.39"
+        },
+        {
+            "ItemDescription": "List PuU (314,037 records S5.88/M)",
+            "ItemTotal": "1,846.54"
+        },
+        {
+            "ItemDescription": "Merge/Purge (31 *037 records S2.35/M)",
+            "ItemTotal": "737.99"
+        },
+        {
+            "ItemDescription": "Ink Jet Program Processing (306,612 records S2.35/M}",
+            "ItemTotal": "725.24"
+        },
+        {
+            "ItemDescription": "Programm Ing",
+            "ItemTotal": "S3.13"
+        }
+    ],
+    "TotalAmount": "$9,374.79"
+}

@@ -1,0 +1,12 @@
+{
+    "IssuedDate": "February 25, 1988",
+    "LineItem": [
+        {
+            "ItemUnitCount": "16",
+            "ItemDescription": "Gamma in Tobacco",
+            "ItemUnitValue": "$65.00",
+            "ItemTotal": "$1,040.0"
+        }
+    ],
+    "TotalAmount": "$1,040.01"
+}

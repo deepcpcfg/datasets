@@ -1,0 +1,22 @@
+{
+    "IssuedDate": "May 29, *992",
+    "InvoiceNumber": "#05-0339",
+    "LineItem": [
+        {
+            "ItemDescription": "Sampling Team",
+            "ItemTotal": "$6,642.36"
+        },
+        {
+            "ItemDescription": "Program Development ExocuKon Plan",
+            "ItemTotal": "15.090.00"
+        },
+        {
+            "ItemDescription": "Comp rehens ives Art Mechanicals",
+            "ItemTotal": "1b.6S6.12"
+        },
+        {
+            "ItemDescription": "(Logo Line Art, Poster, Coupons)",
+            "ItemTotal": "338.48"
+        }
+    ]
+}

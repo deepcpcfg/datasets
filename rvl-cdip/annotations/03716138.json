@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "September 30, 1976",
+    "TotalAmount": "105.13",
+    "LineItem": [
+        {
+            "ItemTotal": "$100.00",
+            "ItemDescription": "Modification 50 Advertising Signs As Directed",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "5.13",
+            "ItemDescription": "Rework & Repack Supplies ",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ],
+    "InvoiceNumber": ""
+}

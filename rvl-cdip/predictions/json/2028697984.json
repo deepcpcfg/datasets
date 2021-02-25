@@ -1,0 +1,30 @@
+{
+    "InvoiceNumber": "59/91",
+    "IssuedDate": "26 maa.91",
+    "LineItem": [
+        {
+            "ItemDescription": "Meetpipetten, Superior,"
+        },
+        {
+            "ItemUnitCount": "5",
+            "ItemDescription": "stuk 2 ml, nr.",
+            "ItemTotal": "280,-"
+        },
+        {
+            "ItemUnitCount": "5",
+            "ItemDescription": "Btuk 5 ml, nr.",
+            "ItemTotal": "380,-"
+        },
+        {
+            "ItemUnitCount": "5",
+            "ItemDescription": "stuk 10 mlf nr.",
+            "ItemTotal": "480,-"
+        },
+        {
+            "ItemUnitCount": "5",
+            "ItemDescription": "stuk 25 ml, nr.",
+            "ItemTotal": "600,-"
+        }
+    ],
+    "TotalAmount": "*864698202"
+}

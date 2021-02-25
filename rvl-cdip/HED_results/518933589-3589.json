@@ -1,0 +1,174 @@
+[
+    {
+        "IssuedDate": [
+            "24,",
+            {
+                "tp": 1.0,
+                "fp": 2.0,
+                "fn": 7.0
+            }
+        ],
+        "TotalAmount": [
+            "26,666.06",
+            {
+                "tp": 3.0,
+                "fp": 6.0,
+                "fn": 6.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemUnitCount": [
+                            "30",
+                            {
+                                "tp": 1.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "900.000",
+                            {
+                                "tp": 3.0,
+                                "fp": 4.0,
+                                "fn": 5.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "53,505.00",
+                            {
+                                "tp": 9.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CAMLL FILTER BOX B1G1F",
+                            {
+                                "tp": 19.0,
+                                "fp": 3.0,
+                                "fn": 3.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 32.0,
+                        "fp": 8.0,
+                        "fn": 10.0
+                    }
+                ],
+                [
+                    {
+                        "ItemUnitCount": [
+                            "30",
+                            {
+                                "tp": 1.0,
+                                "fp": 1.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "000.000",
+                            {
+                                "tp": 4.0,
+                                "fp": 3.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "S3,505.00",
+                            {
+                                "tp": 7.0,
+                                "fp": 2.0,
+                                "fn": 2.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "CAMEL LT BOX B1G1F",
+                            {
+                                "tp": 18.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 30.0,
+                        "fp": 6.0,
+                        "fn": 8.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "S3.505,GO-",
+                            {
+                                "tp": 0.0,
+                                "fp": 10.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LESS CREDIT FOR FREE PRODUCT",
+                            {
+                                "tp": 0.0,
+                                "fp": 28.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 38.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemTotal": [
+                            "1.730.92-",
+                            {
+                                "tp": 0.0,
+                                "fp": 9.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "LESS HANDLING ALLOWANCE",
+                            {
+                                "tp": 0.0,
+                                "fp": 23.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 32.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 62.0,
+                "fp": 84.0,
+                "fn": 18.0
+            }
+        ],
+        "InvoiceNumber": [
+            "014-0020",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 74.0,
+        "fp": 92.0,
+        "fn": 31.0
+    }
+]

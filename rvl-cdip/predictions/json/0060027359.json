@@ -1,0 +1,19 @@
+{
+    "IssuedDate": "December 27,1993",
+    "InvoiceNumber": "*12-0531",
+    "LineItem": [
+        {
+            "ItemDescription": "Design",
+            "ItemTotal": "$830.20"
+        },
+        {
+            "ItemDescription": "Comprehensive Production",
+            "ItemTotal": "1.459.58"
+        },
+        {
+            "ItemDescription": "Typography Mechantcal",
+            "ItemTotal": "2.202.84"
+        }
+    ],
+    "TotalAmount": "$5,631.80"
+}

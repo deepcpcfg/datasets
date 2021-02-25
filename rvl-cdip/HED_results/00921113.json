@@ -1,0 +1,117 @@
+[
+    {
+        "IssuedDate": [
+            "December 13, 1931",
+            {
+                "tp": 16.0,
+                "fp": 1.0,
+                "fn": 1.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemDescription": [
+                            "INDUCTION OF HEPATIC MICROSOMAL",
+                            {
+                                "tp": 31.0,
+                                "fp": 0.0,
+                                "fn": 40.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemTotal": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 9.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 31.0,
+                        "fp": 0.0,
+                        "fn": 49.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "ENZYMES ON MATERIALS AZO,",
+                            {
+                                "tp": 0.0,
+                                "fp": 25.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 25.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "ItemDescription": [
+                            "and",
+                            {
+                                "tp": 0.0,
+                                "fp": 3.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 0.0,
+                        "fp": 3.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 31.0,
+                "fp": 28.0,
+                "fn": 49.0
+            }
+        ],
+        "TotalAmount": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "InvoiceNumber": [
+            "",
+            {
+                "tp": 0.0,
+                "fp": 0.0,
+                "fn": 2.0
+            }
+        ]
+    },
+    {
+        "tp": 47.0,
+        "fp": 29.0,
+        "fn": 52.0
+    }
+]

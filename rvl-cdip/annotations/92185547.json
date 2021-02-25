@@ -1,0 +1,25 @@
+{
+    "InvoiceNumber": "1039016",
+    "IssuedDate": "SEP. 2..1991",
+    "TotalAmount": "16,016.40",
+    "LineItem": [
+        {
+            "ItemTotal": "1104.00",
+            "ItemDescription": "SEP<09t1991 JET",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "17544.00",
+            "ItemDescription": "1 PAGE SEP.09fJ.991 JET 4 COLOR ORDER NUMBER LM8534",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        },
+        {
+            "ItemTotal": "2,63L.60CR",
+            "ItemDescription": "COMMISSION FROM ABOVE ITEM",
+            "ItemUnitCount": "",
+            "ItemUnitValue": ""
+        }
+    ]
+}

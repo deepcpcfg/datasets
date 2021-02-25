@@ -1,0 +1,31 @@
+{
+    "IssuedDate": "June 30, 1998",
+    "InvoiceNumber": "354874",
+    "TotalAmount": "$5,211.71",
+    "LineItem": [
+        {
+            "ItemDescription": "Supplies for FA Groups",
+            "ItemTotal": "121.70"
+        },
+        {
+            "ItemDescription": "Ground Transportation",
+            "ItemTotal": "221.00"
+        },
+        {
+            "ItemDescription": "Equipment Rental",
+            "ItemTotal": "895.00"
+        },
+        {
+            "ItemDescription": "Respondent Incentives",
+            "ItemTotal": "3,600.00"
+        },
+        {
+            "ItemDescription": "Client Meals at Focus Groups",
+            "ItemTotal": "180.00"
+        },
+        {
+            "ItemDescription": "Overnight Telephone Courier Photocopy Facsimile",
+            "ItemTotal": "47.40"
+        }
+    ]
+}

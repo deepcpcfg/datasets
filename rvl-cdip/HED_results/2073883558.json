@@ -1,0 +1,83 @@
+[
+    {
+        "IssuedDate": [
+            "12/01/97",
+            {
+                "tp": 8.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalAmount": [
+            "$94.60",
+            {
+                "tp": 5.0,
+                "fp": 1.0,
+                "fn": 0.0
+            }
+        ],
+        "LineItem": [
+            [
+                [
+                    {
+                        "ItemTotal": [
+                            "94",
+                            {
+                                "tp": 1.0,
+                                "fp": 1.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemDescription": [
+                            "1-24-97 Directed. Passenger, Mr. Phai Carltorr. From IAD To As",
+                            {
+                                "tp": 49.0,
+                                "fp": 13.0,
+                                "fn": 4.0
+                            }
+                        ],
+                        "ItemUnitCount": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "ItemUnitValue": [
+                            "",
+                            {
+                                "tp": 0.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 50.0,
+                        "fp": 14.0,
+                        "fn": 8.0
+                    }
+                ]
+            ],
+            {
+                "tp": 50.0,
+                "fp": 14.0,
+                "fn": 8.0
+            }
+        ],
+        "InvoiceNumber": [
+            "1108",
+            {
+                "tp": 4.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 67.0,
+        "fp": 15.0,
+        "fn": 8.0
+    }
+]
