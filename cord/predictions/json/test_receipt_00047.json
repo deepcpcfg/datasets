@@ -1,0 +1,21 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "COPIA 1 /GB",
+            "MenuCnt": "1",
+            "MenuPrice": "45,000.00"
+        },
+        {
+            "MenuNm": "PLASTIC BAG RED CENTRAL SI",
+            "MenuCnt": "1",
+            "MenuUnitprice": "0.00",
+            "MenuPrice": "45,000.00"
+        },
+        {
+            "MenuNm": "COPIA 1 /GB",
+            "MenuCnt": "1",
+            "MenuPrice": "18,000.00"
+        }
+    ],
+    "TotalPrice": "63,000.00"
+}

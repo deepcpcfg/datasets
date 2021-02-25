@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="121.0" fp="0.0" fn="0.0">
+    <LineItem tp="115.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="21.0" t="312.0" r="72.0" b="331.0">Snack</box>
+          <box l="80.0" t="312.0" r="151.0" b="331.0">Lestari</box>
+          <box l="158.0" t="312.0" r="188.0" b="336.0">All</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="40.0" t="336.0" r="53.0" b="357.0">2</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="78.0" t="336.0" r="141.0" b="361.0">27,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="352.0" t="339.0" r="417.0" b="362.0">54,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="17.0" t="364.0" r="79.0" b="388.0">Bakery</box>
+          <box l="88.0" t="358.0" r="141.0" b="384.0">Aneka</box>
+          <box l="149.0" t="360.0" r="196.0" b="384.0">Sisir</box>
+          <box l="204.0" t="364.0" r="415.0" b="392.0">Banana,Pizza,yoko,Mar</box>
+          <box l="19.0" t="388.0" r="336.0" b="418.0">mer,Daging,abon,keju,cokelat,dll</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="38.0" t="415.0" r="50.0" b="435.0">2</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="80.0" t="415.0" r="130.0" b="440.0">7,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="356.0" t="416.0" r="415.0" b="443.0">14,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="296.0" t="472.0" r="415.0" b="497.0">68,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

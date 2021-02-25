@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="71.0" fp="0.0" fn="0.0">
+    <LineItem tp="64.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="184.0" t="772.0" r="196.0" b="798.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="220.0" t="770.0" r="320.0" b="798.0">Pecel</box>
+          <box l="340.0" t="770.0" r="476.0" b="798.0">Komplit</box>
+          <box l="496.0" t="774.0" r="516.0" b="794.0">+</box>
+          <box l="534.0" t="770.0" r="608.0" b="798.0">Nasi</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="716.0" t="770.0" r="826.0" b="798.0">42.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="182.0" t="802.0" r="196.0" b="828.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="220.0" t="800.0" r="302.0" b="828.0">SOTO</box>
+          <box l="320.0" t="798.0" r="422.0" b="828.0">KUDUS</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="717.0" t="796.0" r="828.0" b="826.0">47.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="178.0" t="830.0" r="200.0" b="858.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="218.0" t="830.0" r="358.0" b="858.0">Mineral</box>
+          <box l="378.0" t="828.0" r="476.0" b="858.0">Water</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="722.0" t="826.0" r="828.0" b="854.0">18.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="699.0" t="966.0" r="830.0" b="1020.0">123.585</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

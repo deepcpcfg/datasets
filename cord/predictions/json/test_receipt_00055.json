@@ -1,0 +1,15 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "APPLE CINNAMON PASTRY",
+            "MenuPrice": "22,000"
+        },
+        {
+            "MenuCnt": "2",
+            "MenuNm": "ROYAL CHEESE TART",
+            "MenuPrice": "32,000"
+        }
+    ],
+    "TotalPrice": "54,000"
+}

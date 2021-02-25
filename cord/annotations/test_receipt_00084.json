@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "@ 12.000",
+            "MenuNm": "Kroket",
+            "MenuPrice": "12.000",
+            "MenuCnt": "1x"
+        },
+        {
+            "MenuUnitprice": "@ 12.000",
+            "MenuNm": "Arem Arem",
+            "MenuPrice": "24.000",
+            "MenuCnt": "2x"
+        }
+    ],
+    "TotalPrice": "Rp"
+}

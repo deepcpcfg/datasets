@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "ICED TT",
+            "MenuPrice": "20,000",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "ICED GT",
+            "MenuPrice": "22,000",
+            "MenuCnt": ""
+        }
+    ],
+    "TotalPrice": ""
+}

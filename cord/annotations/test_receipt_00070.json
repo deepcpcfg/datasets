@@ -1,0 +1,65 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "216,000",
+            "MenuNm": "UDANG RE",
+            "MenuPrice": "432,000",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "=*LARGE*==",
+            "MenuPrice": "",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "AYM GR JUN NJAN",
+            "MenuPrice": "108,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "SAPO TH SEAFOOD",
+            "MenuPrice": "172,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "111,000",
+            "MenuNm": "POCAI 3",
+            "MenuPrice": "222.000",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "=*MEDIUM*=",
+            "MenuPrice": "",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "GURAME FILLET M",
+            "MenuPrice": "163,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "BIHUN GORENG JJ",
+            "MenuPrice": "116,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "12,000",
+            "MenuNm": "ICED TEA",
+            "MenuPrice": "60,000",
+            "MenuCnt": "5"
+        },
+        {
+            "MenuUnitprice": "10,000",
+            "MenuNm": "NASI PUTIH",
+            "MenuPrice": "70,000",
+            "MenuCnt": "7"
+        }
+    ],
+    "TotalPrice": "1,565,938"
+}

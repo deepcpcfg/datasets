@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="28.0" fp="0.0" fn="0.0">
+    <LineItem tp="28.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="32.0" t="318.0" r="237.0" b="351.0">Bumbu Kaldu Ayam 1</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="32.0" t="348.0" r="98.0" b="372.0">36000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="264.0" t="424.0" r="328.0" b="446.0">36000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+  </Receipt>
+</ReceiptDoc>

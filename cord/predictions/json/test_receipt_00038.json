@@ -1,0 +1,49 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "XLB Org Pork 10x",
+            "MenuPrice": "78,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Sicito Babi",
+            "MenuPrice": "65,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Hotplate Tahu",
+            "MenuPrice": "58,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "DF Fish Fillet Garlc",
+            "MenuPrice": "108,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "LM Pork Belly",
+            "MenuPrice": "88,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Siew Mai",
+            "MenuPrice": "38,800"
+        },
+        {
+            "MenuCnt": "5",
+            "MenuNm": "Kwan Yin Cup",
+            "MenuPrice": "50,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Herbal Jelly",
+            "MenuPrice": "38,000"
+        },
+        {
+            "MenuNm": "Onde-Onde",
+            "MenuPrice": "38,000"
+        }
+    ],
+    "TotalPrice": "664,329"
+}

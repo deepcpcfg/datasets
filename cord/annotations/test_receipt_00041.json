@@ -1,0 +1,65 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Chicken Maryland",
+            "MenuPrice": "47619.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Cappucino (Hot/Iced)",
+            "MenuPrice": "30303.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Naga Lychee Juice",
+            "MenuPrice": "34632.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Cafe Latte",
+            "MenuPrice": "30303.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Hot Chocolate Marshmallo",
+            "MenuPrice": "30303.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Chicken Cesar Salad",
+            "MenuPrice": "43290.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Mineral Water",
+            "MenuPrice": "12987.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Mineral Water",
+            "MenuPrice": "12987.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Lychee/Peach/Lemon/Mango",
+            "MenuPrice": "25974.00",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Chicken Maryland",
+            "MenuPrice": "47619.00",
+            "MenuCnt": ""
+        }
+    ],
+    "TotalPrice": "365000.00"
+}

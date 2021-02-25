@@ -1,0 +1,22 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "BASO TAHU",
+            "MenuPrice": "*46000"
+        },
+        {
+            "MenuNm": "NASI PUTIH",
+            "MenuPrice": "*6000"
+        },
+        {
+            "MenuNm": "BASO TAHU",
+            "MenuPrice": "*46000"
+        },
+        {
+            "MenuCnt": "2x",
+            "MenuNm": "NASI PUTIH",
+            "MenuPrice": "*12000"
+        }
+    ],
+    "TotalPrice": "*110000"
+}

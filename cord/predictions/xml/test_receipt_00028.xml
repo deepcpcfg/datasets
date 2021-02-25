@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="58.0" fp="0.0" fn="1.0">
+    <LineItem tp="51.0" fp="0.0" fn="1.0">
+      <lineItem>
+        <MenuNm>
+          <box l="149.0" t="726.0" r="452.0" b="766.0">SAMGYOPSAL</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="736.0" t="724.0" r="892.0" b="764.0">194,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="148.0" t="784.0" r="234.0" b="820.0">SUL</box>
+          <box l="244.0" t="782.0" r="366.0" b="820.0">LUNG</box>
+          <box l="378.0" t="780.0" r="496.0" b="818.0">TANG</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="572.0" t="780.0" r="590.0" b="814.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="758.0" t="776.0" r="890.0" b="818.0">75,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="145.0" t="836.0" r="314.0" b="878.0">MAKOLI</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="572.0" t="836.0" r="592.0" b="870.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="739.0" t="827.0" r="894.0" b="875.0">100,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="711.0" t="1147.0" r="914.0" b="1211.0">426,195</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

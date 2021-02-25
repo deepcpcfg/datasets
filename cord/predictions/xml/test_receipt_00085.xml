@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="186.0" fp="7.0" fn="13.0">
+    <LineItem tp="179.0" fp="7.0" fn="13.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="704.0" t="1046.0" r="741.0" b="1100.0">3</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="777.0" t="1048.0" r="927.0" b="1112.0">Nasi</box>
+          <box l="966.0" t="1060.0" r="1152.0" b="1123.0">Putih</box>
+        </MenuNm>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="708.0" t="1103.0" r="731.0" b="1156.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="776.0" t="1104.0" r="920.0" b="1165.0">Nasi</box>
+          <box l="961.0" t="1114.0" r="1184.0" b="1182.0">Tambah</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1372.0" t="1086.0" r="1593.0" b="1156.0">30.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="699.0" t="1160.0" r="737.0" b="1210.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="771.0" t="1160.0" r="924.0" b="1222.0">Ayam</box>
+          <box l="958.0" t="1167.0" r="1067.0" b="1229.0">Pop</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1402.0" t="1146.0" r="1590.0" b="1208.0">7.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="701.0" t="1213.0" r="724.0" b="1267.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="770.0" t="1216.0" r="1024.0" b="1276.0">Samabal</box>
+          <box l="1061.0" t="1228.0" r="1137.0" b="1281.0">SP</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1356.0" t="1192.0" r="1583.0" b="1263.0">40.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="698.0" t="1269.0" r="723.0" b="1319.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="1360.0" t="1246.0" r="1579.0" b="1314.0">11.000</box>
+        </MenuPrice>
+        <MenuNm>
+          <box l="766.0" t="1269.0" r="982.0" b="1329.0">Sambal</box>
+          <box l="1021.0" t="1277.0" r="1208.0" b="1342.0">Gabus</box>
+          <box l="1239.0" t="1292.0" r="1390.0" b="1356.0">Asin</box>
+          <box l="1424.0" t="1305.0" r="1497.0" b="1362.0">Cb</box>
+        </MenuNm>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="693.0" t="1375.0" r="717.0" b="1428.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="761.0" t="1374.0" r="1017.0" b="1435.0">Kerupuk</box>
+          <box l="1049.0" t="1381.0" r="1198.0" b="1443.0">Kuah</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1354.0" t="1354.0" r="1565.0" b="1417.0">18.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="692.0" t="1428.0" r="715.0" b="1481.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="766.0" t="1430.0" r="907.0" b="1485.0">Ikan</box>
+          <box l="940.0" t="1431.0" r="1116.0" b="1488.0">Bawal</box>
+          <box l="1151.0" t="1443.0" r="1305.0" b="1505.0">Besa</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1336.0" t="1457.0" r="1552.0" b="1515.0">28.500</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="689.0" t="1481.0" r="712.0" b="1536.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="758.0" t="1481.0" r="933.0" b="1533.0">Telur</box>
+          <box l="968.0" t="1478.0" r="1147.0" b="1543.0">Dadar</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1337.0" t="1505.0" r="1546.0" b="1569.0">10.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="686.0" t="1536.0" r="709.0" b="1588.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="755.0" t="1534.0" r="864.0" b="1589.0">Teh</box>
+          <box l="896.0" t="1529.0" r="968.0" b="1583.0">Es</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1360.0" t="1558.0" r="1542.0" b="1617.0">7.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="684.0" t="1588.0" r="706.0" b="1641.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="748.0" t="1584.0" r="861.0" b="1640.0">Teh</box>
+          <box l="892.0" t="1581.0" r="1074.0" b="1638.0">Manis</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1357.0" t="1607.0" r="1540.0" b="1670.0">9.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="680.0" t="1643.0" r="704.0" b="1693.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="747.0" t="1638.0" r="821.0" b="1693.0">Es</box>
+          <box l="853.0" t="1631.0" r="997.0" b="1684.0">Batu</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1352.0" t="1651.0" r="1532.0" b="1729.0">4.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="1263.0" t="1846.0" r="1516.0" b="1978.0">197.450</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

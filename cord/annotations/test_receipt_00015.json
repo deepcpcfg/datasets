@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Lemon Tea (L)",
+            "MenuPrice": "25.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Caramel Small",
+            "MenuPrice": "38.000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "63.000"
+}

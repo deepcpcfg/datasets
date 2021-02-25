@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "J.STB PROMO",
+            "MenuPrice": "17500",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Y.B.BAT",
+            "MenuPrice": "46000",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Y.BASO PROM",
+            "MenuPrice": "27500",
+            "MenuCnt": ""
+        }
+    ],
+    "TotalPrice": "91000"
+}

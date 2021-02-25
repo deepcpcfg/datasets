@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "1001-Choco Bun",
+            "MenuUnitprice": "22.000",
+            "MenuCnt": "x1",
+            "MenuPrice": "22.000"
+        },
+        {
+            "MenuNm": "6001-Plastic Bag Small",
+            "MenuUnitprice": "0",
+            "MenuCnt": "x1",
+            "MenuPrice": "0"
+        }
+    ],
+    "TotalPrice": "22.000"
+}

@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "[MD] SOFT MORNING ROLL",
+            "MenuPrice": "18,000"
+        },
+        {
+            "MenuCnt": "2",
+            "MenuNm": "REAL HONEY PANCAKE BREAD",
+            "MenuPrice": "20,000"
+        },
+        {
+            "MenuCnt": "4",
+            "MenuNm": "CUSTARD BRIOCHE",
+            "MenuPrice": "36,000"
+        }
+    ],
+    "TotalPrice": "74,000"
+}

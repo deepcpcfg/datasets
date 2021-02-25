@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "PKT AYAM",
+            "MenuPrice": "33,000"
+        },
+        {
+            "MenuNm": "GULAI OTAK",
+            "MenuPrice": "23,000"
+        }
+    ],
+    "TotalPrice": "61,600"
+}

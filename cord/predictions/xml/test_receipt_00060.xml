@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="64.0" fp="14.0" fn="37.0">
+    <LineItem tp="58.0" fp="14.0" fn="37.0">
+      <lineItem>
+        <MenuNm>
+          <box l="118.0" t="536.0" r="234.0" b="573.0">Topping</box>
+          <box l="243.0" t="532.0" r="316.0" b="570.0">Milo</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="118.0" t="610.0" r="155.0" b="649.0">1x</box>
+        </MenuCnt>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="324.0" t="531.0" r="437.0" b="572.0">Sparkle</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="557.0" t="531.0" r="577.0" b="566.0">1</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="330.0" t="610.0" r="408.0" b="643.0">1.250</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="546.0" t="607.0" r="630.0" b="642.0">1.250</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="116.0" t="648.0" r="187.0" b="691.0">Bola</box>
+          <box l="197.0" t="649.0" r="248.0" b="685.0">Ubi</box>
+          <box l="262.0" t="646.0" r="328.0" b="686.0">Mini</box>
+          <box l="374.0" t="646.0" r="501.0" b="686.0">Original</box>
+          <box l="519.0" t="644.0" r="570.0" b="682.0">(14</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="114.0" t="731.0" r="152.0" b="768.0">2x</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="316.0" t="726.0" r="413.0" b="763.0">12.500</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="532.0" t="721.0" r="638.0" b="761.0">25.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="539.0" t="801.0" r="646.0" b="844.0">26.250</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

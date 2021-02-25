@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="151.0" fp="0.0" fn="0.0">
+    <LineItem tp="144.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="30.0" t="255.0" r="40.0" b="272.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="48.0" t="252.0" r="104.0" b="274.0">CHOCO</box>
+          <box l="108.0" t="252.0" r="154.0" b="274.0">PUFF</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="312.0" t="248.0" r="380.0" b="272.0">29,091</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="27.0" t="280.0" r="40.0" b="298.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="46.0" t="278.0" r="114.0" b="300.0">CREAMY</box>
+          <box l="118.0" t="278.0" r="164.0" b="298.0">BEEF</box>
+          <box l="170.0" t="276.0" r="206.0" b="298.0">CLS</box>
+          <box l="210.0" t="276.0" r="246.0" b="298.0">FTC</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="314.0" t="274.0" r="382.0" b="298.0">42,727</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="26.0" t="308.0" r="38.0" b="326.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="44.0" t="304.0" r="82.0" b="326.0">NEW</box>
+          <box l="85.0" t="303.0" r="173.0" b="325.0">ORIENTAL</box>
+          <box l="180.0" t="304.0" r="216.0" b="324.0">CHK</box>
+          <box l="222.0" t="302.0" r="268.0" b="324.0">RICE</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="314.0" t="297.0" r="385.0" b="326.0">34,545</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="20.0" t="330.0" r="36.0" b="352.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="40.0" t="330.0" r="112.0" b="354.0">LIPTON</box>
+          <box l="116.0" t="330.0" r="196.0" b="352.0">PITCHER</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="315.0" t="325.0" r="386.0" b="353.0">54,545</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="22.0" t="360.0" r="34.0" b="378.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="40.0" t="356.0" r="88.0" b="380.0">SC/P</box>
+          <box l="94.0" t="356.0" r="154.0" b="380.0">SUPER</box>
+          <box l="159.0" t="353.0" r="238.0" b="381.0">SUPREME</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="318.0" t="354.0" r="390.0" b="380.0">47,273</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="18.0" t="388.0" r="30.0" b="406.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="36.0" t="384.0" r="86.0" b="406.0">CB/P</box>
+          <box l="92.0" t="384.0" r="152.0" b="406.0">BLACK</box>
+          <box l="158.0" t="384.0" r="206.0" b="406.0">PEPP</box>
+          <box l="212.0" t="384.0" r="258.0" b="406.0">BEEF</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="318.0" t="382.0" r="392.0" b="408.0">48,182</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="236.0" t="534.0" r="404.0" b="584.0">282,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

@@ -1,0 +1,19 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "BLACK PAPPER MEATBALL PAS",
+            "MenuPrice": "77,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "TRUFFLE CREAM",
+            "MenuPrice": "59,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "EARL GREY MILK TEA"
+        }
+    ],
+    "TotalPrice": "250,690"
+}

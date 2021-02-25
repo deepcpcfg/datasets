@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="62.0" fp="0.0" fn="0.0">
+    <LineItem tp="56.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="40.0" t="253.0" r="54.0" b="279.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="40.0" t="284.0" r="104.0" b="308.0">BUBUR</box>
+          <box l="115.0" t="281.0" r="141.0" b="308.0">GO</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="237.0" t="248.0" r="313.0" b="276.0">20.000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="360.0" t="273.0" r="440.0" b="301.0">40.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="38.0" t="314.0" r="103.0" b="340.0">PUYUH</box>
+          <box l="114.0" t="312.0" r="143.0" b="337.0">GO</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="373.0" t="306.0" r="440.0" b="331.0">6.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="38.0" t="345.0" r="53.0" b="370.0">3</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="38.0" t="376.0" r="89.0" b="400.0">SATE</box>
+          <box l="106.0" t="375.0" r="139.0" b="398.0">ATI</box>
+          <box l="153.0" t="371.0" r="176.0" b="398.0">GO</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="239.0" t="341.0" r="300.0" b="366.0">3.000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="372.0" t="367.0" r="440.0" b="392.0">9.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="360.0" t="432.0" r="440.0" b="457.0">55.000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

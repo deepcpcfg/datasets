@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "PKT AYAM",
+            "MenuPrice": "33,000",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "GULAI OTAK",
+            "MenuPrice": "23,000",
+            "MenuCnt": ""
+        }
+    ],
+    "TotalPrice": "61,600"
+}

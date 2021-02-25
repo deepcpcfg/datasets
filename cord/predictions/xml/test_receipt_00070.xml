@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="190.0" fp="0.0" fn="22.0">
+    <LineItem tp="181.0" fp="0.0" fn="22.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="252.0" t="584.0" r="276.0" b="612.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="295.0" t="580.0" r="381.0" b="614.0">UDANG</box>
+          <box l="390.0" t="583.0" r="430.0" b="613.0">RE</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="454.0" t="583.0" r="562.0" b="618.0">216,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="572.0" t="582.0" r="684.0" b="620.0">432,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="251.0" t="647.0" r="269.0" b="682.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="294.0" t="650.0" r="353.0" b="680.0">AYM</box>
+          <box l="359.0" t="651.0" r="396.0" b="683.0">GR</box>
+          <box l="406.0" t="651.0" r="459.0" b="682.0">JUN</box>
+          <box l="461.0" t="650.0" r="535.0" b="685.0">NJAN</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="570.0" t="646.0" r="683.0" b="689.0">108,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="251.0" t="721.0" r="268.0" b="748.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="295.0" t="717.0" r="364.0" b="750.0">SAPO</box>
+          <box l="374.0" t="720.0" r="410.0" b="751.0">TH</box>
+          <box l="421.0" t="718.0" r="532.0" b="749.0">SEAFOOD</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="572.0" t="716.0" r="688.0" b="758.0">172,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="247.0" t="788.0" r="272.0" b="818.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="292.0" t="787.0" r="378.0" b="818.0">POCAI</box>
+          <box l="388.0" t="787.0" r="412.0" b="816.0">3</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="453.0" t="784.0" r="566.0" b="822.0">111,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="570.0" t="783.0" r="685.0" b="822.0">222.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="250.0" t="857.0" r="265.0" b="886.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="295.0" t="853.0" r="394.0" b="887.0">GURAME</box>
+          <box l="404.0" t="853.0" r="500.0" b="887.0">FILLET</box>
+          <box l="510.0" t="855.0" r="535.0" b="885.0">M</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="571.0" t="853.0" r="685.0" b="890.0">163,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="249.0" t="925.0" r="266.0" b="955.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="294.0" t="919.0" r="380.0" b="958.0">BIHUN</box>
+          <box l="387.0" t="921.0" r="486.0" b="955.0">GORENG</box>
+          <box l="496.0" t="920.0" r="529.0" b="953.0">JJ</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="573.0" t="922.0" r="690.0" b="959.0">116,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="246.0" t="994.0" r="268.0" b="1024.0">5</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="294.0" t="994.0" r="364.0" b="1026.0">ICED</box>
+          <box l="369.0" t="991.0" r="424.0" b="1026.0">TEA</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="451.0" t="991.0" r="550.0" b="1030.0">12,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="586.0" t="992.0" r="686.0" b="1028.0">60,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="245.0" t="1030.0" r="265.0" b="1061.0">7</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="289.0" t="1026.0" r="361.0" b="1064.0">NASI</box>
+          <box l="367.0" t="1026.0" r="457.0" b="1063.0">PUTIH</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="480.0" t="1027.0" r="584.0" b="1064.0">10,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="587.0" t="1027.0" r="686.0" b="1065.0">70,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="9.0" fp="0.0" fn="0.0">
+      <box l="381.0" t="1302.0" r="673.0" b="1373.0">1,565,938</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

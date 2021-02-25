@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="58.0" fp="23.0" fn="0.0">
+    <LineItem tp="52.0" fp="23.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="9.0" t="808.0" r="72.0" b="843.0">Kopi</box>
+          <box l="88.0" t="808.0" r="152.0" b="848.0">Susu</box>
+          <box l="160.0" t="808.0" r="288.0" b="848.0">Kampung.</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="456.0" t="808.0" r="490.0" b="848.0">x1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="656.0" t="808.0" r="745.0" b="848.0">19.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="43.0" t="888.0" r="101.0" b="922.0">Kopi</box>
+          <box l="120.0" t="888.0" r="182.0" b="920.0">Susu</box>
+          <box l="192.0" t="889.0" r="304.0" b="925.0">Kampung</box>
+          <box l="348.0" t="889.0" r="408.0" b="920.0">Less</box>
+          <box l="16.0" t="924.0" r="73.0" b="961.0">Kopi</box>
+          <box l="88.0" t="928.0" r="152.0" b="960.0">Susu</box>
+          <box l="161.0" t="928.0" r="285.0" b="964.0">Kampung.</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="453.0" t="928.0" r="488.0" b="960.0">x2</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="648.0" t="928.0" r="744.0" b="960.0">38.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="651.0" t="1040.0" r="743.0" b="1072.0">57.000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

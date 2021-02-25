@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="23.0" fp="6.0" fn="0.0">
+    <LineItem tp="17.0" fp="6.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="146.0" t="386.0" r="200.0" b="406.0">-TICKET</box>
+          <box l="202.0" t="386.0" r="222.0" b="406.0">CP</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="90.0" t="416.0" r="100.0" b="434.0">2</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="174.0" t="410.0" r="224.0" b="430.0">60.000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="304.0" t="410.0" r="352.0" b="430.0">60.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="306.0" t="508.0" r="356.0" b="530.0">60.000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

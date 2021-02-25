@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Pecel Komplit + Nasi",
+            "MenuPrice": "42.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "SOTO KUDUS",
+            "MenuPrice": "47.000"
+        },
+        {
+            "MenuCnt": "2",
+            "MenuNm": "Mineral Water",
+            "MenuPrice": "18.000"
+        }
+    ],
+    "TotalPrice": "123.585"
+}

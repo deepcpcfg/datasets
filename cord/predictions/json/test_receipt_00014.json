@@ -1,0 +1,34 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "RedVelvet Cheese Slc",
+            "MenuPrice": "38,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Chicken Baked Rice",
+            "MenuPrice": "55,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Fish n Chips",
+            "MenuPrice": "65,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Mushroom Soup",
+            "MenuPrice": "35,000"
+        },
+        {
+            "MenuNm": "Chamomile",
+            "MenuPrice": "25,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Iced Tea",
+            "MenuPrice": "20,000"
+        }
+    ],
+    "TotalPrice": "281,435"
+}

@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "[LG] BLACK SAKURA",
+            "MenuPrice": "59,091",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "IVINERAL WATER (bundling) 5k",
+            "MenuPrice": "4,545",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "70,000"
+}

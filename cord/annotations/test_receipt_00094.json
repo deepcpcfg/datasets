@@ -1,0 +1,29 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "TAHU GORENG",
+            "MenuPrice": "28,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "CAKWE",
+            "MenuPrice": "17,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "PHO TAI CHIN(R)",
+            "MenuPrice": "63,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "TEA",
+            "MenuPrice": "11,000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "140,063"
+}

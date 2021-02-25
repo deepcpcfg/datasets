@@ -1,0 +1,39 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "COLD OCHA",
+            "MenuCnt": "1",
+            "MenuPrice": "10,909"
+        },
+        {
+            "MenuNm": "BCA PROMO",
+            "MenuCnt": "1",
+            "MenuPrice": "54,455"
+        },
+        {
+            "MenuNm": "ABURA UDON SPICY",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuNm": "SKEWERED SHUMAI",
+            "MenuCnt": "1",
+            "MenuPrice": "12,727"
+        },
+        {
+            "MenuNm": "SKEWERED TOFU ROLL",
+            "MenuCnt": "1",
+            "MenuPrice": "12,727"
+        },
+        {
+            "MenuNm": "EBI TEMPURA",
+            "MenuCnt": "1",
+            "MenuPrice": "13,636"
+        },
+        {
+            "MenuNm": "KITSUNE UDON (KIDS)",
+            "MenuCnt": "1",
+            "MenuPrice": "28,182"
+        }
+    ],
+    "TotalPrice": "[145,900]"
+}

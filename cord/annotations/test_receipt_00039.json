@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "243,000",
+            "MenuNm": "LUNCH BOX 3P SET W/RED BAG & SP00 N.",
+            "MenuPrice": "1,944,000",
+            "MenuCnt": "8"
+        },
+        {
+            "MenuUnitprice": "195,000",
+            "MenuNm": "RICE CASE 7L W/CUP",
+            "MenuPrice": "975,000",
+            "MenuCnt": "5"
+        },
+        {
+            "MenuUnitprice": "243,000",
+            "MenuNm": "LUNCH BOX 3P SET W/BLACK BAG & SP OON",
+            "MenuPrice": "972,000",
+            "MenuCnt": "4"
+        }
+    ],
+    "TotalPrice": ""
+}

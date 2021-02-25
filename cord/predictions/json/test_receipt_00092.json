@@ -1,0 +1,11 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "4",
+            "MenuNm": "- TICKET CP",
+            "MenuUnitprice": "60.000",
+            "MenuPrice": "240,000"
+        }
+    ],
+    "TotalPrice": "240.000"
+}

@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "5001-Corn Flakes Cookies",
+            "MenuUnitprice": "Rp.56.000",
+            "MenuCnt": "x1",
+            "MenuPrice": "Rp.56.000"
+        },
+        {
+            "MenuNm": "5003-Chokoreto Cookies",
+            "MenuUnitprice": "Rp.62.000",
+            "MenuCnt": "x1",
+            "MenuPrice": "Rp.62.000"
+        },
+        {
+            "MenuNm": "6002-Plastic Bag Medium",
+            "MenuUnitprice": "Rp.0",
+            "MenuCnt": "x1",
+            "MenuPrice": "Rp.0"
+        }
+    ],
+    "TotalPrice": "Rp.118.000"
+}

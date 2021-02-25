@@ -1,0 +1,29 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Lemon Tea (L).",
+            "MenuPrice": "25.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Mike & Ike Original",
+            "MenuPrice": "28.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Mike & Berry",
+            "MenuPrice": "28.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Roti Keju Manis.",
+            "MenuPrice": "7.000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "88,000"
+}

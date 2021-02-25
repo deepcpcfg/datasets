@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="54.0" fp="0.0" fn="0.0">
+    <LineItem tp="48.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="132.0" t="558.0" r="200.0" b="590.0">BASO</box>
+          <box l="208.0" t="560.0" r="274.0" b="590.0">KUAH</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="426.0" t="562.0" r="444.0" b="592.0">1</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="454.0" t="562.0" r="546.0" b="594.0">43.636</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="614.0" t="566.0" r="704.0" b="596.0">43.636</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="132.0" t="600.0" r="270.0" b="630.0">A.MINERAL</box>
+          <box l="282.0" t="602.0" r="362.0" b="632.0">GELAS</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="428.0" t="604.0" r="444.0" b="632.0">1</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="468.0" t="604.0" r="548.0" b="636.0">3,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="626.0" t="606.0" r="706.0" b="638.0">3,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="610.0" t="768.0" r="697.0" b="797.0">51.300</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

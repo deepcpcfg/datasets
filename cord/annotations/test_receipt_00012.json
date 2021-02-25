@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "@120,000",
+            "MenuNm": "BLUS WANITA",
+            "MenuPrice": "",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "@880",
+            "MenuNm": "SHOPPING BAG",
+            "MenuPrice": "",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "120,000"
+}

@@ -1,0 +1,25 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "2",
+            "MenuNm": "TWIST DONUT",
+            "MenuPrice": "18,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "BANANA DONUT",
+            "MenuPrice": "11,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "CREAMCHEESE BREAD",
+            "MenuPrice": "13,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "FRANKFRUT SAUSAGE ROLL",
+            "MenuPrice": "12,000"
+        }
+    ],
+    "TotalPrice": "54,000"
+}

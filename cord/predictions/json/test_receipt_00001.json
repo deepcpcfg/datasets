@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "J.STB PROMO",
+            "MenuPrice": "17500"
+        },
+        {
+            "MenuNm": "Y.B.BAT",
+            "MenuPrice": "27500"
+        }
+    ],
+    "TotalPrice": "91000"
+}

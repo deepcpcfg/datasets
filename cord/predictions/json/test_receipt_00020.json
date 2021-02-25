@@ -1,0 +1,30 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "cashew nuts chkn",
+            "MenuPrice": "64,500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "garlic pepper beef",
+            "MenuPrice": "79,500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "red curry beef",
+            "MenuPrice": "69,500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "phad thai",
+            "MenuPrice": "64,500"
+        },
+        {
+            "MenuCnt": "4",
+            "MenuNm": "steamed rice",
+            "MenuPrice": "47,600"
+        }
+    ],
+    "TotalPrice": "377,859"
+}

@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "[MD] SOFT STEAMED CHEESEC",
+            "MenuPrice": "20,000",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "[MD] SOFT STEAMED CHOCOCA",
+            "MenuPrice": "20,000",
+            "MenuCnt": "2"
+        }
+    ],
+    "TotalPrice": "40,000"
+}

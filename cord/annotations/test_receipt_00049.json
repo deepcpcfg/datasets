@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Ptgs Eggtart",
+            "MenuPrice": "12,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Choco Melt",
+            "MenuPrice": "11,000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "23,000"
+}

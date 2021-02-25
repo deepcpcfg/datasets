@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "XXI Java Tea (M)",
+            "MenuPrice": "18.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Combo 2",
+            "MenuPrice": "30.000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "48.000"
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="96.0" fp="0.0" fn="0.0">
+    <LineItem tp="90.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="364.0" t="2049.0" r="771.0" b="2153.0">3002-Kyoto</box>
+          <box l="802.0" t="2069.0" r="1011.0" b="2146.0">Choco</box>
+          <box l="1036.0" t="2069.0" r="1241.0" b="2146.0">Mochi</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="763.0" t="2176.0" r="1011.0" b="2252.0">14.000</box>
+        </MenuUnitprice>
+        <MenuCnt>
+          <box l="1152.0" t="2176.0" r="1245.0" b="2248.0">x2</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="1627.0" t="2146.0" r="1891.0" b="2238.0">28.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="363.0" t="2267.0" r="772.0" b="2356.0">1001-Choco</box>
+          <box l="802.0" t="2278.0" r="934.0" b="2350.0">Bun</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="759.0" t="2380.0" r="1011.0" b="2461.0">22.000</box>
+        </MenuUnitprice>
+        <MenuCnt>
+          <box l="1156.0" t="2389.0" r="1241.0" b="2457.0">x1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="1631.0" t="2360.0" r="1901.0" b="2457.0">22.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="354.0" t="2491.0" r="853.0" b="2577.0">6001-Plastic</box>
+          <box l="884.0" t="2486.0" r="1009.0" b="2586.0">Bag</box>
+          <box l="1039.0" t="2486.0" r="1251.0" b="2569.0">Small</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="955.0" t="2598.0" r="1011.0" b="2675.0">0</box>
+        </MenuUnitprice>
+        <MenuCnt>
+          <box l="1156.0" t="2598.0" r="1245.0" b="2670.0">x1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="1851.0" t="2585.0" r="1907.0" b="2666.0">0</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="1579.0" t="3032.0" r="1843.0" b="3125.0">50.000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

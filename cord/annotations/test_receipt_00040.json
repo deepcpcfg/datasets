@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "27,000",
+            "MenuNm": "Snack Lestari All",
+            "MenuPrice": "54,000",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "7,000",
+            "MenuNm": "Bakery Aneka Sisir Banana,Pizza,yoko,Mar mer,Daging,abon,keju,cokelat,dll",
+            "MenuPrice": "14,000",
+            "MenuCnt": "2"
+        }
+    ],
+    "TotalPrice": "68,000"
+}

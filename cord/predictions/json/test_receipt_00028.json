@@ -1,0 +1,19 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "SAMGYOPSAL",
+            "MenuPrice": "194,000"
+        },
+        {
+            "MenuNm": "SUL LUNG TANG",
+            "MenuCnt": "1",
+            "MenuPrice": "75,000"
+        },
+        {
+            "MenuNm": "MAKOLI",
+            "MenuCnt": "1",
+            "MenuPrice": "100,000"
+        }
+    ],
+    "TotalPrice": "426,195"
+}

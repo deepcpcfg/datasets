@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="30.0" fp="3.0" fn="19.0">
+    <LineItem tp="25.0" fp="3.0" fn="19.0">
+      <lineItem>
+        <MenuNm>
+          <box l="131.0" t="672.0" r="280.0" b="711.0">J.STB</box>
+          <box l="312.0" t="672.0" r="451.0" b="709.0">PROMO</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="685.0" t="675.0" r="824.0" b="712.0">17500</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="128.0" t="723.0" r="335.0" b="766.0">Y.B.BAT</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="682.0" t="776.0" r="824.0" b="815.0">27500</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="5.0" fp="0.0" fn="0.0">
+      <box l="539.0" t="826.0" r="813.0" b="867.0">91000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

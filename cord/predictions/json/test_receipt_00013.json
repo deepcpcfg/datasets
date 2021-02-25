@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "BASO KUAH",
+            "MenuCnt": "1",
+            "MenuUnitprice": "43.636",
+            "MenuPrice": "43.636"
+        },
+        {
+            "MenuNm": "A.MINERAL GELAS",
+            "MenuCnt": "1",
+            "MenuUnitprice": "3,000",
+            "MenuPrice": "3,000"
+        }
+    ],
+    "TotalPrice": "51.300"
+}

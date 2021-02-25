@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "20.000",
+            "MenuNm": "BUBUR GO",
+            "MenuPrice": "40.000",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "PUYUH GO",
+            "MenuPrice": "6.000",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "3.000",
+            "MenuNm": "SATE ATI GO",
+            "MenuPrice": "9.000",
+            "MenuCnt": "3"
+        }
+    ],
+    "TotalPrice": "55.000"
+}

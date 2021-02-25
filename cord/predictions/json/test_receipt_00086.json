@@ -1,0 +1,14 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Cheezemania",
+            "MenuPrice": "9,500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Mamamia",
+            "MenuPrice": "12,500"
+        }
+    ],
+    "TotalPrice": "22,000"
+}

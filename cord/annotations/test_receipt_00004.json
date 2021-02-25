@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "ICE BLACKCOFFE",
+            "MenuPrice": "82,000",
+            "MenuCnt": "2"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "AVOCADO COFFEE",
+            "MenuPrice": "61,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "CHIKEN KATSU FF",
+            "MenuPrice": "51,000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "174,600"
+}

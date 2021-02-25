@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="71.0" fp="0.0" fn="0.0">
+    <LineItem tp="65.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="212.0" t="686.0" r="240.0" b="714.0">1X</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="246.0" t="686.0" r="344.0" b="714.0">S-Bubble</box>
+          <box l="348.0" t="686.0" r="398.0" b="714.0">Milk</box>
+          <box l="402.0" t="688.0" r="442.0" b="714.0">Tea</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="470.0" t="686.0" r="554.0" b="714.0">@20,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="592.0" t="680.0" r="660.0" b="710.0">20,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="212.0" t="746.0" r="240.0" b="772.0">1X</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="246.0" t="744.0" r="352.0" b="772.0">S-Caramel</box>
+          <box l="358.0" t="744.0" r="410.0" b="770.0">Milk</box>
+          <box l="414.0" t="744.0" r="454.0" b="770.0">Tea</box>
+        </MenuNm>
+        <MenuUnitprice>
+          <box l="470.0" t="742.0" r="556.0" b="770.0">@20,000</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="596.0" t="738.0" r="666.0" b="768.0">20,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="604.0" t="886.0" r="676.0" b="916.0">40,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

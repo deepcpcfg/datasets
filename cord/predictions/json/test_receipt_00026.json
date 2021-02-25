@@ -1,0 +1,22 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Cap Cay Nasi Cap Cay Porsi B esar",
+            "MenuCnt": "1",
+            "MenuUnitprice": "65.000",
+            "MenuPrice": "65.000"
+        },
+        {
+            "MenuNm": "Minuman Teh Tawar",
+            "MenuCnt": "2",
+            "MenuUnitprice": "4.000"
+        },
+        {
+            "MenuNm": "Fu Yung Hai",
+            "MenuCnt": "1",
+            "MenuUnitprice": "65.000",
+            "MenuPrice": "65.000"
+        }
+    ],
+    "TotalPrice": "138.000"
+}

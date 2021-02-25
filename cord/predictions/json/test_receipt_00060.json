@@ -1,0 +1,21 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Topping Milo",
+            "MenuCnt": "1x"
+        },
+        {
+            "MenuNm": "Sparkle",
+            "MenuCnt": "1",
+            "MenuUnitprice": "1.250",
+            "MenuPrice": "1.250"
+        },
+        {
+            "MenuNm": "Bola Ubi Mini Original (14",
+            "MenuCnt": "2x",
+            "MenuUnitprice": "12.500",
+            "MenuPrice": "25.000"
+        }
+    ],
+    "TotalPrice": "26.250"
+}

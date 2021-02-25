@@ -1,0 +1,49 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "2",
+            "MenuNm": "Tahu Isi",
+            "MenuPrice": "78,000"
+        },
+        {
+            "MenuNm": "Tea",
+            "MenuPrice": "30,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Kepiting 7-8.4ons -",
+            "MenuPrice": "297,490"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Udang Telur Asin - Regular",
+            "MenuPrice": "47,500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Kailan 2 Rasa",
+            "MenuPrice": "45,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Mantau - 2 pcs",
+            "MenuPrice": "25,000"
+        },
+        {
+            "MenuCnt": "2",
+            "MenuNm": "Sweet Tea",
+            "MenuPrice": "16,000"
+        },
+        {
+            "MenuCnt": "7",
+            "MenuNm": "Nasi Putih",
+            "MenuPrice": "42,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Mantau - 3 pcs",
+            "MenuPrice": "37,500"
+        }
+    ],
+    "TotalPrice": "680,500"
+}

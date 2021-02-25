@@ -1,0 +1,39 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1x",
+            "MenuNm": "TALAM UNGU",
+            "MenuUnitprice": "6500",
+            "MenuPrice": "6,500"
+        },
+        {
+            "MenuCnt": "1X",
+            "MenuNm": "AREM - AREM",
+            "MenuUnitprice": "8000",
+            "MenuPrice": "8,000"
+        },
+        {
+            "MenuCnt": "2X",
+            "MenuNm": "LEMPER",
+            "MenuUnitprice": "9000",
+            "MenuPrice": "18,000"
+        },
+        {
+            "MenuCnt": "1X",
+            "MenuNm": "MIKA SEDANG",
+            "MenuPrice": "0"
+        },
+        {
+            "MenuCnt": "1X",
+            "MenuNm": "PLASTIK KECIL",
+            "MenuUnitprice": "0",
+            "MenuPrice": "0"
+        },
+        {
+            "MenuCnt": "1X",
+            "MenuNm": "TEH KOTAK",
+            "MenuPrice": "5,000"
+        }
+    ],
+    "TotalPrice": "24,500"
+}

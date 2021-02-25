@@ -1,0 +1,35 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Goblin's Mace",
+            "MenuCnt": "1",
+            "MenuPrice": "25,000"
+        },
+        {
+            "MenuNm": "Mozarella Hot Dog",
+            "MenuCnt": "2",
+            "MenuPrice": "38,000"
+        },
+        {
+            "MenuNm": "Chili Pepper",
+            "MenuCnt": "1",
+            "MenuPrice": "14,000"
+        },
+        {
+            "MenuNm": "Croquette Cheese Croquette",
+            "MenuCnt": "1",
+            "MenuPrice": "14,000"
+        },
+        {
+            "MenuNm": "Plastik Amook",
+            "MenuCnt": "1",
+            "MenuPrice": "0"
+        },
+        {
+            "MenuNm": "Putih",
+            "MenuCnt": "1",
+            "MenuPrice": "0"
+        }
+    ],
+    "TotalPrice": "91,000"
+}

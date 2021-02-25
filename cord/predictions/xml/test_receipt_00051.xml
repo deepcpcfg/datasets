@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="111.0" fp="6.0" fn="16.0">
+    <LineItem tp="104.0" fp="6.0" fn="16.0">
+      <lineItem>
+        <MenuNm>
+          <box l="209.0" t="694.0" r="256.0" b="720.0">NASI</box>
+          <box l="255.0" t="695.0" r="301.0" b="718.0">GRG</box>
+          <box l="300.0" t="694.0" r="351.0" b="717.0">TERI</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="405.0" t="694.0" r="419.0" b="715.0">4</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="490.0" t="693.0" r="566.0" b="720.0">165,460</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="166.0" t="721.0" r="233.0" b="743.0">MEDAN</box>
+          <box l="165.0" t="744.0" r="211.0" b="773.0">(TA)</box>
+          <box l="211.0" t="746.0" r="271.0" b="768.0">BIHUN</box>
+          <box l="272.0" t="744.0" r="354.0" b="767.0">GORENG</box>
+          <box l="165.0" t="768.0" r="255.0" b="794.0">SEAFOOD</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="407.0" t="745.0" r="419.0" b="767.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="498.0" t="743.0" r="568.0" b="771.0">40,456</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="163.0" t="797.0" r="207.0" b="824.0">(TA)</box>
+          <box l="209.0" t="793.0" r="305.0" b="819.0">KWETIAW</box>
+          <box l="305.0" t="794.0" r="392.0" b="817.0">SEAFOOD</box>
+          <box l="165.0" t="821.0" r="225.0" b="847.0">SIRAM</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="403.0" t="795.0" r="420.0" b="816.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="498.0" t="793.0" r="564.0" b="822.0">42,274</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="209.0" t="845.0" r="256.0" b="873.0">NASI</box>
+          <box l="258.0" t="845.0" r="340.0" b="869.0">GORENG</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="406.0" t="844.0" r="422.0" b="869.0">2</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="502.0" t="843.0" r="570.0" b="870.0">55,456</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="495.0" t="985.0" r="574.0" b="1013.0">334,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

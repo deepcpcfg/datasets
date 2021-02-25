@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "GRILLED BABY POTATO (R",
+            "MenuPrice": "50,500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "HOT TUNA",
+            "MenuPrice": "67,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "HOT TUNA",
+            "MenuPrice": "67,000"
+        }
+    ],
+    "TotalPrice": "148,127"
+}

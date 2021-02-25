@@ -1,0 +1,25 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "NASI GRG TERI",
+            "MenuCnt": "4",
+            "MenuPrice": "165,460"
+        },
+        {
+            "MenuNm": "MEDAN (TA) BIHUN GORENG SEAFOOD",
+            "MenuCnt": "1",
+            "MenuPrice": "40,456"
+        },
+        {
+            "MenuNm": "(TA) KWETIAW SEAFOOD SIRAM",
+            "MenuCnt": "1",
+            "MenuPrice": "42,274"
+        },
+        {
+            "MenuNm": "NASI GORENG",
+            "MenuCnt": "2",
+            "MenuPrice": "55,456"
+        }
+    ],
+    "TotalPrice": "334,000"
+}

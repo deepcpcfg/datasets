@@ -1,0 +1,108 @@
+[
+    {
+        "LineItem": [
+            [
+                [
+                    {
+                        "MenuUnitprice": [
+                            "27,000",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "MenuNm": [
+                            "Snack Lestari All",
+                            {
+                                "tp": 17.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "MenuPrice": [
+                            "54,000",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "MenuCnt": [
+                            "2",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 30.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ],
+                [
+                    {
+                        "MenuUnitprice": [
+                            "7,000",
+                            {
+                                "tp": 5.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "MenuNm": [
+                            "Bakery Aneka Sisir Banana,Pizza,yoko,Mar mer,Daging,abon,keju,cokelat,dll",
+                            {
+                                "tp": 73.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "MenuPrice": [
+                            "14,000",
+                            {
+                                "tp": 6.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ],
+                        "MenuCnt": [
+                            "2",
+                            {
+                                "tp": 1.0,
+                                "fp": 0.0,
+                                "fn": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "tp": 85.0,
+                        "fp": 0.0,
+                        "fn": 0.0
+                    }
+                ]
+            ],
+            {
+                "tp": 115.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ],
+        "TotalPrice": [
+            "68,000",
+            {
+                "tp": 6.0,
+                "fp": 0.0,
+                "fn": 0.0
+            }
+        ]
+    },
+    {
+        "tp": 121.0,
+        "fp": 0.0,
+        "fn": 0.0
+    }
+]

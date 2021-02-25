@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="114.0" fp="10.0" fn="28.0">
+    <LineItem tp="108.0" fp="10.0" fn="28.0">
+      <lineItem>
+        <MenuNm>
+          <box l="280.0" t="602.0" r="336.0" b="620.0">Goblin's</box>
+          <box l="336.0" t="602.0" r="377.0" b="619.0">Mace</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="407.0" t="602.0" r="419.0" b="619.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="569.0" t="601.0" r="617.0" b="620.0">25,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="279.0" t="633.0" r="346.0" b="650.0">Mozarella</box>
+          <box l="349.0" t="632.0" r="376.0" b="649.0">Hot</box>
+          <box l="278.0" t="650.0" r="308.0" b="669.0">Dog</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="408.0" t="631.0" r="418.0" b="649.0">2</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="569.0" t="632.0" r="617.0" b="651.0">38,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="277.0" t="668.0" r="311.0" b="685.0">Chili</box>
+          <box l="311.0" t="666.0" r="363.0" b="686.0">Pepper</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="409.0" t="666.0" r="416.0" b="683.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="571.0" t="667.0" r="618.0" b="685.0">14,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="278.0" t="686.0" r="346.0" b="705.0">Croquette</box>
+          <box l="276.0" t="702.0" r="332.0" b="720.0">Cheese</box>
+          <box l="275.0" t="720.0" r="344.0" b="739.0">Croquette</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="407.0" t="703.0" r="416.0" b="719.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="571.0" t="701.0" r="619.0" b="719.0">14,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="275.0" t="738.0" r="326.0" b="756.0">Plastik</box>
+          <box l="326.0" t="737.0" r="377.0" b="755.0">Amook</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="408.0" t="737.0" r="415.0" b="752.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="608.0" t="736.0" r="624.0" b="751.0">0</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="326.0" t="768.0" r="361.0" b="787.0">Putih</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="407.0" t="768.0" r="416.0" b="786.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="609.0" t="768.0" r="624.0" b="783.0">0</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="573.0" t="812.0" r="624.0" b="831.0">91,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

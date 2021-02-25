@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="88.0" fp="0.0" fn="0.0">
+    <LineItem tp="82.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="640.0" t="1753.0" r="678.0" b="1813.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="704.0" t="1749.0" r="819.0" b="1821.0">[MD]</box>
+          <box l="840.0" t="1753.0" r="968.0" b="1817.0">SOFT</box>
+          <box l="985.0" t="1753.0" r="1194.0" b="1817.0">MORNING</box>
+          <box l="1211.0" t="1753.0" r="1335.0" b="1817.0">ROLL</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1497.0" t="1749.0" r="1681.0" b="1817.0">18,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="635.0" t="1826.0" r="682.0" b="1885.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="704.0" t="1826.0" r="827.0" b="1890.0">REAL</box>
+          <box l="840.0" t="1826.0" r="998.0" b="1890.0">HONEY</box>
+          <box l="1011.0" t="1826.0" r="1224.0" b="1890.0">PANCAKE</box>
+          <box l="1237.0" t="1826.0" r="1390.0" b="1890.0">BREAD</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1491.0" t="1816.0" r="1682.0" b="1891.0">20,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="640.0" t="1898.0" r="682.0" b="1958.0">4</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="704.0" t="1894.0" r="913.0" b="1958.0">CUSTARD</box>
+          <box l="925.0" t="1894.0" r="1139.0" b="1958.0">BRIOCHE</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1493.0" t="1890.0" r="1681.0" b="1958.0">36,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="1316.0" t="2025.0" r="1691.0" b="2164.0">74,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

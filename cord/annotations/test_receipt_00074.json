@@ -1,0 +1,29 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "BLACKCURRANT",
+            "MenuPrice": "32,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "SPRITE",
+            "MenuPrice": "32,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "GRILLED CALAMARI",
+            "MenuPrice": "85,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "DINE FOR 2",
+            "MenuPrice": "129,000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "330,264"
+}

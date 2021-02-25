@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "PILLOW DURIA",
+            "MenuPrice": "36,364",
+            "MenuCnt": ""
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "PLASTIK 25",
+            "MenuPrice": "0",
+            "MenuCnt": ""
+        }
+    ],
+    "TotalPrice": "40,000"
+}

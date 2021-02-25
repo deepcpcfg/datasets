@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="86.0" fp="5.0" fn="18.0">
+    <LineItem tp="77.0" fp="5.0" fn="18.0">
+      <lineItem>
+        <MenuNm>
+          <box l="60.0" t="624.0" r="130.0" b="656.0">COPIA</box>
+          <box l="140.0" t="628.0" r="154.0" b="654.0">1</box>
+          <box l="162.0" t="624.0" r="204.0" b="654.0">/GB</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="430.0" t="624.0" r="442.0" b="652.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="514.0" t="620.0" r="636.0" b="654.0">45,000.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="58.0" t="734.0" r="152.0" b="766.0">PLASTIC</box>
+          <box l="160.0" t="734.0" r="204.0" b="766.0">BAG</box>
+          <box l="210.0" t="734.0" r="254.0" b="766.0">RED</box>
+          <box l="262.0" t="732.0" r="354.0" b="766.0">CENTRAL</box>
+          <box l="362.0" t="732.0" r="392.0" b="764.0">SI</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="430.0" t="734.0" r="444.0" b="764.0">1</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="582.0" t="732.0" r="640.0" b="764.0">0.00</box>
+        </MenuUnitprice>
+        <MenuPrice>
+          <box l="658.0" t="656.0" r="782.0" b="690.0">45,000.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="52.0" t="846.0" r="122.0" b="880.0">COPIA</box>
+          <box l="134.0" t="848.0" r="148.0" b="878.0">1</box>
+          <box l="156.0" t="846.0" r="200.0" b="880.0">/GB</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="432.0" t="848.0" r="444.0" b="878.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="520.0" t="846.0" r="642.0" b="880.0">18,000.00</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="9.0" fp="0.0" fn="0.0">
+      <box l="670.0" t="1002.0" r="794.0" b="1036.0">63,000.00</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

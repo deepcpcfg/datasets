@@ -1,0 +1,15 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "4",
+            "MenuNm": "AMBUSH DBL CHS",
+            "MenuPrice": "60000"
+        },
+        {
+            "MenuCnt": "10",
+            "MenuNm": "AMBUSH CHS BUR",
+            "MenuPrice": "100000"
+        }
+    ],
+    "TotalPrice": "176000"
+}

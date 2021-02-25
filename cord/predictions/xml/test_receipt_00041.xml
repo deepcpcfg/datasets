@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="240.0" fp="4.0" fn="21.0">
+    <LineItem tp="240.0" fp="4.0" fn="12.0">
+      <lineItem>
+        <MenuNm>
+          <box l="123.0" t="454.0" r="187.0" b="474.0">Chicken</box>
+          <box l="190.0" t="454.0" r="263.0" b="474.0">Maryland</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="384.0" t="446.0" r="449.0" b="468.0">47619.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="125.0" t="476.0" r="206.0" b="497.0">Cappucino</box>
+          <box l="211.0" t="474.0" r="294.0" b="495.0">(Hot/Iced)</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="381.0" t="470.0" r="451.0" b="490.0">30303.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="126.0" t="497.0" r="163.0" b="516.0">Naga</box>
+          <box l="168.0" t="497.0" r="226.0" b="516.0">Lychee</box>
+          <box l="227.0" t="495.0" r="272.0" b="514.0">Juice</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="382.0" t="492.0" r="451.0" b="510.0">34632.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="128.0" t="519.0" r="165.0" b="535.0">Cafe</box>
+          <box l="167.0" t="517.0" r="216.0" b="535.0">Latte</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="383.0" t="511.0" r="452.0" b="529.0">30303.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="126.0" t="538.0" r="153.0" b="555.0">Hot</box>
+          <box l="160.0" t="536.0" r="239.0" b="554.0">Chocolate</box>
+          <box l="245.0" t="533.0" r="329.0" b="551.0">Marshmallo</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="384.0" t="529.0" r="454.0" b="548.0">30303.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="126.0" t="556.0" r="190.0" b="575.0">Chicken</box>
+          <box l="194.0" t="555.0" r="237.0" b="575.0">Cesar</box>
+          <box l="244.0" t="553.0" r="290.0" b="573.0">Salad</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="383.0" t="547.0" r="454.0" b="565.0">43290.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="125.0" t="574.0" r="187.0" b="594.0">Mineral</box>
+          <box l="194.0" t="576.0" r="240.0" b="592.0">Water</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="388.0" t="565.0" r="457.0" b="585.0">12987.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="124.0" t="594.0" r="186.0" b="616.0">Mineral</box>
+          <box l="192.0" t="594.0" r="239.0" b="612.0">Water</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="390.0" t="586.0" r="458.0" b="605.0">12987.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="124.0" t="610.0" r="333.0" b="636.0">Lychee/Peach/Lemon/Mango</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="390.0" t="626.0" r="462.0" b="647.0">47619.00</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="124.0" t="637.0" r="188.0" b="656.0">Chicken</box>
+          <box l="193.0" t="632.0" r="265.0" b="654.0">Maryland</box>
+        </MenuNm>
+      </lineItem>
+    </LineItem>
+  </Receipt>
+</ReceiptDoc>

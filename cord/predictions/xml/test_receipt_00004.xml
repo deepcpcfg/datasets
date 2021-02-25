@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="71.0" fp="0.0" fn="0.0">
+    <LineItem tp="64.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuNm>
+          <box l="106.0" t="546.0" r="156.0" b="578.0">ICE</box>
+          <box l="168.0" t="547.0" r="325.0" b="589.0">BLACKCOFFE</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="464.0" t="562.0" r="484.0" b="590.0">2</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="620.0" t="562.0" r="726.0" b="606.0">82,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="106.0" t="584.0" r="221.0" b="622.0">AVOCADO</box>
+          <box l="232.0" t="590.0" r="327.0" b="626.0">COFFEE</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="466.0" t="600.0" r="483.0" b="628.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="625.0" t="602.0" r="722.0" b="643.0">61,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="102.0" t="626.0" r="202.0" b="658.0">CHIKEN</box>
+          <box l="212.0" t="625.0" r="293.0" b="665.0">KATSU</box>
+          <box l="302.0" t="634.0" r="337.0" b="666.0">FF</box>
+        </MenuNm>
+        <MenuCnt>
+          <box l="460.0" t="640.0" r="479.0" b="669.0">1</box>
+        </MenuCnt>
+        <MenuPrice>
+          <box l="618.0" t="641.0" r="719.0" b="682.0">51,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="624.0" t="855.0" r="743.0" b="902.0">174,600</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

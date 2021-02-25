@@ -1,0 +1,14 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Ash Chick Sambal Matah",
+            "MenuCnt": "5",
+            "MenuPrice": "75.000"
+        },
+        {
+            "MenuNm": "Jamur Goreng 2",
+            "MenuPrice": "10.000"
+        }
+    ],
+    "TotalPrice": "93.500"
+}

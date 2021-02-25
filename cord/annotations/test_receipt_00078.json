@@ -1,0 +1,11 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "Lemon Tea (L)",
+            "MenuPrice": "25.000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "30.000"
+}

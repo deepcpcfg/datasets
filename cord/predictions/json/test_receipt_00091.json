@@ -1,0 +1,14 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "BAKSO BNGKS",
+            "MenuPrice": "15.000"
+        },
+        {
+            "MenuNm": "GORENGAN",
+            "MenuPrice": "6.000"
+        }
+    ],
+    "TotalPrice": "21.000"
+}

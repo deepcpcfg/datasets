@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="96.0" fp="0.0" fn="0.0">
+    <LineItem tp="90.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="162.0" t="470.0" r="184.0" b="502.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="194.0" t="470.0" r="276.0" b="504.0">TWIST</box>
+          <box l="285.0" t="467.0" r="370.0" b="505.0">DONUT</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="631.0" t="464.0" r="732.0" b="505.0">18,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="166.0" t="510.0" r="182.0" b="540.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="194.0" t="508.0" r="292.0" b="542.0">BANANA</box>
+          <box l="302.0" t="508.0" r="384.0" b="542.0">DONUT</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="629.0" t="506.0" r="729.0" b="542.0">11,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="166.0" t="548.0" r="182.0" b="578.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="196.0" t="545.0" r="370.0" b="579.0">CREAMCHEESE</box>
+          <box l="394.0" t="546.0" r="478.0" b="580.0">BREAD</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="630.0" t="546.0" r="730.0" b="582.0">13,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="168.0" t="586.0" r="184.0" b="616.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="198.0" t="584.0" r="340.0" b="618.0">FRANKFRUT</box>
+          <box l="348.0" t="584.0" r="462.0" b="618.0">SAUSAGE</box>
+          <box l="470.0" t="584.0" r="538.0" b="616.0">ROLL</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="630.0" t="584.0" r="730.0" b="616.0">12,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="531.0" t="644.0" r="744.0" b="710.0">54,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

@@ -1,0 +1,19 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "FL-Xmas 30 Off",
+            "MenuPrice": "68,180"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Cake - French",
+            "MenuPrice": "0"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Choco"
+        }
+    ],
+    "TotalPrice": "75,000"
+}

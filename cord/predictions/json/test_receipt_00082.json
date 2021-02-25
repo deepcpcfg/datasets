@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Chocolate Log Cake",
+            "MenuCnt": "1x",
+            "MenuUnitprice": "115,000",
+            "MenuPrice": "115,000"
+        },
+        {
+            "MenuNm": "Snowman Cake Chocolate",
+            "MenuCnt": "1x",
+            "MenuUnitprice": "60,000",
+            "MenuPrice": "60,000"
+        },
+        {
+            "MenuNm": "Strawberry Log Cake",
+            "MenuCnt": "2x",
+            "MenuUnitprice": "105,000",
+            "MenuPrice": "210,000"
+        }
+    ],
+    "TotalPrice": "385,000"
+}

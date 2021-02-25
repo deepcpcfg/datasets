@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "@20,000",
+            "MenuNm": "S-Bubble Milk Tea",
+            "MenuPrice": "20,000",
+            "MenuCnt": "1X"
+        },
+        {
+            "MenuUnitprice": "@20,000",
+            "MenuNm": "S-Caramel Milk Tea",
+            "MenuPrice": "20,000",
+            "MenuCnt": "1X"
+        }
+    ],
+    "TotalPrice": "40,000"
+}

@@ -1,0 +1,35 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "CHOCO PUFF",
+            "MenuPrice": "29,091"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "CREAMY BEEF CLS FTC",
+            "MenuPrice": "42,727"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "NEW ORIENTAL CHK RICE",
+            "MenuPrice": "34,545"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "LIPTON PITCHER",
+            "MenuPrice": "54,545"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "SC/P SUPER SUPREME",
+            "MenuPrice": "47,273"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "CB/P BLACK PEPP BEEF",
+            "MenuPrice": "48,182"
+        }
+    ],
+    "TotalPrice": "282,000"
+}

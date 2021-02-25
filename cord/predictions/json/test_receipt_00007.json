@@ -1,0 +1,13 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Kupon 15",
+            "MenuPrice": "100,000"
+        },
+        {
+            "MenuNm": "CHICKEN BOX",
+            "MenuPrice": "909"
+        }
+    ],
+    "TotalPrice": "111,000"
+}

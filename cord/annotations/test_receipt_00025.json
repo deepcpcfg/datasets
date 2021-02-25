@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "TWIST STRAWBERRY DONUT",
+            "MenuPrice": "10,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "TLJ CROQUETTE",
+            "MenuPrice": "17,000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "",
+            "MenuNm": "POTATO PEPPER BAGEL",
+            "MenuPrice": "16,000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "43,000"
+}

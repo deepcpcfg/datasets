@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="58.0" fp="0.0" fn="0.0">
+    <LineItem tp="52.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="233.0" t="544.0" r="247.0" b="580.0">1</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="277.0" t="542.0" r="374.0" b="580.0">35.000</box>
+        </MenuUnitprice>
+        <MenuNm>
+          <box l="227.0" t="581.0" r="296.0" b="620.0">NASI</box>
+          <box l="307.0" t="583.0" r="358.0" b="620.0">GOR</box>
+          <box l="371.0" t="581.0" r="420.0" b="619.0">SFD</box>
+          <box l="433.0" t="583.0" r="482.0" b="619.0">TLR</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="571.0" t="542.0" r="666.0" b="578.0">35.000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="232.0" t="621.0" r="246.0" b="659.0">1</box>
+        </MenuCnt>
+        <MenuUnitprice>
+          <box l="280.0" t="622.0" r="358.0" b="657.0">3.000</box>
+        </MenuUnitprice>
+        <MenuNm>
+          <box l="231.0" t="664.0" r="263.0" b="696.0">ES</box>
+          <box l="280.0" t="665.0" r="326.0" b="696.0">TEH</box>
+          <box l="340.0" t="664.0" r="418.0" b="696.0">TAWAR</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="587.0" t="621.0" r="665.0" b="655.0">3.000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="481.0" t="747.0" r="664.0" b="782.0">38.000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

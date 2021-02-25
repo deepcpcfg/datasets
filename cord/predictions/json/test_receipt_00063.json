@@ -1,0 +1,15 @@
+{
+    "LineItem": [
+        {
+            "MenuNm": "Kopi Susu Kampung.",
+            "MenuCnt": "x1",
+            "MenuPrice": "19.000"
+        },
+        {
+            "MenuNm": "Kopi Susu Kampung Less Kopi Susu Kampung.",
+            "MenuCnt": "x2",
+            "MenuPrice": "38.000"
+        }
+    ],
+    "TotalPrice": "57.000"
+}

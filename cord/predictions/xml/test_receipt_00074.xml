@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="78.0" fp="0.0" fn="2.0">
+    <LineItem tp="71.0" fp="0.0" fn="2.0">
+      <lineItem>
+        <MenuNm>
+          <box l="635.0" t="2005.0" r="1045.0" b="2077.0">BLACKCURRANT</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1560.0" t="1995.0" r="1776.0" b="2076.0">32,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="580.0" t="2090.0" r="614.0" b="2154.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="638.0" t="2085.0" r="854.0" b="2162.0">SPRITE</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1565.0" t="2077.0" r="1779.0" b="2154.0">32,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="580.0" t="2257.0" r="614.0" b="2321.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="640.0" t="2248.0" r="883.0" b="2321.0">GRILLED</box>
+          <box l="904.0" t="2248.0" r="1177.0" b="2316.0">CALAMARI</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1565.0" t="2244.0" r="1779.0" b="2316.0">85,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="640.0" t="2333.0" r="785.0" b="2402.0">DINE</box>
+          <box l="806.0" t="2333.0" r="917.0" b="2402.0">FOR</box>
+          <box l="938.0" t="2333.0" r="981.0" b="2397.0">2</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1540.0" t="2329.0" r="1779.0" b="2402.0">129,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="1314.0" t="2980.0" r="1787.0" b="3072.0">330,264</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="68.0" fp="0.0" fn="1.0">
+    <LineItem tp="61.0" fp="0.0" fn="1.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="166.0" t="692.0" r="186.0" b="722.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="206.0" t="691.0" r="305.0" b="730.0">TAHU</box>
+          <box l="310.0" t="696.0" r="449.0" b="732.0">GORENG</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="634.0" t="685.0" r="753.0" b="730.0">28,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuNm>
+          <box l="206.0" t="739.0" r="329.0" b="776.0">CAKWE</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="640.0" t="733.0" r="757.0" b="775.0">17,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="162.0" t="784.0" r="182.0" b="816.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="202.0" t="783.0" r="279.0" b="819.0">PHO</box>
+          <box l="286.0" t="786.0" r="352.0" b="820.0">TAI</box>
+          <box l="356.0" t="784.0" r="512.0" b="820.0">CHIN(R)</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="640.0" t="776.0" r="761.0" b="818.0">63,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="158.0" t="828.0" r="180.0" b="860.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="202.0" t="828.0" r="272.0" b="862.0">TEA</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="646.0" t="819.0" r="765.0" b="862.0">11,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="640.0" t="1034.0" r="784.0" b="1074.0">140,063</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

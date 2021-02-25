@@ -1,0 +1,23 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "14.000",
+            "MenuNm": "3002-Kyoto Choco Mochi",
+            "MenuPrice": "28.000",
+            "MenuCnt": "x2"
+        },
+        {
+            "MenuUnitprice": "22.000",
+            "MenuNm": "1001-Choco Bun",
+            "MenuPrice": "22.000",
+            "MenuCnt": "x1"
+        },
+        {
+            "MenuUnitprice": "0",
+            "MenuNm": "6001-Plastic Bag Small",
+            "MenuPrice": "0",
+            "MenuCnt": "x1"
+        }
+    ],
+    "TotalPrice": "50.000"
+}

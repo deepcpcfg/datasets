@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "35.000",
+            "MenuNm": "NASI GOR SFD TLR",
+            "MenuPrice": "35.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "3.000",
+            "MenuNm": "ES TEH TAWAR",
+            "MenuPrice": "3.000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "38.000"
+}

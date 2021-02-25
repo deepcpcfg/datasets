@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "1.250",
+            "MenuNm": "Topping Milo Sparkle (untuk 1 Po rsi)",
+            "MenuPrice": "1.250",
+            "MenuCnt": "1x"
+        },
+        {
+            "MenuUnitprice": "12.500",
+            "MenuNm": "Bola Ubi Mini Original (14 Pcs )",
+            "MenuPrice": "25.000",
+            "MenuCnt": "2x"
+        }
+    ],
+    "TotalPrice": "26.250"
+}

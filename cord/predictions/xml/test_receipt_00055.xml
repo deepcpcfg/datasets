@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="58.0" fp="0.0" fn="0.0">
+    <LineItem tp="52.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="202.0" t="538.0" r="216.0" b="564.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="226.0" t="536.0" r="304.0" b="566.0">APPLE</box>
+          <box l="312.0" t="538.0" r="428.0" b="568.0">CINNAMON</box>
+          <box l="434.0" t="538.0" r="522.0" b="568.0">PASTRY</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="611.0" t="539.0" r="701.0" b="569.0">22,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="198.0" t="570.0" r="218.0" b="598.0">2</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="226.0" t="570.0" r="302.0" b="598.0">ROYAL</box>
+          <box l="309.0" t="569.0" r="397.0" b="597.0">CHEESE</box>
+          <box l="408.0" t="570.0" r="466.0" b="598.0">TART</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="613.0" t="571.0" r="705.0" b="601.0">32,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="532.0" t="636.0" r="716.0" b="698.0">54,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

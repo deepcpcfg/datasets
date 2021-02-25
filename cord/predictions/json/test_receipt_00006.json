@@ -1,0 +1,20 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "EGG TART",
+            "MenuPrice": "13,000"
+        },
+        {
+            "MenuCnt": "2",
+            "MenuNm": "CHOCO CUS ARD PASTRY",
+            "MenuPrice": "24,000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "REDBEAN BREAD",
+            "MenuPrice": "9,000"
+        }
+    ],
+    "TotalPrice": "46,000"
+}

@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "@20.000",
+            "MenuNm": "THAI ICED TEA",
+            "MenuPrice": "20.000",
+            "MenuCnt": "1"
+        },
+        {
+            "MenuUnitprice": "@20.000",
+            "MenuNm": "THAI ICED TEA",
+            "MenuPrice": "20.000",
+            "MenuCnt": "1"
+        }
+    ],
+    "TotalPrice": "40.000"
+}

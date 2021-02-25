@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "1",
+            "MenuNm": "BASO TAHU",
+            "MenuUnitprice": "43,181",
+            "MenuPrice": "43,181"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "ES JERUK",
+            "MenuUnitprice": "13,000",
+            "MenuPrice": "13,000"
+        }
+    ],
+    "TotalPrice": "61,799"
+}

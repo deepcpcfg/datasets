@@ -1,0 +1,17 @@
+{
+    "LineItem": [
+        {
+            "MenuUnitprice": "19,000",
+            "MenuNm": "STIX ECLAIRS",
+            "MenuPrice": "19,000",
+            "MenuCnt": "1 X"
+        },
+        {
+            "MenuUnitprice": "28,000",
+            "MenuNm": "ALMOND CREAM CHEESE",
+            "MenuPrice": "28,000",
+            "MenuCnt": "1 x"
+        }
+    ],
+    "TotalPrice": "47,000"
+}

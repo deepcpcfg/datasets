@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="43.0" fp="0.0" fn="0.0">
+    <LineItem tp="37.0" fp="0.0" fn="0.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="190.0" t="602.0" r="208.0" b="626.0">6</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="216.0" t="600.0" r="282.0" b="628.0">TWIST</box>
+          <box l="290.0" t="600.0" r="356.0" b="628.0">DONUT</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="562.0" t="598.0" r="642.0" b="628.0">54,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="194.0" t="634.0" r="206.0" b="658.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="216.0" t="632.0" r="308.0" b="660.0">REDBEAN</box>
+          <box l="314.0" t="630.0" r="380.0" b="658.0">BREAD</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="574.0" t="630.0" r="644.0" b="660.0">9,000</box>
+        </MenuPrice>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="6.0" fp="0.0" fn="0.0">
+      <box l="488.0" t="694.0" r="642.0" b="746.0">63,000</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>

@@ -1,0 +1,59 @@
+{
+    "LineItem": [
+        {
+            "MenuCnt": "3",
+            "MenuNm": "Nasi Putih"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Nasi Tambah",
+            "MenuPrice": "30.000"
+        },
+        {
+            "MenuCnt": "2",
+            "MenuNm": "Ayam Pop",
+            "MenuPrice": "7.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Samabal SP",
+            "MenuPrice": "40.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuPrice": "11.000",
+            "MenuNm": "Sambal Gabus Asin Cb"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Kerupuk Kuah",
+            "MenuPrice": "18.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Ikan Bawal Besa",
+            "MenuPrice": "28.500"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Telur Dadar",
+            "MenuPrice": "10.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Teh Es",
+            "MenuPrice": "7.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Teh Manis",
+            "MenuPrice": "9.000"
+        },
+        {
+            "MenuCnt": "1",
+            "MenuNm": "Es Batu",
+            "MenuPrice": "4.000"
+        }
+    ],
+    "TotalPrice": "197.450"
+}

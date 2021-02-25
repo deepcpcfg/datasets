@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReceiptDoc>
+  <Receipt tp="75.0" fp="3.0" fn="9.0">
+    <LineItem tp="68.0" fp="3.0" fn="9.0">
+      <lineItem>
+        <MenuCnt>
+          <box l="599.0" t="1260.0" r="616.0" b="1296.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="637.0" t="1250.0" r="748.0" b="1295.0">BLACK</box>
+          <box l="765.0" t="1238.0" r="903.0" b="1287.0">PAPPER</box>
+          <box l="916.0" t="1230.0" r="1095.0" b="1277.0">MEATBALL</box>
+          <box l="1108.0" t="1222.0" r="1178.0" b="1263.0">PAS</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1240.0" t="1246.0" r="1382.0" b="1299.0">77,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="599.0" t="1304.0" r="615.0" b="1342.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="637.0" t="1293.0" r="799.0" b="1341.0">TRUFFLE</box>
+          <box l="815.0" t="1285.0" r="930.0" b="1326.0">CREAM</box>
+        </MenuNm>
+        <MenuPrice>
+          <box l="1250.0" t="1288.0" r="1393.0" b="1349.0">59,000</box>
+        </MenuPrice>
+      </lineItem>
+      <lineItem>
+        <MenuCnt>
+          <box l="597.0" t="1351.0" r="614.0" b="1387.0">1</box>
+        </MenuCnt>
+        <MenuNm>
+          <box l="635.0" t="1341.0" r="732.0" b="1385.0">EARL</box>
+          <box l="750.0" t="1333.0" r="841.0" b="1379.0">GREY</box>
+          <box l="858.0" t="1328.0" r="953.0" b="1373.0">MILK</box>
+          <box l="966.0" t="1320.0" r="1043.0" b="1368.0">TEA</box>
+        </MenuNm>
+      </lineItem>
+    </LineItem>
+    <TotalPrice tp="7.0" fp="0.0" fn="0.0">
+      <box l="1107.0" t="1538.0" r="1443.0" b="1624.0">250,690</box>
+    </TotalPrice>
+  </Receipt>
+</ReceiptDoc>
