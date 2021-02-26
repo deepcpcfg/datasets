@@ -2,7 +2,7 @@
 This repository contains supplementary materials for the ICDAR submission *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction*
 
 There are three sets of materials.
-1. RVL-CDIP:
+1. RVL-CDIP [link](https://www.cs.cmu.edu/~aharley/rvl-cdip/):
    * PDFs of the invoices.
    * OCRed bounding boxes.
    * Annotations for the invoices extracted from relational records.
@@ -17,6 +17,30 @@ There are three sets of materials.
      * HED metric
 3. Code implementing the Hierarchical Edit Distance (HED) metric.
 
+# Instructions for using the hed.jl
+`hed.jl` is a self-contained file that implements Hierarchical Edit Distance (**HED**) metric for comparing two files representing the output/annotation of a hierarchical document.
+
+1. Download and install [Julia](https://julialang.org/downloads/)
+2. Install packages `ArgParse` and `JSON` in [Julia Built-in Package Manager](https://docs.julialang.org/en/v1/stdlib/Pkg/)
+3. Try to run hed.jl as follows
+```
+$ julia hed.jl --help
+usage: hed.jl [--str-func STR-FUNC] [-h] prediction groundTruth
+
+positional arguments:
+  prediction           the .json file containing the prediction
+  groundTruth          the .json file containing the ground truth
+
+optional arguments:
+  --str-func STR-FUNC  function on string: choose "split" (word-based)
+                       or "identity" (character-based) (default:
+                       "identity")
+  -h, --help           show this help message and exit
+```
+4. If you see above printout, then continue as follows, 
+```
+Work-in-progress.
+```
 
 ## References
 1. A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval," in ICDAR, 2015.
