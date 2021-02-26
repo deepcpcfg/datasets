@@ -25,6 +25,9 @@ There are three sets of materials.
 3. Try to run hed.jl as follows
 ```
 $ julia hed.jl --help
+```
+You should see the following printout on your terminal prompt.
+```
 usage: hed.jl [--str-func STR-FUNC] [-h] prediction groundTruth
 
 positional arguments:
