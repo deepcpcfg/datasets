@@ -1,4 +1,5 @@
 using JSON
+using Printf
 using ArgParse
 
 function parse_commandline()
@@ -294,6 +295,13 @@ function main()
     tpFpFn = countTpFpFn(predictionJs, groundTruthJs, strFunc)
 
     JSON.print(tpFpFn, 4)
+
+    tp, fp, fn = tpFpFn |> last
+
+    precision = tp/(tp + fp)
+    recall = tp/(tp + fn)
+    f1 = 2 * precision * recall / (precision + recall)
+    @printf("TP = %d, FP = %d, FN = %d, Precision = %.4g, Recall = %.4g, F₁ = %.4g\n", tp, fp, fn, precision, recall, f1)
 end
 
 main()
