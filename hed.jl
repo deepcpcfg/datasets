@@ -1,8 +1,5 @@
 using JSON
-<<<<<<< HEAD
 using Printf
-=======
->>>>>>> 4e511daa4613aecfa07f0c29df5e27c092063cf8
 using ArgParse
 
 function parse_commandline()
