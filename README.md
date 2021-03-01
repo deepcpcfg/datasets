@@ -3,9 +3,8 @@ This repository contains supplementary materials for the ICDAR submission *DeepC
 
 There are three sets of materials.
 1. RVL-CDIP [link](https://www.cs.cmu.edu/~aharley/rvl-cdip/):
-   * PDFs of the invoices.
    * OCRed bounding boxes.
-   * Annotations for the invoices extracted from relational records.
+   * Annotations for the invoices with line-items extracted from relational records.
    * The inference output of DeepCPCFG.
    * Results for each invoice using the Hierarchical Edit Distance (**HED**) metric.
 2. CORD receipts [link](https://github.com/clovaai/cord):
