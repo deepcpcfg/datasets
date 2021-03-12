@@ -1,5 +1,5 @@
 # Contents
-This repository contains supplementary materials for the ICDAR submission *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction*
+This repository contains supplementary materials for *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction*
 
 There are three sets of materials.
 1. RVL-CDIP [link](https://www.cs.cmu.edu/~aharley/rvl-cdip/):
