@@ -1,5 +1,5 @@
 # Contents
-This repository contains supplementary materials for *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction*
+This repository contains supplementary materials for *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction* that is under review at the moment. So the contents in this repository are newer than the [ArXiv](https://arxiv.org/abs/2103.05908) version and may not have been discussed before.
 
 There are three sets of materials.
 1. RVL-CDIP [link](https://www.cs.cmu.edu/~aharley/rvl-cdip/):
