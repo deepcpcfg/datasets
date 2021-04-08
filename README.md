@@ -1,11 +1,10 @@
 # Contents
-This repository contains supplementary materials for the ICDAR submission *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction*
+This repository contains supplementary materials for *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction* that is under review at the moment. So the contents in this repository are newer than the [ArXiv](https://arxiv.org/abs/2103.05908) version and may not have been discussed before.
 
 There are three sets of materials.
 1. RVL-CDIP [link](https://www.cs.cmu.edu/~aharley/rvl-cdip/):
-   * PDFs of the invoices.
    * OCRed bounding boxes.
-   * Annotations for the invoices extracted from relational records.
+   * Annotations for the invoices with line-items extracted from relational records.
    * The inference output of DeepCPCFG.
    * Results for each invoice using the Hierarchical Edit Distance (**HED**) metric.
 2. CORD receipts [link](https://github.com/clovaai/cord):
@@ -42,8 +41,15 @@ optional arguments:
 ```
 4. If you see above printout, then continue as follows, 
 ```
-Work-in-progress.
+$ julia hed.jl rvl-cdip/predictions/json/0060087309.json rvl-cdip/annotations/0060087309.json
 ```
+5. Then you will get the following output, or see [hed_sample_output.txt](hed_sample_output.txt).
+```
+(long output detailing the exact calculations for each element in the prediction)
+
+TP = 90, FP = 14, FN = 18, Precision = 0.8654, Recall = 0.8333, F₁ = 0.8491
+```
+6. To get precision and recall for the entire corpus, calculate HED for every pair of prediction/annotation, sum up the respective true positives, false positives and false negatives, then obtain the precision and recall using the aggregated counts.
 
 ## References
 1. A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval," in ICDAR, 2015.
