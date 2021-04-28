@@ -1,5 +1,5 @@
 # Contents
-This repository contains supplementary materials for *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction* that is under review at the moment. So the contents in this repository are newer than the [ArXiv](https://arxiv.org/abs/2103.05908) version and may not have been discussed before.
+This repository contains supplementary materials for *DeepCPCFG: Deep Learning and Context Free Grammars for End-to-End Information Extraction*. We are pleased to announce that DeepCPCFG has been accepted for publication at the 16th International Conference on Document Analysis and Recognition ICDAR 2021. The contents in this repository are newer than the [ArXiv](https://arxiv.org/abs/2103.05908) version and may not have been presented before.
 
 There are three sets of materials.
 1. RVL-CDIP [link](https://www.cs.cmu.edu/~aharley/rvl-cdip/):
